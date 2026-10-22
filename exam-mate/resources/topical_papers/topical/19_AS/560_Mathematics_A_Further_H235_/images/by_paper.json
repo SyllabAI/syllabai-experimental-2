@@ -1,0 +1,1122 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:25:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Mathematics_A/Mechanics_Summer_2019_Q1": {
+   "qid": 114565,
+   "page": 2,
+   "topics": "Motion In A Circle",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30677/116883/30677_q_116883_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116883/30677_a_116883_1_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2019_Q2": {
+   "qid": 114566,
+   "page": 2,
+   "topics": "Impulse And Momentum",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30677/116884/30677_q_116884_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116884/30677_a_116884_2_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2019_Q3": {
+   "qid": 114567,
+   "page": 2,
+   "topics": "Work, Energy And Power",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30677/116885/30677_q_116885_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116885/30677_a_116885_3_1.png",
+    "questions/30677/116885/30677_a_116885_3_2.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2019_Q4": {
+   "qid": 114568,
+   "page": 1,
+   "topics": "Dimensional Analysis",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30677/116886/30677_q_116886_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116886/30677_a_116886_4_1.png",
+    "questions/30677/116886/30677_a_116886_4_2.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2019_Q5": {
+   "qid": 114569,
+   "page": 1,
+   "topics": "Work, Energy And Power",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30677/116887/30677_q_116887_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116887/30677_a_116887_5_1.png",
+    "questions/30677/116887/30677_a_116887_5_2.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2019_Q6": {
+   "qid": 114570,
+   "page": 1,
+   "topics": "Impulse And Momentum",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30677/116888/30677_q_116888_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30677/116888/30677_a_116888_6_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q1": {
+   "qid": 114557,
+   "page": 2,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30676/116875/30676_q_116875_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116875/30676_a_116875_1_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q2": {
+   "qid": 114558,
+   "page": 2,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30676/116876/30676_q_116876_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116876/30676_a_116876_2_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q3": {
+   "qid": 114559,
+   "page": 2,
+   "topics": "Correlation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30676/116877/30676_q_116877_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116877/30676_a_116877_3_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q4": {
+   "qid": 114560,
+   "page": 2,
+   "topics": "Probability",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30676/116878/30676_q_116878_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116878/30676_a_116878_4_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q5": {
+   "qid": 114561,
+   "page": 2,
+   "topics": "Correlation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30676/116879/30676_q_116879_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116879/30676_a_116879_5_1.png",
+    "questions/30676/116879/30676_a_116879_5_2.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q6": {
+   "qid": 114562,
+   "page": 2,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30676/116880/30676_q_116880_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116880/30676_a_116880_6_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q7": {
+   "qid": 114563,
+   "page": 2,
+   "topics": "Chi-squared Tests",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30676/116881/30676_q_116881_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116881/30676_a_116881_7_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2019_Q8": {
+   "qid": 114564,
+   "page": 2,
+   "topics": "Chi-squared Tests",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2019",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30676/116882/30676_q_116882_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30676/116882/30676_a_116882_8_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q1": {
+   "qid": 114530,
+   "page": 3,
+   "topics": "Motion In A Circle",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30662/116848/30662_q_116848_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116848/30662_a_116848_1_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q2": {
+   "qid": 114531,
+   "page": 3,
+   "topics": "Work, Energy And Power",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30662/116849/30662_q_116849_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116849/30662_a_116849_2_1.png",
+    "questions/30662/116849/30662_a_116849_2_2.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q3": {
+   "qid": 114532,
+   "page": 3,
+   "topics": "Dimensional Analysis",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30662/116850/30662_q_116850_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116850/30662_a_116850_3_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q4": {
+   "qid": 114533,
+   "page": 3,
+   "topics": "Impulse And Momentum",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30662/116851/30662_q_116851_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116851/30662_a_116851_4_1.png",
+    "questions/30662/116851/30662_a_116851_4_2.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q5": {
+   "qid": 114534,
+   "page": 3,
+   "topics": "Work, Energy And Power",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30662/116852/30662_q_116852_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116852/30662_a_116852_5_1.png"
+   ]
+  },
+  "Mathematics_A/Mechanics_Summer_2018_Q6": {
+   "qid": 114535,
+   "page": 3,
+   "topics": "Motion In A Circle",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Mechanics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30662/116853/30662_q_116853_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30662/116853/30662_a_116853_6_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q1": {
+   "qid": 114522,
+   "page": 3,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30661/116840/30661_q_116840_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116840/30661_a_116840_1_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q2": {
+   "qid": 114523,
+   "page": 3,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30661/116841/30661_q_116841_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116841/30661_a_116841_2_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q3": {
+   "qid": 114524,
+   "page": 3,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30661/116842/30661_q_116842_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116842/30661_a_116842_3_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q4": {
+   "qid": 114525,
+   "page": 3,
+   "topics": "Correlation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30661/116843/30661_q_116843_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116843/30661_a_116843_4_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q5": {
+   "qid": 114526,
+   "page": 3,
+   "topics": "Probability",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30661/116844/30661_q_116844_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116844/30661_a_116844_5_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q6": {
+   "qid": 114527,
+   "page": 3,
+   "topics": "Discrete Random Variables",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30661/116845/30661_q_116845_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116845/30661_a_116845_6_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q7": {
+   "qid": 114528,
+   "page": 3,
+   "topics": "Correlation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30661/116846/30661_q_116846_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116846/30661_a_116846_7_1.png"
+   ]
+  },
+  "Mathematics_A/Statistics_Summer_2018_Q8": {
+   "qid": 114529,
+   "page": 3,
+   "topics": "Chi-squared Tests",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_A",
+    "paper": "Statistics",
+    "season": "Summer",
+    "year": "2018",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30661/116847/30661_q_116847_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30661/116847/30661_a_116847_8_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q8": {
+   "qid": 114556,
+   "page": 1,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116874/30675_q_116874_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116874/30675_a_116874_8_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q7": {
+   "qid": 114555,
+   "page": 1,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116873/30675_q_116873_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116873/30675_a_116873_7_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q6": {
+   "qid": 114554,
+   "page": 1,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116872/30675_q_116872_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116872/30675_a_116872_6_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q5": {
+   "qid": 114553,
+   "page": 1,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116871/30675_q_116871_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116871/30675_a_116871_5_1.png",
+    "questions/30675/116871/30675_a_116871_5_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q4": {
+   "qid": 114552,
+   "page": 1,
+   "topics": "Complex Numbers ",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116870/30675_q_116870_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116870/30675_a_116870_4_1.png",
+    "questions/30675/116870/30675_a_116870_4_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q3": {
+   "qid": 114551,
+   "page": 1,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116869/30675_q_116869_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116869/30675_a_116869_3_1.png",
+    "questions/30675/116869/30675_a_116869_3_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q2": {
+   "qid": 114550,
+   "page": 1,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116868/30675_q_116868_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116868/30675_a_116868_2_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2019_Q1": {
+   "qid": 114549,
+   "page": 1,
+   "topics": "Complex Numbers ",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30675/116867/30675_q_116867_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30675/116867/30675_a_116867_1_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q8": {
+   "qid": 114584,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116902/30679_q_116902_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116902/30679_a_116902_8_1.png",
+    "questions/30679/116902/30679_a_116902_8_2.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q7": {
+   "qid": 114583,
+   "page": 1,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116901/30679_q_116901_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116901/30679_a_116901_7_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q6": {
+   "qid": 114582,
+   "page": 1,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116900/30679_q_116900_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116900/30679_a_116900_6_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q5": {
+   "qid": 114581,
+   "page": 1,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116899/30679_q_116899_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116899/30679_a_116899_5_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q4": {
+   "qid": 114580,
+   "page": 1,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116898/30679_q_116898_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116898/30679_a_116898_4_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q3": {
+   "qid": 114579,
+   "page": 1,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116897/30679_q_116897_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116897/30679_a_116897_3_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q2": {
+   "qid": 114578,
+   "page": 1,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116896/30679_q_116896_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116896/30679_a_116896_2_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2019_Q1": {
+   "qid": 114577,
+   "page": 1,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30679/116895/30679_q_116895_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30679/116895/30679_a_116895_1_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q6": {
+   "qid": 114576,
+   "page": 1,
+   "topics": "Game Theory",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116894/30678_q_116894_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116894/30678_a_116894_6_1.png",
+    "questions/30678/116894/30678_a_116894_6_2.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q5": {
+   "qid": 114575,
+   "page": 1,
+   "topics": "Graphical Linear Programming",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116893/30678_q_116893_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116893/30678_a_116893_5_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q4": {
+   "qid": 114574,
+   "page": 1,
+   "topics": "Network Algorithms",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116892/30678_q_116892_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116892/30678_a_116892_4_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q3": {
+   "qid": 114573,
+   "page": 1,
+   "topics": "Algorithms",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116891/30678_q_116891_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116891/30678_a_116891_3_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q2": {
+   "qid": 114572,
+   "page": 1,
+   "topics": "Graphs And Networks",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116890/30678_q_116890_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116890/30678_a_116890_2_1.png",
+    "questions/30678/116890/30678_a_116890_2_2.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2019_Q1": {
+   "qid": 114571,
+   "page": 1,
+   "topics": "Mathematical Preliminaries",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30678/116889/30678_q_116889_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30678/116889/30678_a_116889_1_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q8": {
+   "qid": 114521,
+   "page": 2,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116839/30660_q_116839_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116839/30660_a_116839_8_1.png",
+    "questions/30660/116839/30660_a_116839_8_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q7": {
+   "qid": 114520,
+   "page": 2,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116838/30660_q_116838_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116838/30660_a_116838_7_1.png",
+    "questions/30660/116838/30660_a_116838_7_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q6": {
+   "qid": 114519,
+   "page": 2,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116837/30660_q_116837_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116837/30660_a_116837_6_1.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q5": {
+   "qid": 114518,
+   "page": 2,
+   "topics": "Complex Numbers ",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116836/30660_q_116836_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116836/30660_a_116836_5_1.png",
+    "questions/30660/116836/30660_a_116836_5_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q4": {
+   "qid": 114517,
+   "page": 2,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116835/30660_q_116835_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116835/30660_a_116835_4_1.png",
+    "questions/30660/116835/30660_a_116835_4_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q3": {
+   "qid": 114516,
+   "page": 2,
+   "topics": "Complex Numbers ",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116834/30660_q_116834_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116834/30660_a_116834_3_1.png",
+    "questions/30660/116834/30660_a_116834_3_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q2": {
+   "qid": 114515,
+   "page": 2,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116833/30660_q_116833_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116833/30660_a_116833_2_1.png",
+    "questions/30660/116833/30660_a_116833_2_2.png"
+   ]
+  },
+  "Mathematics_A/Pure Core_Summer_2018_Q1": {
+   "qid": 114514,
+   "page": 2,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30660/116832/30660_q_116832_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30660/116832/30660_a_116832_1_1.png",
+    "questions/30660/116832/30660_a_116832_1_2.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q7": {
+   "qid": 114548,
+   "page": 2,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116866/30664_q_116866_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116866/30664_a_116866_7_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q6": {
+   "qid": 114547,
+   "page": 2,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116865/30664_q_116865_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116865/30664_a_116865_6_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q5": {
+   "qid": 114546,
+   "page": 2,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116864/30664_q_116864_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116864/30664_a_116864_5_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q4": {
+   "qid": 114545,
+   "page": 2,
+   "topics": "Matrices",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116863/30664_q_116863_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116863/30664_a_116863_4_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q3": {
+   "qid": 114544,
+   "page": 2,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116862/30664_q_116862_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116862/30664_a_116862_3_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q2": {
+   "qid": 114543,
+   "page": 2,
+   "topics": "Further Algebra",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116861/30664_q_116861_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116861/30664_a_116861_2_1.png"
+   ]
+  },
+  "Mathematics_A/Additional Pure Mathematics_Summer_2018_Q1": {
+   "qid": 114542,
+   "page": 3,
+   "topics": "Further Vectors",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30664/116860/30664_q_116860_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30664/116860/30664_a_116860_1_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q6": {
+   "qid": 114541,
+   "page": 3,
+   "topics": "Network Algorithms",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116859/30663_q_116859_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116859/30663_a_116859_6_1.png",
+    "questions/30663/116859/30663_a_116859_6_2.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q5": {
+   "qid": 114540,
+   "page": 3,
+   "topics": "Graphical Linear Programming",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116858/30663_q_116858_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116858/30663_a_116858_5_1.png",
+    "questions/30663/116858/30663_a_116858_5_2.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q4": {
+   "qid": 114539,
+   "page": 3,
+   "topics": "Graphs And Networks",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116857/30663_q_116857_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116857/30663_a_116857_4_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q3": {
+   "qid": 114538,
+   "page": 3,
+   "topics": "Game Theory",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116856/30663_q_116856_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116856/30663_a_116856_3_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q2": {
+   "qid": 114537,
+   "page": 3,
+   "topics": "Mathematical Preliminaries",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116855/30663_q_116855_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116855/30663_a_116855_2_1.png"
+   ]
+  },
+  "Mathematics_A/Discrete Mathematics_Summer_2018_Q1": {
+   "qid": 114536,
+   "page": 3,
+   "topics": "Decision Making In Project Management",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/30663/116854/30663_q_116854_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30663/116854/30663_a_116854_1_1.png"
+   ]
+  }
+ }
+}
