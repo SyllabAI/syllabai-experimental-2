@@ -1,0 +1,583 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T13:01:27Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Electric Circuits": [
+   {
+    "qid": 121328,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q19",
+    "file": "questions/33430/123746/33430_q_123746_19_1.png"
+   },
+   {
+    "qid": 121328,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q19",
+    "file": "questions/33430/123746/33430_q_123746_19_2.png"
+   },
+   {
+    "qid": 121328,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q19",
+    "file": "questions/33430/123746/33430_q_123746_19_3.png"
+   },
+   {
+    "qid": 121328,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q19",
+    "file": "questions/33430/123746/33430_a_123746_19_1.png"
+   },
+   {
+    "qid": 121328,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q19",
+    "file": "questions/33430/123746/33430_a_123746_19_2.png"
+   },
+   {
+    "qid": 121324,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q15",
+    "file": "questions/33430/123742/33430_q_123742_15_1.png"
+   },
+   {
+    "qid": 121324,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q15",
+    "file": "questions/33430/123742/33430_q_123742_15_2.png"
+   },
+   {
+    "qid": 121324,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q15",
+    "file": "questions/33430/123742/33430_q_123742_15_3.png"
+   },
+   {
+    "qid": 121324,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q15",
+    "file": "questions/33430/123742/33430_a_123742_15_1.png"
+   },
+   {
+    "qid": 121322,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q13",
+    "file": "questions/33430/123740/33430_q_123740_13_1.png"
+   },
+   {
+    "qid": 121322,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q13",
+    "file": "questions/33430/123740/33430_a_123740_13_1.png"
+   },
+   {
+    "qid": 121321,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q12",
+    "file": "questions/33430/123739/33430_q_123739_12_1.png"
+   },
+   {
+    "qid": 121321,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q12",
+    "file": "questions/33430/123739/33430_a_123739_12_1.png"
+   },
+   {
+    "qid": 121320,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q11",
+    "file": "questions/33430/123738/33430_q_123738_11_1.png"
+   },
+   {
+    "qid": 121320,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q11",
+    "file": "questions/33430/123738/33430_a_123738_11_1.png"
+   },
+   {
+    "qid": 121318,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q9",
+    "file": "questions/33430/123736/33430_q_123736_9_1.png"
+   },
+   {
+    "qid": 121317,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q8",
+    "file": "questions/33430/123735/33430_q_123735_8_1.png"
+   },
+   {
+    "qid": 121314,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q5",
+    "file": "questions/33430/123732/33430_q_123732_5_1.png"
+   },
+   {
+    "qid": 121310,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q1",
+    "file": "questions/33430/123728/33430_q_123728_1_1.png"
+   }
+  ],
+  "Materials": [
+   {
+    "qid": 121290,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q17",
+    "file": "questions/33428/123708/33428_q_123708_17_1.png"
+   },
+   {
+    "qid": 121290,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q17",
+    "file": "questions/33428/123708/33428_q_123708_17_2.png"
+   },
+   {
+    "qid": 121290,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q17",
+    "file": "questions/33428/123708/33428_a_123708_17_1.png"
+   },
+   {
+    "qid": 121290,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q17",
+    "file": "questions/33428/123708/33428_a_123708_17_2.png"
+   },
+   {
+    "qid": 121287,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q14",
+    "file": "questions/33428/123705/33428_q_123705_14_1.png"
+   },
+   {
+    "qid": 121287,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q14",
+    "file": "questions/33428/123705/33428_q_123705_14_2.png"
+   },
+   {
+    "qid": 121287,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q14",
+    "file": "questions/33428/123705/33428_a_123705_14_1.png"
+   },
+   {
+    "qid": 121283,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q10",
+    "file": "questions/33428/123701/33428_q_123701_10_1.png"
+   },
+   {
+    "qid": 121282,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q9",
+    "file": "questions/33428/123700/33428_q_123700_9_1.png"
+   },
+   {
+    "qid": 121280,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q7",
+    "file": "questions/33428/123698/33428_q_123698_7_1.png"
+   },
+   {
+    "qid": 121276,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q3",
+    "file": "questions/33428/123694/33428_q_123694_3_1.png"
+   },
+   {
+    "qid": 121308,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q17",
+    "file": "questions/33429/123726/33429_q_123726_17_1.png"
+   },
+   {
+    "qid": 121308,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q17",
+    "file": "questions/33429/123726/33429_q_123726_17_2.png"
+   },
+   {
+    "qid": 121308,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q17",
+    "file": "questions/33429/123726/33429_q_123726_17_3.png"
+   },
+   {
+    "qid": 121308,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q17",
+    "file": "questions/33429/123726/33429_a_123726_17_1.png"
+   },
+   {
+    "qid": 121307,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q16",
+    "file": "questions/33429/123725/33429_q_123725_16_1.png"
+   },
+   {
+    "qid": 121307,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q16",
+    "file": "questions/33429/123725/33429_q_123725_16_2.png"
+   },
+   {
+    "qid": 121307,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q16",
+    "file": "questions/33429/123725/33429_a_123725_16_1.png"
+   },
+   {
+    "qid": 121307,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q16",
+    "file": "questions/33429/123725/33429_a_123725_16_2.png"
+   },
+   {
+    "qid": 121306,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q15",
+    "file": "questions/33429/123724/33429_q_123724_15_1.png"
+   },
+   {
+    "qid": 121306,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q15",
+    "file": "questions/33429/123724/33429_q_123724_15_2.png"
+   },
+   {
+    "qid": 121306,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q15",
+    "file": "questions/33429/123724/33429_a_123724_15_1.png"
+   },
+   {
+    "qid": 121297,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q6",
+    "file": "questions/33429/123715/33429_q_123715_6_1.png"
+   }
+  ],
+  "Mechanics": [
+   {
+    "qid": 121291,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q18",
+    "file": "questions/33428/123709/33428_q_123709_18_1.png"
+   },
+   {
+    "qid": 121291,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q18",
+    "file": "questions/33428/123709/33428_q_123709_18_2.png"
+   },
+   {
+    "qid": 121291,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q18",
+    "file": "questions/33428/123709/33428_q_123709_18_3.png"
+   },
+   {
+    "qid": 121291,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q18",
+    "file": "questions/33428/123709/33428_a_123709_18_1.png"
+   },
+   {
+    "qid": 121291,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q18",
+    "file": "questions/33428/123709/33428_a_123709_18_2.png"
+   },
+   {
+    "qid": 121289,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q16",
+    "file": "questions/33428/123707/33428_q_123707_16_1.png"
+   },
+   {
+    "qid": 121289,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q16",
+    "file": "questions/33428/123707/33428_q_123707_16_2.png"
+   },
+   {
+    "qid": 121289,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q16",
+    "file": "questions/33428/123707/33428_q_123707_16_3.png"
+   },
+   {
+    "qid": 121289,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q16",
+    "file": "questions/33428/123707/33428_a_123707_16_1.png"
+   },
+   {
+    "qid": 121289,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q16",
+    "file": "questions/33428/123707/33428_a_123707_16_2.png"
+   },
+   {
+    "qid": 121288,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q15",
+    "file": "questions/33428/123706/33428_q_123706_15_1.png"
+   },
+   {
+    "qid": 121288,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q15",
+    "file": "questions/33428/123706/33428_q_123706_15_2.png"
+   },
+   {
+    "qid": 121288,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q15",
+    "file": "questions/33428/123706/33428_a_123706_15_1.png"
+   },
+   {
+    "qid": 121286,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q13",
+    "file": "questions/33428/123704/33428_q_123704_13_1.png"
+   },
+   {
+    "qid": 121286,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q13",
+    "file": "questions/33428/123704/33428_q_123704_13_2.png"
+   },
+   {
+    "qid": 121286,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q13",
+    "file": "questions/33428/123704/33428_a_123704_13_1.png"
+   },
+   {
+    "qid": 121285,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q12",
+    "file": "questions/33428/123703/33428_q_123703_12_1.png"
+   },
+   {
+    "qid": 121285,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q12",
+    "file": "questions/33428/123703/33428_q_123703_12_2.png"
+   },
+   {
+    "qid": 121285,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q12",
+    "file": "questions/33428/123703/33428_a_123703_12_1.png"
+   },
+   {
+    "qid": 121284,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q11",
+    "file": "questions/33428/123702/33428_q_123702_11_1.png"
+   },
+   {
+    "qid": 121284,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q11",
+    "file": "questions/33428/123702/33428_a_123702_11_1.png"
+   },
+   {
+    "qid": 121281,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q8",
+    "file": "questions/33428/123699/33428_q_123699_8_1.png"
+   },
+   {
+    "qid": 121279,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q6",
+    "file": "questions/33428/123697/33428_q_123697_6_1.png"
+   },
+   {
+    "qid": 121278,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q5",
+    "file": "questions/33428/123696/33428_q_123696_5_1.png"
+   },
+   {
+    "qid": 121277,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q4",
+    "file": "questions/33428/123695/33428_q_123695_4_1.png"
+   },
+   {
+    "qid": 121275,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q2",
+    "file": "questions/33428/123693/33428_q_123693_2_1.png"
+   },
+   {
+    "qid": 121274,
+    "paper_ref": "WPH11/1(IAL)_Winter_2019_Q1",
+    "file": "questions/33428/123692/33428_q_123692_1_1.png"
+   },
+   {
+    "qid": 121309,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q18",
+    "file": "questions/33429/123727/33429_q_123727_18_1.png"
+   },
+   {
+    "qid": 121309,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q18",
+    "file": "questions/33429/123727/33429_q_123727_18_2.png"
+   },
+   {
+    "qid": 121309,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q18",
+    "file": "questions/33429/123727/33429_q_123727_18_3.png"
+   },
+   {
+    "qid": 121309,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q18",
+    "file": "questions/33429/123727/33429_a_123727_18_1.png"
+   },
+   {
+    "qid": 121309,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q18",
+    "file": "questions/33429/123727/33429_a_123727_18_2.png"
+   },
+   {
+    "qid": 121305,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q14",
+    "file": "questions/33429/123723/33429_q_123723_14_1.png"
+   },
+   {
+    "qid": 121305,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q14",
+    "file": "questions/33429/123723/33429_q_123723_14_2.png"
+   },
+   {
+    "qid": 121305,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q14",
+    "file": "questions/33429/123723/33429_a_123723_14_1.png"
+   },
+   {
+    "qid": 121304,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q13",
+    "file": "questions/33429/123722/33429_q_123722_13_1.png"
+   },
+   {
+    "qid": 121304,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q13",
+    "file": "questions/33429/123722/33429_q_123722_13_2.png"
+   },
+   {
+    "qid": 121304,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q13",
+    "file": "questions/33429/123722/33429_a_123722_13_1.png"
+   },
+   {
+    "qid": 121304,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q13",
+    "file": "questions/33429/123722/33429_a_123722_13_2.png"
+   },
+   {
+    "qid": 121303,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q12",
+    "file": "questions/33429/123721/33429_q_123721_12_1.png"
+   },
+   {
+    "qid": 121303,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q12",
+    "file": "questions/33429/123721/33429_a_123721_12_1.png"
+   },
+   {
+    "qid": 121302,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q11",
+    "file": "questions/33429/123720/33429_q_123720_11_1.png"
+   },
+   {
+    "qid": 121302,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q11",
+    "file": "questions/33429/123720/33429_a_123720_11_1.png"
+   },
+   {
+    "qid": 121301,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q10",
+    "file": "questions/33429/123719/33429_q_123719_10_1.png"
+   },
+   {
+    "qid": 121300,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q9",
+    "file": "questions/33429/123718/33429_q_123718_9_1.png"
+   },
+   {
+    "qid": 121299,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q8",
+    "file": "questions/33429/123717/33429_q_123717_8_1.png"
+   },
+   {
+    "qid": 121298,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q7",
+    "file": "questions/33429/123716/33429_q_123716_7_1.png"
+   },
+   {
+    "qid": 121296,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q5",
+    "file": "questions/33429/123714/33429_q_123714_5_1.png"
+   },
+   {
+    "qid": 121295,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q4",
+    "file": "questions/33429/123713/33429_q_123713_4_1.png"
+   },
+   {
+    "qid": 121294,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q3",
+    "file": "questions/33429/123712/33429_q_123712_3_1.png"
+   },
+   {
+    "qid": 121293,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q2",
+    "file": "questions/33429/123711/33429_q_123711_2_1.png"
+   },
+   {
+    "qid": 121292,
+    "paper_ref": "WPH11/1(IAL)_Summer_2019_Q1",
+    "file": "questions/33429/123710/33429_q_123710_1_1.png"
+   }
+  ],
+  "Waves And Particle Nature Of Light": [
+   {
+    "qid": 121327,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q18",
+    "file": "questions/33430/123745/33430_q_123745_18_1.png"
+   },
+   {
+    "qid": 121327,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q18",
+    "file": "questions/33430/123745/33430_q_123745_18_2.png"
+   },
+   {
+    "qid": 121327,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q18",
+    "file": "questions/33430/123745/33430_a_123745_18_1.png"
+   },
+   {
+    "qid": 121326,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q17",
+    "file": "questions/33430/123744/33430_q_123744_17_1.png"
+   },
+   {
+    "qid": 121326,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q17",
+    "file": "questions/33430/123744/33430_q_123744_17_2.png"
+   },
+   {
+    "qid": 121326,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q17",
+    "file": "questions/33430/123744/33430_q_123744_17_3.png"
+   },
+   {
+    "qid": 121326,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q17",
+    "file": "questions/33430/123744/33430_a_123744_17_1.png"
+   },
+   {
+    "qid": 121326,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q17",
+    "file": "questions/33430/123744/33430_a_123744_17_2.png"
+   },
+   {
+    "qid": 121325,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q16",
+    "file": "questions/33430/123743/33430_q_123743_16_1.png"
+   },
+   {
+    "qid": 121325,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q16",
+    "file": "questions/33430/123743/33430_q_123743_16_2.png"
+   },
+   {
+    "qid": 121325,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q16",
+    "file": "questions/33430/123743/33430_a_123743_16_1.png"
+   },
+   {
+    "qid": 121323,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q14",
+    "file": "questions/33430/123741/33430_q_123741_14_1.png"
+   },
+   {
+    "qid": 121323,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q14",
+    "file": "questions/33430/123741/33430_a_123741_14_1.png"
+   },
+   {
+    "qid": 121319,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q10",
+    "file": "questions/33430/123737/33430_q_123737_10_1.png"
+   },
+   {
+    "qid": 121316,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q7",
+    "file": "questions/33430/123734/33430_q_123734_7_1.png"
+   },
+   {
+    "qid": 121315,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q6",
+    "file": "questions/33430/123733/33430_q_123733_6_1.png"
+   },
+   {
+    "qid": 121313,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q4",
+    "file": "questions/33430/123731/33430_q_123731_4_1.png"
+   },
+   {
+    "qid": 121312,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q3",
+    "file": "questions/33430/123730/33430_q_123730_3_1.png"
+   },
+   {
+    "qid": 121311,
+    "paper_ref": "WPH11/2(IAL)_Summer_2019_Q2",
+    "file": "questions/33430/123729/33430_q_123729_2_1.png"
+   }
+  ]
+ }
+}

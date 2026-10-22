@@ -1,0 +1,400 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T13:00:53Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Algebra And Functions": [
+   {
+    "qid": 121239,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q11",
+    "file": "questions/33422/123657/33422_q_123657_11_1.png"
+   },
+   {
+    "qid": 121239,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q11",
+    "file": "questions/33422/123657/33422_q_123657_11_2.png"
+   },
+   {
+    "qid": 121239,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q11",
+    "file": "questions/33422/123657/33422_a_123657_11_1.png"
+   },
+   {
+    "qid": 121237,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q9",
+    "file": "questions/33422/123655/33422_q_123655_9_1.png"
+   },
+   {
+    "qid": 121237,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q9",
+    "file": "questions/33422/123655/33422_a_123655_9_1.png"
+   },
+   {
+    "qid": 121236,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q8",
+    "file": "questions/33422/123654/33422_q_123654_8_1.png"
+   },
+   {
+    "qid": 121236,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q8",
+    "file": "questions/33422/123654/33422_a_123654_8_1.png"
+   },
+   {
+    "qid": 121232,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q4",
+    "file": "questions/33422/123650/33422_q_123650_4_1.png"
+   },
+   {
+    "qid": 121232,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q4",
+    "file": "questions/33422/123650/33422_a_123650_4_1.png"
+   },
+   {
+    "qid": 121262,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q6",
+    "file": "questions/33427/123680/33427_q_123680_6_1.png"
+   },
+   {
+    "qid": 121262,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q6",
+    "file": "questions/33427/123680/33427_a_123680_6_1.png"
+   },
+   {
+    "qid": 121252,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q6",
+    "file": "questions/33426/123670/33426_q_123670_6_1.png"
+   },
+   {
+    "qid": 121252,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q6",
+    "file": "questions/33426/123670/33426_a_123670_6_1.png"
+   },
+   {
+    "qid": 121251,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q5",
+    "file": "questions/33426/123669/33426_q_123669_5_1.png"
+   },
+   {
+    "qid": 121251,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q5",
+    "file": "questions/33426/123669/33426_a_123669_5_1.png"
+   },
+   {
+    "qid": 121249,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q3",
+    "file": "questions/33426/123667/33426_q_123667_3_1.png"
+   },
+   {
+    "qid": 121249,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q3",
+    "file": "questions/33426/123667/33426_a_123667_3_1.png"
+   },
+   {
+    "qid": 121248,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q2",
+    "file": "questions/33426/123666/33426_q_123666_2_1.png"
+   },
+   {
+    "qid": 121248,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q2",
+    "file": "questions/33426/123666/33426_a_123666_2_1.png"
+   }
+  ],
+  "Binomial Expansion": [
+   {
+    "qid": 121260,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q4",
+    "file": "questions/33427/123678/33427_q_123678_4_1.png"
+   },
+   {
+    "qid": 121260,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q4",
+    "file": "questions/33427/123678/33427_a_123678_4_1.png"
+   }
+  ],
+  "Coordinate Geometry In The (x": [
+   {
+    "qid": 121231,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q3",
+    "file": "questions/33422/123649/33422_q_123649_3_1.png"
+   },
+   {
+    "qid": 121231,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q3",
+    "file": "questions/33422/123649/33422_a_123649_3_1.png"
+   },
+   {
+    "qid": 121258,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q2",
+    "file": "questions/33427/123676/33427_q_123676_2_1.png"
+   },
+   {
+    "qid": 121258,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q2",
+    "file": "questions/33427/123676/33427_a_123676_2_1.png"
+   }
+  ],
+  "Differentiation": [
+   {
+    "qid": 121234,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q6",
+    "file": "questions/33422/123652/33422_q_123652_6_1.png"
+   },
+   {
+    "qid": 121234,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q6",
+    "file": "questions/33422/123652/33422_a_123652_6_1.png"
+   },
+   {
+    "qid": 121261,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q5",
+    "file": "questions/33427/123679/33427_q_123679_5_1.png"
+   },
+   {
+    "qid": 121261,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q5",
+    "file": "questions/33427/123679/33427_a_123679_5_1.png"
+   },
+   {
+    "qid": 121256,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q10",
+    "file": "questions/33426/123674/33426_q_123674_10_1.png"
+   },
+   {
+    "qid": 121256,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q10",
+    "file": "questions/33426/123674/33426_a_123674_10_1.png"
+   },
+   {
+    "qid": 121247,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q1",
+    "file": "questions/33426/123665/33426_q_123665_1_1.png"
+   },
+   {
+    "qid": 121247,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q1",
+    "file": "questions/33426/123665/33426_a_123665_1_1.png"
+   }
+  ],
+  "Exponentials And Logarithms": [
+   {
+    "qid": 121230,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q2",
+    "file": "questions/33422/123648/33422_q_123648_2_1.png"
+   },
+   {
+    "qid": 121230,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q2",
+    "file": "questions/33422/123648/33422_a_123648_2_1.png"
+   },
+   {
+    "qid": 121264,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q8",
+    "file": "questions/33427/123682/33427_q_123682_8_1.png"
+   },
+   {
+    "qid": 121264,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q8",
+    "file": "questions/33427/123682/33427_a_123682_8_1.png"
+   }
+  ],
+  "Integration": [
+   {
+    "qid": 121240,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q12",
+    "file": "questions/33422/123658/33422_q_123658_12_1.png"
+   },
+   {
+    "qid": 121240,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q12",
+    "file": "questions/33422/123658/33422_a_123658_12_1.png"
+   },
+   {
+    "qid": 121229,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q1",
+    "file": "questions/33422/123647/33422_q_123647_1_1.png"
+   },
+   {
+    "qid": 121229,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q1",
+    "file": "questions/33422/123647/33422_a_123647_1_1.png"
+   },
+   {
+    "qid": 121266,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q10",
+    "file": "questions/33427/123684/33427_q_123684_10_1.png"
+   },
+   {
+    "qid": 121266,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q10",
+    "file": "questions/33427/123684/33427_a_123684_10_1.png"
+   },
+   {
+    "qid": 121254,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q8",
+    "file": "questions/33426/123672/33426_q_123672_8_1.png"
+   },
+   {
+    "qid": 121254,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q8",
+    "file": "questions/33426/123672/33426_a_123672_8_1.png"
+   },
+   {
+    "qid": 121250,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q4",
+    "file": "questions/33426/123668/33426_q_123668_4_1.png"
+   },
+   {
+    "qid": 121250,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q4",
+    "file": "questions/33426/123668/33426_a_123668_4_1.png"
+   }
+  ],
+  "Proof": [
+   {
+    "qid": 121259,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q3",
+    "file": "questions/33427/123677/33427_q_123677_3_1.png"
+   },
+   {
+    "qid": 121259,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q3",
+    "file": "questions/33427/123677/33427_a_123677_3_1.png"
+   }
+  ],
+  "Sequences And Series": [
+   {
+    "qid": 121263,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q7",
+    "file": "questions/33427/123681/33427_q_123681_7_1.png"
+   },
+   {
+    "qid": 121263,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q7",
+    "file": "questions/33427/123681/33427_a_123681_7_1.png"
+   },
+   {
+    "qid": 121257,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q1",
+    "file": "questions/33427/123675/33427_q_123675_1_1.png"
+   },
+   {
+    "qid": 121257,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q1",
+    "file": "questions/33427/123675/33427_a_123675_1_1.png"
+   }
+  ],
+  "Trigonometry": [
+   {
+    "qid": 121238,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q10",
+    "file": "questions/33422/123656/33422_q_123656_10_1.png"
+   },
+   {
+    "qid": 121238,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q10",
+    "file": "questions/33422/123656/33422_a_123656_10_1.png"
+   },
+   {
+    "qid": 121235,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q7",
+    "file": "questions/33422/123653/33422_q_123653_7_1.png"
+   },
+   {
+    "qid": 121235,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q7",
+    "file": "questions/33422/123653/33422_a_123653_7_1.png"
+   },
+   {
+    "qid": 121235,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q7",
+    "file": "questions/33422/123653/33422_a_123653_7_2.png"
+   },
+   {
+    "qid": 121235,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q7",
+    "file": "questions/33422/123653/33422_a_123653_7_3.png"
+   },
+   {
+    "qid": 121233,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q5",
+    "file": "questions/33422/123651/33422_q_123651_5_1.png"
+   },
+   {
+    "qid": 121233,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q5",
+    "file": "questions/33422/123651/33422_a_123651_5_1.png"
+   },
+   {
+    "qid": 121265,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q9",
+    "file": "questions/33427/123683/33427_q_123683_9_1.png"
+   },
+   {
+    "qid": 121265,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q9",
+    "file": "questions/33427/123683/33427_a_123683_9_1.png"
+   },
+   {
+    "qid": 121262,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q6",
+    "file": "questions/33427/123680/33427_q_123680_6_1.png"
+   },
+   {
+    "qid": 121262,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q6",
+    "file": "questions/33427/123680/33427_a_123680_6_1.png"
+   },
+   {
+    "qid": 121255,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q9",
+    "file": "questions/33426/123673/33426_q_123673_9_1.png"
+   },
+   {
+    "qid": 121255,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q9",
+    "file": "questions/33426/123673/33426_q_123673_9_2.png"
+   },
+   {
+    "qid": 121255,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q9",
+    "file": "questions/33426/123673/33426_a_123673_9_1.png"
+   },
+   {
+    "qid": 121253,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q7",
+    "file": "questions/33426/123671/33426_q_123671_7_1.png"
+   },
+   {
+    "qid": 121253,
+    "paper_ref": "WMA11/P1(IAL)_Summer_2019_Q7",
+    "file": "questions/33426/123671/33426_a_123671_7_1.png"
+   }
+  ],
+  "Y) Plane": [
+   {
+    "qid": 121231,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q3",
+    "file": "questions/33422/123649/33422_q_123649_3_1.png"
+   },
+   {
+    "qid": 121231,
+    "paper_ref": "WMA11/P1(IAL)_Winter_2019_Q3",
+    "file": "questions/33422/123649/33422_a_123649_3_1.png"
+   },
+   {
+    "qid": 121258,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q2",
+    "file": "questions/33427/123676/33427_q_123676_2_1.png"
+   },
+   {
+    "qid": 121258,
+    "paper_ref": "WMA11/P2(IAL)_Summer_2019_Q2",
+    "file": "questions/33427/123676/33427_a_123676_2_1.png"
+   }
+  ]
+ }
+}
