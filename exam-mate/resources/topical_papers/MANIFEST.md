@@ -25,7 +25,7 @@ harvest** whose source-of-record lives in the sister repo
 
 ## Image-phase progress
 
-**21 subjects imaged here — 43,208 PNGs, ~3.1 GB** (all with
+**25 subjects imaged here — 57,296 PNGs, ~4.3 GB** (all with
 `files_on_disk == index_entries`, 0 unexplained failures):
 
 | Cat | Subject | Key | Images | MB | Session |
@@ -33,6 +33,10 @@ harvest** whose source-of-record lives in the sister repo
 | 7 | IB Physics | 7:92 | 7,539 | 414 | 2026-10-22 a |
 | 5 | A-Level Chemistry 9701 | 5:49 | 7,552 | 337 | 2026-10-22 a |
 | 7 | IB Biology | 7:74 | 6,254 | 750 | 2026-10-22 a |
+| 7 | IB Mathematics | 7:90 | 4,331 | 185 | 2026-10-22 d |
+| 5 | A-Level Economics 9708 | 5:50 | 3,706 | 275 | 2026-10-22 d |
+| 5 | Further Mathematics 9231 | 5:58 | 3,286 | 158 | 2026-10-22 d |
+| 3 | IGCSE Sociology 0495 | 3:30 | 2,765 | 590 | 2026-10-22 d |
 | 6 | IAL Biology WBI01 | 6:61 | 4,427 | 398 | 2026-10-22 c |
 | 6 | IAL Physics WPH01 | 6:70 | 2,314 | 286 | 2026-10-22 c |
 | 6 | IAL Chemistry WCH01 | 6:63 | 5,419 | 372 | 2026-10-22 b |
@@ -53,14 +57,19 @@ harvest** whose source-of-record lives in the sister repo
 | 21 | IGCSE 9-1 Further Pure 4PM1 | 21:634 | 92 | 3 | 2026-10-22 b |
 
 Session *a* = biggest-first catch-up (IB + CIE A-Level); session *b* =
-Edexcel sweep; session *c* = disk-unblocked finish. **EDEXCEL BOARD IS
-DONE: 23/23 subjects fully imaged** — 18 here (cats 4, 6, 21 below) +
-5 in the sister repo (4MA0, 4MB0, 4CH0, 4PH0, 4CH1, see its MANIFEST).
+Edexcel sweep; session *c* = disk-unblocked finish; session *d* =
+general queue resumed (4 more whales). **EDEXCEL BOARD IS DONE: 23/23
+subjects fully imaged** — 18 here (cats 4, 6, 21) + 5 in the sister
+repo (4MA0, 4MB0, 4CH0, 4PH0, 4CH1, see its MANIFEST). 4BI0's 12
+missing-on-disk files (killed mid-organize) were caught by the driver's
+files_on_disk check and healed in session d.
 
-**Next up (general queue, biggest-first):** resume
-`scripts/exam_mate_images_all.py` chunked-foreground — Sociology 0495
-(3:30, 2,765 urls) is next-biggest, then the remaining ~92 subjects
-(~55k urls). Disk headroom after Edexcel closeout: ~3.3 GB free.
+**Next up (general queue, biggest-first):** 5:164 History 9389 (2,597
+urls) is next, then ~91 subjects / ~52k urls. Resume with
+`timeout -k 5 570 python3 exam_mate_images_all.py --batch 6 --delay
+0.7` chunked-foreground; commit+push per completed subject. **Disk was
+the stop reason at session-d end: 1.1 GB free with a ~1.2 GB floor —
+free more space (bigger sandbox / prune caches) before resuming.**
 
 ## Question data (NOT stored here)
 
