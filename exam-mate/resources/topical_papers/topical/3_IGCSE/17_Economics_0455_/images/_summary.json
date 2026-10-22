@@ -1,0 +1,13 @@
+{
+ "generated_at": "2026-10-22T15:50:29Z",
+ "index_entries": 1414,
+ "question_images": 1410,
+ "answer_images": 4,
+ "failed": 0,
+ "files_on_disk": 1414,
+ "total_bytes": 84784936,
+ "distinct_papers": 1410,
+ "distinct_topics_raw": 10,
+ "sample_check": [],
+ "samples_pruned": false
+}
