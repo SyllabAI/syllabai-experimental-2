@@ -23,6 +23,50 @@ harvest** whose source-of-record lives in the sister repo
 | `images_progress.json` | Driver state (`scripts/exam_mate_images_all.py`) — resumable across chunked runs. |
 | `topical/<cat>/<subject>/images/` | Downloads land here, **identical layout to the sister repo's subject dirs**: `questions/{qfolder}/{src_qid}/{original_filename}.png` mirroring the source URL path, plus `INDEX.jsonl` (per-image ledger: sha256, bytes, dimensions, both site id spaces, paper_ref, topics, mcq_answer, timestamp), `by_paper.json` / `by_topic.json` derived views, `MANIFEST.md`, `_summary.json` per subject. |
 
+## Image-phase progress
+
+**19 subjects imaged here — 36,467 PNGs, ~2.4 GB** (all with
+`files_on_disk == index_entries`, 0 unexplained failures):
+
+| Cat | Subject | Key | Images | MB | Session |
+|---|---|---|---:|---:|---|
+| 7 | IB Physics | 7:92 | 7,539 | 414 | 2026-10-22 a |
+| 5 | A-Level Chemistry 9701 | 5:49 | 7,552 | 337 | 2026-10-22 a |
+| 7 | IB Biology | 7:74 | 6,254 | 750 | 2026-10-22 a |
+| 6 | IAL Chemistry WCH01 | 6:63 | 5,419 | 372 | 2026-10-22 b |
+| 6 | IAL Maths Core WMA01/WMA02 | 6:65 | 1,820 | 87 | 2026-10-22 b |
+| 6 | IAL Mechanics WME01 | 6:68 | 1,233 | 35 | 2026-10-22 b |
+| 6 | IAL Stats WST01 | 6:69 | 813 | 25 | 2026-10-22 b |
+| 6 | IAL Further Pure WFM01 | 6:67 | 1,001 | 44 | 2026-10-22 b |
+| 6 | IAL Pure WMA11 | 6:620 | 68 | 3 | 2026-10-22 b |
+| 6 | IAL Biology WBI11 | 6:617 | 151 | 14 | 2026-10-22 b |
+| 6 | IAL Chemistry WCH11 | 6:618 | 177 | 9 | 2026-10-22 b |
+| 6 | IAL Physics WPH11 | 6:622 | 113 | 7 | 2026-10-22 b |
+| 4 | IGCSE Biology 4BI0 | 4:32 | 1,430 | 96 | 2026-10-22 b |
+| 4 | IGCSE Further Pure 4PM0 | 4:45 | 714 | 42 | 2026-10-22 b |
+| 21 | IGCSE 9-1 Maths A 4MA1 | 21:615 | 1,202 | 49 | 2026-10-22 b |
+| 21 | IGCSE 9-1 Maths B 4MB1 | 21:637 | 514 | 21 | 2026-10-22 b |
+| 21 | IGCSE 9-1 Biology 4BI1 | 21:613 | 241 | 10 | 2026-10-22 b |
+| 21 | IGCSE 9-1 Physics 4PH1 | 21:616 | 134 | 14 | 2026-10-22 b |
+| 21 | IGCSE 9-1 Further Pure 4PM1 | 21:634 | 92 | 3 | 2026-10-22 b |
+
+Session *a* = biggest-first catch-up (IB + CIE A-Level); session *b* =
+**Edexcel-focused sweep** — after it, **21 of 23 Edexcel subjects are
+fully imaged** (5 in the sister repo: 4MA0, 4MB0, 4CH0, 4PH0, 4CH1).
+
+**Edexcel still todo (next session, ~370 MB):** 6:61 WBI01 Biology
+(4,427 urls), 6:70 WPH01 Physics (2,314 urls). Run them FIRST — before
+any other category — to finish the board:
+
+```bash
+bash exam-mate/scripts/edexcel_batch.sh \
+  topical/6_A-LEVEL/61_Biology_WBI01_ topical/6_A-LEVEL/70_Physics_WPH01_
+```
+
+(Then commit+push per subject, stop at ~1.2 GB free.) After Edexcel,
+resume the normal queue with `scripts/exam_mate_images_all.py` ( Sociology
+0495 3:30 next-biggest), same chunked-foreground discipline.
+
 ## Question data (NOT stored here)
 
 `questions.jsonl` + `meta.json` for every subject (132 subjects, 88,323
