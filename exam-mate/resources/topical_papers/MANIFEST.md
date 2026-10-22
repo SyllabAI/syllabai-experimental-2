@@ -26,12 +26,26 @@ harvest** whose source-of-record lives in the sister repo
 ## Image-phase progress
 
 **✔ DATASET COMPLETE — 132/132 subjects fully imaged** (116 here +
-16 in the sister repo). This repo holds **102,191 PNGs (~7.8 GB) across
-116 subjects**; combined with the sister repo the dataset exceeds
-**~118,000 images**. All ledgers verify (`files_on_disk ==
+16 in the sister repo). This repo holds **102,404 image files
+(102,191 standard-ledger PNGs + 213 IB-Physics /media/ bonus) across
+116 subjects**; the sister repo's git tree carries a further **84,428
+image files** (16 complete subject sets + two partials — 4BI0, 9701 —
+superseded by complete sets here), for a **combined total of ~186,800
+image files on GitHub**. All ledgers verify (`files_on_disk ==
 index_entries`); genuine origin-404s are recorded per-URL in
 `INDEX.jsonl`, never substituted. Session e (post-wipe) swept the final
-91 subjects and closed the queue. Session history below:
+91 subjects and closed the queue; session f caught 7 subjects (895
+PNGs + ledgers) whose images were verified on disk but missed by the
+sweep's per-subject commit loop, and pushed them.
+
+**Coverage proof (180-subject catalog):** 132 have topical content and
+are fully imaged; the remaining **48 are zero-content subjects** — the
+site's own apply-path re-render reports 0 questions, with facet
+evidence (topic/year/paper/season counts) recorded in each subject's
+`meta.json` in the sister repo. Notable zero-content subjects: CIE
+A-Level Computer Science 9618, History 9489, Edexcel IAL D1 WDM11, and
+the three 9709 paper-filter aliases (superseded by the six harvested
+9709 paper splits, 7,181 images). Session history below:
 
 | Cat | Subject | Key | Images | MB | Session |
 |---|---|---|---:|---:|---|
