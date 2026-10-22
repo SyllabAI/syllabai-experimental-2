@@ -1,0 +1,4868 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T16:27:39Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "B1: Cell Level Systems": [
+   {
+    "qid": 111639,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q2",
+    "file": "questions/30097/113900/30097_q_113900_2_1.png"
+   },
+   {
+    "qid": 111636,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q15",
+    "file": "questions/30095/113897/30095_q_113897_15_1.png"
+   },
+   {
+    "qid": 111636,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q15",
+    "file": "questions/30095/113897/30095_q_113897_15_2.png"
+   },
+   {
+    "qid": 111636,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q15",
+    "file": "questions/30095/113897/30095_a_113897_15_1.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_q_113893_11_1.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_q_113893_11_2.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_q_113893_11_3.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_a_113893_11_1.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_a_113893_11_2.png"
+   },
+   {
+    "qid": 111632,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q11",
+    "file": "questions/30095/113893/30095_a_113893_11_3.png"
+   },
+   {
+    "qid": 111631,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q10",
+    "file": "questions/30095/113892/30095_q_113892_10_1.png"
+   },
+   {
+    "qid": 111629,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q8",
+    "file": "questions/30095/113890/30095_q_113890_8_1.png"
+   },
+   {
+    "qid": 111628,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q7",
+    "file": "questions/30095/113889/30095_q_113889_7_1.png"
+   },
+   {
+    "qid": 111624,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q3",
+    "file": "questions/30095/113885/30095_q_113885_3_1.png"
+   },
+   {
+    "qid": 111553,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q11",
+    "file": "questions/30086/113814/30086_q_113814_11_1.png"
+   },
+   {
+    "qid": 111553,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q11",
+    "file": "questions/30086/113814/30086_q_113814_11_2.png"
+   },
+   {
+    "qid": 111553,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q11",
+    "file": "questions/30086/113814/30086_q_113814_11_3.png"
+   },
+   {
+    "qid": 111553,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q11",
+    "file": "questions/30086/113814/30086_a_113814_11_1.png"
+   },
+   {
+    "qid": 111553,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q11",
+    "file": "questions/30086/113814/30086_a_113814_11_2.png"
+   },
+   {
+    "qid": 111552,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q10",
+    "file": "questions/30086/113813/30086_q_113813_10_1.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_q_113803_17_1.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_q_113803_17_2.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_q_113803_17_3.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_a_113803_17_1.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_a_113803_17_2.png"
+   },
+   {
+    "qid": 111542,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q17",
+    "file": "questions/30085/113803/30085_a_113803_17_3.png"
+   },
+   {
+    "qid": 111533,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q8",
+    "file": "questions/30085/113794/30085_q_113794_8_1.png"
+   },
+   {
+    "qid": 111532,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q7",
+    "file": "questions/30085/113793/30085_q_113793_7_1.png"
+   },
+   {
+    "qid": 111531,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q6",
+    "file": "questions/30085/113792/30085_q_113792_6_1.png"
+   },
+   {
+    "qid": 111530,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q5",
+    "file": "questions/30085/113791/30085_q_113791_5_1.png"
+   },
+   {
+    "qid": 111527,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q2",
+    "file": "questions/30085/113788/30085_q_113788_2_1.png"
+   },
+   {
+    "qid": 111526,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q1",
+    "file": "questions/30085/113787/30085_q_113787_1_1.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_1.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_2.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_3.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_4.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_1.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_2.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_3.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_4.png"
+   },
+   {
+    "qid": 111439,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q14",
+    "file": "questions/30076/113700/30076_q_113700_14_1.png"
+   },
+   {
+    "qid": 111439,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q14",
+    "file": "questions/30076/113700/30076_q_113700_14_2.png"
+   },
+   {
+    "qid": 111439,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q14",
+    "file": "questions/30076/113700/30076_a_113700_14_1.png"
+   },
+   {
+    "qid": 111439,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q14",
+    "file": "questions/30076/113700/30076_a_113700_14_2.png"
+   },
+   {
+    "qid": 111439,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q14",
+    "file": "questions/30076/113700/30076_a_113700_14_3.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_q_113699_13_1.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_q_113699_13_2.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_a_113699_13_1.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_a_113699_13_2.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_a_113699_13_3.png"
+   },
+   {
+    "qid": 111438,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q13",
+    "file": "questions/30076/113699/30076_a_113699_13_4.png"
+   },
+   {
+    "qid": 111435,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q10",
+    "file": "questions/30076/113696/30076_q_113696_10_1.png"
+   },
+   {
+    "qid": 111431,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q6",
+    "file": "questions/30076/113692/30076_q_113692_6_1.png"
+   },
+   {
+    "qid": 111430,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q5",
+    "file": "questions/30076/113691/30076_q_113691_5_1.png"
+   },
+   {
+    "qid": 111427,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q2",
+    "file": "questions/30076/113688/30076_q_113688_2_1.png"
+   },
+   {
+    "qid": 111426,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q1",
+    "file": "questions/30076/113687/30076_q_113687_1_1.png"
+   },
+   {
+    "qid": 111341,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q3",
+    "file": "questions/30071/113602/30071_q_113602_3_1.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_q_113597_15_1.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_q_113597_15_2.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_q_113597_15_3.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_q_113597_15_4.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_a_113597_15_1.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_a_113597_15_2.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_a_113597_15_3.png"
+   },
+   {
+    "qid": 111336,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q15",
+    "file": "questions/30069/113597/30069_a_113597_15_4.png"
+   },
+   {
+    "qid": 111335,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q14",
+    "file": "questions/30069/113596/30069_q_113596_14_1.png"
+   },
+   {
+    "qid": 111335,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q14",
+    "file": "questions/30069/113596/30069_a_113596_14_1.png"
+   },
+   {
+    "qid": 111332,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q11",
+    "file": "questions/30069/113593/30069_q_113593_11_1.png"
+   },
+   {
+    "qid": 111332,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q11",
+    "file": "questions/30069/113593/30069_q_113593_11_2.png"
+   },
+   {
+    "qid": 111332,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q11",
+    "file": "questions/30069/113593/30069_q_113593_11_3.png"
+   },
+   {
+    "qid": 111332,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q11",
+    "file": "questions/30069/113593/30069_a_113593_11_1.png"
+   },
+   {
+    "qid": 111332,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q11",
+    "file": "questions/30069/113593/30069_a_113593_11_2.png"
+   },
+   {
+    "qid": 111331,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q10",
+    "file": "questions/30069/113592/30069_q_113592_10_1.png"
+   },
+   {
+    "qid": 111330,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q9",
+    "file": "questions/30069/113591/30069_q_113591_9_1.png"
+   },
+   {
+    "qid": 111324,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q3",
+    "file": "questions/30069/113585/30069_q_113585_3_1.png"
+   },
+   {
+    "qid": 111323,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q2",
+    "file": "questions/30069/113584/30069_q_113584_2_1.png"
+   },
+   {
+    "qid": 111322,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q1",
+    "file": "questions/30069/113583/30069_q_113583_1_1.png"
+   }
+  ],
+  "B2: Scaling Up": [
+   {
+    "qid": 111633,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q12",
+    "file": "questions/30095/113894/30095_q_113894_12_1.png"
+   },
+   {
+    "qid": 111633,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q12",
+    "file": "questions/30095/113894/30095_q_113894_12_2.png"
+   },
+   {
+    "qid": 111633,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q12",
+    "file": "questions/30095/113894/30095_a_113894_12_1.png"
+   },
+   {
+    "qid": 111630,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q9",
+    "file": "questions/30095/113891/30095_q_113891_9_1.png"
+   },
+   {
+    "qid": 111627,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q6",
+    "file": "questions/30095/113888/30095_q_113888_6_1.png"
+   },
+   {
+    "qid": 111625,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q4",
+    "file": "questions/30095/113886/30095_q_113886_4_1.png"
+   },
+   {
+    "qid": 111623,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q2",
+    "file": "questions/30095/113884/30095_q_113884_2_1.png"
+   },
+   {
+    "qid": 111622,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q1",
+    "file": "questions/30095/113883/30095_q_113883_1_1.png"
+   },
+   {
+    "qid": 111543,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q1",
+    "file": "questions/30086/113804/30086_q_113804_1_1.png"
+   },
+   {
+    "qid": 111540,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q15",
+    "file": "questions/30085/113801/30085_q_113801_15_1.png"
+   },
+   {
+    "qid": 111540,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q15",
+    "file": "questions/30085/113801/30085_a_113801_15_1.png"
+   },
+   {
+    "qid": 111538,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q13",
+    "file": "questions/30085/113799/30085_q_113799_13_1.png"
+   },
+   {
+    "qid": 111538,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q13",
+    "file": "questions/30085/113799/30085_a_113799_13_1.png"
+   },
+   {
+    "qid": 111537,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q12",
+    "file": "questions/30085/113798/30085_q_113798_12_1.png"
+   },
+   {
+    "qid": 111537,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q12",
+    "file": "questions/30085/113798/30085_q_113798_12_2.png"
+   },
+   {
+    "qid": 111537,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q12",
+    "file": "questions/30085/113798/30085_a_113798_12_1.png"
+   },
+   {
+    "qid": 111536,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q11",
+    "file": "questions/30085/113797/30085_q_113797_11_1.png"
+   },
+   {
+    "qid": 111536,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q11",
+    "file": "questions/30085/113797/30085_q_113797_11_2.png"
+   },
+   {
+    "qid": 111536,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q11",
+    "file": "questions/30085/113797/30085_a_113797_11_1.png"
+   },
+   {
+    "qid": 111535,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q10",
+    "file": "questions/30085/113796/30085_q_113796_10_1.png"
+   },
+   {
+    "qid": 111534,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q9",
+    "file": "questions/30085/113795/30085_q_113795_9_1.png"
+   },
+   {
+    "qid": 111529,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q4",
+    "file": "questions/30085/113790/30085_q_113790_4_1.png"
+   },
+   {
+    "qid": 111528,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q3",
+    "file": "questions/30085/113789/30085_q_113789_3_1.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_q_113714_12_1.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_q_113714_12_2.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_q_113714_12_3.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_q_113714_12_4.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_a_113714_12_1.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_a_113714_12_2.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_a_113714_12_3.png"
+   },
+   {
+    "qid": 111453,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q12",
+    "file": "questions/30077/113714/30077_a_113714_12_4.png"
+   },
+   {
+    "qid": 111440,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q15",
+    "file": "questions/30076/113701/30076_q_113701_15_1.png"
+   },
+   {
+    "qid": 111440,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q15",
+    "file": "questions/30076/113701/30076_q_113701_15_2.png"
+   },
+   {
+    "qid": 111440,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q15",
+    "file": "questions/30076/113701/30076_a_113701_15_1.png"
+   },
+   {
+    "qid": 111440,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q15",
+    "file": "questions/30076/113701/30076_a_113701_15_2.png"
+   },
+   {
+    "qid": 111440,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q15",
+    "file": "questions/30076/113701/30076_a_113701_15_3.png"
+   },
+   {
+    "qid": 111436,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q11",
+    "file": "questions/30076/113697/30076_q_113697_11_1.png"
+   },
+   {
+    "qid": 111436,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q11",
+    "file": "questions/30076/113697/30076_q_113697_11_2.png"
+   },
+   {
+    "qid": 111436,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q11",
+    "file": "questions/30076/113697/30076_a_113697_11_1.png"
+   },
+   {
+    "qid": 111436,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q11",
+    "file": "questions/30076/113697/30076_a_113697_11_2.png"
+   },
+   {
+    "qid": 111433,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q8",
+    "file": "questions/30076/113694/30076_q_113694_8_1.png"
+   },
+   {
+    "qid": 111428,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q3",
+    "file": "questions/30076/113689/30076_q_113689_3_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_2.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_3.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_a_113613_14_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_a_113613_14_2.png"
+   },
+   {
+    "qid": 111346,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q8",
+    "file": "questions/30071/113607/30071_q_113607_8_1.png"
+   },
+   {
+    "qid": 111344,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q6",
+    "file": "questions/30071/113605/30071_q_113605_6_1.png"
+   },
+   {
+    "qid": 111337,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q16",
+    "file": "questions/30069/113598/30069_q_113598_16_1.png"
+   },
+   {
+    "qid": 111337,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q16",
+    "file": "questions/30069/113598/30069_q_113598_16_2.png"
+   },
+   {
+    "qid": 111337,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q16",
+    "file": "questions/30069/113598/30069_a_113598_16_1.png"
+   },
+   {
+    "qid": 111337,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q16",
+    "file": "questions/30069/113598/30069_a_113598_16_2.png"
+   },
+   {
+    "qid": 111328,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q7",
+    "file": "questions/30069/113589/30069_q_113589_7_1.png"
+   },
+   {
+    "qid": 111327,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q6",
+    "file": "questions/30069/113588/30069_q_113588_6_1.png"
+   },
+   {
+    "qid": 111326,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q5",
+    "file": "questions/30069/113587/30069_q_113587_5_1.png"
+   },
+   {
+    "qid": 111325,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q4",
+    "file": "questions/30069/113586/30069_q_113586_4_1.png"
+   }
+  ],
+  "B3: Organism Level Systems": [
+   {
+    "qid": 111637,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q16",
+    "file": "questions/30095/113898/30095_q_113898_16_1.png"
+   },
+   {
+    "qid": 111637,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q16",
+    "file": "questions/30095/113898/30095_q_113898_16_2.png"
+   },
+   {
+    "qid": 111637,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q16",
+    "file": "questions/30095/113898/30095_a_113898_16_1.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_q_113896_14_1.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_q_113896_14_2.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_q_113896_14_3.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_q_113896_14_4.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_a_113896_14_1.png"
+   },
+   {
+    "qid": 111635,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q14",
+    "file": "questions/30095/113896/30095_a_113896_14_2.png"
+   },
+   {
+    "qid": 111634,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q13",
+    "file": "questions/30095/113895/30095_q_113895_13_1.png"
+   },
+   {
+    "qid": 111634,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q13",
+    "file": "questions/30095/113895/30095_a_113895_13_1.png"
+   },
+   {
+    "qid": 111634,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q13",
+    "file": "questions/30095/113895/30095_a_113895_13_2.png"
+   },
+   {
+    "qid": 111626,
+    "paper_ref": "Science A_Combined/7_Summer_2019_Q5",
+    "file": "questions/30095/113887/30095_q_113887_5_1.png"
+   },
+   {
+    "qid": 111556,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q14",
+    "file": "questions/30086/113817/30086_q_113817_14_1.png"
+   },
+   {
+    "qid": 111556,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q14",
+    "file": "questions/30086/113817/30086_q_113817_14_2.png"
+   },
+   {
+    "qid": 111556,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q14",
+    "file": "questions/30086/113817/30086_a_113817_14_1.png"
+   },
+   {
+    "qid": 111541,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q16",
+    "file": "questions/30085/113802/30085_q_113802_16_1.png"
+   },
+   {
+    "qid": 111541,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q16",
+    "file": "questions/30085/113802/30085_q_113802_16_2.png"
+   },
+   {
+    "qid": 111541,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q16",
+    "file": "questions/30085/113802/30085_q_113802_16_3.png"
+   },
+   {
+    "qid": 111541,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q16",
+    "file": "questions/30085/113802/30085_a_113802_16_1.png"
+   },
+   {
+    "qid": 111541,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q16",
+    "file": "questions/30085/113802/30085_a_113802_16_2.png"
+   },
+   {
+    "qid": 111539,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q14",
+    "file": "questions/30085/113800/30085_q_113800_14_1.png"
+   },
+   {
+    "qid": 111539,
+    "paper_ref": "Science A_Combined/1_Summer_2019_Q14",
+    "file": "questions/30085/113800/30085_a_113800_14_1.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_q_113715_13_1.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_q_113715_13_2.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_a_113715_13_1.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_a_113715_13_2.png"
+   },
+   {
+    "qid": 111441,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q16",
+    "file": "questions/30076/113702/30076_q_113702_16_1.png"
+   },
+   {
+    "qid": 111441,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q16",
+    "file": "questions/30076/113702/30076_q_113702_16_2.png"
+   },
+   {
+    "qid": 111441,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q16",
+    "file": "questions/30076/113702/30076_a_113702_16_1.png"
+   },
+   {
+    "qid": 111441,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q16",
+    "file": "questions/30076/113702/30076_a_113702_16_2.png"
+   },
+   {
+    "qid": 111434,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q9",
+    "file": "questions/30076/113695/30076_q_113695_9_1.png"
+   },
+   {
+    "qid": 111432,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q7",
+    "file": "questions/30076/113693/30076_q_113693_7_1.png"
+   },
+   {
+    "qid": 111429,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q4",
+    "file": "questions/30076/113690/30076_q_113690_4_1.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_q_113612_13_1.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_q_113612_13_2.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_a_113612_13_1.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_a_113612_13_2.png"
+   },
+   {
+    "qid": 111334,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q13",
+    "file": "questions/30069/113595/30069_q_113595_13_1.png"
+   },
+   {
+    "qid": 111334,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q13",
+    "file": "questions/30069/113595/30069_a_113595_13_1.png"
+   },
+   {
+    "qid": 111333,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q12",
+    "file": "questions/30069/113594/30069_q_113594_12_1.png"
+   },
+   {
+    "qid": 111333,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q12",
+    "file": "questions/30069/113594/30069_q_113594_12_2.png"
+   },
+   {
+    "qid": 111333,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q12",
+    "file": "questions/30069/113594/30069_a_113594_12_1.png"
+   },
+   {
+    "qid": 111329,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q8",
+    "file": "questions/30069/113590/30069_q_113590_8_1.png"
+   }
+  ],
+  "B4: Community Level Systems": [
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_1.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_2.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_3.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_a_113909_11_1.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_a_113909_11_2.png"
+   },
+   {
+    "qid": 111643,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q6",
+    "file": "questions/30097/113904/30097_q_113904_6_1.png"
+   },
+   {
+    "qid": 111557,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q15",
+    "file": "questions/30086/113818/30086_q_113818_15_1.png"
+   },
+   {
+    "qid": 111557,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q15",
+    "file": "questions/30086/113818/30086_q_113818_15_2.png"
+   },
+   {
+    "qid": 111557,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q15",
+    "file": "questions/30086/113818/30086_q_113818_15_3.png"
+   },
+   {
+    "qid": 111557,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q15",
+    "file": "questions/30086/113818/30086_a_113818_15_1.png"
+   },
+   {
+    "qid": 111557,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q15",
+    "file": "questions/30086/113818/30086_a_113818_15_2.png"
+   },
+   {
+    "qid": 111448,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q7",
+    "file": "questions/30077/113709/30077_q_113709_7_1.png"
+   },
+   {
+    "qid": 111443,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q2",
+    "file": "questions/30077/113704/30077_q_113704_2_1.png"
+   },
+   {
+    "qid": 111349,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q11",
+    "file": "questions/30071/113610/30071_q_113610_11_1.png"
+   },
+   {
+    "qid": 111349,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q11",
+    "file": "questions/30071/113610/30071_q_113610_11_2.png"
+   },
+   {
+    "qid": 111349,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q11",
+    "file": "questions/30071/113610/30071_q_113610_11_3.png"
+   },
+   {
+    "qid": 111349,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q11",
+    "file": "questions/30071/113610/30071_a_113610_11_1.png"
+   },
+   {
+    "qid": 111343,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q5",
+    "file": "questions/30071/113604/30071_q_113604_5_1.png"
+   },
+   {
+    "qid": 111339,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q1",
+    "file": "questions/30071/113600/30071_q_113600_1_1.png"
+   }
+  ],
+  "B5: Interaction Between Systems": [
+   {
+    "qid": 111652,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q15",
+    "file": "questions/30097/113913/30097_q_113913_15_1.png"
+   },
+   {
+    "qid": 111652,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q15",
+    "file": "questions/30097/113913/30097_q_113913_15_2.png"
+   },
+   {
+    "qid": 111652,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q15",
+    "file": "questions/30097/113913/30097_a_113913_15_1.png"
+   },
+   {
+    "qid": 111649,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q12",
+    "file": "questions/30097/113910/30097_q_113910_12_1.png"
+   },
+   {
+    "qid": 111649,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q12",
+    "file": "questions/30097/113910/30097_q_113910_12_2.png"
+   },
+   {
+    "qid": 111649,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q12",
+    "file": "questions/30097/113910/30097_a_113910_12_1.png"
+   },
+   {
+    "qid": 111649,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q12",
+    "file": "questions/30097/113910/30097_a_113910_12_2.png"
+   },
+   {
+    "qid": 111649,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q12",
+    "file": "questions/30097/113910/30097_a_113910_12_3.png"
+   },
+   {
+    "qid": 111640,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q3",
+    "file": "questions/30097/113901/30097_q_113901_3_1.png"
+   },
+   {
+    "qid": 111555,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q13",
+    "file": "questions/30086/113816/30086_q_113816_13_1.png"
+   },
+   {
+    "qid": 111555,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q13",
+    "file": "questions/30086/113816/30086_q_113816_13_2.png"
+   },
+   {
+    "qid": 111555,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q13",
+    "file": "questions/30086/113816/30086_a_113816_13_1.png"
+   },
+   {
+    "qid": 111554,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q12",
+    "file": "questions/30086/113815/30086_q_113815_12_1.png"
+   },
+   {
+    "qid": 111554,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q12",
+    "file": "questions/30086/113815/30086_q_113815_12_2.png"
+   },
+   {
+    "qid": 111554,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q12",
+    "file": "questions/30086/113815/30086_a_113815_12_1.png"
+   },
+   {
+    "qid": 111554,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q12",
+    "file": "questions/30086/113815/30086_a_113815_12_2.png"
+   },
+   {
+    "qid": 111554,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q12",
+    "file": "questions/30086/113815/30086_a_113815_12_3.png"
+   },
+   {
+    "qid": 111550,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q8",
+    "file": "questions/30086/113811/30086_q_113811_8_1.png"
+   },
+   {
+    "qid": 111548,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q6",
+    "file": "questions/30086/113809/30086_q_113809_6_1.png"
+   },
+   {
+    "qid": 111547,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q5",
+    "file": "questions/30086/113808/30086_q_113808_5_1.png"
+   },
+   {
+    "qid": 111455,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q14",
+    "file": "questions/30077/113716/30077_q_113716_14_1.png"
+   },
+   {
+    "qid": 111455,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q14",
+    "file": "questions/30077/113716/30077_q_113716_14_2.png"
+   },
+   {
+    "qid": 111455,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q14",
+    "file": "questions/30077/113716/30077_a_113716_14_1.png"
+   },
+   {
+    "qid": 111455,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q14",
+    "file": "questions/30077/113716/30077_a_113716_14_2.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_q_113715_13_1.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_q_113715_13_2.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_a_113715_13_1.png"
+   },
+   {
+    "qid": 111454,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q13",
+    "file": "questions/30077/113715/30077_a_113715_13_2.png"
+   },
+   {
+    "qid": 111451,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q10",
+    "file": "questions/30077/113712/30077_q_113712_10_1.png"
+   },
+   {
+    "qid": 111450,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q9",
+    "file": "questions/30077/113711/30077_q_113711_9_1.png"
+   },
+   {
+    "qid": 111442,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q1",
+    "file": "questions/30077/113703/30077_q_113703_1_1.png"
+   },
+   {
+    "qid": 111437,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q12",
+    "file": "questions/30076/113698/30076_q_113698_12_1.png"
+   },
+   {
+    "qid": 111437,
+    "paper_ref": "Science A_Combined/7_Summer_2018_Q12",
+    "file": "questions/30076/113698/30076_a_113698_12_1.png"
+   },
+   {
+    "qid": 111353,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q15",
+    "file": "questions/30071/113614/30071_q_113614_15_1.png"
+   },
+   {
+    "qid": 111353,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q15",
+    "file": "questions/30071/113614/30071_q_113614_15_2.png"
+   },
+   {
+    "qid": 111353,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q15",
+    "file": "questions/30071/113614/30071_a_113614_15_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_2.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_q_113613_14_3.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_a_113613_14_1.png"
+   },
+   {
+    "qid": 111352,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q14",
+    "file": "questions/30071/113613/30071_a_113613_14_2.png"
+   },
+   {
+    "qid": 111348,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q10",
+    "file": "questions/30071/113609/30071_q_113609_10_1.png"
+   },
+   {
+    "qid": 111347,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q9",
+    "file": "questions/30071/113608/30071_q_113608_9_1.png"
+   },
+   {
+    "qid": 111345,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q7",
+    "file": "questions/30071/113606/30071_q_113606_7_1.png"
+   },
+   {
+    "qid": 111338,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q17",
+    "file": "questions/30069/113599/30069_q_113599_17_1.png"
+   },
+   {
+    "qid": 111338,
+    "paper_ref": "Science A_Combined/1_Summer_2018_Q17",
+    "file": "questions/30069/113599/30069_a_113599_17_1.png"
+   }
+  ],
+  "B6: Global Challenges": [
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_q_113912_14_1.png"
+   },
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_q_113912_14_2.png"
+   },
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_q_113912_14_3.png"
+   },
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_q_113912_14_4.png"
+   },
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_a_113912_14_1.png"
+   },
+   {
+    "qid": 111651,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q14",
+    "file": "questions/30097/113912/30097_a_113912_14_2.png"
+   },
+   {
+    "qid": 111650,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q13",
+    "file": "questions/30097/113911/30097_q_113911_13_1.png"
+   },
+   {
+    "qid": 111650,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q13",
+    "file": "questions/30097/113911/30097_q_113911_13_2.png"
+   },
+   {
+    "qid": 111650,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q13",
+    "file": "questions/30097/113911/30097_a_113911_13_1.png"
+   },
+   {
+    "qid": 111650,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q13",
+    "file": "questions/30097/113911/30097_a_113911_13_2.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_1.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_2.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_q_113909_11_3.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_a_113909_11_1.png"
+   },
+   {
+    "qid": 111648,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q11",
+    "file": "questions/30097/113909/30097_a_113909_11_2.png"
+   },
+   {
+    "qid": 111647,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q10",
+    "file": "questions/30097/113908/30097_q_113908_10_1.png"
+   },
+   {
+    "qid": 111646,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q9",
+    "file": "questions/30097/113907/30097_q_113907_9_1.png"
+   },
+   {
+    "qid": 111645,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q8",
+    "file": "questions/30097/113906/30097_q_113906_8_1.png"
+   },
+   {
+    "qid": 111644,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q7",
+    "file": "questions/30097/113905/30097_q_113905_7_1.png"
+   },
+   {
+    "qid": 111642,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q5",
+    "file": "questions/30097/113903/30097_q_113903_5_1.png"
+   },
+   {
+    "qid": 111641,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q4",
+    "file": "questions/30097/113902/30097_q_113902_4_1.png"
+   },
+   {
+    "qid": 111638,
+    "paper_ref": "Science A_Combined/8_Summer_2019_Q1",
+    "file": "questions/30097/113899/30097_q_113899_1_1.png"
+   },
+   {
+    "qid": 111551,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q9",
+    "file": "questions/30086/113812/30086_q_113812_9_1.png"
+   },
+   {
+    "qid": 111549,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q7",
+    "file": "questions/30086/113810/30086_q_113810_7_1.png"
+   },
+   {
+    "qid": 111546,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q4",
+    "file": "questions/30086/113807/30086_q_113807_4_1.png"
+   },
+   {
+    "qid": 111545,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q3",
+    "file": "questions/30086/113806/30086_q_113806_3_1.png"
+   },
+   {
+    "qid": 111544,
+    "paper_ref": "Science A_Combined/2_Summer_2019_Q2",
+    "file": "questions/30086/113805/30086_q_113805_2_1.png"
+   },
+   {
+    "qid": 111456,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q15",
+    "file": "questions/30077/113717/30077_q_113717_15_1.png"
+   },
+   {
+    "qid": 111456,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q15",
+    "file": "questions/30077/113717/30077_q_113717_15_2.png"
+   },
+   {
+    "qid": 111456,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q15",
+    "file": "questions/30077/113717/30077_a_113717_15_1.png"
+   },
+   {
+    "qid": 111456,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q15",
+    "file": "questions/30077/113717/30077_a_113717_15_2.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_1.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_2.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_3.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_q_113713_11_4.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_1.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_2.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_3.png"
+   },
+   {
+    "qid": 111452,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q11",
+    "file": "questions/30077/113713/30077_a_113713_11_4.png"
+   },
+   {
+    "qid": 111449,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q8",
+    "file": "questions/30077/113710/30077_q_113710_8_1.png"
+   },
+   {
+    "qid": 111447,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q6",
+    "file": "questions/30077/113708/30077_q_113708_6_1.png"
+   },
+   {
+    "qid": 111446,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q5",
+    "file": "questions/30077/113707/30077_q_113707_5_1.png"
+   },
+   {
+    "qid": 111445,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q4",
+    "file": "questions/30077/113706/30077_q_113706_4_1.png"
+   },
+   {
+    "qid": 111444,
+    "paper_ref": "Science A_Combined/8_Summer_2018_Q3",
+    "file": "questions/30077/113705/30077_q_113705_3_1.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_q_113615_16_1.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_q_113615_16_2.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_q_113615_16_3.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_q_113615_16_4.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_a_113615_16_1.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_a_113615_16_2.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_a_113615_16_3.png"
+   },
+   {
+    "qid": 111354,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q16",
+    "file": "questions/30071/113615/30071_a_113615_16_4.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_q_113612_13_1.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_q_113612_13_2.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_a_113612_13_1.png"
+   },
+   {
+    "qid": 111351,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q13",
+    "file": "questions/30071/113612/30071_a_113612_13_2.png"
+   },
+   {
+    "qid": 111350,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q12",
+    "file": "questions/30071/113611/30071_q_113611_12_1.png"
+   },
+   {
+    "qid": 111350,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q12",
+    "file": "questions/30071/113611/30071_a_113611_12_1.png"
+   },
+   {
+    "qid": 111342,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q4",
+    "file": "questions/30071/113603/30071_q_113603_4_1.png"
+   },
+   {
+    "qid": 111340,
+    "paper_ref": "Science A_Combined/2_Summer_2018_Q2",
+    "file": "questions/30071/113601/30071_q_113601_2_1.png"
+   }
+  ],
+  "C1: Particles": [
+   {
+    "qid": 111658,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q6",
+    "file": "questions/30098/113919/30098_q_113919_6_1.png"
+   },
+   {
+    "qid": 111657,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q5",
+    "file": "questions/30098/113918/30098_q_113918_5_1.png"
+   },
+   {
+    "qid": 111653,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q1",
+    "file": "questions/30098/113914/30098_q_113914_1_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_2.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_a_113829_11_1.png"
+   },
+   {
+    "qid": 111567,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q10",
+    "file": "questions/30088/113828/30088_q_113828_10_1.png"
+   },
+   {
+    "qid": 111562,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q5",
+    "file": "questions/30088/113823/30088_q_113823_5_1.png"
+   },
+   {
+    "qid": 111558,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q1",
+    "file": "questions/30088/113819/30088_q_113819_1_1.png"
+   },
+   {
+    "qid": 111473,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q17",
+    "file": "questions/30078/113734/30078_q_113734_17_1.png"
+   },
+   {
+    "qid": 111473,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q17",
+    "file": "questions/30078/113734/30078_a_113734_17_1.png"
+   },
+   {
+    "qid": 111473,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q17",
+    "file": "questions/30078/113734/30078_a_113734_17_2.png"
+   },
+   {
+    "qid": 111460,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q4",
+    "file": "questions/30078/113721/30078_q_113721_4_1.png"
+   },
+   {
+    "qid": 111457,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q1",
+    "file": "questions/30078/113718/30078_q_113718_1_1.png"
+   },
+   {
+    "qid": 111362,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q8",
+    "file": "questions/30072/113623/30072_q_113623_8_1.png"
+   },
+   {
+    "qid": 111360,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q6",
+    "file": "questions/30072/113621/30072_q_113621_6_1.png"
+   }
+  ],
+  "C2: Elements": [
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_1.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_2.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_a_113943_14_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_2.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_3.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_2.png"
+   },
+   {
+    "qid": 111664,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q12",
+    "file": "questions/30098/113925/30098_q_113925_12_1.png"
+   },
+   {
+    "qid": 111664,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q12",
+    "file": "questions/30098/113925/30098_a_113925_12_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_2.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_2.png"
+   },
+   {
+    "qid": 111656,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q4",
+    "file": "questions/30098/113917/30098_q_113917_4_1.png"
+   },
+   {
+    "qid": 111654,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q2",
+    "file": "questions/30098/113915/30098_q_113915_2_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_2.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_3.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_2.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_2.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_2.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_1.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_2.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_3.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_a_113832_14_1.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_a_113832_14_2.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_1.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_2.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_a_113830_12_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_2.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_a_113829_11_1.png"
+   },
+   {
+    "qid": 111565,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q8",
+    "file": "questions/30088/113826/30088_q_113826_8_1.png"
+   },
+   {
+    "qid": 111561,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q4",
+    "file": "questions/30088/113822/30088_q_113822_4_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_q_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_2.png"
+   },
+   {
+    "qid": 111482,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q7",
+    "file": "questions/30079/113743/30079_q_113743_7_1.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_q_113733_16_1.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_q_113733_16_2.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_a_113733_16_1.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_q_113728_11_1.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_q_113728_11_2.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_a_113728_11_1.png"
+   },
+   {
+    "qid": 111463,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q7",
+    "file": "questions/30078/113724/30078_q_113724_7_1.png"
+   },
+   {
+    "qid": 111461,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q5",
+    "file": "questions/30078/113722/30078_q_113722_5_1.png"
+   },
+   {
+    "qid": 111376,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q3",
+    "file": "questions/30073/113637/30073_q_113637_3_1.png"
+   },
+   {
+    "qid": 111374,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q1",
+    "file": "questions/30073/113635/30073_q_113635_1_1.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_q_113633_18_1.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_q_113633_18_2.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_a_113633_18_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_q_113632_17_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_q_113632_17_2.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_a_113632_17_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_a_113632_17_2.png"
+   },
+   {
+    "qid": 111369,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q15",
+    "file": "questions/30072/113630/30072_q_113630_15_1.png"
+   },
+   {
+    "qid": 111369,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q15",
+    "file": "questions/30072/113630/30072_a_113630_15_1.png"
+   },
+   {
+    "qid": 111366,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q12",
+    "file": "questions/30072/113627/30072_q_113627_12_1.png"
+   },
+   {
+    "qid": 111366,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q12",
+    "file": "questions/30072/113627/30072_a_113627_12_1.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_q_113626_11_1.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_q_113626_11_2.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_a_113626_11_1.png"
+   },
+   {
+    "qid": 111363,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q9",
+    "file": "questions/30072/113624/30072_q_113624_9_1.png"
+   },
+   {
+    "qid": 111361,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q7",
+    "file": "questions/30072/113622/30072_q_113622_7_1.png"
+   },
+   {
+    "qid": 111358,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q4",
+    "file": "questions/30072/113619/30072_q_113619_4_1.png"
+   },
+   {
+    "qid": 111355,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q1",
+    "file": "questions/30072/113616/30072_q_113616_1_1.png"
+   }
+  ],
+  "C3: Chemical Reactions": [
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_q_113944_15_1.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_q_113944_15_2.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_a_113944_15_1.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_a_113944_15_2.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_1.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_2.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_a_113943_14_1.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_q_113941_12_1.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_q_113941_12_2.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_a_113941_12_1.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_a_113941_12_2.png"
+   },
+   {
+    "qid": 111678,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q10",
+    "file": "questions/30100/113939/30100_q_113939_10_1.png"
+   },
+   {
+    "qid": 111675,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q7",
+    "file": "questions/30100/113936/30100_q_113936_7_1.png"
+   },
+   {
+    "qid": 111668,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q16",
+    "file": "questions/30098/113929/30098_q_113929_16_1.png"
+   },
+   {
+    "qid": 111668,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q16",
+    "file": "questions/30098/113929/30098_q_113929_16_2.png"
+   },
+   {
+    "qid": 111668,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q16",
+    "file": "questions/30098/113929/30098_a_113929_16_1.png"
+   },
+   {
+    "qid": 111666,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q14",
+    "file": "questions/30098/113927/30098_q_113927_14_1.png"
+   },
+   {
+    "qid": 111666,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q14",
+    "file": "questions/30098/113927/30098_a_113927_14_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_2.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_3.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_2.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_2.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_2.png"
+   },
+   {
+    "qid": 111662,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q10",
+    "file": "questions/30098/113923/30098_q_113923_10_1.png"
+   },
+   {
+    "qid": 111661,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q9",
+    "file": "questions/30098/113922/30098_q_113922_9_1.png"
+   },
+   {
+    "qid": 111660,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q8",
+    "file": "questions/30098/113921/30098_q_113921_8_1.png"
+   },
+   {
+    "qid": 111659,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q7",
+    "file": "questions/30098/113920/30098_q_113920_7_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_q_113850_16_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_q_113850_16_2.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_a_113850_16_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_a_113850_16_2.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_2.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_3.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_2.png"
+   },
+   {
+    "qid": 111581,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q8",
+    "file": "questions/30089/113842/30089_q_113842_8_1.png"
+   },
+   {
+    "qid": 111580,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q7",
+    "file": "questions/30089/113841/30089_q_113841_7_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_2.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_2.png"
+   },
+   {
+    "qid": 111572,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q15",
+    "file": "questions/30088/113833/30088_q_113833_15_1.png"
+   },
+   {
+    "qid": 111572,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q15",
+    "file": "questions/30088/113833/30088_a_113833_15_1.png"
+   },
+   {
+    "qid": 111570,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q13",
+    "file": "questions/30088/113831/30088_q_113831_13_1.png"
+   },
+   {
+    "qid": 111570,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q13",
+    "file": "questions/30088/113831/30088_q_113831_13_2.png"
+   },
+   {
+    "qid": 111570,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q13",
+    "file": "questions/30088/113831/30088_a_113831_13_1.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_1.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_2.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_a_113830_12_1.png"
+   },
+   {
+    "qid": 111564,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q7",
+    "file": "questions/30088/113825/30088_q_113825_7_1.png"
+   },
+   {
+    "qid": 111560,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q3",
+    "file": "questions/30088/113821/30088_q_113821_3_1.png"
+   },
+   {
+    "qid": 111559,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q2",
+    "file": "questions/30088/113820/30088_q_113820_2_1.png"
+   },
+   {
+    "qid": 111492,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q17",
+    "file": "questions/30079/113753/30079_q_113753_17_1.png"
+   },
+   {
+    "qid": 111492,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q17",
+    "file": "questions/30079/113753/30079_a_113753_17_1.png"
+   },
+   {
+    "qid": 111486,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q11",
+    "file": "questions/30079/113747/30079_q_113747_11_1.png"
+   },
+   {
+    "qid": 111486,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q11",
+    "file": "questions/30079/113747/30079_a_113747_11_1.png"
+   },
+   {
+    "qid": 111486,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q11",
+    "file": "questions/30079/113747/30079_a_113747_11_2.png"
+   },
+   {
+    "qid": 111477,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q2",
+    "file": "questions/30079/113738/30079_q_113738_2_1.png"
+   },
+   {
+    "qid": 111474,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q18",
+    "file": "questions/30078/113735/30078_q_113735_18_1.png"
+   },
+   {
+    "qid": 111474,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q18",
+    "file": "questions/30078/113735/30078_a_113735_18_1.png"
+   },
+   {
+    "qid": 111470,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q14",
+    "file": "questions/30078/113731/30078_q_113731_14_1.png"
+   },
+   {
+    "qid": 111470,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q14",
+    "file": "questions/30078/113731/30078_q_113731_14_2.png"
+   },
+   {
+    "qid": 111470,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q14",
+    "file": "questions/30078/113731/30078_a_113731_14_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_q_113730_13_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_q_113730_13_2.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_a_113730_13_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_a_113730_13_2.png"
+   },
+   {
+    "qid": 111468,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q12",
+    "file": "questions/30078/113729/30078_q_113729_12_1.png"
+   },
+   {
+    "qid": 111468,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q12",
+    "file": "questions/30078/113729/30078_a_113729_12_1.png"
+   },
+   {
+    "qid": 111466,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q10",
+    "file": "questions/30078/113727/30078_q_113727_10_1.png"
+   },
+   {
+    "qid": 111465,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q9",
+    "file": "questions/30078/113726/30078_q_113726_9_1.png"
+   },
+   {
+    "qid": 111464,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q8",
+    "file": "questions/30078/113725/30078_q_113725_8_1.png"
+   },
+   {
+    "qid": 111462,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q6",
+    "file": "questions/30078/113723/30078_q_113723_6_1.png"
+   },
+   {
+    "qid": 111373,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q19",
+    "file": "questions/30072/113634/30072_q_113634_19_1.png"
+   },
+   {
+    "qid": 111373,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q19",
+    "file": "questions/30072/113634/30072_a_113634_19_1.png"
+   },
+   {
+    "qid": 111370,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q16",
+    "file": "questions/30072/113631/30072_q_113631_16_1.png"
+   },
+   {
+    "qid": 111370,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q16",
+    "file": "questions/30072/113631/30072_q_113631_16_2.png"
+   },
+   {
+    "qid": 111370,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q16",
+    "file": "questions/30072/113631/30072_a_113631_16_1.png"
+   },
+   {
+    "qid": 111368,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q14",
+    "file": "questions/30072/113629/30072_q_113629_14_1.png"
+   },
+   {
+    "qid": 111368,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q14",
+    "file": "questions/30072/113629/30072_a_113629_14_1.png"
+   },
+   {
+    "qid": 111367,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q13",
+    "file": "questions/30072/113628/30072_q_113628_13_1.png"
+   },
+   {
+    "qid": 111367,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q13",
+    "file": "questions/30072/113628/30072_q_113628_13_2.png"
+   },
+   {
+    "qid": 111367,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q13",
+    "file": "questions/30072/113628/30072_a_113628_13_1.png"
+   },
+   {
+    "qid": 111367,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q13",
+    "file": "questions/30072/113628/30072_a_113628_13_2.png"
+   },
+   {
+    "qid": 111364,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q10",
+    "file": "questions/30072/113625/30072_q_113625_10_1.png"
+   },
+   {
+    "qid": 111359,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q5",
+    "file": "questions/30072/113620/30072_q_113620_5_1.png"
+   },
+   {
+    "qid": 111357,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q3",
+    "file": "questions/30072/113618/30072_q_113618_3_1.png"
+   },
+   {
+    "qid": 111356,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q2",
+    "file": "questions/30072/113617/30072_q_113617_2_1.png"
+   }
+  ],
+  "C4: Predicting And Identifying Reactions And Products": [
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_1.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_2.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_a_113943_14_1.png"
+   },
+   {
+    "qid": 111677,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q9",
+    "file": "questions/30100/113938/30100_q_113938_9_1.png"
+   },
+   {
+    "qid": 111676,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q8",
+    "file": "questions/30100/113937/30100_q_113937_8_1.png"
+   },
+   {
+    "qid": 111671,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q3",
+    "file": "questions/30100/113932/30100_q_113932_3_1.png"
+   },
+   {
+    "qid": 111655,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q3",
+    "file": "questions/30098/113916/30098_q_113916_3_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_2.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_3.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_2.png"
+   },
+   {
+    "qid": 111582,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q9",
+    "file": "questions/30089/113843/30089_q_113843_9_1.png"
+   },
+   {
+    "qid": 111578,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q5",
+    "file": "questions/30089/113839/30089_q_113839_5_1.png"
+   },
+   {
+    "qid": 111577,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q4",
+    "file": "questions/30089/113838/30089_q_113838_4_1.png"
+   },
+   {
+    "qid": 111566,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q9",
+    "file": "questions/30088/113827/30088_q_113827_9_1.png"
+   },
+   {
+    "qid": 111563,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q6",
+    "file": "questions/30088/113824/30088_q_113824_6_1.png"
+   },
+   {
+    "qid": 111491,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q16",
+    "file": "questions/30079/113752/30079_q_113752_16_1.png"
+   },
+   {
+    "qid": 111491,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q16",
+    "file": "questions/30079/113752/30079_q_113752_16_2.png"
+   },
+   {
+    "qid": 111491,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q16",
+    "file": "questions/30079/113752/30079_a_113752_16_1.png"
+   },
+   {
+    "qid": 111491,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q16",
+    "file": "questions/30079/113752/30079_a_113752_16_2.png"
+   },
+   {
+    "qid": 111483,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q8",
+    "file": "questions/30079/113744/30079_q_113744_8_1.png"
+   },
+   {
+    "qid": 111481,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q6",
+    "file": "questions/30079/113742/30079_q_113742_6_1.png"
+   },
+   {
+    "qid": 111479,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q4",
+    "file": "questions/30079/113740/30079_q_113740_4_1.png"
+   },
+   {
+    "qid": 111476,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q1",
+    "file": "questions/30079/113737/30079_q_113737_1_1.png"
+   },
+   {
+    "qid": 111459,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q3",
+    "file": "questions/30078/113720/30078_q_113720_3_1.png"
+   },
+   {
+    "qid": 111458,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q2",
+    "file": "questions/30078/113719/30078_q_113719_2_1.png"
+   },
+   {
+    "qid": 111389,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q16",
+    "file": "questions/30073/113650/30073_q_113650_16_1.png"
+   },
+   {
+    "qid": 111389,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q16",
+    "file": "questions/30073/113650/30073_a_113650_16_1.png"
+   },
+   {
+    "qid": 111387,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q14",
+    "file": "questions/30073/113648/30073_q_113648_14_1.png"
+   },
+   {
+    "qid": 111387,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q14",
+    "file": "questions/30073/113648/30073_q_113648_14_2.png"
+   },
+   {
+    "qid": 111387,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q14",
+    "file": "questions/30073/113648/30073_a_113648_14_1.png"
+   },
+   {
+    "qid": 111381,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q8",
+    "file": "questions/30073/113642/30073_q_113642_8_1.png"
+   },
+   {
+    "qid": 111380,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q7",
+    "file": "questions/30073/113641/30073_q_113641_7_1.png"
+   },
+   {
+    "qid": 111377,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q4",
+    "file": "questions/30073/113638/30073_q_113638_4_1.png"
+   }
+  ],
+  "C5: Monitoring And Controlling Chemical Reactions": [
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_q_113944_15_1.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_q_113944_15_2.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_a_113944_15_1.png"
+   },
+   {
+    "qid": 111683,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q15",
+    "file": "questions/30100/113944/30100_a_113944_15_2.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_q_113941_12_1.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_q_113941_12_2.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_a_113941_12_1.png"
+   },
+   {
+    "qid": 111680,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q12",
+    "file": "questions/30100/113941/30100_a_113941_12_2.png"
+   },
+   {
+    "qid": 111674,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q6",
+    "file": "questions/30100/113935/30100_q_113935_6_1.png"
+   },
+   {
+    "qid": 111673,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q5",
+    "file": "questions/30100/113934/30100_q_113934_5_1.png"
+   },
+   {
+    "qid": 111669,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q1",
+    "file": "questions/30100/113930/30100_q_113930_1_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_q_113850_16_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_q_113850_16_2.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_a_113850_16_1.png"
+   },
+   {
+    "qid": 111589,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q16",
+    "file": "questions/30089/113850/30089_a_113850_16_2.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_q_113846_12_1.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_q_113846_12_2.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_a_113846_12_1.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_a_113846_12_2.png"
+   },
+   {
+    "qid": 111583,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q10",
+    "file": "questions/30089/113844/30089_q_113844_10_1.png"
+   },
+   {
+    "qid": 111579,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q6",
+    "file": "questions/30089/113840/30089_q_113840_6_1.png"
+   },
+   {
+    "qid": 111574,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q1",
+    "file": "questions/30089/113835/30089_q_113835_1_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_q_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_2.png"
+   },
+   {
+    "qid": 111489,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q14",
+    "file": "questions/30079/113750/30079_q_113750_14_1.png"
+   },
+   {
+    "qid": 111489,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q14",
+    "file": "questions/30079/113750/30079_q_113750_14_2.png"
+   },
+   {
+    "qid": 111489,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q14",
+    "file": "questions/30079/113750/30079_a_113750_14_1.png"
+   },
+   {
+    "qid": 111487,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q12",
+    "file": "questions/30079/113748/30079_q_113748_12_1.png"
+   },
+   {
+    "qid": 111487,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q12",
+    "file": "questions/30079/113748/30079_a_113748_12_1.png"
+   },
+   {
+    "qid": 111485,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q10",
+    "file": "questions/30079/113746/30079_q_113746_10_1.png"
+   },
+   {
+    "qid": 111484,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q9",
+    "file": "questions/30079/113745/30079_q_113745_9_1.png"
+   },
+   {
+    "qid": 111478,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q3",
+    "file": "questions/30079/113739/30079_q_113739_3_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_q_113730_13_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_q_113730_13_2.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_a_113730_13_1.png"
+   },
+   {
+    "qid": 111469,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q13",
+    "file": "questions/30078/113730/30078_a_113730_13_2.png"
+   },
+   {
+    "qid": 111391,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q18",
+    "file": "questions/30073/113652/30073_q_113652_18_1.png"
+   },
+   {
+    "qid": 111391,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q18",
+    "file": "questions/30073/113652/30073_a_113652_18_1.png"
+   },
+   {
+    "qid": 111384,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q11",
+    "file": "questions/30073/113645/30073_q_113645_11_1.png"
+   },
+   {
+    "qid": 111384,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q11",
+    "file": "questions/30073/113645/30073_q_113645_11_2.png"
+   },
+   {
+    "qid": 111384,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q11",
+    "file": "questions/30073/113645/30073_a_113645_11_1.png"
+   },
+   {
+    "qid": 111379,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q6",
+    "file": "questions/30073/113640/30073_q_113640_6_1.png"
+   },
+   {
+    "qid": 111375,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q2",
+    "file": "questions/30073/113636/30073_q_113636_2_1.png"
+   }
+  ],
+  "C6: Global Challenges": [
+   {
+    "qid": 111684,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q16",
+    "file": "questions/30100/113945/30100_q_113945_16_1.png"
+   },
+   {
+    "qid": 111684,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q16",
+    "file": "questions/30100/113945/30100_q_113945_16_2.png"
+   },
+   {
+    "qid": 111684,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q16",
+    "file": "questions/30100/113945/30100_q_113945_16_3.png"
+   },
+   {
+    "qid": 111684,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q16",
+    "file": "questions/30100/113945/30100_a_113945_16_1.png"
+   },
+   {
+    "qid": 111684,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q16",
+    "file": "questions/30100/113945/30100_a_113945_16_2.png"
+   },
+   {
+    "qid": 111681,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q13",
+    "file": "questions/30100/113942/30100_q_113942_13_1.png"
+   },
+   {
+    "qid": 111681,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q13",
+    "file": "questions/30100/113942/30100_q_113942_13_2.png"
+   },
+   {
+    "qid": 111681,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q13",
+    "file": "questions/30100/113942/30100_a_113942_13_1.png"
+   },
+   {
+    "qid": 111679,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q11",
+    "file": "questions/30100/113940/30100_q_113940_11_1.png"
+   },
+   {
+    "qid": 111679,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q11",
+    "file": "questions/30100/113940/30100_q_113940_11_2.png"
+   },
+   {
+    "qid": 111679,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q11",
+    "file": "questions/30100/113940/30100_a_113940_11_1.png"
+   },
+   {
+    "qid": 111679,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q11",
+    "file": "questions/30100/113940/30100_a_113940_11_2.png"
+   },
+   {
+    "qid": 111672,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q4",
+    "file": "questions/30100/113933/30100_q_113933_4_1.png"
+   },
+   {
+    "qid": 111670,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q2",
+    "file": "questions/30100/113931/30100_q_113931_2_1.png"
+   },
+   {
+    "qid": 111667,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q15",
+    "file": "questions/30098/113928/30098_q_113928_15_1.png"
+   },
+   {
+    "qid": 111667,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q15",
+    "file": "questions/30098/113928/30098_q_113928_15_2.png"
+   },
+   {
+    "qid": 111667,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q15",
+    "file": "questions/30098/113928/30098_a_113928_15_1.png"
+   },
+   {
+    "qid": 111588,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q15",
+    "file": "questions/30089/113849/30089_q_113849_15_1.png"
+   },
+   {
+    "qid": 111588,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q15",
+    "file": "questions/30089/113849/30089_q_113849_15_2.png"
+   },
+   {
+    "qid": 111588,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q15",
+    "file": "questions/30089/113849/30089_a_113849_15_1.png"
+   },
+   {
+    "qid": 111588,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q15",
+    "file": "questions/30089/113849/30089_a_113849_15_2.png"
+   },
+   {
+    "qid": 111587,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q14",
+    "file": "questions/30089/113848/30089_q_113848_14_1.png"
+   },
+   {
+    "qid": 111587,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q14",
+    "file": "questions/30089/113848/30089_q_113848_14_2.png"
+   },
+   {
+    "qid": 111587,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q14",
+    "file": "questions/30089/113848/30089_a_113848_14_1.png"
+   },
+   {
+    "qid": 111587,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q14",
+    "file": "questions/30089/113848/30089_a_113848_14_2.png"
+   },
+   {
+    "qid": 111586,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q13",
+    "file": "questions/30089/113847/30089_q_113847_13_1.png"
+   },
+   {
+    "qid": 111586,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q13",
+    "file": "questions/30089/113847/30089_q_113847_13_2.png"
+   },
+   {
+    "qid": 111586,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q13",
+    "file": "questions/30089/113847/30089_q_113847_13_3.png"
+   },
+   {
+    "qid": 111586,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q13",
+    "file": "questions/30089/113847/30089_a_113847_13_1.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_q_113846_12_1.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_q_113846_12_2.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_a_113846_12_1.png"
+   },
+   {
+    "qid": 111585,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q12",
+    "file": "questions/30089/113846/30089_a_113846_12_2.png"
+   },
+   {
+    "qid": 111576,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q3",
+    "file": "questions/30089/113837/30089_q_113837_3_1.png"
+   },
+   {
+    "qid": 111575,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q2",
+    "file": "questions/30089/113836/30089_q_113836_2_1.png"
+   },
+   {
+    "qid": 111490,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q15",
+    "file": "questions/30079/113751/30079_q_113751_15_1.png"
+   },
+   {
+    "qid": 111490,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q15",
+    "file": "questions/30079/113751/30079_q_113751_15_2.png"
+   },
+   {
+    "qid": 111490,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q15",
+    "file": "questions/30079/113751/30079_q_113751_15_3.png"
+   },
+   {
+    "qid": 111490,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q15",
+    "file": "questions/30079/113751/30079_a_113751_15_1.png"
+   },
+   {
+    "qid": 111488,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q13",
+    "file": "questions/30079/113749/30079_q_113749_13_1.png"
+   },
+   {
+    "qid": 111488,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q13",
+    "file": "questions/30079/113749/30079_a_113749_13_1.png"
+   },
+   {
+    "qid": 111480,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q5",
+    "file": "questions/30079/113741/30079_q_113741_5_1.png"
+   },
+   {
+    "qid": 111475,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q19",
+    "file": "questions/30078/113736/30078_q_113736_19_1.png"
+   },
+   {
+    "qid": 111475,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q19",
+    "file": "questions/30078/113736/30078_a_113736_19_1.png"
+   },
+   {
+    "qid": 111471,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q15",
+    "file": "questions/30078/113732/30078_q_113732_15_1.png"
+   },
+   {
+    "qid": 111471,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q15",
+    "file": "questions/30078/113732/30078_a_113732_15_1.png"
+   },
+   {
+    "qid": 111392,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q19",
+    "file": "questions/30073/113653/30073_q_113653_19_1.png"
+   },
+   {
+    "qid": 111392,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q19",
+    "file": "questions/30073/113653/30073_a_113653_19_1.png"
+   },
+   {
+    "qid": 111390,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q17",
+    "file": "questions/30073/113651/30073_q_113651_17_1.png"
+   },
+   {
+    "qid": 111390,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q17",
+    "file": "questions/30073/113651/30073_a_113651_17_1.png"
+   },
+   {
+    "qid": 111390,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q17",
+    "file": "questions/30073/113651/30073_a_113651_17_2.png"
+   },
+   {
+    "qid": 111388,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q15",
+    "file": "questions/30073/113649/30073_q_113649_15_1.png"
+   },
+   {
+    "qid": 111388,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q15",
+    "file": "questions/30073/113649/30073_q_113649_15_2.png"
+   },
+   {
+    "qid": 111388,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q15",
+    "file": "questions/30073/113649/30073_a_113649_15_1.png"
+   },
+   {
+    "qid": 111386,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q13",
+    "file": "questions/30073/113647/30073_q_113647_13_1.png"
+   },
+   {
+    "qid": 111386,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q13",
+    "file": "questions/30073/113647/30073_a_113647_13_1.png"
+   },
+   {
+    "qid": 111385,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q12",
+    "file": "questions/30073/113646/30073_q_113646_12_1.png"
+   },
+   {
+    "qid": 111385,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q12",
+    "file": "questions/30073/113646/30073_q_113646_12_2.png"
+   },
+   {
+    "qid": 111385,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q12",
+    "file": "questions/30073/113646/30073_a_113646_12_1.png"
+   },
+   {
+    "qid": 111385,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q12",
+    "file": "questions/30073/113646/30073_a_113646_12_2.png"
+   },
+   {
+    "qid": 111383,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q10",
+    "file": "questions/30073/113644/30073_q_113644_10_1.png"
+   },
+   {
+    "qid": 111382,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q9",
+    "file": "questions/30073/113643/30073_q_113643_9_1.png"
+   },
+   {
+    "qid": 111378,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q5",
+    "file": "questions/30073/113639/30073_q_113639_5_1.png"
+   }
+  ],
+  "Compounds And Mixtures": [
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_1.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_q_113943_14_2.png"
+   },
+   {
+    "qid": 111682,
+    "paper_ref": "Science A_Combined/10_Summer_2019_Q14",
+    "file": "questions/30100/113943/30100_a_113943_14_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_2.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_q_113926_13_3.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_1.png"
+   },
+   {
+    "qid": 111665,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q13",
+    "file": "questions/30098/113926/30098_a_113926_13_2.png"
+   },
+   {
+    "qid": 111664,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q12",
+    "file": "questions/30098/113925/30098_q_113925_12_1.png"
+   },
+   {
+    "qid": 111664,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q12",
+    "file": "questions/30098/113925/30098_a_113925_12_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_q_113924_11_2.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_1.png"
+   },
+   {
+    "qid": 111663,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q11",
+    "file": "questions/30098/113924/30098_a_113924_11_2.png"
+   },
+   {
+    "qid": 111656,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q4",
+    "file": "questions/30098/113917/30098_q_113917_4_1.png"
+   },
+   {
+    "qid": 111654,
+    "paper_ref": "Science A_Combined/9_Summer_2019_Q2",
+    "file": "questions/30098/113915/30098_q_113915_2_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_2.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_q_113845_11_3.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_1.png"
+   },
+   {
+    "qid": 111584,
+    "paper_ref": "Science A_Combined/4_Summer_2019_Q11",
+    "file": "questions/30089/113845/30089_a_113845_11_2.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_q_113834_16_2.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_1.png"
+   },
+   {
+    "qid": 111573,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q16",
+    "file": "questions/30088/113834/30088_a_113834_16_2.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_1.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_2.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_q_113832_14_3.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_a_113832_14_1.png"
+   },
+   {
+    "qid": 111571,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q14",
+    "file": "questions/30088/113832/30088_a_113832_14_2.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_1.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_q_113830_12_2.png"
+   },
+   {
+    "qid": 111569,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q12",
+    "file": "questions/30088/113830/30088_a_113830_12_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_1.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_q_113829_11_2.png"
+   },
+   {
+    "qid": 111568,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q11",
+    "file": "questions/30088/113829/30088_a_113829_11_1.png"
+   },
+   {
+    "qid": 111565,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q8",
+    "file": "questions/30088/113826/30088_q_113826_8_1.png"
+   },
+   {
+    "qid": 111561,
+    "paper_ref": "Science A_Combined/3_Summer_2019_Q4",
+    "file": "questions/30088/113822/30088_q_113822_4_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_q_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_1.png"
+   },
+   {
+    "qid": 111493,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q18",
+    "file": "questions/30079/113754/30079_a_113754_18_2.png"
+   },
+   {
+    "qid": 111482,
+    "paper_ref": "Science A_Combined/10_Summer_2018_Q7",
+    "file": "questions/30079/113743/30079_q_113743_7_1.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_q_113733_16_1.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_q_113733_16_2.png"
+   },
+   {
+    "qid": 111472,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q16",
+    "file": "questions/30078/113733/30078_a_113733_16_1.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_q_113728_11_1.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_q_113728_11_2.png"
+   },
+   {
+    "qid": 111467,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q11",
+    "file": "questions/30078/113728/30078_a_113728_11_1.png"
+   },
+   {
+    "qid": 111463,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q7",
+    "file": "questions/30078/113724/30078_q_113724_7_1.png"
+   },
+   {
+    "qid": 111461,
+    "paper_ref": "Science A_Combined/9_Summer_2018_Q5",
+    "file": "questions/30078/113722/30078_q_113722_5_1.png"
+   },
+   {
+    "qid": 111376,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q3",
+    "file": "questions/30073/113637/30073_q_113637_3_1.png"
+   },
+   {
+    "qid": 111374,
+    "paper_ref": "Science A_Combined/4_Summer_2018_Q1",
+    "file": "questions/30073/113635/30073_q_113635_1_1.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_q_113633_18_1.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_q_113633_18_2.png"
+   },
+   {
+    "qid": 111372,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q18",
+    "file": "questions/30072/113633/30072_a_113633_18_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_q_113632_17_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_q_113632_17_2.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_a_113632_17_1.png"
+   },
+   {
+    "qid": 111371,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q17",
+    "file": "questions/30072/113632/30072_a_113632_17_2.png"
+   },
+   {
+    "qid": 111369,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q15",
+    "file": "questions/30072/113630/30072_q_113630_15_1.png"
+   },
+   {
+    "qid": 111369,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q15",
+    "file": "questions/30072/113630/30072_a_113630_15_1.png"
+   },
+   {
+    "qid": 111366,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q12",
+    "file": "questions/30072/113627/30072_q_113627_12_1.png"
+   },
+   {
+    "qid": 111366,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q12",
+    "file": "questions/30072/113627/30072_a_113627_12_1.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_q_113626_11_1.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_q_113626_11_2.png"
+   },
+   {
+    "qid": 111365,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q11",
+    "file": "questions/30072/113626/30072_a_113626_11_1.png"
+   },
+   {
+    "qid": 111363,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q9",
+    "file": "questions/30072/113624/30072_q_113624_9_1.png"
+   },
+   {
+    "qid": 111361,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q7",
+    "file": "questions/30072/113622/30072_q_113622_7_1.png"
+   },
+   {
+    "qid": 111358,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q4",
+    "file": "questions/30072/113619/30072_q_113619_4_1.png"
+   },
+   {
+    "qid": 111355,
+    "paper_ref": "Science A_Combined/3_Summer_2018_Q1",
+    "file": "questions/30072/113616/30072_q_113616_1_1.png"
+   }
+  ],
+  "P1: Matter": [
+   {
+    "qid": 111696,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q12",
+    "file": "questions/30102/113957/30102_q_113957_12_1.png"
+   },
+   {
+    "qid": 111696,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q12",
+    "file": "questions/30102/113957/30102_q_113957_12_2.png"
+   },
+   {
+    "qid": 111696,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q12",
+    "file": "questions/30102/113957/30102_q_113957_12_3.png"
+   },
+   {
+    "qid": 111696,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q12",
+    "file": "questions/30102/113957/30102_a_113957_12_1.png"
+   },
+   {
+    "qid": 111696,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q12",
+    "file": "questions/30102/113957/30102_a_113957_12_2.png"
+   },
+   {
+    "qid": 111691,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q7",
+    "file": "questions/30102/113952/30102_q_113952_7_1.png"
+   },
+   {
+    "qid": 111686,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q2",
+    "file": "questions/30102/113947/30102_q_113947_2_1.png"
+   },
+   {
+    "qid": 111612,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q7",
+    "file": "questions/30093/113873/30093_q_113873_7_1.png"
+   },
+   {
+    "qid": 111609,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q4",
+    "file": "questions/30093/113870/30093_q_113870_4_1.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_1.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_2.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_3.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_a_113865_15_1.png"
+   },
+   {
+    "qid": 111602,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q13",
+    "file": "questions/30090/113863/30090_q_113863_13_1.png"
+   },
+   {
+    "qid": 111602,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q13",
+    "file": "questions/30090/113863/30090_q_113863_13_2.png"
+   },
+   {
+    "qid": 111602,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q13",
+    "file": "questions/30090/113863/30090_a_113863_13_1.png"
+   },
+   {
+    "qid": 111600,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q11",
+    "file": "questions/30090/113861/30090_q_113861_11_1.png"
+   },
+   {
+    "qid": 111600,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q11",
+    "file": "questions/30090/113861/30090_a_113861_11_1.png"
+   },
+   {
+    "qid": 111599,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q10",
+    "file": "questions/30090/113860/30090_q_113860_10_1.png"
+   },
+   {
+    "qid": 111592,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q3",
+    "file": "questions/30090/113853/30090_q_113853_3_1.png"
+   },
+   {
+    "qid": 111525,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q16",
+    "file": "questions/30081/113786/30081_q_113786_16_1.png"
+   },
+   {
+    "qid": 111525,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q16",
+    "file": "questions/30081/113786/30081_q_113786_16_2.png"
+   },
+   {
+    "qid": 111525,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q16",
+    "file": "questions/30081/113786/30081_a_113786_16_1.png"
+   },
+   {
+    "qid": 111525,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q16",
+    "file": "questions/30081/113786/30081_a_113786_16_2.png"
+   },
+   {
+    "qid": 111525,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q16",
+    "file": "questions/30081/113786/30081_a_113786_16_3.png"
+   },
+   {
+    "qid": 111519,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q10",
+    "file": "questions/30081/113780/30081_q_113780_10_1.png"
+   },
+   {
+    "qid": 111516,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q7",
+    "file": "questions/30081/113777/30081_q_113777_7_1.png"
+   },
+   {
+    "qid": 111511,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q2",
+    "file": "questions/30081/113772/30081_q_113772_2_1.png"
+   },
+   {
+    "qid": 111506,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q13",
+    "file": "questions/30080/113767/30080_q_113767_13_1.png"
+   },
+   {
+    "qid": 111506,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q13",
+    "file": "questions/30080/113767/30080_a_113767_13_1.png"
+   },
+   {
+    "qid": 111502,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q9",
+    "file": "questions/30080/113763/30080_q_113763_9_1.png"
+   },
+   {
+    "qid": 111500,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q7",
+    "file": "questions/30080/113761/30080_q_113761_7_1.png"
+   },
+   {
+    "qid": 111497,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q4",
+    "file": "questions/30080/113758/30080_q_113758_4_1.png"
+   },
+   {
+    "qid": 111406,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q14",
+    "file": "questions/30074/113667/30074_q_113667_14_1.png"
+   },
+   {
+    "qid": 111406,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q14",
+    "file": "questions/30074/113667/30074_a_113667_14_1.png"
+   }
+  ],
+  "P2: Forces": [
+   {
+    "qid": 111715,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q16",
+    "file": "questions/30105/113976/30105_q_113976_16_1.png"
+   },
+   {
+    "qid": 111715,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q16",
+    "file": "questions/30105/113976/30105_q_113976_16_2.png"
+   },
+   {
+    "qid": 111715,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q16",
+    "file": "questions/30105/113976/30105_a_113976_16_1.png"
+   },
+   {
+    "qid": 111715,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q16",
+    "file": "questions/30105/113976/30105_a_113976_16_2.png"
+   },
+   {
+    "qid": 111709,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q10",
+    "file": "questions/30105/113970/30105_q_113970_10_1.png"
+   },
+   {
+    "qid": 111707,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q8",
+    "file": "questions/30105/113968/30105_q_113968_8_1.png"
+   },
+   {
+    "qid": 111702,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q3",
+    "file": "questions/30105/113963/30105_q_113963_3_1.png"
+   },
+   {
+    "qid": 111701,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q2",
+    "file": "questions/30105/113962/30105_q_113962_2_1.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_q_113960_15_1.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_q_113960_15_2.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_q_113960_15_3.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_q_113960_15_4.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_q_113960_15_5.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_a_113960_15_1.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_a_113960_15_2.png"
+   },
+   {
+    "qid": 111699,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q15",
+    "file": "questions/30102/113960/30102_a_113960_15_3.png"
+   },
+   {
+    "qid": 111698,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q14",
+    "file": "questions/30102/113959/30102_q_113959_14_1.png"
+   },
+   {
+    "qid": 111698,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q14",
+    "file": "questions/30102/113959/30102_a_113959_14_1.png"
+   },
+   {
+    "qid": 111694,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q10",
+    "file": "questions/30102/113955/30102_q_113955_10_1.png"
+   },
+   {
+    "qid": 111690,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q6",
+    "file": "questions/30102/113951/30102_q_113951_6_1.png"
+   },
+   {
+    "qid": 111689,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q5",
+    "file": "questions/30102/113950/30102_q_113950_5_1.png"
+   },
+   {
+    "qid": 111687,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q3",
+    "file": "questions/30102/113948/30102_q_113948_3_1.png"
+   },
+   {
+    "qid": 111685,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q1",
+    "file": "questions/30102/113946/30102_q_113946_1_1.png"
+   },
+   {
+    "qid": 111615,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q10",
+    "file": "questions/30093/113876/30093_q_113876_10_1.png"
+   },
+   {
+    "qid": 111610,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q5",
+    "file": "questions/30093/113871/30093_q_113871_5_1.png"
+   },
+   {
+    "qid": 111608,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q3",
+    "file": "questions/30093/113869/30093_q_113869_3_1.png"
+   },
+   {
+    "qid": 111607,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q2",
+    "file": "questions/30093/113868/30093_q_113868_2_1.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_1.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_2.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_q_113865_15_3.png"
+   },
+   {
+    "qid": 111604,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q15",
+    "file": "questions/30090/113865/30090_a_113865_15_1.png"
+   },
+   {
+    "qid": 111598,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q9",
+    "file": "questions/30090/113859/30090_q_113859_9_1.png"
+   },
+   {
+    "qid": 111597,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q8",
+    "file": "questions/30090/113858/30090_q_113858_8_1.png"
+   },
+   {
+    "qid": 111596,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q7",
+    "file": "questions/30090/113857/30090_q_113857_7_1.png"
+   },
+   {
+    "qid": 111522,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q13",
+    "file": "questions/30081/113783/30081_q_113783_13_1.png"
+   },
+   {
+    "qid": 111522,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q13",
+    "file": "questions/30081/113783/30081_q_113783_13_2.png"
+   },
+   {
+    "qid": 111522,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q13",
+    "file": "questions/30081/113783/30081_a_113783_13_1.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_q_113782_12_1.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_q_113782_12_2.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_q_113782_12_3.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_a_113782_12_1.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_a_113782_12_2.png"
+   },
+   {
+    "qid": 111521,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q12",
+    "file": "questions/30081/113782/30081_a_113782_12_3.png"
+   },
+   {
+    "qid": 111518,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q9",
+    "file": "questions/30081/113779/30081_q_113779_9_1.png"
+   },
+   {
+    "qid": 111514,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q5",
+    "file": "questions/30081/113775/30081_q_113775_5_1.png"
+   },
+   {
+    "qid": 111510,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q1",
+    "file": "questions/30081/113771/30081_q_113771_1_1.png"
+   },
+   {
+    "qid": 111507,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q14",
+    "file": "questions/30080/113768/30080_q_113768_14_1.png"
+   },
+   {
+    "qid": 111507,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q14",
+    "file": "questions/30080/113768/30080_a_113768_14_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_q_113765_11_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_q_113765_11_2.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_a_113765_11_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_a_113765_11_2.png"
+   },
+   {
+    "qid": 111503,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q10",
+    "file": "questions/30080/113764/30080_q_113764_10_1.png"
+   },
+   {
+    "qid": 111501,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q8",
+    "file": "questions/30080/113762/30080_q_113762_8_1.png"
+   },
+   {
+    "qid": 111499,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q6",
+    "file": "questions/30080/113760/30080_q_113760_6_1.png"
+   },
+   {
+    "qid": 111425,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q17",
+    "file": "questions/30075/113686/30075_q_113686_17_1.png"
+   },
+   {
+    "qid": 111425,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q17",
+    "file": "questions/30075/113686/30075_q_113686_17_2.png"
+   },
+   {
+    "qid": 111425,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q17",
+    "file": "questions/30075/113686/30075_q_113686_17_3.png"
+   },
+   {
+    "qid": 111425,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q17",
+    "file": "questions/30075/113686/30075_a_113686_17_1.png"
+   },
+   {
+    "qid": 111425,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q17",
+    "file": "questions/30075/113686/30075_a_113686_17_2.png"
+   },
+   {
+    "qid": 111423,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q15",
+    "file": "questions/30075/113684/30075_q_113684_15_1.png"
+   },
+   {
+    "qid": 111423,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q15",
+    "file": "questions/30075/113684/30075_q_113684_15_2.png"
+   },
+   {
+    "qid": 111423,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q15",
+    "file": "questions/30075/113684/30075_a_113684_15_1.png"
+   },
+   {
+    "qid": 111423,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q15",
+    "file": "questions/30075/113684/30075_a_113684_15_2.png"
+   },
+   {
+    "qid": 111418,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q10",
+    "file": "questions/30075/113679/30075_q_113679_10_1.png"
+   },
+   {
+    "qid": 111417,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q9",
+    "file": "questions/30075/113678/30075_q_113678_9_1.png"
+   },
+   {
+    "qid": 111413,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q5",
+    "file": "questions/30075/113674/30075_q_113674_5_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_q_113669_16_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_q_113669_16_2.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_a_113669_16_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_a_113669_16_2.png"
+   },
+   {
+    "qid": 111407,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q15",
+    "file": "questions/30074/113668/30074_q_113668_15_1.png"
+   },
+   {
+    "qid": 111407,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q15",
+    "file": "questions/30074/113668/30074_a_113668_15_1.png"
+   },
+   {
+    "qid": 111404,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q12",
+    "file": "questions/30074/113665/30074_q_113665_12_1.png"
+   },
+   {
+    "qid": 111404,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q12",
+    "file": "questions/30074/113665/30074_q_113665_12_2.png"
+   },
+   {
+    "qid": 111404,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q12",
+    "file": "questions/30074/113665/30074_a_113665_12_1.png"
+   },
+   {
+    "qid": 111404,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q12",
+    "file": "questions/30074/113665/30074_a_113665_12_2.png"
+   },
+   {
+    "qid": 111401,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q9",
+    "file": "questions/30074/113662/30074_q_113662_9_1.png"
+   },
+   {
+    "qid": 111396,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q4",
+    "file": "questions/30074/113657/30074_q_113657_4_1.png"
+   },
+   {
+    "qid": 111395,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q3",
+    "file": "questions/30074/113656/30074_q_113656_3_1.png"
+   },
+   {
+    "qid": 111393,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q1",
+    "file": "questions/30074/113654/30074_q_113654_1_1.png"
+   }
+  ],
+  "P3: Electricity And Magnetism": [
+   {
+    "qid": 111704,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q5",
+    "file": "questions/30105/113965/30105_q_113965_5_1.png"
+   },
+   {
+    "qid": 111697,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q13",
+    "file": "questions/30102/113958/30102_q_113958_13_1.png"
+   },
+   {
+    "qid": 111697,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q13",
+    "file": "questions/30102/113958/30102_q_113958_13_2.png"
+   },
+   {
+    "qid": 111697,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q13",
+    "file": "questions/30102/113958/30102_a_113958_13_1.png"
+   },
+   {
+    "qid": 111697,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q13",
+    "file": "questions/30102/113958/30102_a_113958_13_2.png"
+   },
+   {
+    "qid": 111695,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q11",
+    "file": "questions/30102/113956/30102_q_113956_11_1.png"
+   },
+   {
+    "qid": 111695,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q11",
+    "file": "questions/30102/113956/30102_q_113956_11_2.png"
+   },
+   {
+    "qid": 111695,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q11",
+    "file": "questions/30102/113956/30102_q_113956_11_3.png"
+   },
+   {
+    "qid": 111695,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q11",
+    "file": "questions/30102/113956/30102_a_113956_11_1.png"
+   },
+   {
+    "qid": 111695,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q11",
+    "file": "questions/30102/113956/30102_a_113956_11_2.png"
+   },
+   {
+    "qid": 111693,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q9",
+    "file": "questions/30102/113954/30102_q_113954_9_1.png"
+   },
+   {
+    "qid": 111692,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q8",
+    "file": "questions/30102/113953/30102_q_113953_8_1.png"
+   },
+   {
+    "qid": 111688,
+    "paper_ref": "Science A_Combined/11_Summer_2019_Q4",
+    "file": "questions/30102/113949/30102_q_113949_4_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_q_113880_14_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_q_113880_14_2.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_2.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_3.png"
+   },
+   {
+    "qid": 111614,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q9",
+    "file": "questions/30093/113875/30093_q_113875_9_1.png"
+   },
+   {
+    "qid": 111611,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q6",
+    "file": "questions/30093/113872/30093_q_113872_6_1.png"
+   },
+   {
+    "qid": 111605,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q16",
+    "file": "questions/30090/113866/30090_q_113866_16_1.png"
+   },
+   {
+    "qid": 111605,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q16",
+    "file": "questions/30090/113866/30090_q_113866_16_2.png"
+   },
+   {
+    "qid": 111605,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q16",
+    "file": "questions/30090/113866/30090_q_113866_16_3.png"
+   },
+   {
+    "qid": 111605,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q16",
+    "file": "questions/30090/113866/30090_a_113866_16_1.png"
+   },
+   {
+    "qid": 111605,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q16",
+    "file": "questions/30090/113866/30090_a_113866_16_2.png"
+   },
+   {
+    "qid": 111603,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q14",
+    "file": "questions/30090/113864/30090_q_113864_14_1.png"
+   },
+   {
+    "qid": 111603,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q14",
+    "file": "questions/30090/113864/30090_a_113864_14_1.png"
+   },
+   {
+    "qid": 111601,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q12",
+    "file": "questions/30090/113862/30090_q_113862_12_1.png"
+   },
+   {
+    "qid": 111601,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q12",
+    "file": "questions/30090/113862/30090_q_113862_12_2.png"
+   },
+   {
+    "qid": 111601,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q12",
+    "file": "questions/30090/113862/30090_a_113862_12_1.png"
+   },
+   {
+    "qid": 111594,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q5",
+    "file": "questions/30090/113855/30090_q_113855_5_1.png"
+   },
+   {
+    "qid": 111593,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q4",
+    "file": "questions/30090/113854/30090_q_113854_4_1.png"
+   },
+   {
+    "qid": 111591,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q2",
+    "file": "questions/30090/113852/30090_q_113852_2_1.png"
+   },
+   {
+    "qid": 111590,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q1",
+    "file": "questions/30090/113851/30090_q_113851_1_1.png"
+   },
+   {
+    "qid": 111524,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q15",
+    "file": "questions/30081/113785/30081_q_113785_15_1.png"
+   },
+   {
+    "qid": 111524,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q15",
+    "file": "questions/30081/113785/30081_q_113785_15_2.png"
+   },
+   {
+    "qid": 111524,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q15",
+    "file": "questions/30081/113785/30081_a_113785_15_1.png"
+   },
+   {
+    "qid": 111524,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q15",
+    "file": "questions/30081/113785/30081_a_113785_15_2.png"
+   },
+   {
+    "qid": 111513,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q4",
+    "file": "questions/30081/113774/30081_q_113774_4_1.png"
+   },
+   {
+    "qid": 111509,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q16",
+    "file": "questions/30080/113770/30080_q_113770_16_1.png"
+   },
+   {
+    "qid": 111509,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q16",
+    "file": "questions/30080/113770/30080_q_113770_16_2.png"
+   },
+   {
+    "qid": 111509,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q16",
+    "file": "questions/30080/113770/30080_a_113770_16_1.png"
+   },
+   {
+    "qid": 111509,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q16",
+    "file": "questions/30080/113770/30080_a_113770_16_2.png"
+   },
+   {
+    "qid": 111508,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q15",
+    "file": "questions/30080/113769/30080_q_113769_15_1.png"
+   },
+   {
+    "qid": 111508,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q15",
+    "file": "questions/30080/113769/30080_a_113769_15_1.png"
+   },
+   {
+    "qid": 111505,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q12",
+    "file": "questions/30080/113766/30080_q_113766_12_1.png"
+   },
+   {
+    "qid": 111505,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q12",
+    "file": "questions/30080/113766/30080_a_113766_12_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_q_113765_11_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_q_113765_11_2.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_a_113765_11_1.png"
+   },
+   {
+    "qid": 111504,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q11",
+    "file": "questions/30080/113765/30080_a_113765_11_2.png"
+   },
+   {
+    "qid": 111498,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q5",
+    "file": "questions/30080/113759/30080_q_113759_5_1.png"
+   },
+   {
+    "qid": 111496,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q3",
+    "file": "questions/30080/113757/30080_q_113757_3_1.png"
+   },
+   {
+    "qid": 111494,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q1",
+    "file": "questions/30080/113755/30080_q_113755_1_1.png"
+   },
+   {
+    "qid": 111414,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q6",
+    "file": "questions/30075/113675/30075_q_113675_6_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_q_113669_16_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_q_113669_16_2.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_a_113669_16_1.png"
+   },
+   {
+    "qid": 111408,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q16",
+    "file": "questions/30074/113669/30074_a_113669_16_2.png"
+   },
+   {
+    "qid": 111403,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q11",
+    "file": "questions/30074/113664/30074_q_113664_11_1.png"
+   },
+   {
+    "qid": 111403,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q11",
+    "file": "questions/30074/113664/30074_q_113664_11_2.png"
+   },
+   {
+    "qid": 111403,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q11",
+    "file": "questions/30074/113664/30074_a_113664_11_1.png"
+   },
+   {
+    "qid": 111403,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q11",
+    "file": "questions/30074/113664/30074_a_113664_11_2.png"
+   },
+   {
+    "qid": 111402,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q10",
+    "file": "questions/30074/113663/30074_q_113663_10_1.png"
+   },
+   {
+    "qid": 111397,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q5",
+    "file": "questions/30074/113658/30074_q_113658_5_1.png"
+   },
+   {
+    "qid": 111394,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q2",
+    "file": "questions/30074/113655/30074_q_113655_2_1.png"
+   }
+  ],
+  "P4: Waves And Radioactivity": [
+   {
+    "qid": 111714,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q15",
+    "file": "questions/30105/113975/30105_q_113975_15_1.png"
+   },
+   {
+    "qid": 111714,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q15",
+    "file": "questions/30105/113975/30105_q_113975_15_2.png"
+   },
+   {
+    "qid": 111714,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q15",
+    "file": "questions/30105/113975/30105_q_113975_15_3.png"
+   },
+   {
+    "qid": 111714,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q15",
+    "file": "questions/30105/113975/30105_a_113975_15_1.png"
+   },
+   {
+    "qid": 111714,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q15",
+    "file": "questions/30105/113975/30105_a_113975_15_2.png"
+   },
+   {
+    "qid": 111712,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q13",
+    "file": "questions/30105/113973/30105_q_113973_13_1.png"
+   },
+   {
+    "qid": 111712,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q13",
+    "file": "questions/30105/113973/30105_a_113973_13_1.png"
+   },
+   {
+    "qid": 111711,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q12",
+    "file": "questions/30105/113972/30105_q_113972_12_1.png"
+   },
+   {
+    "qid": 111711,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q12",
+    "file": "questions/30105/113972/30105_a_113972_12_1.png"
+   },
+   {
+    "qid": 111710,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q11",
+    "file": "questions/30105/113971/30105_q_113971_11_1.png"
+   },
+   {
+    "qid": 111710,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q11",
+    "file": "questions/30105/113971/30105_q_113971_11_2.png"
+   },
+   {
+    "qid": 111710,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q11",
+    "file": "questions/30105/113971/30105_a_113971_11_1.png"
+   },
+   {
+    "qid": 111708,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q9",
+    "file": "questions/30105/113969/30105_q_113969_9_1.png"
+   },
+   {
+    "qid": 111705,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q6",
+    "file": "questions/30105/113966/30105_q_113966_6_1.png"
+   },
+   {
+    "qid": 111703,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q4",
+    "file": "questions/30105/113964/30105_q_113964_4_1.png"
+   },
+   {
+    "qid": 111700,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q1",
+    "file": "questions/30105/113961/30105_q_113961_1_1.png"
+   },
+   {
+    "qid": 111621,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q16",
+    "file": "questions/30093/113882/30093_q_113882_16_1.png"
+   },
+   {
+    "qid": 111621,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q16",
+    "file": "questions/30093/113882/30093_a_113882_16_1.png"
+   },
+   {
+    "qid": 111620,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q15",
+    "file": "questions/30093/113881/30093_q_113881_15_1.png"
+   },
+   {
+    "qid": 111620,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q15",
+    "file": "questions/30093/113881/30093_q_113881_15_2.png"
+   },
+   {
+    "qid": 111620,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q15",
+    "file": "questions/30093/113881/30093_a_113881_15_1.png"
+   },
+   {
+    "qid": 111618,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q13",
+    "file": "questions/30093/113879/30093_q_113879_13_1.png"
+   },
+   {
+    "qid": 111618,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q13",
+    "file": "questions/30093/113879/30093_q_113879_13_2.png"
+   },
+   {
+    "qid": 111618,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q13",
+    "file": "questions/30093/113879/30093_a_113879_13_1.png"
+   },
+   {
+    "qid": 111618,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q13",
+    "file": "questions/30093/113879/30093_a_113879_13_2.png"
+   },
+   {
+    "qid": 111617,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q12",
+    "file": "questions/30093/113878/30093_q_113878_12_1.png"
+   },
+   {
+    "qid": 111617,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q12",
+    "file": "questions/30093/113878/30093_q_113878_12_2.png"
+   },
+   {
+    "qid": 111617,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q12",
+    "file": "questions/30093/113878/30093_q_113878_12_3.png"
+   },
+   {
+    "qid": 111617,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q12",
+    "file": "questions/30093/113878/30093_a_113878_12_1.png"
+   },
+   {
+    "qid": 111616,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q11",
+    "file": "questions/30093/113877/30093_q_113877_11_1.png"
+   },
+   {
+    "qid": 111616,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q11",
+    "file": "questions/30093/113877/30093_a_113877_11_1.png"
+   },
+   {
+    "qid": 111606,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q1",
+    "file": "questions/30093/113867/30093_q_113867_1_1.png"
+   },
+   {
+    "qid": 111523,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q14",
+    "file": "questions/30081/113784/30081_q_113784_14_1.png"
+   },
+   {
+    "qid": 111523,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q14",
+    "file": "questions/30081/113784/30081_q_113784_14_2.png"
+   },
+   {
+    "qid": 111523,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q14",
+    "file": "questions/30081/113784/30081_a_113784_14_1.png"
+   },
+   {
+    "qid": 111520,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q11",
+    "file": "questions/30081/113781/30081_q_113781_11_1.png"
+   },
+   {
+    "qid": 111520,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q11",
+    "file": "questions/30081/113781/30081_q_113781_11_2.png"
+   },
+   {
+    "qid": 111520,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q11",
+    "file": "questions/30081/113781/30081_a_113781_11_1.png"
+   },
+   {
+    "qid": 111520,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q11",
+    "file": "questions/30081/113781/30081_a_113781_11_2.png"
+   },
+   {
+    "qid": 111517,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q8",
+    "file": "questions/30081/113778/30081_q_113778_8_1.png"
+   },
+   {
+    "qid": 111424,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q16",
+    "file": "questions/30075/113685/30075_q_113685_16_1.png"
+   },
+   {
+    "qid": 111424,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q16",
+    "file": "questions/30075/113685/30075_q_113685_16_2.png"
+   },
+   {
+    "qid": 111424,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q16",
+    "file": "questions/30075/113685/30075_a_113685_16_1.png"
+   },
+   {
+    "qid": 111424,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q16",
+    "file": "questions/30075/113685/30075_a_113685_16_2.png"
+   },
+   {
+    "qid": 111419,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q11",
+    "file": "questions/30075/113680/30075_q_113680_11_1.png"
+   },
+   {
+    "qid": 111419,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q11",
+    "file": "questions/30075/113680/30075_q_113680_11_2.png"
+   },
+   {
+    "qid": 111419,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q11",
+    "file": "questions/30075/113680/30075_a_113680_11_1.png"
+   },
+   {
+    "qid": 111415,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q7",
+    "file": "questions/30075/113676/30075_q_113676_7_1.png"
+   },
+   {
+    "qid": 111411,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q3",
+    "file": "questions/30075/113672/30075_q_113672_3_1.png"
+   },
+   {
+    "qid": 111410,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q2",
+    "file": "questions/30075/113671/30075_q_113671_2_1.png"
+   },
+   {
+    "qid": 111409,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q1",
+    "file": "questions/30075/113670/30075_q_113670_1_1.png"
+   },
+   {
+    "qid": 111399,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q7",
+    "file": "questions/30074/113660/30074_q_113660_7_1.png"
+   }
+  ],
+  "P5: Energy": [
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_q_113974_14_1.png"
+   },
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_q_113974_14_2.png"
+   },
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_a_113974_14_1.png"
+   },
+   {
+    "qid": 111706,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q7",
+    "file": "questions/30105/113967/30105_q_113967_7_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_q_113880_14_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_q_113880_14_2.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_1.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_2.png"
+   },
+   {
+    "qid": 111619,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q14",
+    "file": "questions/30093/113880/30093_a_113880_14_3.png"
+   },
+   {
+    "qid": 111613,
+    "paper_ref": "Science A_Combined/6_Summer_2019_Q8",
+    "file": "questions/30093/113874/30093_q_113874_8_1.png"
+   },
+   {
+    "qid": 111595,
+    "paper_ref": "Science A_Combined/5_Summer_2019_Q6",
+    "file": "questions/30090/113856/30090_q_113856_6_1.png"
+   },
+   {
+    "qid": 111495,
+    "paper_ref": "Science A_Combined/11_Summer_2018_Q2",
+    "file": "questions/30080/113756/30080_q_113756_2_1.png"
+   },
+   {
+    "qid": 111422,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q14",
+    "file": "questions/30075/113683/30075_q_113683_14_1.png"
+   },
+   {
+    "qid": 111422,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q14",
+    "file": "questions/30075/113683/30075_q_113683_14_2.png"
+   },
+   {
+    "qid": 111422,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q14",
+    "file": "questions/30075/113683/30075_q_113683_14_3.png"
+   },
+   {
+    "qid": 111422,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q14",
+    "file": "questions/30075/113683/30075_a_113683_14_1.png"
+   },
+   {
+    "qid": 111422,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q14",
+    "file": "questions/30075/113683/30075_a_113683_14_2.png"
+   },
+   {
+    "qid": 111420,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q12",
+    "file": "questions/30075/113681/30075_q_113681_12_1.png"
+   },
+   {
+    "qid": 111420,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q12",
+    "file": "questions/30075/113681/30075_q_113681_12_2.png"
+   },
+   {
+    "qid": 111420,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q12",
+    "file": "questions/30075/113681/30075_a_113681_12_1.png"
+   },
+   {
+    "qid": 111420,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q12",
+    "file": "questions/30075/113681/30075_a_113681_12_2.png"
+   },
+   {
+    "qid": 111416,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q8",
+    "file": "questions/30075/113677/30075_q_113677_8_1.png"
+   },
+   {
+    "qid": 111412,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q4",
+    "file": "questions/30075/113673/30075_q_113673_4_1.png"
+   },
+   {
+    "qid": 111405,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q13",
+    "file": "questions/30074/113666/30074_q_113666_13_1.png"
+   },
+   {
+    "qid": 111405,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q13",
+    "file": "questions/30074/113666/30074_a_113666_13_1.png"
+   },
+   {
+    "qid": 111405,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q13",
+    "file": "questions/30074/113666/30074_a_113666_13_2.png"
+   },
+   {
+    "qid": 111400,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q8",
+    "file": "questions/30074/113661/30074_q_113661_8_1.png"
+   },
+   {
+    "qid": 111398,
+    "paper_ref": "Science A_Combined/5_Summer_2018_Q6",
+    "file": "questions/30074/113659/30074_q_113659_6_1.png"
+   }
+  ],
+  "P6: Global Challenges": [
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_q_113974_14_1.png"
+   },
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_q_113974_14_2.png"
+   },
+   {
+    "qid": 111713,
+    "paper_ref": "Science A_Combined/12_Summer_2019_Q14",
+    "file": "questions/30105/113974/30105_a_113974_14_1.png"
+   },
+   {
+    "qid": 111515,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q6",
+    "file": "questions/30081/113776/30081_q_113776_6_1.png"
+   },
+   {
+    "qid": 111512,
+    "paper_ref": "Science A_Combined/12_Summer_2018_Q3",
+    "file": "questions/30081/113773/30081_q_113773_3_1.png"
+   },
+   {
+    "qid": 111421,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q13",
+    "file": "questions/30075/113682/30075_q_113682_13_1.png"
+   },
+   {
+    "qid": 111421,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q13",
+    "file": "questions/30075/113682/30075_a_113682_13_1.png"
+   },
+   {
+    "qid": 111421,
+    "paper_ref": "Science A_Combined/6_Summer_2018_Q13",
+    "file": "questions/30075/113682/30075_a_113682_13_2.png"
+   }
+  ]
+ }
+}
