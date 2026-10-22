@@ -8,7 +8,7 @@ SRC=/home/z/my-project/syllabai-experimental/exam-mate/resources/topical_papers
 cd /home/z/my-project/syllabai-experimental-2/exam-mate/scripts || exit 1
 for rel in "$@"; do
   echo "=== $rel ==="
-  timeout -k 5 500 python3 "$BULK" --phase all \
+  timeout -k 5 "${TIMEOUT:-500}" python3 "$BULK" --phase all \
     --subject-dir "$rel" \
     --questions-from "$SRC/$rel/questions.jsonl" \
     --batch 6 --delay 0.7 2>&1 | tail -11
