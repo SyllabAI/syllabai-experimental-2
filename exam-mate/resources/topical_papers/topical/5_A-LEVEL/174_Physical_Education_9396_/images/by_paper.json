@@ -1,0 +1,1624 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:12:40Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "9396/11_Winter_2019_Q1": {
+   "qid": 93630,
+   "page": 1,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/21851/95788/21851_q_95788_1_1.png"
+   ],
+   "answer_images": [
+    "questions/21851/95788/21851_a_95788_1_1.png",
+    "questions/21851/95788/21851_a_95788_1_2.png"
+   ]
+  },
+  "9396/11_Winter_2019_Q2": {
+   "qid": 93631,
+   "page": 1,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/21851/95789/21851_q_95789_2_1.png"
+   ],
+   "answer_images": [
+    "questions/21851/95789/21851_a_95789_2_1.png",
+    "questions/21851/95789/21851_a_95789_2_2.png"
+   ]
+  },
+  "9396/11_Winter_2019_Q3": {
+   "qid": 93632,
+   "page": 1,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/21851/95790/21851_q_95790_3_1.png"
+   ],
+   "answer_images": [
+    "questions/21851/95790/21851_a_95790_3_1.png",
+    "questions/21851/95790/21851_a_95790_3_2.png",
+    "questions/21851/95790/21851_a_95790_3_3.png",
+    "questions/21851/95790/21851_a_95790_3_4.png"
+   ]
+  },
+  "9396/12_Winter_2019_Q1": {
+   "qid": 93633,
+   "page": 1,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/21852/95791/21852_q_95791_1_1.png"
+   ],
+   "answer_images": [
+    "questions/21852/95791/21852_a_95791_1_1.png",
+    "questions/21852/95791/21852_a_95791_1_2.png"
+   ]
+  },
+  "9396/12_Winter_2019_Q2": {
+   "qid": 93634,
+   "page": 1,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/21852/95792/21852_q_95792_2_1.png"
+   ],
+   "answer_images": [
+    "questions/21852/95792/21852_a_95792_2_1.png",
+    "questions/21852/95792/21852_a_95792_2_2.png",
+    "questions/21852/95792/21852_a_95792_2_3.png"
+   ]
+  },
+  "9396/12_Winter_2019_Q3": {
+   "qid": 93635,
+   "page": 1,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/21852/95793/21852_q_95793_3_1.png"
+   ],
+   "answer_images": [
+    "questions/21852/95793/21852_a_95793_3_1.png",
+    "questions/21852/95793/21852_a_95793_3_2.png",
+    "questions/21852/95793/21852_a_95793_3_3.png"
+   ]
+  },
+  "9396/13_Winter_2019_Q1": {
+   "qid": 93636,
+   "page": 1,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/21853/95794/21853_q_95794_1_1.png"
+   ],
+   "answer_images": [
+    "questions/21853/95794/21853_a_95794_1_1.png",
+    "questions/21853/95794/21853_a_95794_1_2.png"
+   ]
+  },
+  "9396/13_Winter_2019_Q2": {
+   "qid": 93637,
+   "page": 1,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/21853/95795/21853_q_95795_2_1.png"
+   ],
+   "answer_images": [
+    "questions/21853/95795/21853_a_95795_2_1.png",
+    "questions/21853/95795/21853_a_95795_2_2.png"
+   ]
+  },
+  "9396/13_Winter_2019_Q3": {
+   "qid": 93638,
+   "page": 1,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/21853/95796/21853_q_95796_3_1.png"
+   ],
+   "answer_images": [
+    "questions/21853/95796/21853_a_95796_3_1.png",
+    "questions/21853/95796/21853_a_95796_3_2.png",
+    "questions/21853/95796/21853_a_95796_3_3.png"
+   ]
+  },
+  "9396/32_Winter_2019_Q1": {
+   "qid": 93675,
+   "page": 1,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/21854/95833/21854_q_95833_1_1.png"
+   ],
+   "answer_images": [
+    "questions/21854/95833/21854_a_95833_1_1.png",
+    "questions/21854/95833/21854_a_95833_1_2.png",
+    "questions/21854/95833/21854_a_95833_1_3.png"
+   ]
+  },
+  "9396/32_Winter_2019_Q2": {
+   "qid": 93676,
+   "page": 1,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/21854/95834/21854_q_95834_2_1.png"
+   ],
+   "answer_images": [
+    "questions/21854/95834/21854_a_95834_2_1.png",
+    "questions/21854/95834/21854_a_95834_2_2.png",
+    "questions/21854/95834/21854_a_95834_2_3.png"
+   ]
+  },
+  "9396/32_Winter_2019_Q3": {
+   "qid": 93677,
+   "page": 1,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/21854/95835/21854_q_95835_3_1.png"
+   ],
+   "answer_images": [
+    "questions/21854/95835/21854_a_95835_3_1.png",
+    "questions/21854/95835/21854_a_95835_3_2.png"
+   ]
+  },
+  "9396/33_Winter_2019_Q1": {
+   "qid": 93678,
+   "page": 1,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/21855/95836/21855_q_95836_1_1.png"
+   ],
+   "answer_images": [
+    "questions/21855/95836/21855_a_95836_1_1.png",
+    "questions/21855/95836/21855_a_95836_1_2.png",
+    "questions/21855/95836/21855_a_95836_1_3.png"
+   ]
+  },
+  "9396/33_Winter_2019_Q2": {
+   "qid": 93679,
+   "page": 1,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/21855/95837/21855_q_95837_2_1.png"
+   ],
+   "answer_images": [
+    "questions/21855/95837/21855_a_95837_2_1.png",
+    "questions/21855/95837/21855_a_95837_2_2.png",
+    "questions/21855/95837/21855_a_95837_2_3.png"
+   ]
+  },
+  "9396/33_Winter_2019_Q3": {
+   "qid": 93680,
+   "page": 1,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/21855/95838/21855_q_95838_3_1.png"
+   ],
+   "answer_images": [
+    "questions/21855/95838/21855_a_95838_3_1.png",
+    "questions/21855/95838/21855_a_95838_3_2.png"
+   ]
+  },
+  "9396/11_Winter_2018_Q1": {
+   "qid": 93621,
+   "page": 2,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/20210/95779/20210_q_95779_1_1.png",
+    "questions/20210/95779/20210_q_95779_1_2.png"
+   ],
+   "answer_images": [
+    "questions/20210/95779/20210_a_95779_1_1.png",
+    "questions/20210/95779/20210_a_95779_1_2.png",
+    "questions/20210/95779/20210_a_95779_1_3.png"
+   ]
+  },
+  "9396/11_Winter_2018_Q2": {
+   "qid": 93622,
+   "page": 2,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/20210/95780/20210_q_95780_2_1.png"
+   ],
+   "answer_images": [
+    "questions/20210/95780/20210_a_95780_2_1.png",
+    "questions/20210/95780/20210_a_95780_2_2.png",
+    "questions/20210/95780/20210_a_95780_2_3.png"
+   ]
+  },
+  "9396/11_Winter_2018_Q3": {
+   "qid": 93623,
+   "page": 2,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/20210/95781/20210_q_95781_3_1.png"
+   ],
+   "answer_images": [
+    "questions/20210/95781/20210_a_95781_3_1.png",
+    "questions/20210/95781/20210_a_95781_3_2.png",
+    "questions/20210/95781/20210_a_95781_3_3.png",
+    "questions/20210/95781/20210_a_95781_3_4.png"
+   ]
+  },
+  "9396/12_Winter_2018_Q1": {
+   "qid": 93624,
+   "page": 2,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/20211/95782/20211_q_95782_1_1.png"
+   ],
+   "answer_images": [
+    "questions/20211/95782/20211_a_95782_1_1.png",
+    "questions/20211/95782/20211_a_95782_1_2.png"
+   ]
+  },
+  "9396/12_Winter_2018_Q2": {
+   "qid": 93625,
+   "page": 2,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/20211/95783/20211_q_95783_2_1.png"
+   ],
+   "answer_images": [
+    "questions/20211/95783/20211_a_95783_2_1.png",
+    "questions/20211/95783/20211_a_95783_2_2.png"
+   ]
+  },
+  "9396/12_Winter_2018_Q3": {
+   "qid": 93626,
+   "page": 1,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/20211/95784/20211_q_95784_3_1.png"
+   ],
+   "answer_images": [
+    "questions/20211/95784/20211_a_95784_3_1.png",
+    "questions/20211/95784/20211_a_95784_3_2.png"
+   ]
+  },
+  "9396/13_Winter_2018_Q1": {
+   "qid": 93627,
+   "page": 1,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/20212/95785/20212_q_95785_1_1.png",
+    "questions/20212/95785/20212_q_95785_1_2.png"
+   ],
+   "answer_images": [
+    "questions/20212/95785/20212_a_95785_1_1.png",
+    "questions/20212/95785/20212_a_95785_1_2.png"
+   ]
+  },
+  "9396/13_Winter_2018_Q2": {
+   "qid": 93628,
+   "page": 1,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/20212/95786/20212_q_95786_2_1.png"
+   ],
+   "answer_images": [
+    "questions/20212/95786/20212_a_95786_2_1.png",
+    "questions/20212/95786/20212_a_95786_2_2.png"
+   ]
+  },
+  "9396/13_Winter_2018_Q3": {
+   "qid": 93629,
+   "page": 1,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/20212/95787/20212_q_95787_3_1.png"
+   ],
+   "answer_images": [
+    "questions/20212/95787/20212_a_95787_3_1.png",
+    "questions/20212/95787/20212_a_95787_3_2.png",
+    "questions/20212/95787/20212_a_95787_3_3.png"
+   ]
+  },
+  "9396/32_Winter_2018_Q1": {
+   "qid": 93669,
+   "page": 1,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/20213/95827/20213_q_95827_1_1.png"
+   ],
+   "answer_images": [
+    "questions/20213/95827/20213_a_95827_1_1.png",
+    "questions/20213/95827/20213_a_95827_1_2.png",
+    "questions/20213/95827/20213_a_95827_1_3.png"
+   ]
+  },
+  "9396/32_Winter_2018_Q2": {
+   "qid": 93670,
+   "page": 1,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/20213/95828/20213_q_95828_2_1.png"
+   ],
+   "answer_images": [
+    "questions/20213/95828/20213_a_95828_2_1.png",
+    "questions/20213/95828/20213_a_95828_2_2.png",
+    "questions/20213/95828/20213_a_95828_2_3.png"
+   ]
+  },
+  "9396/32_Winter_2018_Q3": {
+   "qid": 93671,
+   "page": 1,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/20213/95829/20213_q_95829_3_1.png"
+   ],
+   "answer_images": [
+    "questions/20213/95829/20213_a_95829_3_1.png",
+    "questions/20213/95829/20213_a_95829_3_2.png",
+    "questions/20213/95829/20213_a_95829_3_3.png"
+   ]
+  },
+  "9396/33_Winter_2018_Q1": {
+   "qid": 93672,
+   "page": 1,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/20214/95830/20214_q_95830_1_1.png"
+   ],
+   "answer_images": [
+    "questions/20214/95830/20214_a_95830_1_1.png",
+    "questions/20214/95830/20214_a_95830_1_2.png",
+    "questions/20214/95830/20214_a_95830_1_3.png"
+   ]
+  },
+  "9396/33_Winter_2018_Q2": {
+   "qid": 93673,
+   "page": 1,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/20214/95831/20214_q_95831_2_1.png"
+   ],
+   "answer_images": [
+    "questions/20214/95831/20214_a_95831_2_1.png",
+    "questions/20214/95831/20214_a_95831_2_2.png",
+    "questions/20214/95831/20214_a_95831_2_3.png"
+   ]
+  },
+  "9396/33_Winter_2018_Q3": {
+   "qid": 93674,
+   "page": 1,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/20214/95832/20214_q_95832_3_1.png"
+   ],
+   "answer_images": [
+    "questions/20214/95832/20214_a_95832_3_1.png",
+    "questions/20214/95832/20214_a_95832_3_2.png",
+    "questions/20214/95832/20214_a_95832_3_3.png"
+   ]
+  },
+  "9396/11_Winter_2017_Q1": {
+   "qid": 93612,
+   "page": 2,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2017",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16103/95770/16103_q_95770_1_1.png",
+    "questions/16103/95770/16103_q_95770_1_2.png"
+   ],
+   "answer_images": [
+    "questions/16103/95770/16103_a_95770_1_1.png",
+    "questions/16103/95770/16103_a_95770_1_2.png",
+    "questions/16103/95770/16103_a_95770_1_3.png"
+   ]
+  },
+  "9396/11_Winter_2017_Q2": {
+   "qid": 93613,
+   "page": 2,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2017",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16103/95771/16103_q_95771_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16103/95771/16103_a_95771_2_1.png",
+    "questions/16103/95771/16103_a_95771_2_2.png",
+    "questions/16103/95771/16103_a_95771_2_3.png"
+   ]
+  },
+  "9396/11_Winter_2017_Q3": {
+   "qid": 93614,
+   "page": 2,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2017",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16103/95772/16103_q_95772_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16103/95772/16103_a_95772_3_1.png",
+    "questions/16103/95772/16103_a_95772_3_2.png"
+   ]
+  },
+  "9396/12_Winter_2017_Q1": {
+   "qid": 93615,
+   "page": 2,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2017",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16104/95773/16104_q_95773_1_1.png",
+    "questions/16104/95773/16104_q_95773_1_2.png"
+   ],
+   "answer_images": [
+    "questions/16104/95773/16104_a_95773_1_1.png",
+    "questions/16104/95773/16104_a_95773_1_2.png"
+   ]
+  },
+  "9396/12_Winter_2017_Q2": {
+   "qid": 93616,
+   "page": 2,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2017",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16104/95774/16104_q_95774_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16104/95774/16104_a_95774_2_1.png",
+    "questions/16104/95774/16104_a_95774_2_2.png",
+    "questions/16104/95774/16104_a_95774_2_3.png"
+   ]
+  },
+  "9396/12_Winter_2017_Q3": {
+   "qid": 93617,
+   "page": 2,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2017",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16104/95775/16104_q_95775_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16104/95775/16104_a_95775_3_1.png",
+    "questions/16104/95775/16104_a_95775_3_2.png",
+    "questions/16104/95775/16104_a_95775_3_3.png"
+   ]
+  },
+  "9396/13_Winter_2017_Q1": {
+   "qid": 93618,
+   "page": 2,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2017",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16105/95776/16105_q_95776_1_1.png",
+    "questions/16105/95776/16105_q_95776_1_2.png"
+   ],
+   "answer_images": [
+    "questions/16105/95776/16105_a_95776_1_1.png",
+    "questions/16105/95776/16105_a_95776_1_2.png",
+    "questions/16105/95776/16105_a_95776_1_3.png"
+   ]
+  },
+  "9396/13_Winter_2017_Q2": {
+   "qid": 93619,
+   "page": 2,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2017",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16105/95777/16105_q_95777_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16105/95777/16105_a_95777_2_1.png",
+    "questions/16105/95777/16105_a_95777_2_2.png",
+    "questions/16105/95777/16105_a_95777_2_3.png"
+   ]
+  },
+  "9396/13_Winter_2017_Q3": {
+   "qid": 93620,
+   "page": 2,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2017",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16105/95778/16105_q_95778_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16105/95778/16105_a_95778_3_1.png",
+    "questions/16105/95778/16105_a_95778_3_2.png",
+    "questions/16105/95778/16105_a_95778_3_3.png"
+   ]
+  },
+  "9396/32_Winter_2017_Q1": {
+   "qid": 93663,
+   "page": 2,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2017",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16106/95821/16106_q_95821_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16106/95821/16106_a_95821_1_1.png",
+    "questions/16106/95821/16106_a_95821_1_2.png",
+    "questions/16106/95821/16106_a_95821_1_3.png"
+   ]
+  },
+  "9396/32_Winter_2017_Q2": {
+   "qid": 93664,
+   "page": 2,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2017",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16106/95822/16106_q_95822_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16106/95822/16106_a_95822_2_1.png",
+    "questions/16106/95822/16106_a_95822_2_2.png"
+   ]
+  },
+  "9396/32_Winter_2017_Q3": {
+   "qid": 93665,
+   "page": 2,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2017",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16106/95823/16106_q_95823_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16106/95823/16106_a_95823_3_1.png",
+    "questions/16106/95823/16106_a_95823_3_2.png",
+    "questions/16106/95823/16106_a_95823_3_3.png"
+   ]
+  },
+  "9396/33_Winter_2017_Q1": {
+   "qid": 93666,
+   "page": 2,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2017",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16107/95824/16107_q_95824_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16107/95824/16107_a_95824_1_1.png",
+    "questions/16107/95824/16107_a_95824_1_2.png",
+    "questions/16107/95824/16107_a_95824_1_3.png"
+   ]
+  },
+  "9396/33_Winter_2017_Q2": {
+   "qid": 93667,
+   "page": 2,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2017",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16107/95825/16107_q_95825_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16107/95825/16107_a_95825_2_1.png",
+    "questions/16107/95825/16107_a_95825_2_2.png"
+   ]
+  },
+  "9396/33_Winter_2017_Q3": {
+   "qid": 93668,
+   "page": 2,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2017",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16107/95826/16107_q_95826_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16107/95826/16107_a_95826_3_1.png",
+    "questions/16107/95826/16107_a_95826_3_2.png",
+    "questions/16107/95826/16107_a_95826_3_3.png"
+   ]
+  },
+  "9396/11_Winter_2016_Q1": {
+   "qid": 93603,
+   "page": 3,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2016",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16098/95761/16098_q_95761_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16098/95761/16098_a_95761_1_1.png",
+    "questions/16098/95761/16098_a_95761_1_2.png"
+   ]
+  },
+  "9396/11_Winter_2016_Q2": {
+   "qid": 93604,
+   "page": 3,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2016",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16098/95762/16098_q_95762_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16098/95762/16098_a_95762_2_1.png",
+    "questions/16098/95762/16098_a_95762_2_2.png"
+   ]
+  },
+  "9396/11_Winter_2016_Q3": {
+   "qid": 93605,
+   "page": 3,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2016",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16098/95763/16098_q_95763_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16098/95763/16098_a_95763_3_1.png",
+    "questions/16098/95763/16098_a_95763_3_2.png"
+   ]
+  },
+  "9396/12_Winter_2016_Q1": {
+   "qid": 93606,
+   "page": 3,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2016",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16099/95764/16099_q_95764_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16099/95764/16099_a_95764_1_1.png",
+    "questions/16099/95764/16099_a_95764_1_2.png",
+    "questions/16099/95764/16099_a_95764_1_3.png"
+   ]
+  },
+  "9396/12_Winter_2016_Q2": {
+   "qid": 93607,
+   "page": 3,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2016",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16099/95765/16099_q_95765_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16099/95765/16099_a_95765_2_1.png",
+    "questions/16099/95765/16099_a_95765_2_2.png",
+    "questions/16099/95765/16099_a_95765_2_3.png"
+   ]
+  },
+  "9396/12_Winter_2016_Q3": {
+   "qid": 93608,
+   "page": 3,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2016",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16099/95766/16099_q_95766_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16099/95766/16099_a_95766_3_1.png",
+    "questions/16099/95766/16099_a_95766_3_2.png"
+   ]
+  },
+  "9396/13_Winter_2016_Q1": {
+   "qid": 93609,
+   "page": 3,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2016",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16100/95767/16100_q_95767_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16100/95767/16100_a_95767_1_1.png",
+    "questions/16100/95767/16100_a_95767_1_2.png"
+   ]
+  },
+  "9396/13_Winter_2016_Q2": {
+   "qid": 93610,
+   "page": 3,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2016",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16100/95768/16100_q_95768_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16100/95768/16100_a_95768_2_1.png",
+    "questions/16100/95768/16100_a_95768_2_2.png"
+   ]
+  },
+  "9396/13_Winter_2016_Q3": {
+   "qid": 93611,
+   "page": 3,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2016",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16100/95769/16100_q_95769_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16100/95769/16100_a_95769_3_1.png",
+    "questions/16100/95769/16100_a_95769_3_2.png",
+    "questions/16100/95769/16100_a_95769_3_3.png"
+   ]
+  },
+  "9396/32_Winter_2016_Q1": {
+   "qid": 93657,
+   "page": 3,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2016",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16101/95815/16101_q_95815_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16101/95815/16101_a_95815_1_1.png",
+    "questions/16101/95815/16101_a_95815_1_2.png"
+   ]
+  },
+  "9396/32_Winter_2016_Q2": {
+   "qid": 93658,
+   "page": 2,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2016",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16101/95816/16101_q_95816_2_1.png",
+    "questions/16101/95816/16101_q_95816_2_2.png"
+   ],
+   "answer_images": [
+    "questions/16101/95816/16101_a_95816_2_1.png",
+    "questions/16101/95816/16101_a_95816_2_2.png"
+   ]
+  },
+  "9396/32_Winter_2016_Q3": {
+   "qid": 93659,
+   "page": 2,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2016",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16101/95817/16101_q_95817_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16101/95817/16101_a_95817_3_1.png",
+    "questions/16101/95817/16101_a_95817_3_2.png",
+    "questions/16101/95817/16101_a_95817_3_3.png"
+   ]
+  },
+  "9396/33_Winter_2016_Q1": {
+   "qid": 93660,
+   "page": 2,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2016",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16102/95818/16102_q_95818_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16102/95818/16102_a_95818_1_1.png",
+    "questions/16102/95818/16102_a_95818_1_2.png"
+   ]
+  },
+  "9396/33_Winter_2016_Q2": {
+   "qid": 93661,
+   "page": 2,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2016",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16102/95819/16102_q_95819_2_1.png",
+    "questions/16102/95819/16102_q_95819_2_2.png"
+   ],
+   "answer_images": [
+    "questions/16102/95819/16102_a_95819_2_1.png",
+    "questions/16102/95819/16102_a_95819_2_2.png"
+   ]
+  },
+  "9396/33_Winter_2016_Q3": {
+   "qid": 93662,
+   "page": 2,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2016",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16102/95820/16102_q_95820_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16102/95820/16102_a_95820_3_1.png",
+    "questions/16102/95820/16102_a_95820_3_2.png",
+    "questions/16102/95820/16102_a_95820_3_3.png"
+   ]
+  },
+  "9396/11_Winter_2015_Q1": {
+   "qid": 93594,
+   "page": 4,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16092/95752/16092_q_95752_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16092/95752/16092_a_95752_1_1.png",
+    "questions/16092/95752/16092_a_95752_1_2.png"
+   ]
+  },
+  "9396/11_Winter_2015_Q2": {
+   "qid": 93595,
+   "page": 4,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16092/95753/16092_q_95753_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16092/95753/16092_a_95753_2_1.png",
+    "questions/16092/95753/16092_a_95753_2_2.png"
+   ]
+  },
+  "9396/11_Winter_2015_Q3": {
+   "qid": 93596,
+   "page": 4,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "11",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16092/95754/16092_q_95754_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16092/95754/16092_a_95754_3_1.png",
+    "questions/16092/95754/16092_a_95754_3_2.png"
+   ]
+  },
+  "9396/12_Winter_2015_Q1": {
+   "qid": 93597,
+   "page": 3,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16093/95755/16093_q_95755_1_1.png",
+    "questions/16093/95755/16093_q_95755_1_2.png"
+   ],
+   "answer_images": [
+    "questions/16093/95755/16093_a_95755_1_1.png",
+    "questions/16093/95755/16093_a_95755_1_2.png"
+   ]
+  },
+  "9396/12_Winter_2015_Q2": {
+   "qid": 93598,
+   "page": 3,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16093/95756/16093_q_95756_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16093/95756/16093_a_95756_2_1.png",
+    "questions/16093/95756/16093_a_95756_2_2.png"
+   ]
+  },
+  "9396/12_Winter_2015_Q3": {
+   "qid": 93599,
+   "page": 3,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16093/95757/16093_q_95757_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16093/95757/16093_a_95757_3_1.png",
+    "questions/16093/95757/16093_a_95757_3_2.png",
+    "questions/16093/95757/16093_a_95757_3_3.png"
+   ]
+  },
+  "9396/13_Winter_2015_Q1": {
+   "qid": 93600,
+   "page": 3,
+   "topics": "Applied Anatomy And Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16094/95758/16094_q_95758_1_1.png",
+    "questions/16094/95758/16094_q_95758_1_2.png"
+   ],
+   "answer_images": [
+    "questions/16094/95758/16094_a_95758_1_1.png",
+    "questions/16094/95758/16094_a_95758_1_2.png"
+   ]
+  },
+  "9396/13_Winter_2015_Q2": {
+   "qid": 93601,
+   "page": 3,
+   "topics": "Acquiring, Developing And Performing Movement Skills",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16094/95759/16094_q_95759_2_1.png",
+    "questions/16094/95759/16094_q_95759_2_2.png"
+   ],
+   "answer_images": [
+    "questions/16094/95759/16094_a_95759_2_1.png",
+    "questions/16094/95759/16094_a_95759_2_2.png",
+    "questions/16094/95759/16094_a_95759_2_3.png"
+   ]
+  },
+  "9396/13_Winter_2015_Q3": {
+   "qid": 93602,
+   "page": 3,
+   "topics": "Contemporary Studies In Physical Education And Sport",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "13",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16094/95760/16094_q_95760_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16094/95760/16094_a_95760_3_1.png",
+    "questions/16094/95760/16094_a_95760_3_2.png"
+   ]
+  },
+  "9396/31_Winter_2015_Q1": {
+   "qid": 93648,
+   "page": 3,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "31",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16095/95806/16095_q_95806_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16095/95806/16095_a_95806_1_1.png",
+    "questions/16095/95806/16095_a_95806_1_2.png"
+   ]
+  },
+  "9396/31_Winter_2015_Q2": {
+   "qid": 93649,
+   "page": 3,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "31",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16095/95807/16095_q_95807_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16095/95807/16095_a_95807_2_1.png",
+    "questions/16095/95807/16095_a_95807_2_2.png",
+    "questions/16095/95807/16095_a_95807_2_3.png"
+   ]
+  },
+  "9396/31_Winter_2015_Q3": {
+   "qid": 93650,
+   "page": 3,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "31",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16095/95808/16095_q_95808_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16095/95808/16095_a_95808_3_1.png",
+    "questions/16095/95808/16095_a_95808_3_2.png",
+    "questions/16095/95808/16095_a_95808_3_3.png"
+   ]
+  },
+  "9396/32_Winter_2015_Q1": {
+   "qid": 93651,
+   "page": 3,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16096/95809/16096_q_95809_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16096/95809/16096_a_95809_1_1.png",
+    "questions/16096/95809/16096_a_95809_1_2.png"
+   ]
+  },
+  "9396/32_Winter_2015_Q2": {
+   "qid": 93652,
+   "page": 3,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16096/95810/16096_q_95810_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16096/95810/16096_a_95810_2_1.png",
+    "questions/16096/95810/16096_a_95810_2_2.png",
+    "questions/16096/95810/16096_a_95810_2_3.png"
+   ]
+  },
+  "9396/32_Winter_2015_Q3": {
+   "qid": 93653,
+   "page": 3,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "32",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16096/95811/16096_q_95811_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16096/95811/16096_a_95811_3_1.png",
+    "questions/16096/95811/16096_a_95811_3_2.png",
+    "questions/16096/95811/16096_a_95811_3_3.png"
+   ]
+  },
+  "9396/33_Winter_2015_Q1": {
+   "qid": 93654,
+   "page": 3,
+   "topics": "Exercise And Sport Physiology",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2015",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/16097/95812/16097_q_95812_1_1.png"
+   ],
+   "answer_images": [
+    "questions/16097/95812/16097_a_95812_1_1.png",
+    "questions/16097/95812/16097_a_95812_1_2.png"
+   ]
+  },
+  "9396/33_Winter_2015_Q2": {
+   "qid": 93655,
+   "page": 3,
+   "topics": "Psychology Of Sport Performance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2015",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/16097/95813/16097_q_95813_2_1.png"
+   ],
+   "answer_images": [
+    "questions/16097/95813/16097_a_95813_2_1.png",
+    "questions/16097/95813/16097_a_95813_2_2.png",
+    "questions/16097/95813/16097_a_95813_2_3.png"
+   ]
+  },
+  "9396/33_Winter_2015_Q3": {
+   "qid": 93656,
+   "page": 3,
+   "topics": "Olympic Games: A Global Perspective",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9396",
+    "paper": "33",
+    "season": "Winter",
+    "year": "2015",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/16097/95814/16097_q_95814_3_1.png"
+   ],
+   "answer_images": [
+    "questions/16097/95814/16097_a_95814_3_1.png",
+    "questions/16097/95814/16097_a_95814_3_2.png",
+    "questions/16097/95814/16097_a_95814_3_3.png"
+   ]
+  }
+ }
+}
