@@ -1,0 +1,87 @@
+{
+ "_readme": "Subjects whose COMPLETE image sets live in the sister repo syllabai-experimental (subject dirs with git-tracked images/MANIFEST.md + INDEX.jsonl; MANIFEST.md is written only by the organize phase after the download loop finishes). The image-phase driver in this repo skips these keys; everything else is downloaded HERE. Ledger-only/unverified subjects are deliberately absent so they are re-imaged fresh into this repo.",
+ "sister_repo": "https://github.com/SyllabAI/syllabai-experimental",
+ "generated_at": "2026-10-22",
+ "done_keys": {
+  "21:614": {
+   "dir": "topical/21_IGCSE_9-1_/614_Chemistry_9-1_4CH1_",
+   "label": "logged-in full harvest",
+   "questions": 40
+  },
+  "3:11": {
+   "dir": "topical/3_IGCSE/11_Additional_Mathematics_0606_",
+   "label": "anonymous full harvest",
+   "questions": 1333
+  },
+  "3:136": {
+   "dir": "topical/3_IGCSE/136_Mathematics_International_0607_",
+   "label": "Mathematics International(0607)",
+   "questions": 1906
+  },
+  "3:13": {
+   "dir": "topical/3_IGCSE/13_Biology_0610_",
+   "label": "Biology(0610)",
+   "questions": 6149
+  },
+  "3:16": {
+   "dir": "topical/3_IGCSE/16_Chemistry_0620_",
+   "label": "Chemistry(0620)",
+   "questions": 6398
+  },
+  "3:19": {
+   "dir": "topical/3_IGCSE/19_English_2nd_Language_0510_",
+   "label": "English 2nd Language(0510)",
+   "questions": 868
+  },
+  "3:22": {
+   "dir": "topical/3_IGCSE/22_Mathematics_0580_",
+   "label": "Mathematics(0580)",
+   "questions": 3958
+  },
+  "3:23": {
+   "dir": "topical/3_IGCSE/23_ICT_0417_",
+   "label": "ICT(0417)",
+   "questions": 810
+  },
+  "3:29": {
+   "dir": "topical/3_IGCSE/29_Physics_0625_",
+   "label": "Physics(0625)",
+   "questions": 6730
+  },
+  "4:34": {
+   "dir": "topical/4_IGCSE/34_Chemistry_4CH0_",
+   "label": "Chemistry(4CH0)",
+   "questions": 419
+  },
+  "4:39": {
+   "dir": "topical/4_IGCSE/39_Mathematics_A_4MA0_",
+   "label": "Mathematics A(4MA0)",
+   "questions": 2450
+  },
+  "4:40": {
+   "dir": "topical/4_IGCSE/40_Mathematics_B_4MB0_",
+   "label": "Mathematics B(4MB0)",
+   "questions": 1102
+  },
+  "4:44": {
+   "dir": "topical/4_IGCSE/44_Physics_4PH0_",
+   "label": "Physics(4PH0)",
+   "questions": 451
+  },
+  "5:47": {
+   "dir": "topical/5_A-LEVEL/47_Biology_9700_",
+   "label": "Biology(9700)",
+   "questions": 3855
+  },
+  "5:57": {
+   "dir": "topical/5_A-LEVEL/57_Physics_9702_",
+   "label": "Physics(9702)",
+   "questions": 4060
+  },
+  "7:78": {
+   "dir": "topical/7_DIPLOMA/78_Chemistry",
+   "label": "Chemistry",
+   "questions": 3416
+  }
+ }
+}
