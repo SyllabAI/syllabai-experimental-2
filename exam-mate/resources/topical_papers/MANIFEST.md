@@ -25,8 +25,13 @@ harvest** whose source-of-record lives in the sister repo
 
 ## Image-phase progress
 
-**25 subjects imaged here — 57,296 PNGs, ~4.3 GB** (all with
-`files_on_disk == index_entries`, 0 unexplained failures):
+**✔ DATASET COMPLETE — 132/132 subjects fully imaged** (116 here +
+16 in the sister repo). This repo holds **102,191 PNGs (~7.8 GB) across
+116 subjects**; combined with the sister repo the dataset exceeds
+**~118,000 images**. All ledgers verify (`files_on_disk ==
+index_entries`); genuine origin-404s are recorded per-URL in
+`INDEX.jsonl`, never substituted. Session e (post-wipe) swept the final
+91 subjects and closed the queue. Session history below:
 
 | Cat | Subject | Key | Images | MB | Session |
 |---|---|---|---:|---:|---|
