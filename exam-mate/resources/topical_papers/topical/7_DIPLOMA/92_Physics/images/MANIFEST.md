@@ -1,6 +1,6 @@
 # MANIFEST — images/ (Physics, complete set)
 
-Downloaded: 2026-10-22T11:55:34Z · Source: `https://www.exam-mate.com` TOPICAL PAST PAPERS, subject `categoryID=7` (DIPLOMA) / `subjectID=92` (Physics) · Method: fixed-fingerprint headless Chromium, in-page `fetch()` pipeline (WAF-immune; `scripts/exam_mate_image_bulk.py`) · Rate: batches of 4 concurrent fetches, 1 s between batches.
+Downloaded: 2026-10-22T12:15:32Z · Source: `https://www.exam-mate.com` TOPICAL PAST PAPERS, subject `categoryID=7` (DIPLOMA) / `subjectID=92` (Physics) · Method: fixed-fingerprint headless Chromium, in-page `fetch()` pipeline (WAF-immune; `scripts/exam_mate_image_bulk.py`) · Rate: batches of 4 concurrent fetches, 1 s between batches.
 
 ## Contents
 

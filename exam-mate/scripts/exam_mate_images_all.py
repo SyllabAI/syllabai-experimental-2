@@ -94,17 +94,32 @@ def unique_urls(src_dir):
 def subject_complete(key, src_dir):
     if key in load_source_completed():
         return True
-    s = os.path.join(out_dir_of(src_dir), "images", "_summary.json")
-    if not os.path.exists(s):
+    out = out_dir_of(src_dir)
+    s = os.path.join(out, "images", "_summary.json")
+    idxp = os.path.join(out, "images", "INDEX.jsonl")
+    if not os.path.exists(s) or not os.path.exists(idxp):
         return False
     try:
         summ = json.load(open(s))
-        # complete = every unique URL attempted (ok or genuine origin fail)
-        # and every successful file present on disk
-        return (summ.get("index_entries", 0) > 0
-                and summ.get("files_on_disk") == summ.get("index_entries")
-                and summ.get("index_entries", 0) + summ.get("failed", 0)
-                >= unique_urls(src_dir) - 2)  # -2 tolerance for ledger dupes
+        # every successful file present on disk
+        if not (summ.get("index_entries", 0) > 0
+                and summ.get("files_on_disk") == summ.get("index_entries")):
+            return False
+        # every unique URL attempted (ok or genuine origin fail) — counted
+        # from the RAW ledger, last entry per URL wins (summary.failed is
+        # always 0 because the compacted index only keeps status-200 rows)
+        best = {}
+        for l in open(idxp):
+            try:
+                e = json.loads(l)
+            except Exception:
+                continue
+            u = e.get("url")
+            if u:
+                best[u] = e
+        ok = sum(1 for e in best.values() if e.get("status") == 200)
+        fail = len(best) - ok
+        return ok + fail >= unique_urls(src_dir) - 2  # -2 ledger-dupe tolerance
     except Exception:
         return False
 
