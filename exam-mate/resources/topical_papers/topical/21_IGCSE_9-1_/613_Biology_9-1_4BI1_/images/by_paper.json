@@ -1,0 +1,846 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T13:03:54Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "4BI1/1B_Summer_2019_Q1": {
+   "qid": 120034,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/33162/122445/33162_q_122445_1_1.png",
+    "questions/33162/122445/33162_q_122445_1_2.png"
+   ],
+   "answer_images": [
+    "questions/33162/122445/33162_a_122445_1_1.png",
+    "questions/33162/122445/33162_a_122445_1_2.png",
+    "questions/33162/122445/33162_a_122445_1_3.png",
+    "questions/33162/122445/33162_a_122445_1_4.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q2": {
+   "qid": 120037,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms, Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/33162/122448/33162_q_122448_2_1.png",
+    "questions/33162/122448/33162_q_122448_2_2.png",
+    "questions/33162/122448/33162_q_122448_2_3.png"
+   ],
+   "answer_images": [
+    "questions/33162/122448/33162_a_122448_2_1.png",
+    "questions/33162/122448/33162_a_122448_2_2.png",
+    "questions/33162/122448/33162_a_122448_2_3.png",
+    "questions/33162/122448/33162_a_122448_2_4.png",
+    "questions/33162/122448/33162_a_122448_2_5.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q3": {
+   "qid": 120042,
+   "page": 2,
+   "topics": "Ecology And The Environment, Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/33162/122453/33162_q_122453_3_1.png",
+    "questions/33162/122453/33162_q_122453_3_2.png"
+   ],
+   "answer_images": [
+    "questions/33162/122453/33162_a_122453_3_1.png",
+    "questions/33162/122453/33162_a_122453_3_2.png",
+    "questions/33162/122453/33162_a_122453_3_3.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q4": {
+   "qid": 120045,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/33162/122456/33162_q_122456_4_1.png"
+   ],
+   "answer_images": [
+    "questions/33162/122456/33162_a_122456_4_1.png",
+    "questions/33162/122456/33162_a_122456_4_2.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q5": {
+   "qid": 120047,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/33162/122458/33162_q_122458_5_1.png",
+    "questions/33162/122458/33162_q_122458_5_2.png",
+    "questions/33162/122458/33162_q_122458_5_3.png"
+   ],
+   "answer_images": [
+    "questions/33162/122458/33162_a_122458_5_1.png",
+    "questions/33162/122458/33162_a_122458_5_2.png",
+    "questions/33162/122458/33162_a_122458_5_3.png",
+    "questions/33162/122458/33162_a_122458_5_4.png",
+    "questions/33162/122458/33162_a_122458_5_5.png",
+    "questions/33162/122458/33162_a_122458_5_6.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q6": {
+   "qid": 120050,
+   "page": 2,
+   "topics": "Reproduction And Inheritance, Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/33162/122461/33162_q_122461_6_1.png",
+    "questions/33162/122461/33162_q_122461_6_2.png",
+    "questions/33162/122461/33162_q_122461_6_3.png"
+   ],
+   "answer_images": [
+    "questions/33162/122461/33162_a_122461_6_1.png",
+    "questions/33162/122461/33162_a_122461_6_2.png",
+    "questions/33162/122461/33162_a_122461_6_3.png",
+    "questions/33162/122461/33162_a_122461_6_4.png",
+    "questions/33162/122461/33162_a_122461_6_5.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q7": {
+   "qid": 120053,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/33162/122464/33162_q_122464_7_1.png",
+    "questions/33162/122464/33162_q_122464_7_2.png",
+    "questions/33162/122464/33162_q_122464_7_3.png"
+   ],
+   "answer_images": [
+    "questions/33162/122464/33162_a_122464_7_1.png",
+    "questions/33162/122464/33162_a_122464_7_2.png",
+    "questions/33162/122464/33162_a_122464_7_3.png",
+    "questions/33162/122464/33162_a_122464_7_4.png",
+    "questions/33162/122464/33162_a_122464_7_5.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q8": {
+   "qid": 120054,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/33162/122465/33162_q_122465_8_1.png",
+    "questions/33162/122465/33162_q_122465_8_2.png",
+    "questions/33162/122465/33162_q_122465_8_3.png"
+   ],
+   "answer_images": [
+    "questions/33162/122465/33162_a_122465_8_1.png",
+    "questions/33162/122465/33162_a_122465_8_2.png",
+    "questions/33162/122465/33162_a_122465_8_3.png",
+    "questions/33162/122465/33162_a_122465_8_4.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q9": {
+   "qid": 120055,
+   "page": 2,
+   "topics": "Ecology And The Environment",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/33162/122466/33162_q_122466_9_1.png",
+    "questions/33162/122466/33162_q_122466_9_2.png"
+   ],
+   "answer_images": [
+    "questions/33162/122466/33162_a_122466_9_1.png",
+    "questions/33162/122466/33162_a_122466_9_2.png"
+   ]
+  },
+  "4BI1/1B_Summer_2019_Q10": {
+   "qid": 120056,
+   "page": 2,
+   "topics": "Structure And Functions In Living Organisms, Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/33162/122467/33162_q_122467_10_1.png",
+    "questions/33162/122467/33162_q_122467_10_2.png"
+   ],
+   "answer_images": [
+    "questions/33162/122467/33162_a_122467_10_1.png",
+    "questions/33162/122467/33162_a_122467_10_2.png",
+    "questions/33162/122467/33162_a_122467_10_3.png",
+    "questions/33162/122467/33162_a_122467_10_4.png",
+    "questions/33162/122467/33162_a_122467_10_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q1": {
+   "qid": 120066,
+   "page": 1,
+   "topics": "Ecology And The Environment, Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/33160/122477/33160_q_122477_1_1.png",
+    "questions/33160/122477/33160_q_122477_1_2.png",
+    "questions/33160/122477/33160_q_122477_1_3.png"
+   ],
+   "answer_images": [
+    "questions/33160/122477/33160_a_122477_1_1.png",
+    "questions/33160/122477/33160_a_122477_1_2.png",
+    "questions/33160/122477/33160_a_122477_1_3.png",
+    "questions/33160/122477/33160_a_122477_1_4.png",
+    "questions/33160/122477/33160_a_122477_1_5.png",
+    "questions/33160/122477/33160_a_122477_1_6.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q2": {
+   "qid": 120068,
+   "page": 1,
+   "topics": "Ecology And The Environment, Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/33160/122479/33160_q_122479_2_1.png",
+    "questions/33160/122479/33160_q_122479_2_2.png",
+    "questions/33160/122479/33160_q_122479_2_3.png"
+   ],
+   "answer_images": [
+    "questions/33160/122479/33160_a_122479_2_1.png",
+    "questions/33160/122479/33160_a_122479_2_2.png",
+    "questions/33160/122479/33160_a_122479_2_3.png",
+    "questions/33160/122479/33160_a_122479_2_4.png",
+    "questions/33160/122479/33160_a_122479_2_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q3": {
+   "qid": 120069,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/33160/122480/33160_q_122480_3_1.png"
+   ],
+   "answer_images": [
+    "questions/33160/122480/33160_a_122480_3_1.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q4": {
+   "qid": 120070,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms, Use Of Biological Resources",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/33160/122481/33160_q_122481_4_1.png",
+    "questions/33160/122481/33160_q_122481_4_2.png"
+   ],
+   "answer_images": [
+    "questions/33160/122481/33160_a_122481_4_1.png",
+    "questions/33160/122481/33160_a_122481_4_2.png",
+    "questions/33160/122481/33160_a_122481_4_3.png",
+    "questions/33160/122481/33160_a_122481_4_4.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q5": {
+   "qid": 120071,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/33160/122482/33160_q_122482_5_1.png",
+    "questions/33160/122482/33160_q_122482_5_2.png"
+   ],
+   "answer_images": [
+    "questions/33160/122482/33160_a_122482_5_1.png",
+    "questions/33160/122482/33160_a_122482_5_2.png",
+    "questions/33160/122482/33160_a_122482_5_3.png",
+    "questions/33160/122482/33160_a_122482_5_4.png",
+    "questions/33160/122482/33160_a_122482_5_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q6": {
+   "qid": 120072,
+   "page": 1,
+   "topics": "Use Of Biological Resources",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/33160/122483/33160_q_122483_6_1.png",
+    "questions/33160/122483/33160_q_122483_6_2.png"
+   ],
+   "answer_images": [
+    "questions/33160/122483/33160_a_122483_6_1.png",
+    "questions/33160/122483/33160_a_122483_6_2.png",
+    "questions/33160/122483/33160_a_122483_6_3.png",
+    "questions/33160/122483/33160_a_122483_6_4.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q7": {
+   "qid": 120073,
+   "page": 1,
+   "topics": "Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/33160/122484/33160_q_122484_7_1.png",
+    "questions/33160/122484/33160_q_122484_7_2.png",
+    "questions/33160/122484/33160_q_122484_7_3.png"
+   ],
+   "answer_images": [
+    "questions/33160/122484/33160_a_122484_7_1.png",
+    "questions/33160/122484/33160_a_122484_7_2.png",
+    "questions/33160/122484/33160_a_122484_7_3.png",
+    "questions/33160/122484/33160_a_122484_7_4.png",
+    "questions/33160/122484/33160_a_122484_7_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q8": {
+   "qid": 120074,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/33160/122485/33160_q_122485_8_1.png",
+    "questions/33160/122485/33160_q_122485_8_2.png",
+    "questions/33160/122485/33160_q_122485_8_3.png"
+   ],
+   "answer_images": [
+    "questions/33160/122485/33160_a_122485_8_1.png",
+    "questions/33160/122485/33160_a_122485_8_2.png",
+    "questions/33160/122485/33160_a_122485_8_3.png",
+    "questions/33160/122485/33160_a_122485_8_4.png",
+    "questions/33160/122485/33160_a_122485_8_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q9": {
+   "qid": 120075,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/33160/122486/33160_q_122486_9_1.png",
+    "questions/33160/122486/33160_q_122486_9_2.png"
+   ],
+   "answer_images": [
+    "questions/33160/122486/33160_a_122486_9_1.png",
+    "questions/33160/122486/33160_a_122486_9_2.png",
+    "questions/33160/122486/33160_a_122486_9_3.png",
+    "questions/33160/122486/33160_a_122486_9_4.png",
+    "questions/33160/122486/33160_a_122486_9_5.png",
+    "questions/33160/122486/33160_a_122486_9_6.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q10": {
+   "qid": 120076,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/33160/122487/33160_q_122487_10_1.png",
+    "questions/33160/122487/33160_q_122487_10_2.png",
+    "questions/33160/122487/33160_q_122487_10_3.png"
+   ],
+   "answer_images": [
+    "questions/33160/122487/33160_a_122487_10_1.png",
+    "questions/33160/122487/33160_a_122487_10_2.png",
+    "questions/33160/122487/33160_a_122487_10_3.png",
+    "questions/33160/122487/33160_a_122487_10_4.png",
+    "questions/33160/122487/33160_a_122487_10_5.png"
+   ]
+  },
+  "4BI1/1BR_Summer_2019_Q11": {
+   "qid": 120077,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "1BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/33160/122488/33160_q_122488_11_1.png"
+   ],
+   "answer_images": [
+    "questions/33160/122488/33160_a_122488_11_1.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q1": {
+   "qid": 120088,
+   "page": 1,
+   "topics": "Ecology And The Environment",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/33164/122499/33164_q_122499_1_1.png",
+    "questions/33164/122499/33164_q_122499_1_2.png",
+    "questions/33164/122499/33164_q_122499_1_3.png"
+   ],
+   "answer_images": [
+    "questions/33164/122499/33164_a_122499_1_1.png",
+    "questions/33164/122499/33164_a_122499_1_2.png",
+    "questions/33164/122499/33164_a_122499_1_3.png",
+    "questions/33164/122499/33164_a_122499_1_4.png",
+    "questions/33164/122499/33164_a_122499_1_5.png",
+    "questions/33164/122499/33164_a_122499_1_6.png",
+    "questions/33164/122499/33164_a_122499_1_7.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q2": {
+   "qid": 120089,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/33164/122500/33164_q_122500_2_1.png",
+    "questions/33164/122500/33164_q_122500_2_2.png",
+    "questions/33164/122500/33164_q_122500_2_3.png",
+    "questions/33164/122500/33164_q_122500_2_4.png"
+   ],
+   "answer_images": [
+    "questions/33164/122500/33164_a_122500_2_1.png",
+    "questions/33164/122500/33164_a_122500_2_2.png",
+    "questions/33164/122500/33164_a_122500_2_3.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q3": {
+   "qid": 120090,
+   "page": 1,
+   "topics": "The Nature And Variety Of Living Organisms, Structure And Functions In Living Organisms, Ecology And The Environment",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/33164/122501/33164_q_122501_3_1.png",
+    "questions/33164/122501/33164_q_122501_3_2.png",
+    "questions/33164/122501/33164_q_122501_3_3.png",
+    "questions/33164/122501/33164_q_122501_3_4.png"
+   ],
+   "answer_images": [
+    "questions/33164/122501/33164_a_122501_3_1.png",
+    "questions/33164/122501/33164_a_122501_3_2.png",
+    "questions/33164/122501/33164_a_122501_3_3.png",
+    "questions/33164/122501/33164_a_122501_3_4.png",
+    "questions/33164/122501/33164_a_122501_3_5.png",
+    "questions/33164/122501/33164_a_122501_3_6.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q4": {
+   "qid": 120091,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms, Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/33164/122502/33164_q_122502_4_1.png",
+    "questions/33164/122502/33164_q_122502_4_2.png"
+   ],
+   "answer_images": [
+    "questions/33164/122502/33164_a_122502_4_1.png",
+    "questions/33164/122502/33164_a_122502_4_2.png",
+    "questions/33164/122502/33164_a_122502_4_3.png",
+    "questions/33164/122502/33164_a_122502_4_4.png",
+    "questions/33164/122502/33164_a_122502_4_5.png",
+    "questions/33164/122502/33164_a_122502_4_6.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q5": {
+   "qid": 120092,
+   "page": 1,
+   "topics": "Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/33164/122503/33164_q_122503_5_1.png",
+    "questions/33164/122503/33164_q_122503_5_2.png",
+    "questions/33164/122503/33164_q_122503_5_3.png"
+   ],
+   "answer_images": [
+    "questions/33164/122503/33164_a_122503_5_1.png",
+    "questions/33164/122503/33164_a_122503_5_2.png",
+    "questions/33164/122503/33164_a_122503_5_3.png",
+    "questions/33164/122503/33164_a_122503_5_4.png",
+    "questions/33164/122503/33164_a_122503_5_5.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q6": {
+   "qid": 120093,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/33164/122504/33164_q_122504_6_1.png",
+    "questions/33164/122504/33164_q_122504_6_2.png"
+   ],
+   "answer_images": [
+    "questions/33164/122504/33164_a_122504_6_1.png",
+    "questions/33164/122504/33164_a_122504_6_2.png",
+    "questions/33164/122504/33164_a_122504_6_3.png",
+    "questions/33164/122504/33164_a_122504_6_4.png"
+   ]
+  },
+  "4BI1/2B_Summer_2019_Q7": {
+   "qid": 120094,
+   "page": 1,
+   "topics": "Use Of Biological Resources",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2B",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/33164/122505/33164_q_122505_7_1.png",
+    "questions/33164/122505/33164_q_122505_7_2.png"
+   ],
+   "answer_images": [
+    "questions/33164/122505/33164_a_122505_7_1.png",
+    "questions/33164/122505/33164_a_122505_7_2.png",
+    "questions/33164/122505/33164_a_122505_7_3.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q1": {
+   "qid": 120095,
+   "page": 1,
+   "topics": "Ecology And The Environment",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/33161/122506/33161_q_122506_1_1.png",
+    "questions/33161/122506/33161_q_122506_1_2.png",
+    "questions/33161/122506/33161_q_122506_1_3.png",
+    "questions/33161/122506/33161_q_122506_1_4.png"
+   ],
+   "answer_images": [
+    "questions/33161/122506/33161_a_122506_1_1.png",
+    "questions/33161/122506/33161_a_122506_1_2.png",
+    "questions/33161/122506/33161_a_122506_1_3.png",
+    "questions/33161/122506/33161_a_122506_1_4.png",
+    "questions/33161/122506/33161_a_122506_1_5.png",
+    "questions/33161/122506/33161_a_122506_1_6.png",
+    "questions/33161/122506/33161_a_122506_1_7.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q2": {
+   "qid": 120098,
+   "page": 1,
+   "topics": "Ecology And The Environment",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/33161/122509/33161_q_122509_2_1.png",
+    "questions/33161/122509/33161_q_122509_2_2.png"
+   ],
+   "answer_images": [
+    "questions/33161/122509/33161_a_122509_2_1.png",
+    "questions/33161/122509/33161_a_122509_2_2.png",
+    "questions/33161/122509/33161_a_122509_2_3.png",
+    "questions/33161/122509/33161_a_122509_2_4.png",
+    "questions/33161/122509/33161_a_122509_2_5.png",
+    "questions/33161/122509/33161_a_122509_2_6.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q3": {
+   "qid": 120100,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/33161/122511/33161_q_122511_3_1.png",
+    "questions/33161/122511/33161_q_122511_3_2.png"
+   ],
+   "answer_images": [
+    "questions/33161/122511/33161_a_122511_3_1.png",
+    "questions/33161/122511/33161_a_122511_3_2.png",
+    "questions/33161/122511/33161_a_122511_3_3.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q4": {
+   "qid": 120102,
+   "page": 1,
+   "topics": "Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/33161/122513/33161_q_122513_4_1.png",
+    "questions/33161/122513/33161_q_122513_4_2.png",
+    "questions/33161/122513/33161_q_122513_4_3.png"
+   ],
+   "answer_images": [
+    "questions/33161/122513/33161_a_122513_4_1.png",
+    "questions/33161/122513/33161_a_122513_4_2.png",
+    "questions/33161/122513/33161_a_122513_4_3.png",
+    "questions/33161/122513/33161_a_122513_4_4.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q5": {
+   "qid": 120104,
+   "page": 1,
+   "topics": "Reproduction And Inheritance, Structure And Functions In Living Organisms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/33161/122515/33161_q_122515_5_1.png",
+    "questions/33161/122515/33161_q_122515_5_2.png",
+    "questions/33161/122515/33161_q_122515_5_3.png"
+   ],
+   "answer_images": [
+    "questions/33161/122515/33161_a_122515_5_1.png",
+    "questions/33161/122515/33161_a_122515_5_2.png",
+    "questions/33161/122515/33161_a_122515_5_3.png",
+    "questions/33161/122515/33161_a_122515_5_4.png",
+    "questions/33161/122515/33161_a_122515_5_5.png",
+    "questions/33161/122515/33161_a_122515_5_6.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q6": {
+   "qid": 120105,
+   "page": 1,
+   "topics": "Reproduction And Inheritance",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/33161/122516/33161_q_122516_6_1.png"
+   ],
+   "answer_images": [
+    "questions/33161/122516/33161_a_122516_6_1.png",
+    "questions/33161/122516/33161_a_122516_6_2.png",
+    "questions/33161/122516/33161_a_122516_6_3.png",
+    "questions/33161/122516/33161_a_122516_6_4.png"
+   ]
+  },
+  "4BI1/2BR_Summer_2019_Q7": {
+   "qid": 120106,
+   "page": 1,
+   "topics": "Use Of Biological Resources",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "4BI1",
+    "paper": "2BR",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/33161/122517/33161_q_122517_7_1.png",
+    "questions/33161/122517/33161_q_122517_7_2.png"
+   ],
+   "answer_images": [
+    "questions/33161/122517/33161_a_122517_7_1.png",
+    "questions/33161/122517/33161_a_122517_7_2.png",
+    "questions/33161/122517/33161_a_122517_7_3.png"
+   ]
+  }
+ }
+}
