@@ -46,6 +46,7 @@ SAMPLES_DIR = os.path.join(SUBJECT_DIR, "image_samples")
 BASE = "https://www.exam-mate.com"
 PAPER_RE = re.compile(r"^(\S+)/([A-Za-z0-9]+)_([A-Za-z]+)_(\d{4})_Q(.+)$")
 URLPATH_RE = re.compile(r"^/questions/(\d+)/(\d+)/([^/]+\.png)$")
+MEDIA_URLPATH_RE = re.compile(r"^/media/questions/(\d+)/([^/]+\.png)$")  # e.g. Turkish YKS-TYT subjects: /media/questions/{qid}/{label}.png
 
 FETCH_JS = """async (urls) => {
   const one = async (url) => {
@@ -118,9 +119,14 @@ def build_tasks():
                     seen.add(url)
                     path = urlparse(url).path
                     mu = URLPATH_RE.match(path)
-                    if not mu:
+                    mm = None if mu else MEDIA_URLPATH_RE.match(path)
+                    if not mu and not mm:
                         print(f"[bulk] WARN url not matching pattern: {url}")
                         continue
+                    if mu:
+                        qfolder_v, src_qid_v = int(mu.group(1)), int(mu.group(2))
+                    else:
+                        qfolder_v = src_qid_v = int(mm.group(1))  # media id space
                     tasks.append({
                         "url": url, "rel": path.lstrip("/"), "kind": kind,
                         "qid": r.get("qid"), "event_key": r.get("eventKey"),
@@ -128,7 +134,7 @@ def build_tasks():
                         "parsed": parse_paper_ref(r.get("text", "")),
                         "topics": p.get("topics", ""),
                         "mcq_answer": p.get("mcq_answer", ""),
-                        "src_qid": int(mu.group(2)), "qfolder": int(mu.group(1)),
+                        "src_qid": src_qid_v, "qfolder": qfolder_v,
                         "category_id": r.get("categoryID"),
                         "subject_id": r.get("subjectID"),
                     })

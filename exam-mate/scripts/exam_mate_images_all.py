@@ -78,7 +78,16 @@ def work_list(cats):
 
 
 def unique_urls(src_dir):
-    """Unique downloadable URLs — same filter as the bulk task builder."""
+    """Unique downloadable URLs — STANDARD scheme only.
+
+    Deliberately excludes /media/questions/ refs: already-completed
+    subjects have their PNGs shed from the working tree (skip-worktree;
+    files live on GitHub), and the bulk resume re-downloads anything
+    INDEX-200-but-missing-on-disk. Counting media refs here would flip
+    every completed subject to incomplete and trigger full re-downloads.
+    Media refs ARE harvested for subjects whose standard count is 0
+    (e.g. Turkish YKS-TYT), where the bulk task builder handles them.
+    """
     from urllib.parse import urlparse
     import re
     pat = re.compile(r"^/questions/(\d+)/(\d+)/([^/]+\.png)$")
