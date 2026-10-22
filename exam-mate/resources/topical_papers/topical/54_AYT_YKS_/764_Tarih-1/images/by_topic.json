@@ -1,0 +1,120 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:42Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "İlk Çağ Uygarlıkları (ancient Civilizations)": [
+   {
+    "qid": 221795,
+    "paper_ref": "Tarih-1/_Summer_2019_Q26",
+    "file": "media/questions/570762/YKS-AYT-2019---Tarih-1-(25-34)-Q-26.png"
+   },
+   {
+    "qid": 221794,
+    "paper_ref": "Tarih-1/_Summer_2019_Q25",
+    "file": "media/questions/570761/YKS-AYT-2019---Tarih-1-(25-34)-Q-25.png"
+   },
+   {
+    "qid": 221629,
+    "paper_ref": "Tarih-1/_Summer_2018_Q26",
+    "file": "media/questions/570563/YKS-AYT-2018---Tarih-1-Q-26.png"
+   }
+  ],
+  "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)": [
+   {
+    "qid": 221803,
+    "paper_ref": "Tarih-1/_Summer_2019_Q34",
+    "file": "media/questions/570770/YKS-AYT-2019---Tarih-1-(25-34)-Q-34.png"
+   },
+   {
+    "qid": 221802,
+    "paper_ref": "Tarih-1/_Summer_2019_Q33",
+    "file": "media/questions/570769/YKS-AYT-2019---Tarih-1-(25-34)-Q-33.png"
+   },
+   {
+    "qid": 221801,
+    "paper_ref": "Tarih-1/_Summer_2019_Q32",
+    "file": "media/questions/570768/YKS-AYT-2019---Tarih-1-(25-34)-Q-32.png"
+   },
+   {
+    "qid": 221800,
+    "paper_ref": "Tarih-1/_Summer_2019_Q31",
+    "file": "media/questions/570767/YKS-AYT-2019---Tarih-1-(25-34)-Q-31.png"
+   },
+   {
+    "qid": 221637,
+    "paper_ref": "Tarih-1/_Summer_2018_Q34",
+    "file": "media/questions/570571/YKS-AYT-2018---Tarih-1-Q-34.png"
+   },
+   {
+    "qid": 221636,
+    "paper_ref": "Tarih-1/_Summer_2018_Q33",
+    "file": "media/questions/570575/YKS-AYT-2018---Tarih-1-Q-33.png"
+   },
+   {
+    "qid": 221635,
+    "paper_ref": "Tarih-1/_Summer_2018_Q32",
+    "file": "media/questions/570574/YKS-AYT-2018---Tarih-1-Q-32.png"
+   },
+   {
+    "qid": 221634,
+    "paper_ref": "Tarih-1/_Summer_2018_Q31",
+    "file": "media/questions/570572/YKS-AYT-2018---Tarih-1-Q-31.png"
+   }
+  ],
+  "Orta Çağ Ve İslam Tarihi (medieval And Islamic History)": [
+   {
+    "qid": 221797,
+    "paper_ref": "Tarih-1/_Summer_2019_Q28",
+    "file": "media/questions/570764/YKS-AYT-2019---Tarih-1-(25-34)-Q-28.png"
+   },
+   {
+    "qid": 221796,
+    "paper_ref": "Tarih-1/_Summer_2019_Q27",
+    "file": "media/questions/570763/YKS-AYT-2019---Tarih-1-(25-34)-Q-27.png"
+   },
+   {
+    "qid": 221631,
+    "paper_ref": "Tarih-1/_Summer_2018_Q28",
+    "file": "media/questions/570564/YKS-AYT-2018---Tarih-1-Q-28.png"
+   },
+   {
+    "qid": 221630,
+    "paper_ref": "Tarih-1/_Summer_2018_Q27",
+    "file": "media/questions/570565/YKS-AYT-2018---Tarih-1-Q-27.png"
+   }
+  ],
+  "Osmanlı Devleti (ottoman Empire)": [
+   {
+    "qid": 221799,
+    "paper_ref": "Tarih-1/_Summer_2019_Q30",
+    "file": "media/questions/570766/YKS-AYT-2019---Tarih-1-(25-34)-Q30.png"
+   },
+   {
+    "qid": 221798,
+    "paper_ref": "Tarih-1/_Summer_2019_Q29",
+    "file": "media/questions/570765/YKS-AYT-2019---Tarih-1-(25-34)-Q-29.png"
+   },
+   {
+    "qid": 221633,
+    "paper_ref": "Tarih-1/_Summer_2018_Q30",
+    "file": "media/questions/570567/YKS-AYT-2018---Tarih-1-Q-30.png"
+   },
+   {
+    "qid": 221632,
+    "paper_ref": "Tarih-1/_Summer_2018_Q29",
+    "file": "media/questions/570566/YKS-AYT-2018---Tarih-1-Q-30.png"
+   }
+  ],
+  "Tarih Bilimi (science Of History)": [
+   {
+    "qid": 221628,
+    "paper_ref": "Tarih-1/_Summer_2018_Q25",
+    "file": "media/questions/570562/YKS-AYT-2018---Tarih-1-Q-25.png"
+   }
+  ]
+ }
+}

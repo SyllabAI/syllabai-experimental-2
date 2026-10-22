@@ -1,0 +1,434 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Analitik Geometri (analytic Geometry)": [
+   {
+    "qid": 221896,
+    "paper_ref": "Matematik/_Summer_2019_Q40",
+    "file": "media/questions/570881/YKS-AYT-2019---Matamatik-Q-40.png"
+   },
+   {
+    "qid": 221895,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/570880/YKS-AYT-2019---Matamatik-Q-39.png"
+   },
+   {
+    "qid": 221894,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/570879/YKS-AYT-2019---Matamatik-Q-38.png"
+   },
+   {
+    "qid": 221893,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/570878/YKS-AYT-2019---Matamatik-Q-37.png"
+   },
+   {
+    "qid": 221892,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/570877/YKS-AYT-2019---Matamatik-Q-36.png"
+   },
+   {
+    "qid": 221891,
+    "paper_ref": "Matematik/_Summer_2019_Q35",
+    "file": "media/questions/570876/YKS-AYT-2019---Matamatik-Q-35.png"
+   },
+   {
+    "qid": 221890,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/570875/YKS-AYT-2019---Matamatik-Q-34.png"
+   },
+   {
+    "qid": 221729,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/570679/YKS-AYT-2018----Matematik-Q-40.png"
+   },
+   {
+    "qid": 221728,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/570678/YKS-AYT-2018----Matematik-Q-39.png"
+   },
+   {
+    "qid": 221727,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/570677/YKS-AYT-2018----Matematik-Q-38.png"
+   },
+   {
+    "qid": 221726,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/570676/YKS-AYT-2018----Matematik-Q-37.png"
+   },
+   {
+    "qid": 221725,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/570675/YKS-AYT-2018----Matematik-Q-36.png"
+   },
+   {
+    "qid": 221724,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/570674/YKS-AYT-2018----Matematik-Q-35.png"
+   },
+   {
+    "qid": 221723,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/570673/YKS-AYT-2018----Matematik-Q-34.png"
+   },
+   {
+    "qid": 221722,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/570672/YKS-AYT-2018----Matematik-Q-33.png"
+   },
+   {
+    "qid": 221721,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/570671/YKS-AYT-2018----Matematik-Q-32.png"
+   },
+   {
+    "qid": 221720,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/570670/YKS-AYT-2018----Matematik-Q-31.png"
+   },
+   {
+    "qid": 221719,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/570669/YKS-AYT-2018----Matematik-Q-30.png"
+   }
+  ],
+  "Denklem Ve Eşitsizlikler (equations And Inequalities)": [
+   {
+    "qid": 221865,
+    "paper_ref": "Matematik/_Summer_2019_Q10",
+    "file": "media/questions/570835/YKS-AYT-2019---Matamatik-Q10.png"
+   },
+   {
+    "qid": 221864,
+    "paper_ref": "Matematik/_Summer_2019_Q9",
+    "file": "media/questions/570834/YKS-AYT-2019---Matamatik-Q-9.png"
+   },
+   {
+    "qid": 221703,
+    "paper_ref": "Matematik/_Summer_2018_Q14",
+    "file": "media/questions/570653/YKS-AYT-2018----Matematik-Q-14.png"
+   },
+   {
+    "qid": 221697,
+    "paper_ref": "Matematik/_Summer_2018_Q8",
+    "file": "media/questions/570647/YKS-AYT-2018----Matematik-Q-8.png"
+   }
+  ],
+  "Diziler Ve Seriler (sequences And Series)": [
+   {
+    "qid": 221871,
+    "paper_ref": "Matematik/_Summer_2019_Q15",
+    "file": "media/questions/570841/YKS-AYT-2019---Matamatik-Q-15.png"
+   },
+   {
+    "qid": 221701,
+    "paper_ref": "Matematik/_Summer_2018_Q12",
+    "file": "media/questions/570651/YKS-AYT-2018----Matematik-Q-12.png"
+   },
+   {
+    "qid": 221693,
+    "paper_ref": "Matematik/_Summer_2018_Q4",
+    "file": "media/questions/570643/YKS-AYT-2018----Matematik-Q-4.png"
+   }
+  ],
+  "Fonksiyonlar (functions)": [
+   {
+    "qid": 221872,
+    "paper_ref": "Matematik/_Summer_2019_Q16",
+    "file": "media/questions/570842/YKS-AYT-2019---Matamatik-Q-16.png"
+   },
+   {
+    "qid": 221863,
+    "paper_ref": "Matematik/_Summer_2019_Q8",
+    "file": "media/questions/570833/YKS-AYT-2019---Matamatik-Q-8.png"
+   },
+   {
+    "qid": 221862,
+    "paper_ref": "Matematik/_Summer_2019_Q7",
+    "file": "media/questions/570832/YKS-AYT-2019---Matamatik-Q-7.png"
+   },
+   {
+    "qid": 221702,
+    "paper_ref": "Matematik/_Summer_2018_Q13",
+    "file": "media/questions/570652/YKS-AYT-2018----Matematik-Q-13.png"
+   },
+   {
+    "qid": 221696,
+    "paper_ref": "Matematik/_Summer_2018_Q7",
+    "file": "media/questions/570646/YKS-AYT-2018----Matematik-Q-7.png"
+   }
+  ],
+  "İntegral (integral)": [
+   {
+    "qid": 221885,
+    "paper_ref": "Matematik/_Summer_2019_Q29",
+    "file": "media/questions/570866/YKS-AYT-2019---Matamatik-Q-29.png"
+   },
+   {
+    "qid": 221884,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/570865/YKS-AYT-2019---Matamatik-Q-28.png"
+   },
+   {
+    "qid": 221883,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/570864/YKS-AYT-2019---Matamatik-Q27.png"
+   },
+   {
+    "qid": 221882,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/570860/YKS-AYT-2019---Matamatik-Q-26.png"
+   },
+   {
+    "qid": 221715,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/570665/YKS-AYT-2018----Matematik-Q-26.png"
+   },
+   {
+    "qid": 221714,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/570664/YKS-AYT-2018----Matematik-Q-25.png"
+   },
+   {
+    "qid": 221713,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/570663/YKS-AYT-2018----Matematik-Q-24.png"
+   },
+   {
+    "qid": 221712,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/570662/YKS-AYT-2018----Matematik-Q-23.png"
+   }
+  ],
+  "Limit Ve Süreklilik (limits And Continuity)": [
+   {
+    "qid": 221877,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/570851/YKS-AYT-2019---Matamatik-Q21.png"
+   },
+   {
+    "qid": 221876,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/570850/YKS-AYT-2019---Matamatik-Q-20.png"
+   },
+   {
+    "qid": 221707,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/570657/YKS-AYT-2018----Matematik-Q-18.png"
+   },
+   {
+    "qid": 221706,
+    "paper_ref": "Matematik/_Summer_2018_Q17",
+    "file": "media/questions/570656/YKS-AYT-2018----Matematik-Q-17.png"
+   }
+  ],
+  "Logaritma Ve Üstel Fonksiyonlar (logarithms And Exponential Functions)": [
+   {
+    "qid": 221869,
+    "paper_ref": "Matematik/_Summer_2019_Q14",
+    "file": "media/questions/570839/YKS-AYT-2019---Matamatik-Q-14.png"
+   },
+   {
+    "qid": 221868,
+    "paper_ref": "Matematik/_Summer_2019_Q13",
+    "file": "media/questions/570885/YKS-AYT-2019---Matamatik-Q-13.png"
+   },
+   {
+    "qid": 221700,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/570650/YKS-AYT-2018----Matematik-Q-11.png"
+   },
+   {
+    "qid": 221699,
+    "paper_ref": "Matematik/_Summer_2018_Q10",
+    "file": "media/questions/570649/YKS-AYT-2018----Matematik-Q-10.png"
+   }
+  ],
+  "Polinomlar (polynomials)": [
+   {
+    "qid": 221867,
+    "paper_ref": "Matematik/_Summer_2019_Q12",
+    "file": "media/questions/570837/YKS-AYT-2019---Matamatik-Q-12.png"
+   },
+   {
+    "qid": 221866,
+    "paper_ref": "Matematik/_Summer_2019_Q11",
+    "file": "media/questions/570836/YKS-AYT-2019---Matamatik-Q-11.png"
+   },
+   {
+    "qid": 221698,
+    "paper_ref": "Matematik/_Summer_2018_Q9",
+    "file": "media/questions/570648/YKS-AYT-2018----Matematik-Q-9.png"
+   }
+  ],
+  "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)": [
+   {
+    "qid": 221875,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/570849/YKS-AYT-2019---Matamatik-Q-19.png"
+   },
+   {
+    "qid": 221874,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/570884/YKS-AYT-2019---Matamatik-Q-18.png"
+   },
+   {
+    "qid": 221873,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/570843/YKS-AYT-2019---Matamatik-Q-17.png"
+   },
+   {
+    "qid": 221861,
+    "paper_ref": "Matematik/_Summer_2019_Q6",
+    "file": "media/questions/570831/YKS-AYT-2019---Matamatik-Q-6.png"
+   },
+   {
+    "qid": 221860,
+    "paper_ref": "Matematik/_Summer_2019_Q5",
+    "file": "media/questions/570830/YKS-AYT-2019---Matamatik-Q5.png"
+   },
+   {
+    "qid": 221859,
+    "paper_ref": "Matematik/_Summer_2019_Q4",
+    "file": "media/questions/570829/YKS-AYT-2019---Matamatik-Q-4.png"
+   },
+   {
+    "qid": 221858,
+    "paper_ref": "Matematik/_Summer_2019_Q3",
+    "file": "media/questions/570828/YKS-AYT-2019---Matamatik-Q-3.png"
+   },
+   {
+    "qid": 221857,
+    "paper_ref": "Matematik/_Summer_2019_Q2",
+    "file": "media/questions/570827/YKS-AYT-2019---Matamatik-Q-2.png"
+   },
+   {
+    "qid": 221856,
+    "paper_ref": "Matematik/_Summer_2019_Q1",
+    "file": "media/questions/570826/YKS-AYT-2019---Matamatik-Q-1.png"
+   },
+   {
+    "qid": 221705,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/570655/YKS-AYT-2018----Matematik-Q-16.png"
+   },
+   {
+    "qid": 221704,
+    "paper_ref": "Matematik/_Summer_2018_Q15",
+    "file": "media/questions/570654/YKS-AYT-2018----Matematik-Q-15.png"
+   },
+   {
+    "qid": 221695,
+    "paper_ref": "Matematik/_Summer_2018_Q6",
+    "file": "media/questions/570645/YKS-AYT-2018----Matematik-Q-6.png"
+   },
+   {
+    "qid": 221692,
+    "paper_ref": "Matematik/_Summer_2018_Q3",
+    "file": "media/questions/570642/YKS-AYT-2018----Matematik-Q-3.png"
+   },
+   {
+    "qid": 221691,
+    "paper_ref": "Matematik/_Summer_2018_Q2",
+    "file": "media/questions/570641/YKS-AYT-2018----Matematik-Q-2.png"
+   },
+   {
+    "qid": 221690,
+    "paper_ref": "Matematik/_Summer_2018_Q1",
+    "file": "media/questions/570640/YKS-AYT-2018----Matematik-Q-1.png"
+   }
+  ],
+  "Trigonometri (trigonometry)": [
+   {
+    "qid": 221889,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/570874/YKS-AYT-2019---Matamatik-Q-33.png"
+   },
+   {
+    "qid": 221888,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/570873/YKS-AYT-2019---Matamatik-Q-32.png"
+   },
+   {
+    "qid": 221887,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/570872/YKS-AYT-2019---Matamatik-Q-31.png"
+   },
+   {
+    "qid": 221886,
+    "paper_ref": "Matematik/_Summer_2019_Q30",
+    "file": "media/questions/570871/YKS-AYT-2019---Matamatik-Q-30.png"
+   },
+   {
+    "qid": 221718,
+    "paper_ref": "Matematik/_Summer_2018_Q29",
+    "file": "media/questions/570668/YKS-AYT-2018----Matematik-Q-29.png"
+   },
+   {
+    "qid": 221717,
+    "paper_ref": "Matematik/_Summer_2018_Q28",
+    "file": "media/questions/570667/YKS-AYT-2018----Matematik-Q-28.png"
+   },
+   {
+    "qid": 221716,
+    "paper_ref": "Matematik/_Summer_2018_Q27",
+    "file": "media/questions/570666/YKS-AYT-2018----Matematik-Q-27.png"
+   }
+  ],
+  "Türev (derivative)": [
+   {
+    "qid": 221881,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/570887/YKS-AYT-2019---Matamatik-Q25.png"
+   },
+   {
+    "qid": 221880,
+    "paper_ref": "Matematik/_Summer_2019_Q24",
+    "file": "media/questions/570858/YKS-AYT-2019---Matamatik-Q-24.png"
+   },
+   {
+    "qid": 221879,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/570886/YKS-AYT-2019---Matamatik-Q-23.png"
+   },
+   {
+    "qid": 221878,
+    "paper_ref": "Matematik/_Summer_2019_Q22",
+    "file": "media/questions/570852/YKS-AYT-2019---Matamatik-Q-22.png"
+   },
+   {
+    "qid": 221711,
+    "paper_ref": "Matematik/_Summer_2018_Q22",
+    "file": "media/questions/570661/YKS-AYT-2018----Matematik-Q-22.png"
+   },
+   {
+    "qid": 221710,
+    "paper_ref": "Matematik/_Summer_2018_Q21",
+    "file": "media/questions/570660/YKS-AYT-2018----Matematik-Q-21.png"
+   },
+   {
+    "qid": 221709,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/570659/YKS-AYT-2018----Matematik-Q-20.png"
+   },
+   {
+    "qid": 221708,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/570658/YKS-AYT-2018----Matematik-Q-19.png"
+   }
+  ],
+  "Önermeler Ve Mantıksal Bağlaçlar (propositions &amp; Logical Connectives)": [
+   {
+    "qid": 221694,
+    "paper_ref": "Matematik/_Summer_2018_Q5",
+    "file": "media/questions/570644/YKS-AYT-2018----Matematik-Q-5.png"
+   }
+  ]
+ }
+}

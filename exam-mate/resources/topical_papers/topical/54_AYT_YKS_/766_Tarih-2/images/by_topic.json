@@ -1,0 +1,132 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:35Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "20. Yüzyıl Dünya Tarihi (20th Century World History)": [
+   {
+    "qid": 221814,
+    "paper_ref": "Tarih-2/_Summer_2019_Q5",
+    "file": "media/questions/570781/YKS-AYT-2019--Tarih-2-(1-11)-Q-5.png"
+   },
+   {
+    "qid": 221653,
+    "paper_ref": "Tarih-2/_Summer_2018_Q10",
+    "file": "media/questions/570599/YKS-AYT-2018---Tarih-2-Q10.png"
+   }
+  ],
+  "İlk Türk Devletleri (early Turkish States)": [
+   {
+    "qid": 221812,
+    "paper_ref": "Tarih-2/_Summer_2019_Q3",
+    "file": "media/questions/570779/YKS-AYT-2019--Tarih-2-(1-11)-Q-3.png"
+   },
+   {
+    "qid": 221811,
+    "paper_ref": "Tarih-2/_Summer_2019_Q2",
+    "file": "media/questions/570778/YKS-AYT-2019--Tarih-2-(1-11)-Q-2.png"
+   },
+   {
+    "qid": 221646,
+    "paper_ref": "Tarih-2/_Summer_2018_Q3",
+    "file": "media/questions/570590/YKS-AYT-2018---Tarih-2--Q3.png"
+   },
+   {
+    "qid": 221645,
+    "paper_ref": "Tarih-2/_Summer_2018_Q2",
+    "file": "media/questions/570591/YKS-AYT-2018---Tarih2--Q-2.png"
+   }
+  ],
+  "Küreselleşen Dünya (globalizing World)": [
+   {
+    "qid": 221654,
+    "paper_ref": "Tarih-2/_Summer_2018_Q11",
+    "file": "media/questions/570600/YKS-AYT-2018---Tarih-2-(1-11)-Q-11.png"
+   }
+  ],
+  "Osmanlı Devleti (ottoman Empire – Advanced)": [
+   {
+    "qid": 221816,
+    "paper_ref": "Tarih-2/_Summer_2019_Q7",
+    "file": "media/questions/570783/YKS-AYT-2019--Tarih-2-(1-11)-Q-7.png"
+   },
+   {
+    "qid": 221815,
+    "paper_ref": "Tarih-2/_Summer_2019_Q6",
+    "file": "media/questions/570782/YKS-AYT-2019--Tarih-2-(1-11)-Q-6.png"
+   },
+   {
+    "qid": 221813,
+    "paper_ref": "Tarih-2/_Summer_2019_Q4",
+    "file": "media/questions/570780/YKS-AYT-2019--Tarih-2-(1-11)-Q-4.png"
+   },
+   {
+    "qid": 221650,
+    "paper_ref": "Tarih-2/_Summer_2018_Q7",
+    "file": "media/questions/570595/YKS-AYT-2018---Tarih-2--Q-7.png"
+   },
+   {
+    "qid": 221649,
+    "paper_ref": "Tarih-2/_Summer_2018_Q6",
+    "file": "media/questions/570596/YKS-AYT-2018---Tarih-2--Q-6.png"
+   },
+   {
+    "qid": 221648,
+    "paper_ref": "Tarih-2/_Summer_2018_Q5",
+    "file": "media/questions/570593/YKS-AYT-2018---Tarih-2--Q-5.png"
+   },
+   {
+    "qid": 221647,
+    "paper_ref": "Tarih-2/_Summer_2018_Q4",
+    "file": "media/questions/570592/YKS-AYT-2018---Tarih-2-Q-4.png"
+   }
+  ],
+  "Tarih Ve Zaman (history &amp; Time)": [
+   {
+    "qid": 221810,
+    "paper_ref": "Tarih-2/_Summer_2019_Q1",
+    "file": "media/questions/570777/YKS-AYT-2019--Tarih-2-(1-11)-Q-1.png"
+   },
+   {
+    "qid": 221644,
+    "paper_ref": "Tarih-2/_Summer_2018_Q1",
+    "file": "media/questions/570588/YKS-AYT-2018---Tarih-2-(1-11)-Q1.png"
+   }
+  ],
+  "Türkiye Cumhuriyeti (republic Of Türkiye)": [
+   {
+    "qid": 221820,
+    "paper_ref": "Tarih-2/_Summer_2019_Q11",
+    "file": "media/questions/570787/YKS-AYT-2019--Tarih-2-(1-11)-Q-11.png"
+   },
+   {
+    "qid": 221819,
+    "paper_ref": "Tarih-2/_Summer_2019_Q10",
+    "file": "media/questions/570786/YKS-AYT-2019--Tarih-2-(1-11)-Q-10.png"
+   },
+   {
+    "qid": 221818,
+    "paper_ref": "Tarih-2/_Summer_2019_Q9",
+    "file": "media/questions/570785/YKS-AYT-2019--Tarih-2-(1-11)-Q-9.png"
+   },
+   {
+    "qid": 221817,
+    "paper_ref": "Tarih-2/_Summer_2019_Q8",
+    "file": "media/questions/570784/YKS-AYT-2019--Tarih-2-(1-11)-Q-8.png"
+   },
+   {
+    "qid": 221652,
+    "paper_ref": "Tarih-2/_Summer_2018_Q9",
+    "file": "media/questions/570598/YKS-AYT-2018---Tarih-2-(1-11)-Q-9.png"
+   },
+   {
+    "qid": 221651,
+    "paper_ref": "Tarih-2/_Summer_2018_Q8",
+    "file": "media/questions/570597/YKS-AYT-2018---Tarih-2-(1-11)-Q-8.png"
+   }
+  ]
+ }
+}

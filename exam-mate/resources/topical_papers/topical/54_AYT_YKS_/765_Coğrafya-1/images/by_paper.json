@@ -1,0 +1,142 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:08Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Coğrafya-1/_Summer_2019_Q40": {
+   "qid": 221809,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570776/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2019_Q39": {
+   "qid": 221808,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570775/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2019_Q38": {
+   "qid": 221807,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570774/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2019_Q37": {
+   "qid": 221806,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570773/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2019_Q36": {
+   "qid": 221805,
+   "page": 1,
+   "topics": "Beşerî Sistemler (human Systems)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570772/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2019_Q35": {
+   "qid": 221804,
+   "page": 1,
+   "topics": "Doğal Sistemler (natural Systems)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570771/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-35.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q40": {
+   "qid": 221643,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570587/YKS-AYT-2018---Coğrafya-1-(35-40)-Q40.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q39": {
+   "qid": 221642,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570586/YKS-AYT-2018---Coğrafya-1-(35-40)-Q39.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q38": {
+   "qid": 221641,
+   "page": 1,
+   "topics": "Türkiye Coğrafyası (geography Of Türkiye)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570585/YKS-AYT-2018---Coğrafya-1-(35-40)-Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q37": {
+   "qid": 221640,
+   "page": 1,
+   "topics": "Türkiye Coğrafyası (geography Of Türkiye)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570584/YKS-AYT-2018---Coğrafya-1-(35-40)-Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q36": {
+   "qid": 221639,
+   "page": 1,
+   "topics": "Beşerî Sistemler (human Systems)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570583/YKS-AYT-2018---Coğrafya-1-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-1/_Summer_2018_Q35": {
+   "qid": 221638,
+   "page": 1,
+   "topics": "Doğal Sistemler (natural Systems)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570582/YKS-AYT-2018---Coğrafya-1-Q35.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:35Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Tarih-2/_Summer_2019_Q11": {
+   "qid": 221820,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570787/YKS-AYT-2019--Tarih-2-(1-11)-Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q10": {
+   "qid": 221819,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570786/YKS-AYT-2019--Tarih-2-(1-11)-Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q9": {
+   "qid": 221818,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570785/YKS-AYT-2019--Tarih-2-(1-11)-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q8": {
+   "qid": 221817,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570784/YKS-AYT-2019--Tarih-2-(1-11)-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q7": {
+   "qid": 221816,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570783/YKS-AYT-2019--Tarih-2-(1-11)-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q6": {
+   "qid": 221815,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570782/YKS-AYT-2019--Tarih-2-(1-11)-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q5": {
+   "qid": 221814,
+   "page": 1,
+   "topics": "20. Yüzyıl Dünya Tarihi (20th Century World History)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570781/YKS-AYT-2019--Tarih-2-(1-11)-Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q4": {
+   "qid": 221813,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570780/YKS-AYT-2019--Tarih-2-(1-11)-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q3": {
+   "qid": 221812,
+   "page": 1,
+   "topics": "İlk Türk Devletleri (early Turkish States)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570779/YKS-AYT-2019--Tarih-2-(1-11)-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q2": {
+   "qid": 221811,
+   "page": 1,
+   "topics": "İlk Türk Devletleri (early Turkish States)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570778/YKS-AYT-2019--Tarih-2-(1-11)-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2019_Q1": {
+   "qid": 221810,
+   "page": 1,
+   "topics": "Tarih Ve Zaman (history &amp; Time)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570777/YKS-AYT-2019--Tarih-2-(1-11)-Q-1.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q11": {
+   "qid": 221654,
+   "page": 1,
+   "topics": "Küreselleşen Dünya (globalizing World)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570600/YKS-AYT-2018---Tarih-2-(1-11)-Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q10": {
+   "qid": 221653,
+   "page": 1,
+   "topics": "20. Yüzyıl Dünya Tarihi (20th Century World History)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570599/YKS-AYT-2018---Tarih-2-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q9": {
+   "qid": 221652,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570598/YKS-AYT-2018---Tarih-2-(1-11)-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q8": {
+   "qid": 221651,
+   "page": 1,
+   "topics": "Türkiye Cumhuriyeti (republic Of Türkiye)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570597/YKS-AYT-2018---Tarih-2-(1-11)-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q7": {
+   "qid": 221650,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570595/YKS-AYT-2018---Tarih-2--Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q6": {
+   "qid": 221649,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570596/YKS-AYT-2018---Tarih-2--Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q5": {
+   "qid": 221648,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570593/YKS-AYT-2018---Tarih-2--Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q4": {
+   "qid": 221647,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire – Advanced)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570592/YKS-AYT-2018---Tarih-2-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q3": {
+   "qid": 221646,
+   "page": 1,
+   "topics": "İlk Türk Devletleri (early Turkish States)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570590/YKS-AYT-2018---Tarih-2--Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q2": {
+   "qid": 221645,
+   "page": 1,
+   "topics": "İlk Türk Devletleri (early Turkish States)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570591/YKS-AYT-2018---Tarih2--Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-2/_Summer_2018_Q1": {
+   "qid": 221644,
+   "page": 1,
+   "topics": "Tarih Ve Zaman (history &amp; Time)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570588/YKS-AYT-2018---Tarih-2-(1-11)-Q1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

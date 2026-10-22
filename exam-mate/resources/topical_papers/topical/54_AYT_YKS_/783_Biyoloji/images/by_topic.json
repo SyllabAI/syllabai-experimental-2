@@ -1,0 +1,166 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Bitki Biyolojisi (plant Biology)": [
+   {
+    "qid": 221935,
+    "paper_ref": "Biyoloji/_Summer_2019_Q39",
+    "file": "media/questions/570940/YKS-AYT-2019--Biyoloji-(28-40)-Q-39.png"
+   },
+   {
+    "qid": 221934,
+    "paper_ref": "Biyoloji/_Summer_2019_Q38",
+    "file": "media/questions/570939/YKS-AYT-2019--Biyoloji-(28-40)-Q-38.png"
+   },
+   {
+    "qid": 221933,
+    "paper_ref": "Biyoloji/_Summer_2019_Q37",
+    "file": "media/questions/570938/YKS-AYT-2019--Biyoloji-(28-40)-Q-37.png"
+   },
+   {
+    "qid": 221767,
+    "paper_ref": "Biyoloji/_Summer_2018_Q38",
+    "file": "media/questions/570718/YKS-AYT-2018---Biology---Q-38.png"
+   },
+   {
+    "qid": 221766,
+    "paper_ref": "Biyoloji/_Summer_2018_Q37",
+    "file": "media/questions/570717/YKS-AYT-2018---Biology---Q-37.png"
+   }
+  ],
+  "Canlılar Ve Çevre (organisms &amp; Environment / Ecology)": [
+   {
+    "qid": 221936,
+    "paper_ref": "Biyoloji/_Summer_2019_Q40",
+    "file": "media/questions/570941/YKS-AYT-2019--Biyoloji-(28-40)-Q-40.png"
+   }
+  ],
+  "Canlılarda Enerji Dönüşümleri (energy Transformations In Living Organisms)": [
+   {
+    "qid": 221925,
+    "paper_ref": "Biyoloji/_Summer_2019_Q29",
+    "file": "media/questions/570930/YKS-AYT-2019--Biyoloji-(28-40)-Q-29.png"
+   },
+   {
+    "qid": 221924,
+    "paper_ref": "Biyoloji/_Summer_2019_Q28",
+    "file": "media/questions/570929/YKS-AYT-2019--Biyoloji-(28-40)-Q-28.png"
+   },
+   {
+    "qid": 221758,
+    "paper_ref": "Biyoloji/_Summer_2018_Q29",
+    "file": "media/questions/570709/YKS-AYT-2018---Biology---Q29.png"
+   },
+   {
+    "qid": 221757,
+    "paper_ref": "Biyoloji/_Summer_2018_Q28",
+    "file": "media/questions/570708/YKS-AYT-2018---Biology---Q28.png"
+   }
+  ],
+  "Canlıların Sınıflandırılması (sistematik)  (classification Of Living Organisms (systematics))": [
+   {
+    "qid": 223763,
+    "paper_ref": "Biyoloji/_Summer_2019_Q30",
+    "file": "media/questions/574428/YKS-AYT-2019--Biyoloji-(28-40)-Q-30.png"
+   }
+  ],
+  "Destek Ve Hareket Sistemi (support &amp; Movement System)": [
+   {
+    "qid": 221762,
+    "paper_ref": "Biyoloji/_Summer_2018_Q33",
+    "file": "media/questions/570713/YKS-AYT-2018---Biology---Q-33.png"
+   }
+  ],
+  "Dolaşım Ve Bağışıklık Sistemi (circulatory &amp; Immune System)": [
+   {
+    "qid": 221759,
+    "paper_ref": "Biyoloji/_Summer_2018_Q30",
+    "file": "media/questions/570710/YKS-AYT-2018---Biology---Q-30.png"
+   }
+  ],
+  "Endokrin Sistem Ve Hormonlar (endocrine System &amp; Hormones)": [
+   {
+    "qid": 221928,
+    "paper_ref": "Biyoloji/_Summer_2019_Q32",
+    "file": "media/questions/570933/YKS-AYT-2019--Biyoloji-(28-40)-Q-32.png"
+   }
+  ],
+  "Genden Proteine (from Gene To Protein)": [
+   {
+    "qid": 221932,
+    "paper_ref": "Biyoloji/_Summer_2019_Q36",
+    "file": "media/questions/570937/YKS-AYT-2019--Biyoloji-(28-40)-Q-36.png"
+   },
+   {
+    "qid": 221931,
+    "paper_ref": "Biyoloji/_Summer_2019_Q35",
+    "file": "media/questions/570936/YKS-AYT-2019--Biyoloji-(28-40)-Q-35.png"
+   },
+   {
+    "qid": 221765,
+    "paper_ref": "Biyoloji/_Summer_2018_Q36",
+    "file": "media/questions/570716/YKS-AYT-2018---Biology---Q-36.png"
+   },
+   {
+    "qid": 221764,
+    "paper_ref": "Biyoloji/_Summer_2018_Q35",
+    "file": "media/questions/570715/YKS-AYT-2018---Biology---Q35.png"
+   }
+  ],
+  "Komünite Ve Popülasyon Ekolojisi (community &amp; Population Ecology)": [
+   {
+    "qid": 221769,
+    "paper_ref": "Biyoloji/_Summer_2018_Q40",
+    "file": "media/questions/570720/YKS-AYT-2018---Biology---Q-40.png"
+   },
+   {
+    "qid": 221768,
+    "paper_ref": "Biyoloji/_Summer_2018_Q39",
+    "file": "media/questions/570719/YKS-AYT-2018---Biology---Q-39.png"
+   }
+  ],
+  "Sindirim Sistemi (digestive System)": [
+   {
+    "qid": 221927,
+    "paper_ref": "Biyoloji/_Summer_2019_Q31",
+    "file": "media/questions/570932/YKS-AYT-2019--Biyoloji-(28-40)-Q-31.png"
+   }
+  ],
+  "Sinir Sistemi (nervous System)": [
+   {
+    "qid": 221763,
+    "paper_ref": "Biyoloji/_Summer_2018_Q34",
+    "file": "media/questions/570714/YKS-AYT-2018---Biology---Q34.png"
+   },
+   {
+    "qid": 221761,
+    "paper_ref": "Biyoloji/_Summer_2018_Q32",
+    "file": "media/questions/570712/YKS-AYT-2018---Biology---Q-32.png"
+   }
+  ],
+  "Solunum Sistemi (respiratory System)": [
+   {
+    "qid": 221930,
+    "paper_ref": "Biyoloji/_Summer_2019_Q34",
+    "file": "media/questions/570935/YKS-AYT-2019--Biyoloji-(28-40)-Q-34.png"
+   }
+  ],
+  "Üriner Sistem / Boşaltım Sistemi (urinary/excretory System)": [
+   {
+    "qid": 221929,
+    "paper_ref": "Biyoloji/_Summer_2019_Q33",
+    "file": "media/questions/570934/YKS-AYT-2019--Biyoloji-(28-40)-Q-33.png"
+   },
+   {
+    "qid": 221760,
+    "paper_ref": "Biyoloji/_Summer_2018_Q31",
+    "file": "media/questions/570711/YKS-AYT-2018---Biology---Q31.png"
+   }
+  ]
+ }
+}

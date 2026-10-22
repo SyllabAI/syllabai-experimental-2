@@ -1,0 +1,890 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Matematik/_Summer_2019_Q40": {
+   "qid": 221896,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570881/YKS-AYT-2019---Matamatik-Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q39": {
+   "qid": 221895,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570880/YKS-AYT-2019---Matamatik-Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q38": {
+   "qid": 221894,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570879/YKS-AYT-2019---Matamatik-Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q37": {
+   "qid": 221893,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570878/YKS-AYT-2019---Matamatik-Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q36": {
+   "qid": 221892,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570877/YKS-AYT-2019---Matamatik-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q35": {
+   "qid": 221891,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570876/YKS-AYT-2019---Matamatik-Q-35.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q34": {
+   "qid": 221890,
+   "page": 1,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570875/YKS-AYT-2019---Matamatik-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q33": {
+   "qid": 221889,
+   "page": 1,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570874/YKS-AYT-2019---Matamatik-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q32": {
+   "qid": 221888,
+   "page": 1,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570873/YKS-AYT-2019---Matamatik-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q31": {
+   "qid": 221887,
+   "page": 1,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570872/YKS-AYT-2019---Matamatik-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q30": {
+   "qid": 221886,
+   "page": 1,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570871/YKS-AYT-2019---Matamatik-Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q29": {
+   "qid": 221885,
+   "page": 1,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570866/YKS-AYT-2019---Matamatik-Q-29.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q28": {
+   "qid": 221884,
+   "page": 1,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570865/YKS-AYT-2019---Matamatik-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q27": {
+   "qid": 221883,
+   "page": 1,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570864/YKS-AYT-2019---Matamatik-Q27.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q26": {
+   "qid": 221882,
+   "page": 1,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570860/YKS-AYT-2019---Matamatik-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q25": {
+   "qid": 221881,
+   "page": 1,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570887/YKS-AYT-2019---Matamatik-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q24": {
+   "qid": 221880,
+   "page": 1,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570858/YKS-AYT-2019---Matamatik-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q23": {
+   "qid": 221879,
+   "page": 1,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570886/YKS-AYT-2019---Matamatik-Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q22": {
+   "qid": 221878,
+   "page": 1,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570852/YKS-AYT-2019---Matamatik-Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q21": {
+   "qid": 221877,
+   "page": 1,
+   "topics": "Limit Ve Süreklilik (limits And Continuity)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570851/YKS-AYT-2019---Matamatik-Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q20": {
+   "qid": 221876,
+   "page": 1,
+   "topics": "Limit Ve Süreklilik (limits And Continuity)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570850/YKS-AYT-2019---Matamatik-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q19": {
+   "qid": 221875,
+   "page": 1,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570849/YKS-AYT-2019---Matamatik-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q18": {
+   "qid": 221874,
+   "page": 1,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570884/YKS-AYT-2019---Matamatik-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q17": {
+   "qid": 221873,
+   "page": 1,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570843/YKS-AYT-2019---Matamatik-Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q16": {
+   "qid": 221872,
+   "page": 1,
+   "topics": "Fonksiyonlar (functions)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570842/YKS-AYT-2019---Matamatik-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q15": {
+   "qid": 221871,
+   "page": 2,
+   "topics": "Diziler Ve Seriler (sequences And Series)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570841/YKS-AYT-2019---Matamatik-Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q14": {
+   "qid": 221869,
+   "page": 2,
+   "topics": "Logaritma Ve Üstel Fonksiyonlar (logarithms And Exponential Functions)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570839/YKS-AYT-2019---Matamatik-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q13": {
+   "qid": 221868,
+   "page": 2,
+   "topics": "Logaritma Ve Üstel Fonksiyonlar (logarithms And Exponential Functions)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570885/YKS-AYT-2019---Matamatik-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q12": {
+   "qid": 221867,
+   "page": 2,
+   "topics": "Polinomlar (polynomials)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570837/YKS-AYT-2019---Matamatik-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q11": {
+   "qid": 221866,
+   "page": 2,
+   "topics": "Polinomlar (polynomials)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570836/YKS-AYT-2019---Matamatik-Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q10": {
+   "qid": 221865,
+   "page": 2,
+   "topics": "Denklem Ve Eşitsizlikler (equations And Inequalities)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570835/YKS-AYT-2019---Matamatik-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q9": {
+   "qid": 221864,
+   "page": 2,
+   "topics": "Denklem Ve Eşitsizlikler (equations And Inequalities)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570834/YKS-AYT-2019---Matamatik-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q8": {
+   "qid": 221863,
+   "page": 2,
+   "topics": "Fonksiyonlar (functions)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570833/YKS-AYT-2019---Matamatik-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q7": {
+   "qid": 221862,
+   "page": 2,
+   "topics": "Fonksiyonlar (functions)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570832/YKS-AYT-2019---Matamatik-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q6": {
+   "qid": 221861,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570831/YKS-AYT-2019---Matamatik-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q5": {
+   "qid": 221860,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570830/YKS-AYT-2019---Matamatik-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q4": {
+   "qid": 221859,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570829/YKS-AYT-2019---Matamatik-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q3": {
+   "qid": 221858,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570828/YKS-AYT-2019---Matamatik-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q2": {
+   "qid": 221857,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570827/YKS-AYT-2019---Matamatik-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2019_Q1": {
+   "qid": 221856,
+   "page": 2,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570826/YKS-AYT-2019---Matamatik-Q-1.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q40": {
+   "qid": 221729,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570679/YKS-AYT-2018----Matematik-Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q39": {
+   "qid": 221728,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570678/YKS-AYT-2018----Matematik-Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q38": {
+   "qid": 221727,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570677/YKS-AYT-2018----Matematik-Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q37": {
+   "qid": 221726,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570676/YKS-AYT-2018----Matematik-Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q36": {
+   "qid": 221725,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570675/YKS-AYT-2018----Matematik-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q35": {
+   "qid": 221724,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570674/YKS-AYT-2018----Matematik-Q-35.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q34": {
+   "qid": 221723,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570673/YKS-AYT-2018----Matematik-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q33": {
+   "qid": 221722,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570672/YKS-AYT-2018----Matematik-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q32": {
+   "qid": 221721,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570671/YKS-AYT-2018----Matematik-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q31": {
+   "qid": 221720,
+   "page": 2,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570670/YKS-AYT-2018----Matematik-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q30": {
+   "qid": 221719,
+   "page": 3,
+   "topics": "Analitik Geometri (analytic Geometry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570669/YKS-AYT-2018----Matematik-Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q29": {
+   "qid": 221718,
+   "page": 3,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570668/YKS-AYT-2018----Matematik-Q-29.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q28": {
+   "qid": 221717,
+   "page": 3,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570667/YKS-AYT-2018----Matematik-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q27": {
+   "qid": 221716,
+   "page": 3,
+   "topics": "Trigonometri (trigonometry)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570666/YKS-AYT-2018----Matematik-Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q26": {
+   "qid": 221715,
+   "page": 3,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570665/YKS-AYT-2018----Matematik-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q25": {
+   "qid": 221714,
+   "page": 3,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570664/YKS-AYT-2018----Matematik-Q-25.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q24": {
+   "qid": 221713,
+   "page": 3,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570663/YKS-AYT-2018----Matematik-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q23": {
+   "qid": 221712,
+   "page": 3,
+   "topics": "İntegral (integral)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570662/YKS-AYT-2018----Matematik-Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q22": {
+   "qid": 221711,
+   "page": 3,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570661/YKS-AYT-2018----Matematik-Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q21": {
+   "qid": 221710,
+   "page": 3,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570660/YKS-AYT-2018----Matematik-Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q20": {
+   "qid": 221709,
+   "page": 3,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570659/YKS-AYT-2018----Matematik-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q19": {
+   "qid": 221708,
+   "page": 3,
+   "topics": "Türev (derivative)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570658/YKS-AYT-2018----Matematik-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q18": {
+   "qid": 221707,
+   "page": 3,
+   "topics": "Limit Ve Süreklilik (limits And Continuity)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570657/YKS-AYT-2018----Matematik-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q17": {
+   "qid": 221706,
+   "page": 3,
+   "topics": "Limit Ve Süreklilik (limits And Continuity)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570656/YKS-AYT-2018----Matematik-Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q16": {
+   "qid": 221705,
+   "page": 3,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570655/YKS-AYT-2018----Matematik-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q15": {
+   "qid": 221704,
+   "page": 3,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570654/YKS-AYT-2018----Matematik-Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q14": {
+   "qid": 221703,
+   "page": 3,
+   "topics": "Denklem Ve Eşitsizlikler (equations And Inequalities)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570653/YKS-AYT-2018----Matematik-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q13": {
+   "qid": 221702,
+   "page": 3,
+   "topics": "Fonksiyonlar (functions)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570652/YKS-AYT-2018----Matematik-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q12": {
+   "qid": 221701,
+   "page": 3,
+   "topics": "Diziler Ve Seriler (sequences And Series)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570651/YKS-AYT-2018----Matematik-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q11": {
+   "qid": 221700,
+   "page": 3,
+   "topics": "Logaritma Ve Üstel Fonksiyonlar (logarithms And Exponential Functions)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570650/YKS-AYT-2018----Matematik-Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q10": {
+   "qid": 221699,
+   "page": 3,
+   "topics": "Logaritma Ve Üstel Fonksiyonlar (logarithms And Exponential Functions)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570649/YKS-AYT-2018----Matematik-Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q9": {
+   "qid": 221698,
+   "page": 3,
+   "topics": "Polinomlar (polynomials)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570648/YKS-AYT-2018----Matematik-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q8": {
+   "qid": 221697,
+   "page": 3,
+   "topics": "Denklem Ve Eşitsizlikler (equations And Inequalities)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570647/YKS-AYT-2018----Matematik-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q7": {
+   "qid": 221696,
+   "page": 3,
+   "topics": "Fonksiyonlar (functions)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570646/YKS-AYT-2018----Matematik-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q6": {
+   "qid": 221695,
+   "page": 3,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570645/YKS-AYT-2018----Matematik-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q5": {
+   "qid": 221694,
+   "page": 4,
+   "topics": "Önermeler Ve Mantıksal Bağlaçlar (propositions &amp; Logical Connectives)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570644/YKS-AYT-2018----Matematik-Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q4": {
+   "qid": 221693,
+   "page": 4,
+   "topics": "Diziler Ve Seriler (sequences And Series)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570643/YKS-AYT-2018----Matematik-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q3": {
+   "qid": 221692,
+   "page": 4,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570642/YKS-AYT-2018----Matematik-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q2": {
+   "qid": 221691,
+   "page": 4,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570641/YKS-AYT-2018----Matematik-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Matematik/_Summer_2018_Q1": {
+   "qid": 221690,
+   "page": 4,
+   "topics": "Temel Kavramlar Ve Sayılar (basic Concepts And Numbers Theory)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570640/YKS-AYT-2018----Matematik-Q-1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:03Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Din/_Summer_2019_Q40": {
+   "qid": 221855,
+   "page": 1,
+   "topics": "İslam Ve Diğer Dinler (islam And Other Religions)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570825/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2019_Q39": {
+   "qid": 221854,
+   "page": 1,
+   "topics": "Din Ve Hayat (religion And Life)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570824/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2019_Q38": {
+   "qid": 221853,
+   "page": 1,
+   "topics": "Hz. Muhammed’in Hayatı (life Of Prophet Muhammad)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570823/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2019_Q37": {
+   "qid": 221852,
+   "page": 1,
+   "topics": "Ahlak Ve Değerler (morality And Values)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570821/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2019_Q36": {
+   "qid": 221851,
+   "page": 1,
+   "topics": "İnanç (faith / Belief)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570820/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2019_Q35": {
+   "qid": 221850,
+   "page": 1,
+   "topics": "İnanç (faith / Belief)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570819/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-35.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q40": {
+   "qid": 221689,
+   "page": 1,
+   "topics": "İslam Ve Diğer Dinler (islam And Other Religions)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570638/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q39": {
+   "qid": 221688,
+   "page": 1,
+   "topics": "Ahlak Ve Değerler (morality And Values)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570637/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q38": {
+   "qid": 221687,
+   "page": 1,
+   "topics": "Ahlak Ve Değerler (morality And Values)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570636/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q37": {
+   "qid": 221686,
+   "page": 1,
+   "topics": "Hz. Muhammed’in Hayatı (life Of Prophet Muhammad)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570635/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q36": {
+   "qid": 221685,
+   "page": 1,
+   "topics": "İnanç (faith / Belief)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570634/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Din/_Summer_2018_Q35": {
+   "qid": 221684,
+   "page": 1,
+   "topics": "İbadet (worship)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570633/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)-2-Q35.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

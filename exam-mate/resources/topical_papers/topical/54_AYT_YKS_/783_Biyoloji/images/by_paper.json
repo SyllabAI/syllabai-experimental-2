@@ -1,0 +1,296 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Biyoloji/_Summer_2019_Q40": {
+   "qid": 221936,
+   "page": 1,
+   "topics": "Canlılar Ve Çevre (organisms &amp; Environment / Ecology)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570941/YKS-AYT-2019--Biyoloji-(28-40)-Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q39": {
+   "qid": 221935,
+   "page": 1,
+   "topics": "Bitki Biyolojisi (plant Biology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570940/YKS-AYT-2019--Biyoloji-(28-40)-Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q38": {
+   "qid": 221934,
+   "page": 1,
+   "topics": "Bitki Biyolojisi (plant Biology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570939/YKS-AYT-2019--Biyoloji-(28-40)-Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q37": {
+   "qid": 221933,
+   "page": 1,
+   "topics": "Bitki Biyolojisi (plant Biology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570938/YKS-AYT-2019--Biyoloji-(28-40)-Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q36": {
+   "qid": 221932,
+   "page": 1,
+   "topics": "Genden Proteine (from Gene To Protein)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570937/YKS-AYT-2019--Biyoloji-(28-40)-Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q35": {
+   "qid": 221931,
+   "page": 1,
+   "topics": "Genden Proteine (from Gene To Protein)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570936/YKS-AYT-2019--Biyoloji-(28-40)-Q-35.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q34": {
+   "qid": 221930,
+   "page": 1,
+   "topics": "Solunum Sistemi (respiratory System)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570935/YKS-AYT-2019--Biyoloji-(28-40)-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q33": {
+   "qid": 221929,
+   "page": 1,
+   "topics": "Üriner Sistem / Boşaltım Sistemi (urinary/excretory System)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570934/YKS-AYT-2019--Biyoloji-(28-40)-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q32": {
+   "qid": 221928,
+   "page": 1,
+   "topics": "Endokrin Sistem Ve Hormonlar (endocrine System &amp; Hormones)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570933/YKS-AYT-2019--Biyoloji-(28-40)-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q31": {
+   "qid": 221927,
+   "page": 1,
+   "topics": "Sindirim Sistemi (digestive System)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570932/YKS-AYT-2019--Biyoloji-(28-40)-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q30": {
+   "qid": 223763,
+   "page": 1,
+   "topics": "Canlıların Sınıflandırılması (sistematik)  (classification Of Living Organisms (systematics))",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/574428/YKS-AYT-2019--Biyoloji-(28-40)-Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q29": {
+   "qid": 221925,
+   "page": 1,
+   "topics": "Canlılarda Enerji Dönüşümleri (energy Transformations In Living Organisms)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570930/YKS-AYT-2019--Biyoloji-(28-40)-Q-29.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q28": {
+   "qid": 221924,
+   "page": 1,
+   "topics": "Canlılarda Enerji Dönüşümleri (energy Transformations In Living Organisms)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570929/YKS-AYT-2019--Biyoloji-(28-40)-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q40": {
+   "qid": 221769,
+   "page": 1,
+   "topics": "Komünite Ve Popülasyon Ekolojisi (community &amp; Population Ecology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570720/YKS-AYT-2018---Biology---Q-40.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q39": {
+   "qid": 221768,
+   "page": 1,
+   "topics": "Komünite Ve Popülasyon Ekolojisi (community &amp; Population Ecology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570719/YKS-AYT-2018---Biology---Q-39.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q38": {
+   "qid": 221767,
+   "page": 1,
+   "topics": "Bitki Biyolojisi (plant Biology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570718/YKS-AYT-2018---Biology---Q-38.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q37": {
+   "qid": 221766,
+   "page": 1,
+   "topics": "Bitki Biyolojisi (plant Biology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570717/YKS-AYT-2018---Biology---Q-37.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q36": {
+   "qid": 221765,
+   "page": 1,
+   "topics": "Genden Proteine (from Gene To Protein)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570716/YKS-AYT-2018---Biology---Q-36.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q35": {
+   "qid": 221764,
+   "page": 1,
+   "topics": "Genden Proteine (from Gene To Protein)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570715/YKS-AYT-2018---Biology---Q35.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q34": {
+   "qid": 221763,
+   "page": 1,
+   "topics": "Sinir Sistemi (nervous System)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570714/YKS-AYT-2018---Biology---Q34.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q33": {
+   "qid": 221762,
+   "page": 1,
+   "topics": "Destek Ve Hareket Sistemi (support &amp; Movement System)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570713/YKS-AYT-2018---Biology---Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q32": {
+   "qid": 221761,
+   "page": 1,
+   "topics": "Sinir Sistemi (nervous System)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570712/YKS-AYT-2018---Biology---Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q31": {
+   "qid": 221760,
+   "page": 1,
+   "topics": "Üriner Sistem / Boşaltım Sistemi (urinary/excretory System)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570711/YKS-AYT-2018---Biology---Q31.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q30": {
+   "qid": 221759,
+   "page": 1,
+   "topics": "Dolaşım Ve Bağışıklık Sistemi (circulatory &amp; Immune System)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570710/YKS-AYT-2018---Biology---Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q29": {
+   "qid": 221758,
+   "page": 1,
+   "topics": "Canlılarda Enerji Dönüşümleri (energy Transformations In Living Organisms)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570709/YKS-AYT-2018---Biology---Q29.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q28": {
+   "qid": 221757,
+   "page": 2,
+   "topics": "Canlılarda Enerji Dönüşümleri (energy Transformations In Living Organisms)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570708/YKS-AYT-2018---Biology---Q28.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:06Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Fizik/_Summer_2019_Q14": {
+   "qid": 221910,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570908/YKS-AYT-2019---Fizik-(1-14)-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q13": {
+   "qid": 221909,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570907/YKS-AYT-2019---Fizik-(1-14)-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q12": {
+   "qid": 221908,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570906/YKS-AYT-2019---Fizik-(1-14)-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q11": {
+   "qid": 221907,
+   "page": 1,
+   "topics": "Dalgalar (waves)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570905/AYT-2019---Fizik-(1-14)-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q10": {
+   "qid": 221906,
+   "page": 1,
+   "topics": "Basit Harmonik Hareket (simple Harmonic Motion)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570910/YKS-AYT-2019---Fizik-(1-14)-Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q9": {
+   "qid": 221905,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570899/YKS-AYT-2019---Fizik-(1-14)-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q8": {
+   "qid": 221904,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570898/AYT-2019---Fizik-(1-14)-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q7": {
+   "qid": 221903,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570909/YKS-AYT-2019---Fizik-(1-14)-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q6": {
+   "qid": 221902,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570892/YKS-AYT-2019---Fizik-(1-14)-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q5": {
+   "qid": 221901,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570891/AYT-2019---Fizik-(1-14)-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q4": {
+   "qid": 221900,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570890/YKS-AYT-2019---Fizik-(1-14)-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q3": {
+   "qid": 221899,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570889/YKS-AYT-2019---Fizik-(1-14)-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q2": {
+   "qid": 221898,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570888/YKS-AYT-2019---Fizik-(1-14)-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q1": {
+   "qid": 221897,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570882/YKS-AYT-2019---Fizik-(1-14)-Q-1.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q14": {
+   "qid": 221743,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570693/YKS-AYT-2018---Fizik-(1-14)-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q13": {
+   "qid": 221742,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570692/YKS-AYT-2018---Fizik-(1-14)-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q12": {
+   "qid": 221741,
+   "page": 1,
+   "topics": "Modern Fizik (modern Physics)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570691/YKS-AYT-2018---Fizik-(1-14)-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q11": {
+   "qid": 221740,
+   "page": 1,
+   "topics": "Dalgalar (waves)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570690/YKS-AYT-2018---Fizik-(1-14)-Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q10": {
+   "qid": 221739,
+   "page": 1,
+   "topics": "Basit Harmonik Hareket (simple Harmonic Motion)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570689/YKS-AYT-2018---Fizik-(1-14)-Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q9": {
+   "qid": 221738,
+   "page": 1,
+   "topics": "Kütle Çekimi (gravitation)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570688/YKS-AYT-2018---Fizik-(1-14)-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q8": {
+   "qid": 221737,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570687/YKS-AYT-2018---Fizik-(1-14)-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q7": {
+   "qid": 221736,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570686/YKS-AYT-2018---Fizik-(1-14)-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q6": {
+   "qid": 221735,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570685/YKS-AYT-2018---Fizik-(1-14)-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q5": {
+   "qid": 221734,
+   "page": 1,
+   "topics": "Elektrik Ve Manyetizma (electricity And Magnetism)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570684/YKS-AYT-2018---Fizik-(1-14)-Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q4": {
+   "qid": 221733,
+   "page": 1,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570683/YKS-AYT-2018---Fizik-(1-14)-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q3": {
+   "qid": 221732,
+   "page": 2,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570682/YKS-AYT-2018---Fizik-(1-14)-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q2": {
+   "qid": 221731,
+   "page": 2,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570681/YKS-AYT-2018---Fizik-(1-14)-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q1": {
+   "qid": 221730,
+   "page": 2,
+   "topics": "Kuvvet Ve Hareket (mechanics)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570680/YKS-AYT-2018---Fizik-(1-14)-Q-1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

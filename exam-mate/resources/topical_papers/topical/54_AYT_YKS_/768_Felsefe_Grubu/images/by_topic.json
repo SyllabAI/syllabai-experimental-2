@@ -1,0 +1,198 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:00Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Felsefe (philosophy)": [
+   {
+    "qid": 221844,
+    "paper_ref": "Felsefe/_Summer_2019_Q41",
+    "file": "media/questions/570811/Felsefe-Combine-Q-41.png"
+   },
+   {
+    "qid": 221834,
+    "paper_ref": "Felsefe/_Summer_2019_Q25",
+    "file": "media/questions/570801/Felsefe-Combine-Q-25.png"
+   },
+   {
+    "qid": 221833,
+    "paper_ref": "Felsefe/_Summer_2019_Q24",
+    "file": "media/questions/570800/Felsefe-Combine-Q-24.png"
+   },
+   {
+    "qid": 221832,
+    "paper_ref": "Felsefe/_Summer_2019_Q23",
+    "file": "media/questions/570813/Felsefe-Combine-Q-23.png"
+   },
+   {
+    "qid": 221679,
+    "paper_ref": "Felsefe/_Summer_2018_Q42",
+    "file": "media/questions/570626/Felsefe-2018-Q42.png"
+   },
+   {
+    "qid": 221678,
+    "paper_ref": "Felsefe/_Summer_2018_Q41",
+    "file": "media/questions/570624/Felsefe-2018-Q41.png"
+   },
+   {
+    "qid": 221668,
+    "paper_ref": "Felsefe/_Summer_2018_Q25",
+    "file": "media/questions/570614/Felsefe-2018-Q25.png"
+   },
+   {
+    "qid": 221667,
+    "paper_ref": "Felsefe/_Summer_2018_Q24",
+    "file": "media/questions/570613/Felsefe-2018-Q24.png"
+   },
+   {
+    "qid": 221666,
+    "paper_ref": "Felsefe/_Summer_2018_Q23",
+    "file": "media/questions/570612/Felsefe-2018-Q23.png"
+   }
+  ],
+  "Mantık (logic)": [
+   {
+    "qid": 221849,
+    "paper_ref": "Felsefe/_Summer_2019_Q46",
+    "file": "media/questions/570818/Felsefe-Combine-Q-46.png"
+   },
+   {
+    "qid": 221843,
+    "paper_ref": "Felsefe/_Summer_2019_Q34",
+    "file": "media/questions/570810/Felsefe-Combine-Q-34.png"
+   },
+   {
+    "qid": 221842,
+    "paper_ref": "Felsefe/_Summer_2019_Q33",
+    "file": "media/questions/570809/Felsefe-Combine-Q-33.png"
+   },
+   {
+    "qid": 221841,
+    "paper_ref": "Felsefe/_Summer_2019_Q32",
+    "file": "media/questions/570808/Felsefe-Combine-Q-32.png"
+   },
+   {
+    "qid": 221683,
+    "paper_ref": "Felsefe/_Summer_2018_Q46",
+    "file": "media/questions/570630/Felsefe-2018-Q46.png"
+   },
+   {
+    "qid": 221677,
+    "paper_ref": "Felsefe/_Summer_2018_Q34",
+    "file": "media/questions/570623/Felsefe-2018-Q34.png"
+   },
+   {
+    "qid": 221676,
+    "paper_ref": "Felsefe/_Summer_2018_Q33",
+    "file": "media/questions/570622/Felsefe-2018-Q33.png"
+   },
+   {
+    "qid": 221675,
+    "paper_ref": "Felsefe/_Summer_2018_Q32",
+    "file": "media/questions/570621/Felsefe-2018-Q32.png"
+   }
+  ],
+  "Psikoloji (psychology)": [
+   {
+    "qid": 221846,
+    "paper_ref": "Felsefe/_Summer_2019_Q43",
+    "file": "media/questions/570815/Felsefe-Combine-Q-43.png"
+   },
+   {
+    "qid": 221845,
+    "paper_ref": "Felsefe/_Summer_2019_Q42",
+    "file": "media/questions/570812/Felsefe-Combine-Q-42.png"
+   },
+   {
+    "qid": 221837,
+    "paper_ref": "Felsefe/_Summer_2019_Q28",
+    "file": "media/questions/570804/Felsefe-Combine-Q-28.png"
+   },
+   {
+    "qid": 221836,
+    "paper_ref": "Felsefe/_Summer_2019_Q27",
+    "file": "media/questions/570803/Felsefe-Combine-Q-27.png"
+   },
+   {
+    "qid": 221835,
+    "paper_ref": "Felsefe/_Summer_2019_Q26",
+    "file": "media/questions/570802/Felsefe-Combine-Q-26.png"
+   },
+   {
+    "qid": 221680,
+    "paper_ref": "Felsefe/_Summer_2018_Q43",
+    "file": "media/questions/570627/Felsefe-2018-Q43.png"
+   },
+   {
+    "qid": 221671,
+    "paper_ref": "Felsefe/_Summer_2018_Q28",
+    "file": "media/questions/570617/Felsefe-2018-Q28.png"
+   },
+   {
+    "qid": 221670,
+    "paper_ref": "Felsefe/_Summer_2018_Q27",
+    "file": "media/questions/570616/Felsefe-2018-Q27.png"
+   },
+   {
+    "qid": 221669,
+    "paper_ref": "Felsefe/_Summer_2018_Q26",
+    "file": "media/questions/570615/Felsefe-2018-Q26.png"
+   }
+  ],
+  "Sosyoloji (sociology)": [
+   {
+    "qid": 221848,
+    "paper_ref": "Felsefe/_Summer_2019_Q45",
+    "file": "media/questions/570817/Felsefe-Combine-Q-45.png"
+   },
+   {
+    "qid": 221847,
+    "paper_ref": "Felsefe/_Summer_2019_Q44",
+    "file": "media/questions/570816/Felsefe-Combine-Q-44.png"
+   },
+   {
+    "qid": 221840,
+    "paper_ref": "Felsefe/_Summer_2019_Q31",
+    "file": "media/questions/570814/Felsefe-Combine-Q-31.png"
+   },
+   {
+    "qid": 221839,
+    "paper_ref": "Felsefe/_Summer_2019_Q30",
+    "file": "media/questions/570806/Felsefe-Combine-Q30.png"
+   },
+   {
+    "qid": 221838,
+    "paper_ref": "Felsefe/_Summer_2019_Q29",
+    "file": "media/questions/570805/Felsefe-Combine-Q-29.png"
+   },
+   {
+    "qid": 221682,
+    "paper_ref": "Felsefe/_Summer_2018_Q45",
+    "file": "media/questions/570629/Felsefe-2018-Q45.png"
+   },
+   {
+    "qid": 221681,
+    "paper_ref": "Felsefe/_Summer_2018_Q44",
+    "file": "media/questions/570628/Felsefe-2018-Q44.png"
+   },
+   {
+    "qid": 221674,
+    "paper_ref": "Felsefe/_Summer_2018_Q31",
+    "file": "media/questions/570620/Felsefe-2018-Q31.png"
+   },
+   {
+    "qid": 221673,
+    "paper_ref": "Felsefe/_Summer_2018_Q30",
+    "file": "media/questions/570632/Felsefe-2018-Q30.png"
+   },
+   {
+    "qid": 221672,
+    "paper_ref": "Felsefe/_Summer_2018_Q29",
+    "file": "media/questions/570631/Felsefe-2018-Q29.png"
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:08Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Beşerî Sistemler (human Systems)": [
+   {
+    "qid": 221805,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q36",
+    "file": "media/questions/570772/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-36.png"
+   },
+   {
+    "qid": 221639,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q36",
+    "file": "media/questions/570583/YKS-AYT-2018---Coğrafya-1-Q-36.png"
+   }
+  ],
+  "Doğal Sistemler (natural Systems)": [
+   {
+    "qid": 221804,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q35",
+    "file": "media/questions/570771/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-35.png"
+   },
+   {
+    "qid": 221638,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q35",
+    "file": "media/questions/570582/YKS-AYT-2018---Coğrafya-1-Q35.png"
+   }
+  ],
+  "Ekonomik Faaliyetler (economic Geography)": [
+   {
+    "qid": 221807,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q38",
+    "file": "media/questions/570774/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-38.png"
+   },
+   {
+    "qid": 221806,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q37",
+    "file": "media/questions/570773/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-37.png"
+   },
+   {
+    "qid": 221642,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q39",
+    "file": "media/questions/570586/YKS-AYT-2018---Coğrafya-1-(35-40)-Q39.png"
+   }
+  ],
+  "Türkiye Coğrafyası (geography Of Türkiye)": [
+   {
+    "qid": 221641,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q38",
+    "file": "media/questions/570585/YKS-AYT-2018---Coğrafya-1-(35-40)-Q-38.png"
+   },
+   {
+    "qid": 221640,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q37",
+    "file": "media/questions/570584/YKS-AYT-2018---Coğrafya-1-(35-40)-Q-37.png"
+   }
+  ],
+  "Çevre Ve Toplum (environment And Society)": [
+   {
+    "qid": 221809,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q40",
+    "file": "media/questions/570776/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-40.png"
+   },
+   {
+    "qid": 221808,
+    "paper_ref": "Coğrafya-1/_Summer_2019_Q39",
+    "file": "media/questions/570775/YKS-AYT-2019--Coğrafya-1-(35-40)-Q-39.png"
+   },
+   {
+    "qid": 221643,
+    "paper_ref": "Coğrafya-1/_Summer_2018_Q40",
+    "file": "media/questions/570587/YKS-AYT-2018---Coğrafya-1-(35-40)-Q40.png"
+   }
+  ]
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:28Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Coğrafya-2/_Summer_2019_Q22": {
+   "qid": 221831,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570798/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q21": {
+   "qid": 221830,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570797/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q20": {
+   "qid": 221829,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570796/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q19": {
+   "qid": 221828,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570795/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q18": {
+   "qid": 221827,
+   "page": 1,
+   "topics": "Ekonomik Faaliyetler (economic Geography)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570794/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q17": {
+   "qid": 221826,
+   "page": 1,
+   "topics": "Türkiye Coğrafyası (geography Of Türkiye)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570793/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q16": {
+   "qid": 221825,
+   "page": 1,
+   "topics": "Türkiye Coğrafyası (geography Of Türkiye)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570792/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q15": {
+   "qid": 221824,
+   "page": 1,
+   "topics": "Türkiye Coğrafyası (geography Of Türkiye)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570791/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q14": {
+   "qid": 221823,
+   "page": 1,
+   "topics": "Beşerî Sistemler (human Systems)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570790/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q13": {
+   "qid": 221822,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570789/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2019_Q12": {
+   "qid": 221821,
+   "page": 1,
+   "topics": "Doğal Sistemler (natural Systems)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570788/YKS-AYT-2019---Coğrafya-2-(12-22)-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q22": {
+   "qid": 221665,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570611/YKS-AYT-2018----Coğrafya-2--Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q21": {
+   "qid": 221664,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570610/YKS-AYT-2018----Coğrafya-2--Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q20": {
+   "qid": 221663,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570609/YKS-AYT-2018----Coğrafya-2--Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q19": {
+   "qid": 221662,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570608/YKS-AYT-2018----Coğrafya-2-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q18": {
+   "qid": 221661,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570607/YKS-AYT-2018----Coğrafya-2-Q18.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q17": {
+   "qid": 221660,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570606/YKS-AYT-2018----Coğrafya-2--Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q16": {
+   "qid": 221659,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570605/YKS-AYT-2018----Coğrafya-2-Q16.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q15": {
+   "qid": 221658,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570604/YKS-AYT-2018----Coğrafya-2--Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q14": {
+   "qid": 221657,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570603/YKS-AYT-2018----Coğrafya-2--Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q13": {
+   "qid": 221656,
+   "page": 1,
+   "topics": "Çevre Ve Toplum (environment And Society)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570602/YKS-AYT-2018----Coğrafya-2--Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya-2/_Summer_2018_Q12": {
+   "qid": 221655,
+   "page": 1,
+   "topics": "Doğal Sistemler (natural Systems)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570601/YKS-AYT-2018----Coğrafya-2--Q12.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

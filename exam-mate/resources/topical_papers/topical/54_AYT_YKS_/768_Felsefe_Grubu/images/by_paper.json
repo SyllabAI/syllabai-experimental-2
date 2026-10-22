@@ -1,0 +1,406 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:00Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Felsefe/_Summer_2019_Q46": {
+   "qid": 221849,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570818/Felsefe-Combine-Q-46.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q45": {
+   "qid": 221848,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570817/Felsefe-Combine-Q-45.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q44": {
+   "qid": 221847,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570816/Felsefe-Combine-Q-44.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q43": {
+   "qid": 221846,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570815/Felsefe-Combine-Q-43.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q42": {
+   "qid": 221845,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570812/Felsefe-Combine-Q-42.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q41": {
+   "qid": 221844,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570811/Felsefe-Combine-Q-41.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q34": {
+   "qid": 221843,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570810/Felsefe-Combine-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q33": {
+   "qid": 221842,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570809/Felsefe-Combine-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q32": {
+   "qid": 221841,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570808/Felsefe-Combine-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q31": {
+   "qid": 221840,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570814/Felsefe-Combine-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q30": {
+   "qid": 221839,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570806/Felsefe-Combine-Q30.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q29": {
+   "qid": 221838,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570805/Felsefe-Combine-Q-29.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q28": {
+   "qid": 221837,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570804/Felsefe-Combine-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q27": {
+   "qid": 221836,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570803/Felsefe-Combine-Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q26": {
+   "qid": 221835,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570802/Felsefe-Combine-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q25": {
+   "qid": 221834,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570801/Felsefe-Combine-Q-25.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q24": {
+   "qid": 221833,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570800/Felsefe-Combine-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q23": {
+   "qid": 221832,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570813/Felsefe-Combine-Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q46": {
+   "qid": 221683,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570630/Felsefe-2018-Q46.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q45": {
+   "qid": 221682,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570629/Felsefe-2018-Q45.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q44": {
+   "qid": 221681,
+   "page": 1,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570628/Felsefe-2018-Q44.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q43": {
+   "qid": 221680,
+   "page": 1,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570627/Felsefe-2018-Q43.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q42": {
+   "qid": 221679,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570626/Felsefe-2018-Q42.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q41": {
+   "qid": 221678,
+   "page": 1,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570624/Felsefe-2018-Q41.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q34": {
+   "qid": 221677,
+   "page": 1,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570623/Felsefe-2018-Q34.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q33": {
+   "qid": 221676,
+   "page": 2,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570622/Felsefe-2018-Q33.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q32": {
+   "qid": 221675,
+   "page": 2,
+   "topics": "Mantık (logic)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570621/Felsefe-2018-Q32.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q31": {
+   "qid": 221674,
+   "page": 2,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570620/Felsefe-2018-Q31.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q30": {
+   "qid": 221673,
+   "page": 2,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570632/Felsefe-2018-Q30.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q29": {
+   "qid": 221672,
+   "page": 2,
+   "topics": "Sosyoloji (sociology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570631/Felsefe-2018-Q29.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q28": {
+   "qid": 221671,
+   "page": 2,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570617/Felsefe-2018-Q28.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q27": {
+   "qid": 221670,
+   "page": 2,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570616/Felsefe-2018-Q27.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q26": {
+   "qid": 221669,
+   "page": 2,
+   "topics": "Psikoloji (psychology)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570615/Felsefe-2018-Q26.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q25": {
+   "qid": 221668,
+   "page": 2,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570614/Felsefe-2018-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q24": {
+   "qid": 221667,
+   "page": 2,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570613/Felsefe-2018-Q24.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q23": {
+   "qid": 221666,
+   "page": 2,
+   "topics": "Felsefe (philosophy)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570612/Felsefe-2018-Q23.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

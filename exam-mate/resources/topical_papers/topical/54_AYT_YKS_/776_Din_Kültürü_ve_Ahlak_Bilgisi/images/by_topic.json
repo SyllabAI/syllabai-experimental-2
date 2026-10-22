@@ -1,0 +1,82 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:03Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Ahlak Ve Değerler (morality And Values)": [
+   {
+    "qid": 221852,
+    "paper_ref": "Din/_Summer_2019_Q37",
+    "file": "media/questions/570821/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-37.png"
+   },
+   {
+    "qid": 221688,
+    "paper_ref": "Din/_Summer_2018_Q39",
+    "file": "media/questions/570637/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-39.png"
+   },
+   {
+    "qid": 221687,
+    "paper_ref": "Din/_Summer_2018_Q38",
+    "file": "media/questions/570636/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-38.png"
+   }
+  ],
+  "Din Ve Hayat (religion And Life)": [
+   {
+    "qid": 221854,
+    "paper_ref": "Din/_Summer_2019_Q39",
+    "file": "media/questions/570824/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-39.png"
+   }
+  ],
+  "Hz. Muhammed’in Hayatı (life Of Prophet Muhammad)": [
+   {
+    "qid": 221853,
+    "paper_ref": "Din/_Summer_2019_Q38",
+    "file": "media/questions/570823/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-38.png"
+   },
+   {
+    "qid": 221686,
+    "paper_ref": "Din/_Summer_2018_Q37",
+    "file": "media/questions/570635/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-37.png"
+   }
+  ],
+  "İbadet (worship)": [
+   {
+    "qid": 221684,
+    "paper_ref": "Din/_Summer_2018_Q35",
+    "file": "media/questions/570633/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)-2-Q35.png"
+   }
+  ],
+  "İnanç (faith / Belief)": [
+   {
+    "qid": 221851,
+    "paper_ref": "Din/_Summer_2019_Q36",
+    "file": "media/questions/570820/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-36.png"
+   },
+   {
+    "qid": 221850,
+    "paper_ref": "Din/_Summer_2019_Q35",
+    "file": "media/questions/570819/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-35.png"
+   },
+   {
+    "qid": 221685,
+    "paper_ref": "Din/_Summer_2018_Q36",
+    "file": "media/questions/570634/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi-Q-36.png"
+   }
+  ],
+  "İslam Ve Diğer Dinler (islam And Other Religions)": [
+   {
+    "qid": 221855,
+    "paper_ref": "Din/_Summer_2019_Q40",
+    "file": "media/questions/570825/YKS-AYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(35-40)---Q-40.png"
+   },
+   {
+    "qid": 221689,
+    "paper_ref": "Din/_Summer_2018_Q40",
+    "file": "media/questions/570638/YKS-AYT-2018----Din-Kültürü-ve-Ahlak-Bilgisi--Q-40.png"
+   }
+  ]
+ }
+}

@@ -1,0 +1,527 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:52Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "TDE/_Summer_2019_Q24": {
+   "qid": 221793,
+   "page": 1,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570760/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q23": {
+   "qid": 221792,
+   "page": 1,
+   "topics": "Roman, Hikâye Ve Tiyatro (novel, Story And Drama)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570759/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q22": {
+   "qid": 221791,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570758/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q21": {
+   "qid": 221790,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570757/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q20": {
+   "qid": 221789,
+   "page": 1,
+   "topics": "Roman, Hikâye Ve Tiyatro (novel, Story And Drama)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570756/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q19": {
+   "qid": 221788,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570755/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q18": {
+   "qid": 221787,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570754/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q17": {
+   "qid": 221786,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570749/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q16": {
+   "qid": 221785,
+   "page": 1,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570748/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q15": {
+   "qid": 221784,
+   "page": 1,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570747/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q14": {
+   "qid": 221783,
+   "page": 1,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570746/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q13": {
+   "qid": 221782,
+   "page": 1,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570745/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q12": {
+   "qid": 221781,
+   "page": 1,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570744/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q10": {
+   "qid": 221779,
+   "page": 1,
+   "topics": "İslamiyet Öncesi Türk Edebiyatı (pre-islamic Turkish Literature)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570738/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q9": {
+   "qid": 221778,
+   "page": 1,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570737/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q8": {
+   "qid": 221777,
+   "page": 1,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570736/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q7": {
+   "qid": 221776,
+   "page": 1,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570735/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q6": {
+   "qid": 221775,
+   "page": 1,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570734/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q5": {
+   "qid": 221774,
+   "page": 1,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570733/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q4": {
+   "qid": 221773,
+   "page": 1,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570728/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q3": {
+   "qid": 221772,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570727/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q2": {
+   "qid": 221771,
+   "page": 1,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570726/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2019_Q1": {
+   "qid": 221770,
+   "page": 1,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570725/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-1.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q24": {
+   "qid": 221627,
+   "page": 1,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570561/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q23": {
+   "qid": 221626,
+   "page": 1,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570560/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q22": {
+   "qid": 221625,
+   "page": 2,
+   "topics": "Roman, Hikâye Ve Tiyatro (novel, Story And Drama)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570559/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q21": {
+   "qid": 221624,
+   "page": 2,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570558/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q20": {
+   "qid": 221623,
+   "page": 2,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570577/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q19": {
+   "qid": 221622,
+   "page": 2,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570556/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q18": {
+   "qid": 221621,
+   "page": 2,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570555/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q17": {
+   "qid": 221620,
+   "page": 2,
+   "topics": "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570554/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q16": {
+   "qid": 221619,
+   "page": 2,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570553/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q15": {
+   "qid": 221618,
+   "page": 2,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570552/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q14": {
+   "qid": 221617,
+   "page": 2,
+   "topics": "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570551/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-14.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q13": {
+   "qid": 221616,
+   "page": 2,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570550/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-13.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q12": {
+   "qid": 221615,
+   "page": 2,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570549/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-12.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q11": {
+   "qid": 221614,
+   "page": 2,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570576/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-11.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q10": {
+   "qid": 221613,
+   "page": 2,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570581/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-10.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q9": {
+   "qid": 221612,
+   "page": 2,
+   "topics": "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570546/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-9.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q8": {
+   "qid": 221611,
+   "page": 2,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570545/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-8.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q7": {
+   "qid": 221610,
+   "page": 2,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570544/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-7.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q6": {
+   "qid": 221609,
+   "page": 2,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570579/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-6.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q5": {
+   "qid": 221608,
+   "page": 2,
+   "topics": "Şiir Bilgisi (poetry)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570542/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-5.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q4": {
+   "qid": 221607,
+   "page": 2,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570541/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-4.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q3": {
+   "qid": 221606,
+   "page": 2,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570540/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-3.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q2": {
+   "qid": 221605,
+   "page": 2,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570539/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-2.png"
+   ],
+   "answer_images": []
+  },
+  "TDE/_Summer_2018_Q1": {
+   "qid": 221604,
+   "page": 2,
+   "topics": "Edebiyat Bilgileri (literary Concepts)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570580/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:42Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Tarih-1/_Summer_2019_Q34": {
+   "qid": 221803,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570770/YKS-AYT-2019---Tarih-1-(25-34)-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q33": {
+   "qid": 221802,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570769/YKS-AYT-2019---Tarih-1-(25-34)-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q32": {
+   "qid": 221801,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570768/YKS-AYT-2019---Tarih-1-(25-34)-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q31": {
+   "qid": 221800,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570767/YKS-AYT-2019---Tarih-1-(25-34)-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q30": {
+   "qid": 221799,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570766/YKS-AYT-2019---Tarih-1-(25-34)-Q30.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q29": {
+   "qid": 221798,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570765/YKS-AYT-2019---Tarih-1-(25-34)-Q-29.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q28": {
+   "qid": 221797,
+   "page": 1,
+   "topics": "Orta Çağ Ve İslam Tarihi (medieval And Islamic History)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570764/YKS-AYT-2019---Tarih-1-(25-34)-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q27": {
+   "qid": 221796,
+   "page": 1,
+   "topics": "Orta Çağ Ve İslam Tarihi (medieval And Islamic History)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570763/YKS-AYT-2019---Tarih-1-(25-34)-Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q26": {
+   "qid": 221795,
+   "page": 1,
+   "topics": "İlk Çağ Uygarlıkları (ancient Civilizations)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570762/YKS-AYT-2019---Tarih-1-(25-34)-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2019_Q25": {
+   "qid": 221794,
+   "page": 1,
+   "topics": "İlk Çağ Uygarlıkları (ancient Civilizations)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570761/YKS-AYT-2019---Tarih-1-(25-34)-Q-25.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q34": {
+   "qid": 221637,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570571/YKS-AYT-2018---Tarih-1-Q-34.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q33": {
+   "qid": 221636,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570575/YKS-AYT-2018---Tarih-1-Q-33.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q32": {
+   "qid": 221635,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570574/YKS-AYT-2018---Tarih-1-Q-32.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q31": {
+   "qid": 221634,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi (war Of Independence And Atatürk Era)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570572/YKS-AYT-2018---Tarih-1-Q-31.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q30": {
+   "qid": 221633,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570567/YKS-AYT-2018---Tarih-1-Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q29": {
+   "qid": 221632,
+   "page": 1,
+   "topics": "Osmanlı Devleti (ottoman Empire)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570566/YKS-AYT-2018---Tarih-1-Q-30.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q28": {
+   "qid": 221631,
+   "page": 1,
+   "topics": "Orta Çağ Ve İslam Tarihi (medieval And Islamic History)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570564/YKS-AYT-2018---Tarih-1-Q-28.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q27": {
+   "qid": 221630,
+   "page": 1,
+   "topics": "Orta Çağ Ve İslam Tarihi (medieval And Islamic History)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570565/YKS-AYT-2018---Tarih-1-Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q26": {
+   "qid": 221629,
+   "page": 1,
+   "topics": "İlk Çağ Uygarlıkları (ancient Civilizations)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570563/YKS-AYT-2018---Tarih-1-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih-1/_Summer_2018_Q25": {
+   "qid": 221628,
+   "page": 1,
+   "topics": "Tarih Bilimi (science Of History)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570562/YKS-AYT-2018---Tarih-1-Q-25.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

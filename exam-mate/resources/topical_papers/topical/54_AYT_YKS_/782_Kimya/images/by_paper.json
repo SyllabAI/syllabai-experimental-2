@@ -1,0 +1,296 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:21Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Kimya/_Summer_2019_Q27": {
+   "qid": 221923,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570927/YKS-AYT-2019---Kimya-(15-27)-Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q26": {
+   "qid": 221922,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570926/YKS-AYT-2019---Kimya-(15-27)-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q25": {
+   "qid": 221921,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570925/YKS-AYT-2019---Kimya-(15-27)-Q-25.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q24": {
+   "qid": 221920,
+   "page": 1,
+   "topics": "Elektrokimya – Electrochemistry",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570924/YKS-AYT-2019---Kimya-(15-27)-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q23": {
+   "qid": 221919,
+   "page": 1,
+   "topics": "Elektrokimya – Electrochemistry",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570928/YKS-AYT-2019---Kimya-(15-27)-Q-23.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q22": {
+   "qid": 221918,
+   "page": 1,
+   "topics": "Kimyasal Denge – Chemical Equilibrium",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570922/YKS-AYT-2019---Kimya-(15-27)-Q-22.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q21": {
+   "qid": 221917,
+   "page": 1,
+   "topics": "Asitler, Bazlar Ve Tuzlar – Acids, Bases &amp; Salts",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570921/YKS-AYT-2019---Kimya-(15-27)-Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q20": {
+   "qid": 221916,
+   "page": 1,
+   "topics": "Kimyasal Tepkimeler Ve Hız – Chemical Reactions &amp; Reaction Rate",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570920/YKS-AYT-2019---Kimya-(15-27)-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q19": {
+   "qid": 221915,
+   "page": 1,
+   "topics": "Termokimya – Thermochemistry",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570919/YKS-AYT-2019---Kimya-(15-27)-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q18": {
+   "qid": 221914,
+   "page": 1,
+   "topics": "Kimyasal Hesaplamalar – Stoichiometry",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570918/YKS-AYT-2019---Kimya-(15-27)-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q17": {
+   "qid": 221913,
+   "page": 1,
+   "topics": "Maddenin Halleri – States Of Matter",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570917/YKS-AYT-2019---Kimya-(15-27)-Q-17.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q16": {
+   "qid": 221912,
+   "page": 1,
+   "topics": "Maddenin Halleri – States Of Matter",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570916/YKS-AYT-2019---Kimya-(15-27)-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q15": {
+   "qid": 221911,
+   "page": 1,
+   "topics": "Modern Atom Teorisi – Modern Atomic Theory",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570915/YKS-AYT-2019---Kimya-(15-27)-Q-15.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q27": {
+   "qid": 221756,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570707/YKS-AYT-2018--Kimya--Q-27.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q26": {
+   "qid": 221755,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570706/YKS-AYT-2018--Kimya-(15-27)-Q-26.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q25": {
+   "qid": 221754,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570705/YKS-AYT-2018--Kimya-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q24": {
+   "qid": 221753,
+   "page": 1,
+   "topics": "Organik Kimya – Organic Chemistry",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570703/YKS-AYT-2018--Kimya-(15-27)-Q-24.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q23": {
+   "qid": 221752,
+   "page": 1,
+   "topics": "Elektrokimya – Electrochemistry",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570704/YKS-AYT-2018--Kimya-(15-27)-Q23.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q22": {
+   "qid": 221751,
+   "page": 1,
+   "topics": "Elektrokimya – Electrochemistry",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570701/YKS-AYT-2018--Kimya-(15-27)-Q22.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q21": {
+   "qid": 221750,
+   "page": 1,
+   "topics": "Asitler, Bazlar Ve Tuzlar – Acids, Bases &amp; Salts",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570700/YKS-AYT-2018--Kimya-(15-27)-Q-21.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q20": {
+   "qid": 221749,
+   "page": 1,
+   "topics": "Kimyasal Tepkimeler Ve Hız – Chemical Reactions &amp; Reaction Rate",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570699/YKS-AYT-2018--Kimya-(15-27)-Q-20.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q19": {
+   "qid": 221748,
+   "page": 1,
+   "topics": "Termokimya – Thermochemistry",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570698/YKS-AYT-2018--Kimya-(15-27)-Q-19.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q18": {
+   "qid": 221747,
+   "page": 1,
+   "topics": "Kimyasal Hesaplamalar – Stoichiometry",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570697/YKS-AYT-2018--Kimya-(15-27)-Q-18.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q17": {
+   "qid": 221746,
+   "page": 1,
+   "topics": "Maddenin Halleri – States Of Matter",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570696/YKS-AYT-2018--Kimya-(15-27)-Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q16": {
+   "qid": 221745,
+   "page": 1,
+   "topics": "Kimyasal Hesaplamalar – Stoichiometry",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570695/YKS-AYT-2018--Kimya-(15-27)-Q-16.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q15": {
+   "qid": 221744,
+   "page": 2,
+   "topics": "Periyodik Sistem Ve Kimyasal Bağlar – Periodic Table &amp; Chemical Bonding",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/570694/YKS-AYT-2018--Kimya-(15-27)-Q15.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

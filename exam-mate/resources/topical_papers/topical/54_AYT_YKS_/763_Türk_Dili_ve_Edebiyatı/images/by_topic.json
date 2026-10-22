@@ -1,0 +1,293 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:52Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Edebiyat Bilgileri (literary Concepts)": [
+   {
+    "qid": 221793,
+    "paper_ref": "TDE/_Summer_2019_Q24",
+    "file": "media/questions/570760/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-24.png"
+   },
+   {
+    "qid": 221771,
+    "paper_ref": "TDE/_Summer_2019_Q2",
+    "file": "media/questions/570726/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-2.png"
+   },
+   {
+    "qid": 221770,
+    "paper_ref": "TDE/_Summer_2019_Q1",
+    "file": "media/questions/570725/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-1.png"
+   },
+   {
+    "qid": 221627,
+    "paper_ref": "TDE/_Summer_2018_Q24",
+    "file": "media/questions/570561/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-24.png"
+   },
+   {
+    "qid": 221607,
+    "paper_ref": "TDE/_Summer_2018_Q4",
+    "file": "media/questions/570541/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-4.png"
+   },
+   {
+    "qid": 221606,
+    "paper_ref": "TDE/_Summer_2018_Q3",
+    "file": "media/questions/570540/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-3.png"
+   },
+   {
+    "qid": 221605,
+    "paper_ref": "TDE/_Summer_2018_Q2",
+    "file": "media/questions/570539/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-2.png"
+   },
+   {
+    "qid": 221604,
+    "paper_ref": "TDE/_Summer_2018_Q1",
+    "file": "media/questions/570580/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-1.png"
+   }
+  ],
+  "Hikâye Ve Tiyatro (novel": [
+   {
+    "qid": 221792,
+    "paper_ref": "TDE/_Summer_2019_Q23",
+    "file": "media/questions/570759/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-23.png"
+   },
+   {
+    "qid": 221789,
+    "paper_ref": "TDE/_Summer_2019_Q20",
+    "file": "media/questions/570756/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-20.png"
+   },
+   {
+    "qid": 221625,
+    "paper_ref": "TDE/_Summer_2018_Q22",
+    "file": "media/questions/570559/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-22.png"
+   }
+  ],
+  "İslamiyet Etkisindeki Türk Edebiyatı (turkish Literature Under Islamic Influence)": [
+   {
+    "qid": 221782,
+    "paper_ref": "TDE/_Summer_2019_Q13",
+    "file": "media/questions/570745/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-13.png"
+   },
+   {
+    "qid": 221781,
+    "paper_ref": "TDE/_Summer_2019_Q12",
+    "file": "media/questions/570744/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-12.png"
+   },
+   {
+    "qid": 221778,
+    "paper_ref": "TDE/_Summer_2019_Q9",
+    "file": "media/questions/570737/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-9.png"
+   },
+   {
+    "qid": 221777,
+    "paper_ref": "TDE/_Summer_2019_Q8",
+    "file": "media/questions/570736/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-8.png"
+   },
+   {
+    "qid": 221616,
+    "paper_ref": "TDE/_Summer_2018_Q13",
+    "file": "media/questions/570550/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-13.png"
+   },
+   {
+    "qid": 221615,
+    "paper_ref": "TDE/_Summer_2018_Q12",
+    "file": "media/questions/570549/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-12.png"
+   },
+   {
+    "qid": 221614,
+    "paper_ref": "TDE/_Summer_2018_Q11",
+    "file": "media/questions/570576/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-11.png"
+   },
+   {
+    "qid": 221613,
+    "paper_ref": "TDE/_Summer_2018_Q10",
+    "file": "media/questions/570581/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-10.png"
+   },
+   {
+    "qid": 221612,
+    "paper_ref": "TDE/_Summer_2018_Q9",
+    "file": "media/questions/570546/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-9.png"
+   }
+  ],
+  "İslamiyet Öncesi Türk Edebiyatı (pre-islamic Turkish Literature)": [
+   {
+    "qid": 221779,
+    "paper_ref": "TDE/_Summer_2019_Q10",
+    "file": "media/questions/570738/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-10.png"
+   }
+  ],
+  "Milli Edebiyat Ve Cumhuriyet Dönemi (national Literature And Republican Era)": [
+   {
+    "qid": 221791,
+    "paper_ref": "TDE/_Summer_2019_Q22",
+    "file": "media/questions/570758/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-22.png"
+   },
+   {
+    "qid": 221790,
+    "paper_ref": "TDE/_Summer_2019_Q21",
+    "file": "media/questions/570757/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-21.png"
+   },
+   {
+    "qid": 221788,
+    "paper_ref": "TDE/_Summer_2019_Q19",
+    "file": "media/questions/570755/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-19.png"
+   },
+   {
+    "qid": 221787,
+    "paper_ref": "TDE/_Summer_2019_Q18",
+    "file": "media/questions/570754/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-18.png"
+   },
+   {
+    "qid": 221786,
+    "paper_ref": "TDE/_Summer_2019_Q17",
+    "file": "media/questions/570749/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-17.png"
+   },
+   {
+    "qid": 221772,
+    "paper_ref": "TDE/_Summer_2019_Q3",
+    "file": "media/questions/570727/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-3.png"
+   },
+   {
+    "qid": 221626,
+    "paper_ref": "TDE/_Summer_2018_Q23",
+    "file": "media/questions/570560/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-23.png"
+   },
+   {
+    "qid": 221624,
+    "paper_ref": "TDE/_Summer_2018_Q21",
+    "file": "media/questions/570558/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-21.png"
+   },
+   {
+    "qid": 221623,
+    "paper_ref": "TDE/_Summer_2018_Q20",
+    "file": "media/questions/570577/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-20.png"
+   },
+   {
+    "qid": 221622,
+    "paper_ref": "TDE/_Summer_2018_Q19",
+    "file": "media/questions/570556/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-19.png"
+   },
+   {
+    "qid": 221621,
+    "paper_ref": "TDE/_Summer_2018_Q18",
+    "file": "media/questions/570555/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-18.png"
+   },
+   {
+    "qid": 221620,
+    "paper_ref": "TDE/_Summer_2018_Q17",
+    "file": "media/questions/570554/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-17.png"
+   }
+  ],
+  "Roman": [
+   {
+    "qid": 221792,
+    "paper_ref": "TDE/_Summer_2019_Q23",
+    "file": "media/questions/570759/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-23.png"
+   },
+   {
+    "qid": 221789,
+    "paper_ref": "TDE/_Summer_2019_Q20",
+    "file": "media/questions/570756/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-20.png"
+   },
+   {
+    "qid": 221625,
+    "paper_ref": "TDE/_Summer_2018_Q22",
+    "file": "media/questions/570559/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-22.png"
+   }
+  ],
+  "Story And Drama)": [
+   {
+    "qid": 221792,
+    "paper_ref": "TDE/_Summer_2019_Q23",
+    "file": "media/questions/570759/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-23.png"
+   },
+   {
+    "qid": 221789,
+    "paper_ref": "TDE/_Summer_2019_Q20",
+    "file": "media/questions/570756/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-20.png"
+   },
+   {
+    "qid": 221625,
+    "paper_ref": "TDE/_Summer_2018_Q22",
+    "file": "media/questions/570559/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-22.png"
+   }
+  ],
+  "Tanzimat Ve Servet-i Fünun Edebiyatı (tanzimat And Servet-i Fünun Literature)": [
+   {
+    "qid": 221785,
+    "paper_ref": "TDE/_Summer_2019_Q16",
+    "file": "media/questions/570748/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-16.png"
+   },
+   {
+    "qid": 221784,
+    "paper_ref": "TDE/_Summer_2019_Q15",
+    "file": "media/questions/570747/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-15.png"
+   },
+   {
+    "qid": 221783,
+    "paper_ref": "TDE/_Summer_2019_Q14",
+    "file": "media/questions/570746/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-14.png"
+   },
+   {
+    "qid": 221619,
+    "paper_ref": "TDE/_Summer_2018_Q16",
+    "file": "media/questions/570553/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-16.png"
+   },
+   {
+    "qid": 221618,
+    "paper_ref": "TDE/_Summer_2018_Q15",
+    "file": "media/questions/570552/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-15.png"
+   },
+   {
+    "qid": 221617,
+    "paper_ref": "TDE/_Summer_2018_Q14",
+    "file": "media/questions/570551/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-14.png"
+   }
+  ],
+  "Şiir Bilgisi (poetry)": [
+   {
+    "qid": 221776,
+    "paper_ref": "TDE/_Summer_2019_Q7",
+    "file": "media/questions/570735/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-7.png"
+   },
+   {
+    "qid": 221775,
+    "paper_ref": "TDE/_Summer_2019_Q6",
+    "file": "media/questions/570734/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-6.png"
+   },
+   {
+    "qid": 221774,
+    "paper_ref": "TDE/_Summer_2019_Q5",
+    "file": "media/questions/570733/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-5.png"
+   },
+   {
+    "qid": 221773,
+    "paper_ref": "TDE/_Summer_2019_Q4",
+    "file": "media/questions/570728/YKS-AYT-2019---Türk-Dili-ve-Edebiyatı-(1-24)-Q-4.png"
+   },
+   {
+    "qid": 221611,
+    "paper_ref": "TDE/_Summer_2018_Q8",
+    "file": "media/questions/570545/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-8.png"
+   },
+   {
+    "qid": 221610,
+    "paper_ref": "TDE/_Summer_2018_Q7",
+    "file": "media/questions/570544/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-7.png"
+   },
+   {
+    "qid": 221609,
+    "paper_ref": "TDE/_Summer_2018_Q6",
+    "file": "media/questions/570579/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-6.png"
+   },
+   {
+    "qid": 221608,
+    "paper_ref": "TDE/_Summer_2018_Q5",
+    "file": "media/questions/570542/YKS-AYT-2018----Türk-Dili-ve-Edebiyatı--Q-5.png"
+   }
+  ]
+ }
+}
