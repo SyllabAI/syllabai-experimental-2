@@ -1,0 +1,1520 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:19:20Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "WLDRE/20_SL_Summer_2019_Q14": {
+   "qid": 83372,
+   "page": 1,
+   "topics": "Judaism, Christianity, Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85419/27463_q_85419_14_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85419/27463_a_85419_14_1.png",
+    "questions/27463/85419/27463_a_85419_14_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q13": {
+   "qid": 83371,
+   "page": 1,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85418/27463_q_85418_13_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85418/27463_a_85418_13_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q12": {
+   "qid": 83370,
+   "page": 1,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85417/27463_q_85417_12_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85417/27463_a_85417_12_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q11": {
+   "qid": 83369,
+   "page": 1,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85416/27463_q_85416_11_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85416/27463_a_85416_11_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q10": {
+   "qid": 83368,
+   "page": 1,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85415/27463_q_85415_10_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85415/27463_a_85415_10_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q9": {
+   "qid": 83367,
+   "page": 1,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85414/27463_q_85414_9_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85414/27463_a_85414_9_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q8": {
+   "qid": 83366,
+   "page": 1,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85413/27463_q_85413_8_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85413/27463_a_85413_8_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q7": {
+   "qid": 83365,
+   "page": 1,
+   "topics": "Hinduism, Buddhism, Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85412/27463_q_85412_7_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85412/27463_a_85412_7_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q6": {
+   "qid": 83364,
+   "page": 1,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85411/27463_q_85411_6_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85411/27463_a_85411_6_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q5": {
+   "qid": 83363,
+   "page": 1,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85410/27463_q_85410_5_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85410/27463_a_85410_5_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q4": {
+   "qid": 83362,
+   "page": 1,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85409/27463_q_85409_4_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85409/27463_a_85409_4_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q3": {
+   "qid": 83361,
+   "page": 1,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85408/27463_q_85408_3_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85408/27463_a_85408_3_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q2": {
+   "qid": 83360,
+   "page": 1,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85407/27463_q_85407_2_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85407/27463_a_85407_2_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2019_Q1": {
+   "qid": 83359,
+   "page": 1,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27463/85406/27463_q_85406_1_1.png"
+   ],
+   "answer_images": [
+    "questions/27463/85406/27463_a_85406_1_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q9": {
+   "qid": 83358,
+   "page": 1,
+   "topics": "Baha’i Faith",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85405/27462_q_85405_9_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85405/27462_a_85405_9_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q8": {
+   "qid": 83357,
+   "page": 1,
+   "topics": "Jainism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85404/27462_q_85404_8_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85404/27462_a_85404_8_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q7": {
+   "qid": 83356,
+   "page": 1,
+   "topics": "Taoism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85403/27462_q_85403_7_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85403/27462_a_85403_7_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q6": {
+   "qid": 83355,
+   "page": 1,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85402/27462_q_85402_6_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85402/27462_a_85402_6_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q5": {
+   "qid": 83354,
+   "page": 1,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85401/27462_q_85401_5_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85401/27462_a_85401_5_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q4": {
+   "qid": 83353,
+   "page": 1,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85400/27462_q_85400_4_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85400/27462_a_85400_4_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q3": {
+   "qid": 83352,
+   "page": 1,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85399/27462_q_85399_3_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85399/27462_a_85399_3_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q2": {
+   "qid": 83351,
+   "page": 1,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85398/27462_q_85398_2_1.png"
+   ],
+   "answer_images": [
+    "questions/27462/85398/27462_a_85398_2_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2019_Q1": {
+   "qid": 83350,
+   "page": 1,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27462/85397/27462_q_85397_1_1.png",
+    "questions/27462/85397/27462_q_85397_1_2.png"
+   ],
+   "answer_images": [
+    "questions/27462/85397/27462_a_85397_1_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q14": {
+   "qid": 83349,
+   "page": 1,
+   "topics": "Judaism, Christianity, Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85396/27461_q_85396_14_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85396/27461_a_85396_14_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q13": {
+   "qid": 83348,
+   "page": 1,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85395/27461_q_85395_13_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85395/27461_a_85395_13_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q12": {
+   "qid": 83347,
+   "page": 2,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85394/27461_q_85394_12_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85394/27461_a_85394_12_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q11": {
+   "qid": 83346,
+   "page": 2,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85393/27461_q_85393_11_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85393/27461_a_85393_11_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q10": {
+   "qid": 83345,
+   "page": 2,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85392/27461_q_85392_10_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85392/27461_a_85392_10_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q9": {
+   "qid": 83344,
+   "page": 2,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85391/27461_q_85391_9_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85391/27461_a_85391_9_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q8": {
+   "qid": 83343,
+   "page": 2,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85390/27461_q_85390_8_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85390/27461_a_85390_8_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q7": {
+   "qid": 83342,
+   "page": 2,
+   "topics": "Hinduism, Buddhism, Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85389/27461_q_85389_7_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85389/27461_a_85389_7_1.png",
+    "questions/27461/85389/27461_a_85389_7_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q6": {
+   "qid": 83341,
+   "page": 2,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85388/27461_q_85388_6_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85388/27461_a_85388_6_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q5": {
+   "qid": 83340,
+   "page": 2,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85387/27461_q_85387_5_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85387/27461_a_85387_5_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q4": {
+   "qid": 83339,
+   "page": 2,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85386/27461_q_85386_4_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85386/27461_a_85386_4_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q3": {
+   "qid": 83338,
+   "page": 2,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85385/27461_q_85385_3_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85385/27461_a_85385_3_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q2": {
+   "qid": 83337,
+   "page": 2,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85384/27461_q_85384_2_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85384/27461_a_85384_2_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2018_Q1": {
+   "qid": 83336,
+   "page": 2,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27461/85383/27461_q_85383_1_1.png"
+   ],
+   "answer_images": [
+    "questions/27461/85383/27461_a_85383_1_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q9": {
+   "qid": 83335,
+   "page": 2,
+   "topics": "Baha’i Faith",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85382/27460_q_85382_9_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85382/27460_a_85382_9_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q8": {
+   "qid": 83334,
+   "page": 2,
+   "topics": "Jainism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85381/27460_q_85381_8_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85381/27460_a_85381_8_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q7": {
+   "qid": 83333,
+   "page": 2,
+   "topics": "Taoism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85380/27460_q_85380_7_1.png",
+    "questions/27460/85380/27460_q_85380_7_2.png"
+   ],
+   "answer_images": [
+    "questions/27460/85380/27460_a_85380_7_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q6": {
+   "qid": 83332,
+   "page": 2,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85379/27460_q_85379_6_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85379/27460_a_85379_6_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q5": {
+   "qid": 83331,
+   "page": 2,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85378/27460_q_85378_5_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85378/27460_a_85378_5_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q4": {
+   "qid": 83330,
+   "page": 2,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85377/27460_q_85377_4_1.png",
+    "questions/27460/85377/27460_q_85377_4_2.png"
+   ],
+   "answer_images": [
+    "questions/27460/85377/27460_a_85377_4_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q3": {
+   "qid": 83329,
+   "page": 2,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85376/27460_q_85376_3_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85376/27460_a_85376_3_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q2": {
+   "qid": 83328,
+   "page": 2,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85375/27460_q_85375_2_1.png"
+   ],
+   "answer_images": [
+    "questions/27460/85375/27460_a_85375_2_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2018_Q1": {
+   "qid": 83327,
+   "page": 2,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/27460/85374/27460_q_85374_1_1.png",
+    "questions/27460/85374/27460_q_85374_1_2.png"
+   ],
+   "answer_images": [
+    "questions/27460/85374/27460_a_85374_1_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q14": {
+   "qid": 83168,
+   "page": 2,
+   "topics": "Judaism, Christianity, Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85215/7248_q_85215_14_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85215/7248_a_85215_14_1.png",
+    "questions/7248/85215/7248_a_85215_14_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q13": {
+   "qid": 83166,
+   "page": 2,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85213/7248_q_85213_13_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85213/7248_a_85213_13_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q12": {
+   "qid": 83165,
+   "page": 2,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85212/7248_q_85212_12_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85212/7248_a_85212_12_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q11": {
+   "qid": 83164,
+   "page": 2,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85211/7248_q_85211_11_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85211/7248_a_85211_11_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q10": {
+   "qid": 83163,
+   "page": 3,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85210/7248_q_85210_10_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85210/7248_a_85210_10_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q9": {
+   "qid": 83162,
+   "page": 3,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85209/7248_q_85209_9_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85209/7248_a_85209_9_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q8": {
+   "qid": 83161,
+   "page": 3,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85208/7248_q_85208_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85208/7248_a_85208_8_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q7": {
+   "qid": 83160,
+   "page": 3,
+   "topics": "Hinduism, Buddhism, Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85207/7248_q_85207_7_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85207/7248_a_85207_7_1.png",
+    "questions/7248/85207/7248_a_85207_7_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q6": {
+   "qid": 83159,
+   "page": 3,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85206/7248_q_85206_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85206/7248_a_85206_6_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q5": {
+   "qid": 83158,
+   "page": 3,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85205/7248_q_85205_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85205/7248_a_85205_5_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q4": {
+   "qid": 83157,
+   "page": 3,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85204/7248_q_85204_4_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85204/7248_a_85204_4_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q3": {
+   "qid": 83156,
+   "page": 3,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85203/7248_q_85203_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85203/7248_a_85203_3_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q2": {
+   "qid": 83155,
+   "page": 3,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85202/7248_q_85202_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85202/7248_a_85202_2_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2016_Q1": {
+   "qid": 83154,
+   "page": 3,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7248/85201/7248_q_85201_1_1.png"
+   ],
+   "answer_images": [
+    "questions/7248/85201/7248_a_85201_1_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q9": {
+   "qid": 83142,
+   "page": 3,
+   "topics": "Baha’i Faith",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85189/7247_q_85189_9_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85189/7247_a_85189_9_1.png",
+    "questions/7247/85189/7247_a_85189_9_2.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q8": {
+   "qid": 83140,
+   "page": 3,
+   "topics": "Jainism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85187/7247_q_85187_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85187/7247_a_85187_8_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q7": {
+   "qid": 83137,
+   "page": 3,
+   "topics": "Taoism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85184/7247_q_85184_7_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85184/7247_a_85184_7_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q6": {
+   "qid": 83135,
+   "page": 3,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85182/7247_q_85182_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85182/7247_a_85182_6_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q5": {
+   "qid": 83131,
+   "page": 3,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85178/7247_q_85178_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85178/7247_a_85178_5_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q4": {
+   "qid": 83129,
+   "page": 3,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85176/7247_q_85176_4_1.png",
+    "questions/7247/85176/7247_q_85176_4_2.png"
+   ],
+   "answer_images": [
+    "questions/7247/85176/7247_a_85176_4_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q3": {
+   "qid": 83124,
+   "page": 3,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85171/7247_q_85171_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85171/7247_a_85171_3_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q2": {
+   "qid": 83122,
+   "page": 3,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85169/7247_q_85169_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7247/85169/7247_a_85169_2_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2016_Q1": {
+   "qid": 83117,
+   "page": 3,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7247/85164/7247_q_85164_1_1.png",
+    "questions/7247/85164/7247_q_85164_1_2.png"
+   ],
+   "answer_images": [
+    "questions/7247/85164/7247_a_85164_1_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q14": {
+   "qid": 83107,
+   "page": 3,
+   "topics": "Judaism, Christianity, Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85154/7246_q_85154_14_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85154/7246_a_85154_14_1.png",
+    "questions/7246/85154/7246_a_85154_14_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q13": {
+   "qid": 83104,
+   "page": 3,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85151/7246_q_85151_13_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85151/7246_a_85151_13_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q12": {
+   "qid": 83102,
+   "page": 3,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85149/7246_q_85149_12_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85149/7246_a_85149_12_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q11": {
+   "qid": 83100,
+   "page": 3,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85147/7246_q_85147_11_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85147/7246_a_85147_11_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q10": {
+   "qid": 83097,
+   "page": 3,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85144/7246_q_85144_10_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85144/7246_a_85144_10_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q9": {
+   "qid": 83095,
+   "page": 3,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85142/7246_q_85142_9_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85142/7246_a_85142_9_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q8": {
+   "qid": 83094,
+   "page": 4,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85141/7246_q_85141_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85141/7246_a_85141_8_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q7": {
+   "qid": 83093,
+   "page": 4,
+   "topics": "Hinduism, Buddhism, Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85140/7246_q_85140_7_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85140/7246_a_85140_7_1.png",
+    "questions/7246/85140/7246_a_85140_7_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q6": {
+   "qid": 83092,
+   "page": 4,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85139/7246_q_85139_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85139/7246_a_85139_6_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q5": {
+   "qid": 83090,
+   "page": 4,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85137/7246_q_85137_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85137/7246_a_85137_5_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q4": {
+   "qid": 83089,
+   "page": 4,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85136/7246_q_85136_4_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85136/7246_a_85136_4_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q3": {
+   "qid": 83088,
+   "page": 4,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85135/7246_q_85135_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85135/7246_a_85135_3_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q2": {
+   "qid": 83086,
+   "page": 4,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85133/7246_q_85133_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85133/7246_a_85133_2_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Winter_2015_Q1": {
+   "qid": 83085,
+   "page": 4,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7246/85132/7246_q_85132_1_1.png"
+   ],
+   "answer_images": [
+    "questions/7246/85132/7246_a_85132_1_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q9": {
+   "qid": 83082,
+   "page": 4,
+   "topics": "Baha’i Faith",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85129/7245_q_85129_9_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85129/7245_a_85129_9_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q8": {
+   "qid": 83081,
+   "page": 4,
+   "topics": "Jainism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85128/7245_q_85128_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85128/7245_a_85128_8_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q7": {
+   "qid": 83080,
+   "page": 4,
+   "topics": "Taoism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85127/7245_q_85127_7_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85127/7245_a_85127_7_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q6": {
+   "qid": 83079,
+   "page": 4,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85126/7245_q_85126_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85126/7245_a_85126_6_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q5": {
+   "qid": 83078,
+   "page": 4,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85125/7245_q_85125_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85125/7245_a_85125_5_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q4": {
+   "qid": 83077,
+   "page": 4,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85124/7245_q_85124_4_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85124/7245_a_85124_4_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q3": {
+   "qid": 83076,
+   "page": 4,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85123/7245_q_85123_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85123/7245_a_85123_3_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q2": {
+   "qid": 83075,
+   "page": 4,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85122/7245_q_85122_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7245/85122/7245_a_85122_2_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Winter_2015_Q1": {
+   "qid": 83074,
+   "page": 4,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7245/85121/7245_q_85121_1_1.png",
+    "questions/7245/85121/7245_q_85121_1_2.png"
+   ],
+   "answer_images": [
+    "questions/7245/85121/7245_a_85121_1_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q14": {
+   "qid": 83021,
+   "page": 4,
+   "topics": "Judaism, Christianity, Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85068/7244_q_85068_14_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85068/7244_a_85068_14_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q13": {
+   "qid": 83020,
+   "page": 4,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85067/7244_q_85067_13_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85067/7244_a_85067_13_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q12": {
+   "qid": 83019,
+   "page": 4,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85066/7244_q_85066_12_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85066/7244_a_85066_12_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q11": {
+   "qid": 83018,
+   "page": 4,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85065/7244_q_85065_11_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85065/7244_a_85065_11_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q10": {
+   "qid": 83017,
+   "page": 4,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85064/7244_q_85064_10_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85064/7244_a_85064_10_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q9": {
+   "qid": 83016,
+   "page": 4,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85063/7244_q_85063_9_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85063/7244_a_85063_9_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q8": {
+   "qid": 83015,
+   "page": 4,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85062/7244_q_85062_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85062/7244_a_85062_8_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q7": {
+   "qid": 83014,
+   "page": 4,
+   "topics": "Hinduism, Buddhism, Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85061/7244_q_85061_7_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85061/7244_a_85061_7_1.png",
+    "questions/7244/85061/7244_a_85061_7_2.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q6": {
+   "qid": 83013,
+   "page": 5,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85060/7244_q_85060_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85060/7244_a_85060_6_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q5": {
+   "qid": 83010,
+   "page": 5,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85057/7244_q_85057_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85057/7244_a_85057_5_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q4": {
+   "qid": 83007,
+   "page": 5,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85054/7244_q_85054_4_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85054/7244_a_85054_4_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q3": {
+   "qid": 83005,
+   "page": 5,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85052/7244_q_85052_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85052/7244_a_85052_3_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q2": {
+   "qid": 83003,
+   "page": 5,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85050/7244_q_85050_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85050/7244_a_85050_2_1.png"
+   ]
+  },
+  "WLDRE/20_SL_Summer_2015_Q1": {
+   "qid": 83002,
+   "page": 5,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7244/85049/7244_q_85049_1_1.png"
+   ],
+   "answer_images": [
+    "questions/7244/85049/7244_a_85049_1_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q9": {
+   "qid": 82993,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [],
+   "answer_images": [
+    "questions/7243/85040/7243_a_85040_9_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q8": {
+   "qid": 82978,
+   "page": 5,
+   "topics": "Jainism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85025/7243_q_85025_8_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85025/7243_a_85025_8_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q7": {
+   "qid": 82977,
+   "page": 5,
+   "topics": "Taoism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85024/7243_q_85024_7_1.png",
+    "questions/7243/85024/7243_q_85024_7_2.png"
+   ],
+   "answer_images": [
+    "questions/7243/85024/7243_a_85024_7_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q6": {
+   "qid": 82973,
+   "page": 5,
+   "topics": "Islam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85020/7243_q_85020_6_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85020/7243_a_85020_6_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q5": {
+   "qid": 82970,
+   "page": 5,
+   "topics": "Christianity",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85017/7243_q_85017_5_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85017/7243_a_85017_5_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q4": {
+   "qid": 82966,
+   "page": 5,
+   "topics": "Judaism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85013/7243_q_85013_4_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85013/7243_a_85013_4_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q3": {
+   "qid": 82963,
+   "page": 5,
+   "topics": "Sikhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85010/7243_q_85010_3_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85010/7243_a_85010_3_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q2": {
+   "qid": 82956,
+   "page": 5,
+   "topics": "Buddhism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85003/7243_q_85003_2_1.png"
+   ],
+   "answer_images": [
+    "questions/7243/85003/7243_a_85003_2_1.png"
+   ]
+  },
+  "WLDRE/10_SL_Summer_2015_Q1": {
+   "qid": 82955,
+   "page": 5,
+   "topics": "Hinduism",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "questions/7243/85002/7243_q_85002_1_1.png",
+    "questions/7243/85002/7243_q_85002_1_2.png"
+   ],
+   "answer_images": [
+    "questions/7243/85002/7243_a_85002_1_1.png"
+   ]
+  }
+ }
+}
