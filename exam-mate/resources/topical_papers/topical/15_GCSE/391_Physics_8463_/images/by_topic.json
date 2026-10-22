@@ -1,0 +1,1861 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:06:48Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Atomic Structure": [
+   {
+    "qid": 115104,
+    "paper_ref": "Physics/1H_Summer_2019_Q5",
+    "file": "questions/30912/117422/30912_q_117422_5_1.png"
+   },
+   {
+    "qid": 115104,
+    "paper_ref": "Physics/1H_Summer_2019_Q5",
+    "file": "questions/30912/117422/30912_q_117422_5_2.png"
+   },
+   {
+    "qid": 115104,
+    "paper_ref": "Physics/1H_Summer_2019_Q5",
+    "file": "questions/30912/117422/30912_a_117422_5_1.png"
+   },
+   {
+    "qid": 115092,
+    "paper_ref": "Physics/1F_Summer_2019_Q4",
+    "file": "questions/30911/117410/30911_q_117410_4_1.png"
+   },
+   {
+    "qid": 115092,
+    "paper_ref": "Physics/1F_Summer_2019_Q4",
+    "file": "questions/30911/117410/30911_q_117410_4_2.png"
+   },
+   {
+    "qid": 115092,
+    "paper_ref": "Physics/1F_Summer_2019_Q4",
+    "file": "questions/30911/117410/30911_q_117410_4_3.png"
+   },
+   {
+    "qid": 115092,
+    "paper_ref": "Physics/1F_Summer_2019_Q4",
+    "file": "questions/30911/117410/30911_a_117410_4_1.png"
+   },
+   {
+    "qid": 115090,
+    "paper_ref": "Physics/1F_Summer_2019_Q2",
+    "file": "questions/30911/117408/30911_q_117408_2_1.png"
+   },
+   {
+    "qid": 115090,
+    "paper_ref": "Physics/1F_Summer_2019_Q2",
+    "file": "questions/30911/117408/30911_q_117408_2_2.png"
+   },
+   {
+    "qid": 115090,
+    "paper_ref": "Physics/1F_Summer_2019_Q2",
+    "file": "questions/30911/117408/30911_q_117408_2_3.png"
+   },
+   {
+    "qid": 115090,
+    "paper_ref": "Physics/1F_Summer_2019_Q2",
+    "file": "questions/30911/117408/30911_a_117408_2_1.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_q_117297_6_1.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_q_117297_6_2.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_q_117297_6_3.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_q_117297_6_4.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_a_117297_6_1.png"
+   },
+   {
+    "qid": 114979,
+    "paper_ref": "Physics/1H_Summer_2018_Q6",
+    "file": "questions/30908/117297/30908_a_117297_6_2.png"
+   },
+   {
+    "qid": 114967,
+    "paper_ref": "Physics/1H_Summer_2018_Q2",
+    "file": "questions/30908/117285/30908_q_117285_2_1.png"
+   },
+   {
+    "qid": 114967,
+    "paper_ref": "Physics/1H_Summer_2018_Q2",
+    "file": "questions/30908/117285/30908_q_117285_2_2.png"
+   },
+   {
+    "qid": 114967,
+    "paper_ref": "Physics/1H_Summer_2018_Q2",
+    "file": "questions/30908/117285/30908_a_117285_2_1.png"
+   },
+   {
+    "qid": 114967,
+    "paper_ref": "Physics/1H_Summer_2018_Q2",
+    "file": "questions/30908/117285/30908_a_117285_2_2.png"
+   },
+   {
+    "qid": 114961,
+    "paper_ref": "Physics/1F_Summer_2018_Q11",
+    "file": "questions/30907/117279/30907_q_117279_11_1.png"
+   },
+   {
+    "qid": 114961,
+    "paper_ref": "Physics/1F_Summer_2018_Q11",
+    "file": "questions/30907/117279/30907_q_117279_11_2.png"
+   },
+   {
+    "qid": 114961,
+    "paper_ref": "Physics/1F_Summer_2018_Q11",
+    "file": "questions/30907/117279/30907_a_117279_11_1.png"
+   },
+   {
+    "qid": 114961,
+    "paper_ref": "Physics/1F_Summer_2018_Q11",
+    "file": "questions/30907/117279/30907_a_117279_11_2.png"
+   },
+   {
+    "qid": 114956,
+    "paper_ref": "Physics/1F_Summer_2018_Q6",
+    "file": "questions/30907/117274/30907_q_117274_6_1.png"
+   },
+   {
+    "qid": 114956,
+    "paper_ref": "Physics/1F_Summer_2018_Q6",
+    "file": "questions/30907/117274/30907_q_117274_6_2.png"
+   },
+   {
+    "qid": 114956,
+    "paper_ref": "Physics/1F_Summer_2018_Q6",
+    "file": "questions/30907/117274/30907_q_117274_6_3.png"
+   },
+   {
+    "qid": 114956,
+    "paper_ref": "Physics/1F_Summer_2018_Q6",
+    "file": "questions/30907/117274/30907_a_117274_6_1.png"
+   },
+   {
+    "qid": 114955,
+    "paper_ref": "Physics/1F_Summer_2018_Q5",
+    "file": "questions/30907/117273/30907_q_117273_5_1.png"
+   },
+   {
+    "qid": 114955,
+    "paper_ref": "Physics/1F_Summer_2018_Q5",
+    "file": "questions/30907/117273/30907_q_117273_5_2.png"
+   },
+   {
+    "qid": 114955,
+    "paper_ref": "Physics/1F_Summer_2018_Q5",
+    "file": "questions/30907/117273/30907_a_117273_5_1.png"
+   }
+  ],
+  "Electricity": [
+   {
+    "qid": 115109,
+    "paper_ref": "Physics/1H_Summer_2019_Q10",
+    "file": "questions/30912/117427/30912_q_117427_10_1.png"
+   },
+   {
+    "qid": 115109,
+    "paper_ref": "Physics/1H_Summer_2019_Q10",
+    "file": "questions/30912/117427/30912_q_117427_10_2.png"
+   },
+   {
+    "qid": 115109,
+    "paper_ref": "Physics/1H_Summer_2019_Q10",
+    "file": "questions/30912/117427/30912_a_117427_10_1.png"
+   },
+   {
+    "qid": 115105,
+    "paper_ref": "Physics/1H_Summer_2019_Q6",
+    "file": "questions/30912/117423/30912_q_117423_6_1.png"
+   },
+   {
+    "qid": 115105,
+    "paper_ref": "Physics/1H_Summer_2019_Q6",
+    "file": "questions/30912/117423/30912_q_117423_6_2.png"
+   },
+   {
+    "qid": 115105,
+    "paper_ref": "Physics/1H_Summer_2019_Q6",
+    "file": "questions/30912/117423/30912_q_117423_6_3.png"
+   },
+   {
+    "qid": 115105,
+    "paper_ref": "Physics/1H_Summer_2019_Q6",
+    "file": "questions/30912/117423/30912_a_117423_6_1.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_q_117421_4_1.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_q_117421_4_2.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_q_117421_4_3.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_q_117421_4_4.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_a_117421_4_1.png"
+   },
+   {
+    "qid": 115103,
+    "paper_ref": "Physics/1H_Summer_2019_Q4",
+    "file": "questions/30912/117421/30912_a_117421_4_2.png"
+   },
+   {
+    "qid": 115097,
+    "paper_ref": "Physics/1F_Summer_2019_Q9",
+    "file": "questions/30911/117415/30911_q_117415_9_1.png"
+   },
+   {
+    "qid": 115097,
+    "paper_ref": "Physics/1F_Summer_2019_Q9",
+    "file": "questions/30911/117415/30911_q_117415_9_2.png"
+   },
+   {
+    "qid": 115097,
+    "paper_ref": "Physics/1F_Summer_2019_Q9",
+    "file": "questions/30911/117415/30911_a_117415_9_1.png"
+   },
+   {
+    "qid": 115095,
+    "paper_ref": "Physics/1F_Summer_2019_Q7",
+    "file": "questions/30911/117413/30911_q_117413_7_1.png"
+   },
+   {
+    "qid": 115095,
+    "paper_ref": "Physics/1F_Summer_2019_Q7",
+    "file": "questions/30911/117413/30911_q_117413_7_2.png"
+   },
+   {
+    "qid": 115095,
+    "paper_ref": "Physics/1F_Summer_2019_Q7",
+    "file": "questions/30911/117413/30911_q_117413_7_3.png"
+   },
+   {
+    "qid": 115095,
+    "paper_ref": "Physics/1F_Summer_2019_Q7",
+    "file": "questions/30911/117413/30911_q_117413_7_4.png"
+   },
+   {
+    "qid": 115095,
+    "paper_ref": "Physics/1F_Summer_2019_Q7",
+    "file": "questions/30911/117413/30911_a_117413_7_1.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_q_117293_5_1.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_q_117293_5_2.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_q_117293_5_3.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_q_117293_5_4.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_a_117293_5_1.png"
+   },
+   {
+    "qid": 114975,
+    "paper_ref": "Physics/1H_Summer_2018_Q5",
+    "file": "questions/30908/117293/30908_a_117293_5_2.png"
+   },
+   {
+    "qid": 114968,
+    "paper_ref": "Physics/1H_Summer_2018_Q3",
+    "file": "questions/30908/117286/30908_q_117286_3_1.png"
+   },
+   {
+    "qid": 114968,
+    "paper_ref": "Physics/1H_Summer_2018_Q3",
+    "file": "questions/30908/117286/30908_q_117286_3_2.png"
+   },
+   {
+    "qid": 114968,
+    "paper_ref": "Physics/1H_Summer_2018_Q3",
+    "file": "questions/30908/117286/30908_q_117286_3_3.png"
+   },
+   {
+    "qid": 114968,
+    "paper_ref": "Physics/1H_Summer_2018_Q3",
+    "file": "questions/30908/117286/30908_a_117286_3_1.png"
+   },
+   {
+    "qid": 114968,
+    "paper_ref": "Physics/1H_Summer_2018_Q3",
+    "file": "questions/30908/117286/30908_a_117286_3_2.png"
+   },
+   {
+    "qid": 114962,
+    "paper_ref": "Physics/1F_Summer_2018_Q12",
+    "file": "questions/30907/117280/30907_q_117280_12_1.png"
+   },
+   {
+    "qid": 114962,
+    "paper_ref": "Physics/1F_Summer_2018_Q12",
+    "file": "questions/30907/117280/30907_q_117280_12_2.png"
+   },
+   {
+    "qid": 114962,
+    "paper_ref": "Physics/1F_Summer_2018_Q12",
+    "file": "questions/30907/117280/30907_q_117280_12_3.png"
+   },
+   {
+    "qid": 114962,
+    "paper_ref": "Physics/1F_Summer_2018_Q12",
+    "file": "questions/30907/117280/30907_a_117280_12_1.png"
+   },
+   {
+    "qid": 114962,
+    "paper_ref": "Physics/1F_Summer_2018_Q12",
+    "file": "questions/30907/117280/30907_a_117280_12_2.png"
+   },
+   {
+    "qid": 114960,
+    "paper_ref": "Physics/1F_Summer_2018_Q10",
+    "file": "questions/30907/117278/30907_q_117278_10_1.png"
+   },
+   {
+    "qid": 114960,
+    "paper_ref": "Physics/1F_Summer_2018_Q10",
+    "file": "questions/30907/117278/30907_q_117278_10_2.png"
+   },
+   {
+    "qid": 114960,
+    "paper_ref": "Physics/1F_Summer_2018_Q10",
+    "file": "questions/30907/117278/30907_q_117278_10_3.png"
+   },
+   {
+    "qid": 114960,
+    "paper_ref": "Physics/1F_Summer_2018_Q10",
+    "file": "questions/30907/117278/30907_a_117278_10_1.png"
+   },
+   {
+    "qid": 114957,
+    "paper_ref": "Physics/1F_Summer_2018_Q7",
+    "file": "questions/30907/117275/30907_q_117275_7_1.png"
+   },
+   {
+    "qid": 114957,
+    "paper_ref": "Physics/1F_Summer_2018_Q7",
+    "file": "questions/30907/117275/30907_q_117275_7_2.png"
+   },
+   {
+    "qid": 114957,
+    "paper_ref": "Physics/1F_Summer_2018_Q7",
+    "file": "questions/30907/117275/30907_a_117275_7_1.png"
+   },
+   {
+    "qid": 114953,
+    "paper_ref": "Physics/1F_Summer_2018_Q3",
+    "file": "questions/30907/117271/30907_q_117271_3_1.png"
+   },
+   {
+    "qid": 114953,
+    "paper_ref": "Physics/1F_Summer_2018_Q3",
+    "file": "questions/30907/117271/30907_q_117271_3_2.png"
+   },
+   {
+    "qid": 114953,
+    "paper_ref": "Physics/1F_Summer_2018_Q3",
+    "file": "questions/30907/117271/30907_a_117271_3_1.png"
+   },
+   {
+    "qid": 114952,
+    "paper_ref": "Physics/1F_Summer_2018_Q2",
+    "file": "questions/30907/117270/30907_q_117270_2_1.png"
+   },
+   {
+    "qid": 114952,
+    "paper_ref": "Physics/1F_Summer_2018_Q2",
+    "file": "questions/30907/117270/30907_q_117270_2_2.png"
+   },
+   {
+    "qid": 114952,
+    "paper_ref": "Physics/1F_Summer_2018_Q2",
+    "file": "questions/30907/117270/30907_a_117270_2_1.png"
+   }
+  ],
+  "Energy": [
+   {
+    "qid": 115106,
+    "paper_ref": "Physics/1H_Summer_2019_Q7",
+    "file": "questions/30912/117424/30912_q_117424_7_1.png"
+   },
+   {
+    "qid": 115106,
+    "paper_ref": "Physics/1H_Summer_2019_Q7",
+    "file": "questions/30912/117424/30912_q_117424_7_2.png"
+   },
+   {
+    "qid": 115106,
+    "paper_ref": "Physics/1H_Summer_2019_Q7",
+    "file": "questions/30912/117424/30912_a_117424_7_1.png"
+   },
+   {
+    "qid": 115102,
+    "paper_ref": "Physics/1H_Summer_2019_Q3",
+    "file": "questions/30912/117420/30912_q_117420_3_1.png"
+   },
+   {
+    "qid": 115102,
+    "paper_ref": "Physics/1H_Summer_2019_Q3",
+    "file": "questions/30912/117420/30912_q_117420_3_2.png"
+   },
+   {
+    "qid": 115102,
+    "paper_ref": "Physics/1H_Summer_2019_Q3",
+    "file": "questions/30912/117420/30912_q_117420_3_3.png"
+   },
+   {
+    "qid": 115102,
+    "paper_ref": "Physics/1H_Summer_2019_Q3",
+    "file": "questions/30912/117420/30912_a_117420_3_1.png"
+   },
+   {
+    "qid": 115102,
+    "paper_ref": "Physics/1H_Summer_2019_Q3",
+    "file": "questions/30912/117420/30912_a_117420_3_2.png"
+   },
+   {
+    "qid": 115100,
+    "paper_ref": "Physics/1H_Summer_2019_Q1",
+    "file": "questions/30912/117418/30912_q_117418_1_1.png"
+   },
+   {
+    "qid": 115100,
+    "paper_ref": "Physics/1H_Summer_2019_Q1",
+    "file": "questions/30912/117418/30912_q_117418_1_2.png"
+   },
+   {
+    "qid": 115100,
+    "paper_ref": "Physics/1H_Summer_2019_Q1",
+    "file": "questions/30912/117418/30912_a_117418_1_1.png"
+   },
+   {
+    "qid": 115099,
+    "paper_ref": "Physics/1F_Summer_2019_Q11",
+    "file": "questions/30911/117417/30911_q_117417_11_1.png"
+   },
+   {
+    "qid": 115099,
+    "paper_ref": "Physics/1F_Summer_2019_Q11",
+    "file": "questions/30911/117417/30911_q_117417_11_2.png"
+   },
+   {
+    "qid": 115099,
+    "paper_ref": "Physics/1F_Summer_2019_Q11",
+    "file": "questions/30911/117417/30911_q_117417_11_3.png"
+   },
+   {
+    "qid": 115099,
+    "paper_ref": "Physics/1F_Summer_2019_Q11",
+    "file": "questions/30911/117417/30911_a_117417_11_1.png"
+   },
+   {
+    "qid": 115099,
+    "paper_ref": "Physics/1F_Summer_2019_Q11",
+    "file": "questions/30911/117417/30911_a_117417_11_2.png"
+   },
+   {
+    "qid": 115094,
+    "paper_ref": "Physics/1F_Summer_2019_Q6",
+    "file": "questions/30911/117412/30911_q_117412_6_1.png"
+   },
+   {
+    "qid": 115094,
+    "paper_ref": "Physics/1F_Summer_2019_Q6",
+    "file": "questions/30911/117412/30911_q_117412_6_2.png"
+   },
+   {
+    "qid": 115094,
+    "paper_ref": "Physics/1F_Summer_2019_Q6",
+    "file": "questions/30911/117412/30911_a_117412_6_1.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_q_117411_5_1.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_q_117411_5_2.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_q_117411_5_3.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_q_117411_5_4.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_a_117411_5_1.png"
+   },
+   {
+    "qid": 115093,
+    "paper_ref": "Physics/1F_Summer_2019_Q5",
+    "file": "questions/30911/117411/30911_a_117411_5_2.png"
+   },
+   {
+    "qid": 115091,
+    "paper_ref": "Physics/1F_Summer_2019_Q3",
+    "file": "questions/30911/117409/30911_q_117409_3_1.png"
+   },
+   {
+    "qid": 115091,
+    "paper_ref": "Physics/1F_Summer_2019_Q3",
+    "file": "questions/30911/117409/30911_q_117409_3_2.png"
+   },
+   {
+    "qid": 115091,
+    "paper_ref": "Physics/1F_Summer_2019_Q3",
+    "file": "questions/30911/117409/30911_a_117409_3_1.png"
+   },
+   {
+    "qid": 114999,
+    "paper_ref": "Physics/1H_Summer_2018_Q10",
+    "file": "questions/30908/117317/30908_q_117317_10_1.png"
+   },
+   {
+    "qid": 114999,
+    "paper_ref": "Physics/1H_Summer_2018_Q10",
+    "file": "questions/30908/117317/30908_q_117317_10_2.png"
+   },
+   {
+    "qid": 114999,
+    "paper_ref": "Physics/1H_Summer_2018_Q10",
+    "file": "questions/30908/117317/30908_a_117317_10_1.png"
+   },
+   {
+    "qid": 114998,
+    "paper_ref": "Physics/1H_Summer_2018_Q9",
+    "file": "questions/30908/117316/30908_q_117316_9_1.png"
+   },
+   {
+    "qid": 114998,
+    "paper_ref": "Physics/1H_Summer_2018_Q9",
+    "file": "questions/30908/117316/30908_q_117316_9_2.png"
+   },
+   {
+    "qid": 114998,
+    "paper_ref": "Physics/1H_Summer_2018_Q9",
+    "file": "questions/30908/117316/30908_a_117316_9_1.png"
+   },
+   {
+    "qid": 114997,
+    "paper_ref": "Physics/1H_Summer_2018_Q8",
+    "file": "questions/30908/117315/30908_q_117315_8_1.png"
+   },
+   {
+    "qid": 114997,
+    "paper_ref": "Physics/1H_Summer_2018_Q8",
+    "file": "questions/30908/117315/30908_q_117315_8_2.png"
+   },
+   {
+    "qid": 114997,
+    "paper_ref": "Physics/1H_Summer_2018_Q8",
+    "file": "questions/30908/117315/30908_a_117315_8_1.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_q_117302_7_1.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_q_117302_7_2.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_q_117302_7_3.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_q_117302_7_4.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_a_117302_7_1.png"
+   },
+   {
+    "qid": 114984,
+    "paper_ref": "Physics/1H_Summer_2018_Q7",
+    "file": "questions/30908/117302/30908_a_117302_7_2.png"
+   },
+   {
+    "qid": 114971,
+    "paper_ref": "Physics/1H_Summer_2018_Q4",
+    "file": "questions/30908/117289/30908_q_117289_4_1.png"
+   },
+   {
+    "qid": 114971,
+    "paper_ref": "Physics/1H_Summer_2018_Q4",
+    "file": "questions/30908/117289/30908_q_117289_4_2.png"
+   },
+   {
+    "qid": 114971,
+    "paper_ref": "Physics/1H_Summer_2018_Q4",
+    "file": "questions/30908/117289/30908_q_117289_4_3.png"
+   },
+   {
+    "qid": 114971,
+    "paper_ref": "Physics/1H_Summer_2018_Q4",
+    "file": "questions/30908/117289/30908_a_117289_4_1.png"
+   },
+   {
+    "qid": 114959,
+    "paper_ref": "Physics/1F_Summer_2018_Q9",
+    "file": "questions/30907/117277/30907_q_117277_9_1.png"
+   },
+   {
+    "qid": 114959,
+    "paper_ref": "Physics/1F_Summer_2018_Q9",
+    "file": "questions/30907/117277/30907_q_117277_9_2.png"
+   },
+   {
+    "qid": 114959,
+    "paper_ref": "Physics/1F_Summer_2018_Q9",
+    "file": "questions/30907/117277/30907_q_117277_9_3.png"
+   },
+   {
+    "qid": 114959,
+    "paper_ref": "Physics/1F_Summer_2018_Q9",
+    "file": "questions/30907/117277/30907_a_117277_9_1.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_q_117276_8_1.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_q_117276_8_2.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_q_117276_8_3.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_q_117276_8_4.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_q_117276_8_5.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_a_117276_8_1.png"
+   },
+   {
+    "qid": 114958,
+    "paper_ref": "Physics/1F_Summer_2018_Q8",
+    "file": "questions/30907/117276/30907_a_117276_8_2.png"
+   },
+   {
+    "qid": 114951,
+    "paper_ref": "Physics/1F_Summer_2018_Q1",
+    "file": "questions/30907/117269/30907_q_117269_1_1.png"
+   },
+   {
+    "qid": 114951,
+    "paper_ref": "Physics/1F_Summer_2018_Q1",
+    "file": "questions/30907/117269/30907_q_117269_1_2.png"
+   },
+   {
+    "qid": 114951,
+    "paper_ref": "Physics/1F_Summer_2018_Q1",
+    "file": "questions/30907/117269/30907_a_117269_1_1.png"
+   }
+  ],
+  "Forces": [
+   {
+    "qid": 115164,
+    "paper_ref": "Physics/2H_Summer_2019_Q10",
+    "file": "questions/30914/117482/30914_q_117482_10_1.png"
+   },
+   {
+    "qid": 115164,
+    "paper_ref": "Physics/2H_Summer_2019_Q10",
+    "file": "questions/30914/117482/30914_q_117482_10_2.png"
+   },
+   {
+    "qid": 115164,
+    "paper_ref": "Physics/2H_Summer_2019_Q10",
+    "file": "questions/30914/117482/30914_a_117482_10_1.png"
+   },
+   {
+    "qid": 115162,
+    "paper_ref": "Physics/2H_Summer_2019_Q8",
+    "file": "questions/30914/117480/30914_q_117480_8_1.png"
+   },
+   {
+    "qid": 115162,
+    "paper_ref": "Physics/2H_Summer_2019_Q8",
+    "file": "questions/30914/117480/30914_q_117480_8_2.png"
+   },
+   {
+    "qid": 115162,
+    "paper_ref": "Physics/2H_Summer_2019_Q8",
+    "file": "questions/30914/117480/30914_q_117480_8_3.png"
+   },
+   {
+    "qid": 115162,
+    "paper_ref": "Physics/2H_Summer_2019_Q8",
+    "file": "questions/30914/117480/30914_a_117480_8_1.png"
+   },
+   {
+    "qid": 115162,
+    "paper_ref": "Physics/2H_Summer_2019_Q8",
+    "file": "questions/30914/117480/30914_a_117480_8_2.png"
+   },
+   {
+    "qid": 115160,
+    "paper_ref": "Physics/2H_Summer_2019_Q6",
+    "file": "questions/30914/117478/30914_q_117478_6_1.png"
+   },
+   {
+    "qid": 115160,
+    "paper_ref": "Physics/2H_Summer_2019_Q6",
+    "file": "questions/30914/117478/30914_q_117478_6_2.png"
+   },
+   {
+    "qid": 115160,
+    "paper_ref": "Physics/2H_Summer_2019_Q6",
+    "file": "questions/30914/117478/30914_a_117478_6_1.png"
+   },
+   {
+    "qid": 115160,
+    "paper_ref": "Physics/2H_Summer_2019_Q6",
+    "file": "questions/30914/117478/30914_a_117478_6_2.png"
+   },
+   {
+    "qid": 115157,
+    "paper_ref": "Physics/2H_Summer_2019_Q3",
+    "file": "questions/30914/117475/30914_q_117475_3_1.png"
+   },
+   {
+    "qid": 115157,
+    "paper_ref": "Physics/2H_Summer_2019_Q3",
+    "file": "questions/30914/117475/30914_q_117475_3_2.png"
+   },
+   {
+    "qid": 115157,
+    "paper_ref": "Physics/2H_Summer_2019_Q3",
+    "file": "questions/30914/117475/30914_a_117475_3_1.png"
+   },
+   {
+    "qid": 115157,
+    "paper_ref": "Physics/2H_Summer_2019_Q3",
+    "file": "questions/30914/117475/30914_a_117475_3_2.png"
+   },
+   {
+    "qid": 115131,
+    "paper_ref": "Physics/2F_Summer_2019_Q10",
+    "file": "questions/30913/117449/30913_q_117449_10_1.png"
+   },
+   {
+    "qid": 115131,
+    "paper_ref": "Physics/2F_Summer_2019_Q10",
+    "file": "questions/30913/117449/30913_q_117449_10_2.png"
+   },
+   {
+    "qid": 115131,
+    "paper_ref": "Physics/2F_Summer_2019_Q10",
+    "file": "questions/30913/117449/30913_a_117449_10_1.png"
+   },
+   {
+    "qid": 115131,
+    "paper_ref": "Physics/2F_Summer_2019_Q10",
+    "file": "questions/30913/117449/30913_a_117449_10_2.png"
+   },
+   {
+    "qid": 115128,
+    "paper_ref": "Physics/2F_Summer_2019_Q7",
+    "file": "questions/30913/117446/30913_q_117446_7_1.png"
+   },
+   {
+    "qid": 115128,
+    "paper_ref": "Physics/2F_Summer_2019_Q7",
+    "file": "questions/30913/117446/30913_q_117446_7_2.png"
+   },
+   {
+    "qid": 115128,
+    "paper_ref": "Physics/2F_Summer_2019_Q7",
+    "file": "questions/30913/117446/30913_q_117446_7_4.png"
+   },
+   {
+    "qid": 115128,
+    "paper_ref": "Physics/2F_Summer_2019_Q7",
+    "file": "questions/30913/117446/30913_a_117446_7_1.png"
+   },
+   {
+    "qid": 115127,
+    "paper_ref": "Physics/2F_Summer_2019_Q6",
+    "file": "questions/30913/117445/30913_q_117445_6_1.png"
+   },
+   {
+    "qid": 115127,
+    "paper_ref": "Physics/2F_Summer_2019_Q6",
+    "file": "questions/30913/117445/30913_q_117445_6_2.png"
+   },
+   {
+    "qid": 115127,
+    "paper_ref": "Physics/2F_Summer_2019_Q6",
+    "file": "questions/30913/117445/30913_a_117445_6_1.png"
+   },
+   {
+    "qid": 115121,
+    "paper_ref": "Physics/2F_Summer_2019_Q1",
+    "file": "questions/30913/117439/30913_q_117439_1_1.png"
+   },
+   {
+    "qid": 115121,
+    "paper_ref": "Physics/2F_Summer_2019_Q1",
+    "file": "questions/30913/117439/30913_q_117439_1_2.png"
+   },
+   {
+    "qid": 115121,
+    "paper_ref": "Physics/2F_Summer_2019_Q1",
+    "file": "questions/30913/117439/30913_q_117439_1_3.png"
+   },
+   {
+    "qid": 115121,
+    "paper_ref": "Physics/2F_Summer_2019_Q1",
+    "file": "questions/30913/117439/30913_q_117439_1_4.png"
+   },
+   {
+    "qid": 115121,
+    "paper_ref": "Physics/2F_Summer_2019_Q1",
+    "file": "questions/30913/117439/30913_a_117439_1_1.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_q_117370_6_1.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_q_117370_6_2.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_q_117370_6_3.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_q_117370_6_4.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_a_117370_6_1.png"
+   },
+   {
+    "qid": 115052,
+    "paper_ref": "Physics/2H_Summer_2018_Q6",
+    "file": "questions/30910/117370/30910_a_117370_6_2.png"
+   },
+   {
+    "qid": 115048,
+    "paper_ref": "Physics/2H_Summer_2018_Q4",
+    "file": "questions/30910/117366/30910_q_117366_4_1.png"
+   },
+   {
+    "qid": 115048,
+    "paper_ref": "Physics/2H_Summer_2018_Q4",
+    "file": "questions/30910/117366/30910_q_117366_4_2.png"
+   },
+   {
+    "qid": 115048,
+    "paper_ref": "Physics/2H_Summer_2018_Q4",
+    "file": "questions/30910/117366/30910_a_117366_4_1.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_q_117364_2_1.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_q_117364_2_2.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_q_117364_2_3.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_q_117364_2_4.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_a_117364_2_1.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_a_117364_2_2.png"
+   },
+   {
+    "qid": 115046,
+    "paper_ref": "Physics/2H_Summer_2018_Q2",
+    "file": "questions/30910/117364/30910_a_117364_2_3.png"
+   },
+   {
+    "qid": 115042,
+    "paper_ref": "Physics/2H_Summer_2018_Q1",
+    "file": "questions/30910/117360/30910_q_117360_1_1.png"
+   },
+   {
+    "qid": 115042,
+    "paper_ref": "Physics/2H_Summer_2018_Q1",
+    "file": "questions/30910/117360/30910_q_117360_1_2.png"
+   },
+   {
+    "qid": 115042,
+    "paper_ref": "Physics/2H_Summer_2018_Q1",
+    "file": "questions/30910/117360/30910_a_117360_1_1.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_q_117334_11_1.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_q_117334_11_2.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_q_117334_11_3.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_q_117334_11_4.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_a_117334_11_1.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_a_117334_11_2.png"
+   },
+   {
+    "qid": 115016,
+    "paper_ref": "Physics/2F_Summer_2018_Q11",
+    "file": "questions/30909/117334/30909_a_117334_11_3.png"
+   },
+   {
+    "qid": 115015,
+    "paper_ref": "Physics/2F_Summer_2018_Q10",
+    "file": "questions/30909/117333/30909_q_117333_10_1.png"
+   },
+   {
+    "qid": 115015,
+    "paper_ref": "Physics/2F_Summer_2018_Q10",
+    "file": "questions/30909/117333/30909_q_117333_10_2.png"
+   },
+   {
+    "qid": 115015,
+    "paper_ref": "Physics/2F_Summer_2018_Q10",
+    "file": "questions/30909/117333/30909_a_117333_10_1.png"
+   },
+   {
+    "qid": 115014,
+    "paper_ref": "Physics/2F_Summer_2018_Q9",
+    "file": "questions/30909/117332/30909_q_117332_9_1.png"
+   },
+   {
+    "qid": 115014,
+    "paper_ref": "Physics/2F_Summer_2018_Q9",
+    "file": "questions/30909/117332/30909_q_117332_9_2.png"
+   },
+   {
+    "qid": 115014,
+    "paper_ref": "Physics/2F_Summer_2018_Q9",
+    "file": "questions/30909/117332/30909_q_117332_9_3.png"
+   },
+   {
+    "qid": 115014,
+    "paper_ref": "Physics/2F_Summer_2018_Q9",
+    "file": "questions/30909/117332/30909_a_117332_9_1.png"
+   },
+   {
+    "qid": 115012,
+    "paper_ref": "Physics/2F_Summer_2018_Q7",
+    "file": "questions/30909/117330/30909_q_117330_7_1.png"
+   },
+   {
+    "qid": 115012,
+    "paper_ref": "Physics/2F_Summer_2018_Q7",
+    "file": "questions/30909/117330/30909_q_117330_7_2.png"
+   },
+   {
+    "qid": 115012,
+    "paper_ref": "Physics/2F_Summer_2018_Q7",
+    "file": "questions/30909/117330/30909_a_117330_7_1.png"
+   },
+   {
+    "qid": 115011,
+    "paper_ref": "Physics/2F_Summer_2018_Q6",
+    "file": "questions/30909/117329/30909_q_117329_6_1.png"
+   },
+   {
+    "qid": 115011,
+    "paper_ref": "Physics/2F_Summer_2018_Q6",
+    "file": "questions/30909/117329/30909_q_117329_6_2.png"
+   },
+   {
+    "qid": 115011,
+    "paper_ref": "Physics/2F_Summer_2018_Q6",
+    "file": "questions/30909/117329/30909_q_117329_6_3.png"
+   },
+   {
+    "qid": 115011,
+    "paper_ref": "Physics/2F_Summer_2018_Q6",
+    "file": "questions/30909/117329/30909_a_117329_6_1.png"
+   }
+  ],
+  "Magnetism And Electromagnetism": [
+   {
+    "qid": 115158,
+    "paper_ref": "Physics/2H_Summer_2019_Q4",
+    "file": "questions/30914/117476/30914_q_117476_4_1.png"
+   },
+   {
+    "qid": 115158,
+    "paper_ref": "Physics/2H_Summer_2019_Q4",
+    "file": "questions/30914/117476/30914_q_117476_4_2.png"
+   },
+   {
+    "qid": 115158,
+    "paper_ref": "Physics/2H_Summer_2019_Q4",
+    "file": "questions/30914/117476/30914_q_117476_4_3.png"
+   },
+   {
+    "qid": 115158,
+    "paper_ref": "Physics/2H_Summer_2019_Q4",
+    "file": "questions/30914/117476/30914_q_117476_4_4.png"
+   },
+   {
+    "qid": 115158,
+    "paper_ref": "Physics/2H_Summer_2019_Q4",
+    "file": "questions/30914/117476/30914_a_117476_4_1.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_q_117442_3_1.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_q_117442_3_2.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_q_117442_3_3.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_q_117442_3_4.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_q_117442_3_5.png"
+   },
+   {
+    "qid": 115124,
+    "paper_ref": "Physics/2F_Summer_2019_Q3",
+    "file": "questions/30913/117442/30913_a_117442_3_1.png"
+   },
+   {
+    "qid": 115063,
+    "paper_ref": "Physics/2H_Summer_2018_Q10",
+    "file": "questions/30910/117381/30910_q_117381_10_1.png"
+   },
+   {
+    "qid": 115063,
+    "paper_ref": "Physics/2H_Summer_2018_Q10",
+    "file": "questions/30910/117381/30910_q_117381_10_2.png"
+   },
+   {
+    "qid": 115063,
+    "paper_ref": "Physics/2H_Summer_2018_Q10",
+    "file": "questions/30910/117381/30910_a_117381_10_1.png"
+   },
+   {
+    "qid": 115056,
+    "paper_ref": "Physics/2H_Summer_2018_Q7",
+    "file": "questions/30910/117374/30910_q_117374_7_1.png"
+   },
+   {
+    "qid": 115056,
+    "paper_ref": "Physics/2H_Summer_2018_Q7",
+    "file": "questions/30910/117374/30910_q_117374_7_2.png"
+   },
+   {
+    "qid": 115056,
+    "paper_ref": "Physics/2H_Summer_2018_Q7",
+    "file": "questions/30910/117374/30910_q_117374_7_3.png"
+   },
+   {
+    "qid": 115056,
+    "paper_ref": "Physics/2H_Summer_2018_Q7",
+    "file": "questions/30910/117374/30910_a_117374_7_1.png"
+   },
+   {
+    "qid": 115056,
+    "paper_ref": "Physics/2H_Summer_2018_Q7",
+    "file": "questions/30910/117374/30910_a_117374_7_2.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_q_117327_4_1.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_q_117327_4_2.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_q_117327_4_3.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_q_117327_4_4.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_a_117327_4_1.png"
+   },
+   {
+    "qid": 115009,
+    "paper_ref": "Physics/2F_Summer_2018_Q4",
+    "file": "questions/30909/117327/30909_a_117327_4_2.png"
+   }
+  ],
+  "Particle Model Of Matter": [
+   {
+    "qid": 115110,
+    "paper_ref": "Physics/1H_Summer_2019_Q11",
+    "file": "questions/30912/117428/30912_q_117428_11_1.png"
+   },
+   {
+    "qid": 115110,
+    "paper_ref": "Physics/1H_Summer_2019_Q11",
+    "file": "questions/30912/117428/30912_q_117428_11_2.png"
+   },
+   {
+    "qid": 115110,
+    "paper_ref": "Physics/1H_Summer_2019_Q11",
+    "file": "questions/30912/117428/30912_a_117428_11_1.png"
+   },
+   {
+    "qid": 115108,
+    "paper_ref": "Physics/1H_Summer_2019_Q9",
+    "file": "questions/30912/117426/30912_q_117426_9_1.png"
+   },
+   {
+    "qid": 115108,
+    "paper_ref": "Physics/1H_Summer_2019_Q9",
+    "file": "questions/30912/117426/30912_q_117426_9_2.png"
+   },
+   {
+    "qid": 115108,
+    "paper_ref": "Physics/1H_Summer_2019_Q9",
+    "file": "questions/30912/117426/30912_a_117426_9_1.png"
+   },
+   {
+    "qid": 115107,
+    "paper_ref": "Physics/1H_Summer_2019_Q8",
+    "file": "questions/30912/117425/30912_q_117425_8_1.png"
+   },
+   {
+    "qid": 115107,
+    "paper_ref": "Physics/1H_Summer_2019_Q8",
+    "file": "questions/30912/117425/30912_q_117425_8_2.png"
+   },
+   {
+    "qid": 115107,
+    "paper_ref": "Physics/1H_Summer_2019_Q8",
+    "file": "questions/30912/117425/30912_q_117425_8_3.png"
+   },
+   {
+    "qid": 115107,
+    "paper_ref": "Physics/1H_Summer_2019_Q8",
+    "file": "questions/30912/117425/30912_a_117425_8_1.png"
+   },
+   {
+    "qid": 115107,
+    "paper_ref": "Physics/1H_Summer_2019_Q8",
+    "file": "questions/30912/117425/30912_a_117425_8_2.png"
+   },
+   {
+    "qid": 115101,
+    "paper_ref": "Physics/1H_Summer_2019_Q2",
+    "file": "questions/30912/117419/30912_q_117419_2_1.png"
+   },
+   {
+    "qid": 115101,
+    "paper_ref": "Physics/1H_Summer_2019_Q2",
+    "file": "questions/30912/117419/30912_q_117419_2_2.png"
+   },
+   {
+    "qid": 115101,
+    "paper_ref": "Physics/1H_Summer_2019_Q2",
+    "file": "questions/30912/117419/30912_q_117419_2_3.png"
+   },
+   {
+    "qid": 115101,
+    "paper_ref": "Physics/1H_Summer_2019_Q2",
+    "file": "questions/30912/117419/30912_a_117419_2_1.png"
+   },
+   {
+    "qid": 115098,
+    "paper_ref": "Physics/1F_Summer_2019_Q10",
+    "file": "questions/30911/117416/30911_q_117416_10_1.png"
+   },
+   {
+    "qid": 115098,
+    "paper_ref": "Physics/1F_Summer_2019_Q10",
+    "file": "questions/30911/117416/30911_q_117416_10_2.png"
+   },
+   {
+    "qid": 115098,
+    "paper_ref": "Physics/1F_Summer_2019_Q10",
+    "file": "questions/30911/117416/30911_q_117416_10_3.png"
+   },
+   {
+    "qid": 115098,
+    "paper_ref": "Physics/1F_Summer_2019_Q10",
+    "file": "questions/30911/117416/30911_a_117416_10_1.png"
+   },
+   {
+    "qid": 115096,
+    "paper_ref": "Physics/1F_Summer_2019_Q8",
+    "file": "questions/30911/117414/30911_q_117414_8_1.png"
+   },
+   {
+    "qid": 115096,
+    "paper_ref": "Physics/1F_Summer_2019_Q8",
+    "file": "questions/30911/117414/30911_q_117414_8_2.png"
+   },
+   {
+    "qid": 115096,
+    "paper_ref": "Physics/1F_Summer_2019_Q8",
+    "file": "questions/30911/117414/30911_q_117414_8_3.png"
+   },
+   {
+    "qid": 115096,
+    "paper_ref": "Physics/1F_Summer_2019_Q8",
+    "file": "questions/30911/117414/30911_q_117414_8_4.png"
+   },
+   {
+    "qid": 115096,
+    "paper_ref": "Physics/1F_Summer_2019_Q8",
+    "file": "questions/30911/117414/30911_a_117414_8_1.png"
+   },
+   {
+    "qid": 115089,
+    "paper_ref": "Physics/1F_Summer_2019_Q1",
+    "file": "questions/30911/117407/30911_q_117407_1_1.png"
+   },
+   {
+    "qid": 115089,
+    "paper_ref": "Physics/1F_Summer_2019_Q1",
+    "file": "questions/30911/117407/30911_q_117407_1_2.png"
+   },
+   {
+    "qid": 115089,
+    "paper_ref": "Physics/1F_Summer_2019_Q1",
+    "file": "questions/30911/117407/30911_q_117407_1_3.png"
+   },
+   {
+    "qid": 115089,
+    "paper_ref": "Physics/1F_Summer_2019_Q1",
+    "file": "questions/30911/117407/30911_a_117407_1_1.png"
+   },
+   {
+    "qid": 114965,
+    "paper_ref": "Physics/1H_Summer_2018_Q1",
+    "file": "questions/30908/117283/30908_q_117283_1_1.png"
+   },
+   {
+    "qid": 114965,
+    "paper_ref": "Physics/1H_Summer_2018_Q1",
+    "file": "questions/30908/117283/30908_q_117283_1_2.png"
+   },
+   {
+    "qid": 114965,
+    "paper_ref": "Physics/1H_Summer_2018_Q1",
+    "file": "questions/30908/117283/30908_q_117283_1_3.png"
+   },
+   {
+    "qid": 114965,
+    "paper_ref": "Physics/1H_Summer_2018_Q1",
+    "file": "questions/30908/117283/30908_a_117283_1_1.png"
+   },
+   {
+    "qid": 114954,
+    "paper_ref": "Physics/1F_Summer_2018_Q4",
+    "file": "questions/30907/117272/30907_q_117272_4_1.png"
+   },
+   {
+    "qid": 114954,
+    "paper_ref": "Physics/1F_Summer_2018_Q4",
+    "file": "questions/30907/117272/30907_q_117272_4_2.png"
+   },
+   {
+    "qid": 114954,
+    "paper_ref": "Physics/1F_Summer_2018_Q4",
+    "file": "questions/30907/117272/30907_q_117272_4_3.png"
+   },
+   {
+    "qid": 114954,
+    "paper_ref": "Physics/1F_Summer_2018_Q4",
+    "file": "questions/30907/117272/30907_a_117272_4_1.png"
+   },
+   {
+    "qid": 114954,
+    "paper_ref": "Physics/1F_Summer_2018_Q4",
+    "file": "questions/30907/117272/30907_a_117272_4_2.png"
+   }
+  ],
+  "Space Physics": [
+   {
+    "qid": 115159,
+    "paper_ref": "Physics/2H_Summer_2019_Q5",
+    "file": "questions/30914/117477/30914_q_117477_5_1.png"
+   },
+   {
+    "qid": 115159,
+    "paper_ref": "Physics/2H_Summer_2019_Q5",
+    "file": "questions/30914/117477/30914_q_117477_5_2.png"
+   },
+   {
+    "qid": 115159,
+    "paper_ref": "Physics/2H_Summer_2019_Q5",
+    "file": "questions/30914/117477/30914_q_117477_5_3.png"
+   },
+   {
+    "qid": 115159,
+    "paper_ref": "Physics/2H_Summer_2019_Q5",
+    "file": "questions/30914/117477/30914_a_117477_5_1.png"
+   },
+   {
+    "qid": 115122,
+    "paper_ref": "Physics/2F_Summer_2019_Q2",
+    "file": "questions/30913/117440/30913_q_117440_2_1.png"
+   },
+   {
+    "qid": 115122,
+    "paper_ref": "Physics/2F_Summer_2019_Q2",
+    "file": "questions/30913/117440/30913_q_117440_2_2.png"
+   },
+   {
+    "qid": 115122,
+    "paper_ref": "Physics/2F_Summer_2019_Q2",
+    "file": "questions/30913/117440/30913_q_117440_2_3.png"
+   },
+   {
+    "qid": 115122,
+    "paper_ref": "Physics/2F_Summer_2019_Q2",
+    "file": "questions/30913/117440/30913_q_117440_2_4.png"
+   },
+   {
+    "qid": 115122,
+    "paper_ref": "Physics/2F_Summer_2019_Q2",
+    "file": "questions/30913/117440/30913_a_117440_2_1.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_q_117378_8_1.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_q_117378_8_2.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_q_117378_8_3.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_a_117378_8_1.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_a_117378_8_2.png"
+   },
+   {
+    "qid": 115060,
+    "paper_ref": "Physics/2H_Summer_2018_Q8",
+    "file": "questions/30910/117378/30910_a_117378_8_3.png"
+   },
+   {
+    "qid": 115006,
+    "paper_ref": "Physics/2F_Summer_2018_Q1",
+    "file": "questions/30909/117324/30909_q_117324_1_1.png"
+   },
+   {
+    "qid": 115006,
+    "paper_ref": "Physics/2F_Summer_2018_Q1",
+    "file": "questions/30909/117324/30909_q_117324_1_2.png"
+   },
+   {
+    "qid": 115006,
+    "paper_ref": "Physics/2F_Summer_2018_Q1",
+    "file": "questions/30909/117324/30909_a_117324_1_1.png"
+   }
+  ],
+  "Waves": [
+   {
+    "qid": 115163,
+    "paper_ref": "Physics/2H_Summer_2019_Q9",
+    "file": "questions/30914/117481/30914_q_117481_9_1.png"
+   },
+   {
+    "qid": 115163,
+    "paper_ref": "Physics/2H_Summer_2019_Q9",
+    "file": "questions/30914/117481/30914_q_117481_9_2.png"
+   },
+   {
+    "qid": 115163,
+    "paper_ref": "Physics/2H_Summer_2019_Q9",
+    "file": "questions/30914/117481/30914_q_117481_9_3.png"
+   },
+   {
+    "qid": 115163,
+    "paper_ref": "Physics/2H_Summer_2019_Q9",
+    "file": "questions/30914/117481/30914_a_117481_9_1.png"
+   },
+   {
+    "qid": 115163,
+    "paper_ref": "Physics/2H_Summer_2019_Q9",
+    "file": "questions/30914/117481/30914_a_117481_9_2.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_q_117479_7_1.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_q_117479_7_2.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_q_117479_7_3.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_q_117479_7_4.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_a_117479_7_1.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_a_117479_7_2.png"
+   },
+   {
+    "qid": 115161,
+    "paper_ref": "Physics/2H_Summer_2019_Q7",
+    "file": "questions/30914/117479/30914_a_117479_7_3.png"
+   },
+   {
+    "qid": 115156,
+    "paper_ref": "Physics/2H_Summer_2019_Q2",
+    "file": "questions/30914/117474/30914_q_117474_2_1.png"
+   },
+   {
+    "qid": 115156,
+    "paper_ref": "Physics/2H_Summer_2019_Q2",
+    "file": "questions/30914/117474/30914_q_117474_2_2.png"
+   },
+   {
+    "qid": 115156,
+    "paper_ref": "Physics/2H_Summer_2019_Q2",
+    "file": "questions/30914/117474/30914_a_117474_2_1.png"
+   },
+   {
+    "qid": 115156,
+    "paper_ref": "Physics/2H_Summer_2019_Q2",
+    "file": "questions/30914/117474/30914_a_117474_2_2.png"
+   },
+   {
+    "qid": 115155,
+    "paper_ref": "Physics/2H_Summer_2019_Q1",
+    "file": "questions/30914/117473/30914_q_117473_1_1.png"
+   },
+   {
+    "qid": 115155,
+    "paper_ref": "Physics/2H_Summer_2019_Q1",
+    "file": "questions/30914/117473/30914_q_117473_1_2.png"
+   },
+   {
+    "qid": 115155,
+    "paper_ref": "Physics/2H_Summer_2019_Q1",
+    "file": "questions/30914/117473/30914_a_117473_1_1.png"
+   },
+   {
+    "qid": 115130,
+    "paper_ref": "Physics/2F_Summer_2019_Q9",
+    "file": "questions/30913/117448/30913_q_117448_9_1.png"
+   },
+   {
+    "qid": 115130,
+    "paper_ref": "Physics/2F_Summer_2019_Q9",
+    "file": "questions/30913/117448/30913_q_117448_9_2.png"
+   },
+   {
+    "qid": 115130,
+    "paper_ref": "Physics/2F_Summer_2019_Q9",
+    "file": "questions/30913/117448/30913_a_117448_9_1.png"
+   },
+   {
+    "qid": 115130,
+    "paper_ref": "Physics/2F_Summer_2019_Q9",
+    "file": "questions/30913/117448/30913_a_117448_9_2.png"
+   },
+   {
+    "qid": 115129,
+    "paper_ref": "Physics/2F_Summer_2019_Q8",
+    "file": "questions/30913/117447/30913_q_117447_8_1.png"
+   },
+   {
+    "qid": 115129,
+    "paper_ref": "Physics/2F_Summer_2019_Q8",
+    "file": "questions/30913/117447/30913_q_117447_8_2.png"
+   },
+   {
+    "qid": 115129,
+    "paper_ref": "Physics/2F_Summer_2019_Q8",
+    "file": "questions/30913/117447/30913_a_117447_8_1.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_q_117444_5_1.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_q_117444_5_2.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_q_117444_5_3.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_q_117444_5_4.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_a_117444_5_1.png"
+   },
+   {
+    "qid": 115126,
+    "paper_ref": "Physics/2F_Summer_2019_Q5",
+    "file": "questions/30913/117444/30913_a_117444_5_2.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_q_117443_4_1.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_q_117443_4_2.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_q_117443_4_3.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_q_117443_4_4.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_q_117443_4_5.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_a_117443_4_1.png"
+   },
+   {
+    "qid": 115125,
+    "paper_ref": "Physics/2F_Summer_2019_Q4",
+    "file": "questions/30913/117443/30913_a_117443_4_2.png"
+   },
+   {
+    "qid": 115062,
+    "paper_ref": "Physics/2H_Summer_2018_Q9",
+    "file": "questions/30910/117380/30910_q_117380_9_1.png"
+   },
+   {
+    "qid": 115062,
+    "paper_ref": "Physics/2H_Summer_2018_Q9",
+    "file": "questions/30910/117380/30910_q_117380_9_2.png"
+   },
+   {
+    "qid": 115062,
+    "paper_ref": "Physics/2H_Summer_2018_Q9",
+    "file": "questions/30910/117380/30910_q_117380_9_3.png"
+   },
+   {
+    "qid": 115062,
+    "paper_ref": "Physics/2H_Summer_2018_Q9",
+    "file": "questions/30910/117380/30910_a_117380_9_1.png"
+   },
+   {
+    "qid": 115062,
+    "paper_ref": "Physics/2H_Summer_2018_Q9",
+    "file": "questions/30910/117380/30910_a_117380_9_2.png"
+   },
+   {
+    "qid": 115049,
+    "paper_ref": "Physics/2H_Summer_2018_Q5",
+    "file": "questions/30910/117367/30910_q_117367_5_1.png"
+   },
+   {
+    "qid": 115049,
+    "paper_ref": "Physics/2H_Summer_2018_Q5",
+    "file": "questions/30910/117367/30910_q_117367_5_2.png"
+   },
+   {
+    "qid": 115049,
+    "paper_ref": "Physics/2H_Summer_2018_Q5",
+    "file": "questions/30910/117367/30910_q_117367_5_3.png"
+   },
+   {
+    "qid": 115049,
+    "paper_ref": "Physics/2H_Summer_2018_Q5",
+    "file": "questions/30910/117367/30910_a_117367_5_1.png"
+   },
+   {
+    "qid": 115049,
+    "paper_ref": "Physics/2H_Summer_2018_Q5",
+    "file": "questions/30910/117367/30910_a_117367_5_2.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_q_117365_3_1.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_q_117365_3_2.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_q_117365_3_3.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_q_117365_3_4.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_a_117365_3_1.png"
+   },
+   {
+    "qid": 115047,
+    "paper_ref": "Physics/2H_Summer_2018_Q3",
+    "file": "questions/30910/117365/30910_a_117365_3_2.png"
+   },
+   {
+    "qid": 115017,
+    "paper_ref": "Physics/2F_Summer_2018_Q12",
+    "file": "questions/30909/117335/30909_q_117335_12_1.png"
+   },
+   {
+    "qid": 115017,
+    "paper_ref": "Physics/2F_Summer_2018_Q12",
+    "file": "questions/30909/117335/30909_q_117335_12_2.png"
+   },
+   {
+    "qid": 115017,
+    "paper_ref": "Physics/2F_Summer_2018_Q12",
+    "file": "questions/30909/117335/30909_a_117335_12_1.png"
+   },
+   {
+    "qid": 115013,
+    "paper_ref": "Physics/2F_Summer_2018_Q8",
+    "file": "questions/30909/117331/30909_q_117331_8_1.png"
+   },
+   {
+    "qid": 115013,
+    "paper_ref": "Physics/2F_Summer_2018_Q8",
+    "file": "questions/30909/117331/30909_q_117331_8_2.png"
+   },
+   {
+    "qid": 115013,
+    "paper_ref": "Physics/2F_Summer_2018_Q8",
+    "file": "questions/30909/117331/30909_a_117331_8_1.png"
+   },
+   {
+    "qid": 115010,
+    "paper_ref": "Physics/2F_Summer_2018_Q5",
+    "file": "questions/30909/117328/30909_q_117328_5_1.png"
+   },
+   {
+    "qid": 115010,
+    "paper_ref": "Physics/2F_Summer_2018_Q5",
+    "file": "questions/30909/117328/30909_q_117328_5_2.png"
+   },
+   {
+    "qid": 115010,
+    "paper_ref": "Physics/2F_Summer_2018_Q5",
+    "file": "questions/30909/117328/30909_q_117328_5_3.png"
+   },
+   {
+    "qid": 115010,
+    "paper_ref": "Physics/2F_Summer_2018_Q5",
+    "file": "questions/30909/117328/30909_q_117328_5_4.png"
+   },
+   {
+    "qid": 115010,
+    "paper_ref": "Physics/2F_Summer_2018_Q5",
+    "file": "questions/30909/117328/30909_a_117328_5_1.png"
+   },
+   {
+    "qid": 115008,
+    "paper_ref": "Physics/2F_Summer_2018_Q3",
+    "file": "questions/30909/117326/30909_q_117326_3_1.png"
+   },
+   {
+    "qid": 115008,
+    "paper_ref": "Physics/2F_Summer_2018_Q3",
+    "file": "questions/30909/117326/30909_q_117326_3_2.png"
+   },
+   {
+    "qid": 115008,
+    "paper_ref": "Physics/2F_Summer_2018_Q3",
+    "file": "questions/30909/117326/30909_a_117326_3_1.png"
+   },
+   {
+    "qid": 115007,
+    "paper_ref": "Physics/2F_Summer_2018_Q2",
+    "file": "questions/30909/117325/30909_q_117325_2_1.png"
+   },
+   {
+    "qid": 115007,
+    "paper_ref": "Physics/2F_Summer_2018_Q2",
+    "file": "questions/30909/117325/30909_q_117325_2_2.png"
+   },
+   {
+    "qid": 115007,
+    "paper_ref": "Physics/2F_Summer_2018_Q2",
+    "file": "questions/30909/117325/30909_a_117325_2_1.png"
+   }
+  ]
+ }
+}
