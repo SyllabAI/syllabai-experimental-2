@@ -1,0 +1,4217 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T16:19:58Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Continuous Random Variables": [
+   {
+    "qid": 66472,
+    "paper_ref": "9709/73_Winter_2019_Q6",
+    "file": "questions/21722/68355/21722_q_68355_6_1.png"
+   },
+   {
+    "qid": 66472,
+    "paper_ref": "9709/73_Winter_2019_Q6",
+    "file": "questions/21722/68355/21722_q_68355_6_2.png"
+   },
+   {
+    "qid": 66472,
+    "paper_ref": "9709/73_Winter_2019_Q6",
+    "file": "questions/21722/68355/21722_a_68355_6_1.png"
+   },
+   {
+    "qid": 66472,
+    "paper_ref": "9709/73_Winter_2019_Q6",
+    "file": "questions/21722/68355/21722_a_68355_6_2.png"
+   },
+   {
+    "qid": 66464,
+    "paper_ref": "9709/72_Winter_2019_Q4",
+    "file": "questions/21721/68347/21721_q_68347_4_1.png"
+   },
+   {
+    "qid": 66464,
+    "paper_ref": "9709/72_Winter_2019_Q4",
+    "file": "questions/21721/68347/21721_q_68347_4_2.png"
+   },
+   {
+    "qid": 66464,
+    "paper_ref": "9709/72_Winter_2019_Q4",
+    "file": "questions/21721/68347/21721_a_68347_4_1.png"
+   },
+   {
+    "qid": 66464,
+    "paper_ref": "9709/72_Winter_2019_Q4",
+    "file": "questions/21721/68347/21721_a_68347_4_2.png"
+   },
+   {
+    "qid": 56604,
+    "paper_ref": "9709/73_Summer_2019_Q6",
+    "file": "questions/20881/58420/20881_q_58420_6_1.png"
+   },
+   {
+    "qid": 56604,
+    "paper_ref": "9709/73_Summer_2019_Q6",
+    "file": "questions/20881/58420/20881_q_58420_6_2.png"
+   },
+   {
+    "qid": 56604,
+    "paper_ref": "9709/73_Summer_2019_Q6",
+    "file": "questions/20881/58420/20881_a_58420_6_1.png"
+   },
+   {
+    "qid": 56604,
+    "paper_ref": "9709/73_Summer_2019_Q6",
+    "file": "questions/20881/58420/20881_a_58420_6_2.png"
+   },
+   {
+    "qid": 56597,
+    "paper_ref": "9709/72_Summer_2019_Q6",
+    "file": "questions/20880/58413/20880_q_58413_6_1.png"
+   },
+   {
+    "qid": 56597,
+    "paper_ref": "9709/72_Summer_2019_Q6",
+    "file": "questions/20880/58413/20880_q_58413_6_2.png"
+   },
+   {
+    "qid": 56597,
+    "paper_ref": "9709/72_Summer_2019_Q6",
+    "file": "questions/20880/58413/20880_a_58413_6_1.png"
+   },
+   {
+    "qid": 56597,
+    "paper_ref": "9709/72_Summer_2019_Q6",
+    "file": "questions/20880/58413/20880_a_58413_6_2.png"
+   },
+   {
+    "qid": 56589,
+    "paper_ref": "9709/71_Summer_2019_Q4",
+    "file": "questions/20879/58405/20879_q_58405_4_1.png"
+   },
+   {
+    "qid": 56589,
+    "paper_ref": "9709/71_Summer_2019_Q4",
+    "file": "questions/20879/58405/20879_q_58405_4_2.png"
+   },
+   {
+    "qid": 56589,
+    "paper_ref": "9709/71_Summer_2019_Q4",
+    "file": "questions/20879/58405/20879_a_58405_4_1.png"
+   },
+   {
+    "qid": 54046,
+    "paper_ref": "9709/73_Winter_2018_Q6",
+    "file": "questions/20206/55852/20206_q_55852_6_1.png"
+   },
+   {
+    "qid": 54046,
+    "paper_ref": "9709/73_Winter_2018_Q6",
+    "file": "questions/20206/55852/20206_q_55852_6_2.png"
+   },
+   {
+    "qid": 54046,
+    "paper_ref": "9709/73_Winter_2018_Q6",
+    "file": "questions/20206/55852/20206_a_55852_6_1.png"
+   },
+   {
+    "qid": 54037,
+    "paper_ref": "9709/72_Winter_2018_Q4",
+    "file": "questions/20205/55843/20205_q_55843_4_1.png"
+   },
+   {
+    "qid": 54037,
+    "paper_ref": "9709/72_Winter_2018_Q4",
+    "file": "questions/20205/55843/20205_q_55843_4_2.png"
+   },
+   {
+    "qid": 54037,
+    "paper_ref": "9709/72_Winter_2018_Q4",
+    "file": "questions/20205/55843/20205_a_55843_4_1.png"
+   },
+   {
+    "qid": 54037,
+    "paper_ref": "9709/72_Winter_2018_Q4",
+    "file": "questions/20205/55843/20205_a_55843_4_2.png"
+   },
+   {
+    "qid": 54032,
+    "paper_ref": "9709/71_Winter_2018_Q6",
+    "file": "questions/20204/55838/20204_q_55838_6_1.png"
+   },
+   {
+    "qid": 54032,
+    "paper_ref": "9709/71_Winter_2018_Q6",
+    "file": "questions/20204/55838/20204_q_55838_6_2.png"
+   },
+   {
+    "qid": 54032,
+    "paper_ref": "9709/71_Winter_2018_Q6",
+    "file": "questions/20204/55838/20204_a_55838_6_1.png"
+   },
+   {
+    "qid": 51134,
+    "paper_ref": "9709/73_Summer_2018_Q7",
+    "file": "questions/17588/52902/17588_q_52902_7_1.png"
+   },
+   {
+    "qid": 51134,
+    "paper_ref": "9709/73_Summer_2018_Q7",
+    "file": "questions/17588/52902/17588_q_52902_7_2.png"
+   },
+   {
+    "qid": 51134,
+    "paper_ref": "9709/73_Summer_2018_Q7",
+    "file": "questions/17588/52902/17588_a_52902_7_1.png"
+   },
+   {
+    "qid": 51134,
+    "paper_ref": "9709/73_Summer_2018_Q7",
+    "file": "questions/17588/52902/17588_a_52902_7_2.png"
+   },
+   {
+    "qid": 51125,
+    "paper_ref": "9709/72_Summer_2018_Q5",
+    "file": "questions/17587/52893/17587_q_52893_5_1.png"
+   },
+   {
+    "qid": 51125,
+    "paper_ref": "9709/72_Summer_2018_Q5",
+    "file": "questions/17587/52893/17587_q_52893_5_2.png"
+   },
+   {
+    "qid": 51125,
+    "paper_ref": "9709/72_Summer_2018_Q5",
+    "file": "questions/17587/52893/17587_a_52893_5_1.png"
+   },
+   {
+    "qid": 51125,
+    "paper_ref": "9709/72_Summer_2018_Q5",
+    "file": "questions/17587/52893/17587_a_52893_5_2.png"
+   },
+   {
+    "qid": 51119,
+    "paper_ref": "9709/71_Summer_2018_Q6",
+    "file": "questions/17586/52887/17586_q_52887_6_1.png"
+   },
+   {
+    "qid": 51119,
+    "paper_ref": "9709/71_Summer_2018_Q6",
+    "file": "questions/17586/52887/17586_q_52887_6_2.png"
+   },
+   {
+    "qid": 51119,
+    "paper_ref": "9709/71_Summer_2018_Q6",
+    "file": "questions/17586/52887/17586_a_52887_6_1.png"
+   },
+   {
+    "qid": 47645,
+    "paper_ref": "9709/73_Winter_2017_Q5",
+    "file": "questions/14310/49354/14310_q_49354_5_1.png"
+   },
+   {
+    "qid": 47645,
+    "paper_ref": "9709/73_Winter_2017_Q5",
+    "file": "questions/14310/49354/14310_a_49354_5_1.png"
+   },
+   {
+    "qid": 47638,
+    "paper_ref": "9709/72_Winter_2017_Q4",
+    "file": "questions/14309/49347/14309_q_49347_4_1.png"
+   },
+   {
+    "qid": 47638,
+    "paper_ref": "9709/72_Winter_2017_Q4",
+    "file": "questions/14309/49347/14309_q_49347_4_2.png"
+   },
+   {
+    "qid": 47638,
+    "paper_ref": "9709/72_Winter_2017_Q4",
+    "file": "questions/14309/49347/14309_a_49347_4_1.png"
+   },
+   {
+    "qid": 47638,
+    "paper_ref": "9709/72_Winter_2017_Q4",
+    "file": "questions/14309/49347/14309_a_49347_4_2.png"
+   },
+   {
+    "qid": 47631,
+    "paper_ref": "9709/71_Winter_2017_Q5",
+    "file": "questions/14308/49340/14308_q_49340_5_1.png"
+   },
+   {
+    "qid": 47631,
+    "paper_ref": "9709/71_Winter_2017_Q5",
+    "file": "questions/14308/49340/14308_a_49340_5_1.png"
+   },
+   {
+    "qid": 42910,
+    "paper_ref": "9709/73_Summer_2017_Q6",
+    "file": "questions/7719/44304/7719_q_44304_6_1.png"
+   },
+   {
+    "qid": 42910,
+    "paper_ref": "9709/73_Summer_2017_Q6",
+    "file": "questions/7719/44304/7719_q_44304_6_2.png"
+   },
+   {
+    "qid": 42910,
+    "paper_ref": "9709/73_Summer_2017_Q6",
+    "file": "questions/7719/44304/7719_a_44304_6_1.png"
+   },
+   {
+    "qid": 42902,
+    "paper_ref": "9709/72_Summer_2017_Q5",
+    "file": "questions/7718/44296/7718_q_44296_5_1.png"
+   },
+   {
+    "qid": 42902,
+    "paper_ref": "9709/72_Summer_2017_Q5",
+    "file": "questions/7718/44296/7718_q_44296_5_2.png"
+   },
+   {
+    "qid": 42902,
+    "paper_ref": "9709/72_Summer_2017_Q5",
+    "file": "questions/7718/44296/7718_a_44296_5_1.png"
+   },
+   {
+    "qid": 42895,
+    "paper_ref": "9709/71_Summer_2017_Q4",
+    "file": "questions/7716/44289/7716_q_44289_4_1.png"
+   },
+   {
+    "qid": 42895,
+    "paper_ref": "9709/71_Summer_2017_Q4",
+    "file": "questions/7716/44289/7716_q_44289_4_2.png"
+   },
+   {
+    "qid": 42895,
+    "paper_ref": "9709/71_Summer_2017_Q4",
+    "file": "questions/7716/44289/7716_a_44289_4_1.png"
+   },
+   {
+    "qid": 42895,
+    "paper_ref": "9709/71_Summer_2017_Q4",
+    "file": "questions/7716/44289/7716_a_44289_4_2.png"
+   },
+   {
+    "qid": 27054,
+    "paper_ref": "9709/73_Winter_2016_Q8",
+    "file": "questions/5861/28000/5861_q_28000_8_1.png"
+   },
+   {
+    "qid": 27054,
+    "paper_ref": "9709/73_Winter_2016_Q8",
+    "file": "questions/5861/28000/5861_a_28000_8_1.png"
+   },
+   {
+    "qid": 27045,
+    "paper_ref": "9709/72_Winter_2016_Q6",
+    "file": "questions/5860/27991/5860_q_27991_6_1.png"
+   },
+   {
+    "qid": 27045,
+    "paper_ref": "9709/72_Winter_2016_Q6",
+    "file": "questions/5860/27991/5860_a_27991_6_1.png"
+   },
+   {
+    "qid": 27038,
+    "paper_ref": "9709/71_Winter_2016_Q6",
+    "file": "questions/5859/27984/5859_q_27984_6_1.png"
+   },
+   {
+    "qid": 27038,
+    "paper_ref": "9709/71_Winter_2016_Q6",
+    "file": "questions/5859/27984/5859_a_27984_6_1.png"
+   },
+   {
+    "qid": 27030,
+    "paper_ref": "9709/73_Summer_2016_Q5",
+    "file": "questions/3983/27976/3983_q_27976_5_1.png"
+   },
+   {
+    "qid": 27030,
+    "paper_ref": "9709/73_Summer_2016_Q5",
+    "file": "questions/3983/27976/3983_a_27976_5_1.png"
+   },
+   {
+    "qid": 27030,
+    "paper_ref": "9709/73_Summer_2016_Q5",
+    "file": "questions/3983/27976/3983_a_27976_5_2.png"
+   },
+   {
+    "qid": 27025,
+    "paper_ref": "9709/72_Summer_2016_Q7",
+    "file": "questions/3982/27971/3982_q_27971_7_1.png"
+   },
+   {
+    "qid": 27025,
+    "paper_ref": "9709/72_Summer_2016_Q7",
+    "file": "questions/3982/27971/3982_a_27971_7_1.png"
+   },
+   {
+    "qid": 27025,
+    "paper_ref": "9709/72_Summer_2016_Q7",
+    "file": "questions/3982/27971/3982_a_27971_7_2.png"
+   },
+   {
+    "qid": 27017,
+    "paper_ref": "9709/71_Summer_2016_Q6",
+    "file": "questions/3980/27963/3980_q_27963_6_1.png"
+   },
+   {
+    "qid": 27017,
+    "paper_ref": "9709/71_Summer_2016_Q6",
+    "file": "questions/3980/27963/3980_a_27963_6_1.png"
+   },
+   {
+    "qid": 27017,
+    "paper_ref": "9709/71_Summer_2016_Q6",
+    "file": "questions/3980/27963/3980_a_27963_6_2.png"
+   },
+   {
+    "qid": 27008,
+    "paper_ref": "9709/73_Winter_2015_Q4",
+    "file": "questions/4038/27954/4038_q_27954_4_1.png"
+   },
+   {
+    "qid": 27008,
+    "paper_ref": "9709/73_Winter_2015_Q4",
+    "file": "questions/4038/27954/4038_a_27954_4_1.png"
+   },
+   {
+    "qid": 27001,
+    "paper_ref": "9709/72_Winter_2015_Q4",
+    "file": "questions/4036/27947/4036_q_27947_4_1.png"
+   },
+   {
+    "qid": 27001,
+    "paper_ref": "9709/72_Winter_2015_Q4",
+    "file": "questions/4036/27947/4036_a_27947_4_1.png"
+   },
+   {
+    "qid": 26994,
+    "paper_ref": "9709/71_Winter_2015_Q4",
+    "file": "questions/4034/27940/4034_q_27940_4_1.png"
+   },
+   {
+    "qid": 26994,
+    "paper_ref": "9709/71_Winter_2015_Q4",
+    "file": "questions/4034/27940/4034_a_27940_4_1.png"
+   },
+   {
+    "qid": 26990,
+    "paper_ref": "9709/73_Summer_2015_Q7",
+    "file": "questions/4040/27936/4040_q_27936_7_1.png"
+   },
+   {
+    "qid": 26990,
+    "paper_ref": "9709/73_Summer_2015_Q7",
+    "file": "questions/4040/27936/4040_a_27936_7_1.png"
+   },
+   {
+    "qid": 26990,
+    "paper_ref": "9709/73_Summer_2015_Q7",
+    "file": "questions/4040/27936/4040_a_27936_7_2.png"
+   },
+   {
+    "qid": 26982,
+    "paper_ref": "9709/72_Summer_2015_Q6",
+    "file": "questions/4037/27928/4037_q_27928_6_1.png"
+   },
+   {
+    "qid": 26982,
+    "paper_ref": "9709/72_Summer_2015_Q6",
+    "file": "questions/4037/27928/4037_a_27928_6_1.png"
+   },
+   {
+    "qid": 26970,
+    "paper_ref": "9709/71_Summer_2015_Q1",
+    "file": "questions/4035/27916/4035_q_27916_1_1.png"
+   },
+   {
+    "qid": 26970,
+    "paper_ref": "9709/71_Summer_2015_Q1",
+    "file": "questions/4035/27916/4035_a_27916_1_1.png"
+   },
+   {
+    "qid": 26965,
+    "paper_ref": "9709/73_Winter_2014_Q2",
+    "file": "questions/3420/27911/3420_q_27911_2_1.png"
+   },
+   {
+    "qid": 26965,
+    "paper_ref": "9709/73_Winter_2014_Q2",
+    "file": "questions/3420/27911/3420_a_27911_2_1.png"
+   },
+   {
+    "qid": 26960,
+    "paper_ref": "9709/72_Winter_2014_Q3",
+    "file": "questions/3419/27906/3419_q_27906_3_1.png"
+   },
+   {
+    "qid": 26960,
+    "paper_ref": "9709/72_Winter_2014_Q3",
+    "file": "questions/3419/27906/3419_a_27906_3_1.png"
+   },
+   {
+    "qid": 26954,
+    "paper_ref": "9709/71_Winter_2014_Q3",
+    "file": "questions/3418/27900/3418_q_27900_3_1.png"
+   },
+   {
+    "qid": 26954,
+    "paper_ref": "9709/71_Winter_2014_Q3",
+    "file": "questions/3418/27900/3418_a_27900_3_1.png"
+   },
+   {
+    "qid": 26932,
+    "paper_ref": "9709/73_Summer_2014_Q5",
+    "file": "questions/3403/27878/3403_q_27878_5_1.png"
+   },
+   {
+    "qid": 26932,
+    "paper_ref": "9709/73_Summer_2014_Q5",
+    "file": "questions/3403/27878/3403_a_27878_5_1.png"
+   },
+   {
+    "qid": 26926,
+    "paper_ref": "9709/73_Summer_2014_Q2",
+    "file": "questions/3403/27872/3403_q_27872_2_1.png"
+   },
+   {
+    "qid": 26926,
+    "paper_ref": "9709/73_Summer_2014_Q2",
+    "file": "questions/3403/27872/3403_a_27872_2_1.png"
+   },
+   {
+    "qid": 26913,
+    "paper_ref": "9709/72_Summer_2014_Q6",
+    "file": "questions/3402/27859/3402_q_27859_6_1.png"
+   },
+   {
+    "qid": 26913,
+    "paper_ref": "9709/72_Summer_2014_Q6",
+    "file": "questions/3402/27859/3402_a_27859_6_1.png"
+   },
+   {
+    "qid": 26886,
+    "paper_ref": "9709/71_Summer_2014_Q7",
+    "file": "questions/3401/27832/3401_q_27832_7_1.png"
+   },
+   {
+    "qid": 26886,
+    "paper_ref": "9709/71_Summer_2014_Q7",
+    "file": "questions/3401/27832/3401_a_27832_7_1.png"
+   },
+   {
+    "qid": 26856,
+    "paper_ref": "9709/73_Winter_2013_Q3",
+    "file": "questions/3417/27802/3417_q_27802_3_1.png"
+   },
+   {
+    "qid": 26856,
+    "paper_ref": "9709/73_Winter_2013_Q3",
+    "file": "questions/3417/27802/3417_a_27802_3_1.png"
+   },
+   {
+    "qid": 26843,
+    "paper_ref": "9709/72_Winter_2013_Q5",
+    "file": "questions/3416/27789/3416_q_27789_5_1.png"
+   },
+   {
+    "qid": 26843,
+    "paper_ref": "9709/72_Winter_2013_Q5",
+    "file": "questions/3416/27789/3416_a_27789_5_1.png"
+   },
+   {
+    "qid": 26816,
+    "paper_ref": "9709/71_Winter_2013_Q5",
+    "file": "questions/3415/27762/3415_q_27762_5_1.png"
+   },
+   {
+    "qid": 26816,
+    "paper_ref": "9709/71_Winter_2013_Q5",
+    "file": "questions/3415/27762/3415_a_27762_5_1.png"
+   },
+   {
+    "qid": 26799,
+    "paper_ref": "9709/73_Summer_2013_Q5",
+    "file": "questions/3399/27745/3399_q_27745_5_1.png"
+   },
+   {
+    "qid": 26799,
+    "paper_ref": "9709/73_Summer_2013_Q5",
+    "file": "questions/3399/27745/3399_a_27745_5_1.png"
+   },
+   {
+    "qid": 26780,
+    "paper_ref": "9709/72_Summer_2013_Q2",
+    "file": "questions/3398/27726/3398_q_27726_2_1.png"
+   },
+   {
+    "qid": 26780,
+    "paper_ref": "9709/72_Summer_2013_Q2",
+    "file": "questions/3398/27726/3398_a_27726_2_1.png"
+   },
+   {
+    "qid": 26763,
+    "paper_ref": "9709/71_Summer_2013_Q6",
+    "file": "questions/3397/27709/3397_q_27709_6_1.png"
+   },
+   {
+    "qid": 26763,
+    "paper_ref": "9709/71_Summer_2013_Q6",
+    "file": "questions/3397/27709/3397_a_27709_6_1.png"
+   },
+   {
+    "qid": 26748,
+    "paper_ref": "9709/73_Winter_2012_Q6",
+    "file": "questions/3414/27694/3414_q_27694_6_1.png"
+   },
+   {
+    "qid": 26748,
+    "paper_ref": "9709/73_Winter_2012_Q6",
+    "file": "questions/3414/27694/3414_a_27694_6_1.png"
+   },
+   {
+    "qid": 26719,
+    "paper_ref": "9709/72_Winter_2012_Q5",
+    "file": "questions/3413/27665/3413_q_27665_5_1.png"
+   },
+   {
+    "qid": 26719,
+    "paper_ref": "9709/72_Winter_2012_Q5",
+    "file": "questions/3413/27665/3413_a_27665_5_1.png"
+   },
+   {
+    "qid": 26713,
+    "paper_ref": "9709/72_Winter_2012_Q1",
+    "file": "questions/3413/27659/3413_q_27659_1_1.png"
+   },
+   {
+    "qid": 26713,
+    "paper_ref": "9709/72_Winter_2012_Q1",
+    "file": "questions/3413/27659/3413_a_27659_1_1.png"
+   },
+   {
+    "qid": 26692,
+    "paper_ref": "9709/71_Winter_2012_Q5",
+    "file": "questions/3412/27638/3412_q_27638_5_1.png"
+   },
+   {
+    "qid": 26692,
+    "paper_ref": "9709/71_Winter_2012_Q5",
+    "file": "questions/3412/27638/3412_a_27638_5_1.png"
+   },
+   {
+    "qid": 26684,
+    "paper_ref": "9709/71_Winter_2012_Q1",
+    "file": "questions/3412/27630/3412_q_27630_1_1.png"
+   },
+   {
+    "qid": 26684,
+    "paper_ref": "9709/71_Winter_2012_Q1",
+    "file": "questions/3412/27630/3412_a_27630_1_1.png"
+   },
+   {
+    "qid": 26671,
+    "paper_ref": "9709/73_Summer_2012_Q7",
+    "file": "questions/3396/27617/3396_q_27617_7_1.png"
+   },
+   {
+    "qid": 26671,
+    "paper_ref": "9709/73_Summer_2012_Q7",
+    "file": "questions/3396/27617/3396_a_27617_7_1.png"
+   },
+   {
+    "qid": 26635,
+    "paper_ref": "9709/72_Summer_2012_Q6",
+    "file": "questions/3395/27581/3395_q_27581_6_1.png"
+   },
+   {
+    "qid": 26635,
+    "paper_ref": "9709/72_Summer_2012_Q6",
+    "file": "questions/3395/27581/3395_a_27581_6_1.png"
+   },
+   {
+    "qid": 26604,
+    "paper_ref": "9709/71_Summer_2012_Q4",
+    "file": "questions/3394/27550/3394_q_27550_4_1.png"
+   },
+   {
+    "qid": 26604,
+    "paper_ref": "9709/71_Summer_2012_Q4",
+    "file": "questions/3394/27550/3394_a_27550_4_1.png"
+   }
+  ],
+  "Hypothesis Testing Using Binomial Distribution": [
+   {
+    "qid": 66470,
+    "paper_ref": "9709/73_Winter_2019_Q4",
+    "file": "questions/21722/68353/21722_q_68353_4_1.png"
+   },
+   {
+    "qid": 66470,
+    "paper_ref": "9709/73_Winter_2019_Q4",
+    "file": "questions/21722/68353/21722_a_68353_4_1.png"
+   },
+   {
+    "qid": 56606,
+    "paper_ref": "9709/73_Summer_2019_Q8",
+    "file": "questions/20881/58422/20881_q_58422_8_1.png"
+   },
+   {
+    "qid": 56606,
+    "paper_ref": "9709/73_Summer_2019_Q8",
+    "file": "questions/20881/58422/20881_q_58422_8_2.png"
+   },
+   {
+    "qid": 56606,
+    "paper_ref": "9709/73_Summer_2019_Q8",
+    "file": "questions/20881/58422/20881_a_58422_8_1.png"
+   },
+   {
+    "qid": 56600,
+    "paper_ref": "9709/73_Summer_2019_Q2",
+    "file": "questions/20881/58416/20881_q_58416_2_1.png"
+   },
+   {
+    "qid": 56600,
+    "paper_ref": "9709/73_Summer_2019_Q2",
+    "file": "questions/20881/58416/20881_a_58416_2_1.png"
+   },
+   {
+    "qid": 56599,
+    "paper_ref": "9709/73_Summer_2019_Q1",
+    "file": "questions/20881/58415/20881_q_58415_1_1.png"
+   },
+   {
+    "qid": 56599,
+    "paper_ref": "9709/73_Summer_2019_Q1",
+    "file": "questions/20881/58415/20881_a_58415_1_1.png"
+   },
+   {
+    "qid": 56598,
+    "paper_ref": "9709/72_Summer_2019_Q7",
+    "file": "questions/20880/58414/20880_q_58414_7_1.png"
+   },
+   {
+    "qid": 56598,
+    "paper_ref": "9709/72_Summer_2019_Q7",
+    "file": "questions/20880/58414/20880_q_58414_7_2.png"
+   },
+   {
+    "qid": 56598,
+    "paper_ref": "9709/72_Summer_2019_Q7",
+    "file": "questions/20880/58414/20880_a_58414_7_1.png"
+   },
+   {
+    "qid": 56598,
+    "paper_ref": "9709/72_Summer_2019_Q7",
+    "file": "questions/20880/58414/20880_a_58414_7_2.png"
+   },
+   {
+    "qid": 56596,
+    "paper_ref": "9709/72_Summer_2019_Q5",
+    "file": "questions/20880/58412/20880_q_58412_5_1.png"
+   },
+   {
+    "qid": 56596,
+    "paper_ref": "9709/72_Summer_2019_Q5",
+    "file": "questions/20880/58412/20880_q_58412_5_2.png"
+   },
+   {
+    "qid": 56596,
+    "paper_ref": "9709/72_Summer_2019_Q5",
+    "file": "questions/20880/58412/20880_a_58412_5_1.png"
+   },
+   {
+    "qid": 56596,
+    "paper_ref": "9709/72_Summer_2019_Q5",
+    "file": "questions/20880/58412/20880_a_58412_5_2.png"
+   },
+   {
+    "qid": 56588,
+    "paper_ref": "9709/71_Summer_2019_Q3",
+    "file": "questions/20879/58404/20879_q_58404_3_1.png"
+   },
+   {
+    "qid": 56588,
+    "paper_ref": "9709/71_Summer_2019_Q3",
+    "file": "questions/20879/58404/20879_q_58404_3_2.png"
+   },
+   {
+    "qid": 56588,
+    "paper_ref": "9709/71_Summer_2019_Q3",
+    "file": "questions/20879/58404/20879_a_58404_3_1.png"
+   },
+   {
+    "qid": 54042,
+    "paper_ref": "9709/73_Winter_2018_Q2",
+    "file": "questions/20206/55848/20206_q_55848_2_1.png"
+   },
+   {
+    "qid": 54042,
+    "paper_ref": "9709/73_Winter_2018_Q2",
+    "file": "questions/20206/55848/20206_q_55848_2_2.png"
+   },
+   {
+    "qid": 54042,
+    "paper_ref": "9709/73_Winter_2018_Q2",
+    "file": "questions/20206/55848/20206_a_55848_2_1.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_q_55845_6_1.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_q_55845_6_2.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_a_55845_6_1.png"
+   },
+   {
+    "qid": 54028,
+    "paper_ref": "9709/71_Winter_2018_Q2",
+    "file": "questions/20204/55834/20204_q_55834_2_1.png"
+   },
+   {
+    "qid": 54028,
+    "paper_ref": "9709/71_Winter_2018_Q2",
+    "file": "questions/20204/55834/20204_q_55834_2_2.png"
+   },
+   {
+    "qid": 54028,
+    "paper_ref": "9709/71_Winter_2018_Q2",
+    "file": "questions/20204/55834/20204_a_55834_2_1.png"
+   },
+   {
+    "qid": 51130,
+    "paper_ref": "9709/73_Summer_2018_Q3",
+    "file": "questions/17588/52898/17588_q_52898_3_1.png"
+   },
+   {
+    "qid": 51130,
+    "paper_ref": "9709/73_Summer_2018_Q3",
+    "file": "questions/17588/52898/17588_a_52898_3_1.png"
+   },
+   {
+    "qid": 51127,
+    "paper_ref": "9709/72_Summer_2018_Q7",
+    "file": "questions/17587/52895/17587_q_52895_7_1.png"
+   },
+   {
+    "qid": 51127,
+    "paper_ref": "9709/72_Summer_2018_Q7",
+    "file": "questions/17587/52895/17587_q_52895_7_2.png"
+   },
+   {
+    "qid": 51127,
+    "paper_ref": "9709/72_Summer_2018_Q7",
+    "file": "questions/17587/52895/17587_a_52895_7_1.png"
+   },
+   {
+    "qid": 51115,
+    "paper_ref": "9709/71_Summer_2018_Q2",
+    "file": "questions/17586/52883/17586_q_52883_2_1.png"
+   },
+   {
+    "qid": 51115,
+    "paper_ref": "9709/71_Summer_2018_Q2",
+    "file": "questions/17586/52883/17586_a_52883_2_1.png"
+   },
+   {
+    "qid": 42906,
+    "paper_ref": "9709/73_Summer_2017_Q2",
+    "file": "questions/7719/44300/7719_q_44300_2_1.png"
+   },
+   {
+    "qid": 42906,
+    "paper_ref": "9709/73_Summer_2017_Q2",
+    "file": "questions/7719/44300/7719_a_44300_2_1.png"
+   },
+   {
+    "qid": 42901,
+    "paper_ref": "9709/72_Summer_2017_Q4",
+    "file": "questions/7718/44295/7718_q_44295_4_1.png"
+   },
+   {
+    "qid": 42901,
+    "paper_ref": "9709/72_Summer_2017_Q4",
+    "file": "questions/7718/44295/7718_a_44295_4_1.png"
+   },
+   {
+    "qid": 42898,
+    "paper_ref": "9709/72_Summer_2017_Q1",
+    "file": "questions/7718/44292/7718_q_44292_1_1.png"
+   },
+   {
+    "qid": 42898,
+    "paper_ref": "9709/72_Summer_2017_Q1",
+    "file": "questions/7718/44292/7718_a_44292_1_1.png"
+   },
+   {
+    "qid": 27051,
+    "paper_ref": "9709/73_Winter_2016_Q5",
+    "file": "questions/5861/27997/5861_q_27997_5_1.png"
+   },
+   {
+    "qid": 27051,
+    "paper_ref": "9709/73_Winter_2016_Q5",
+    "file": "questions/5861/27997/5861_a_27997_5_1.png"
+   },
+   {
+    "qid": 27044,
+    "paper_ref": "9709/72_Winter_2016_Q5",
+    "file": "questions/5860/27990/5860_q_27990_5_1.png"
+   },
+   {
+    "qid": 27044,
+    "paper_ref": "9709/72_Winter_2016_Q5",
+    "file": "questions/5860/27990/5860_a_27990_5_1.png"
+   },
+   {
+    "qid": 27044,
+    "paper_ref": "9709/72_Winter_2016_Q5",
+    "file": "questions/5860/27990/5860_a_27990_5_2.png"
+   },
+   {
+    "qid": 27041,
+    "paper_ref": "9709/72_Winter_2016_Q2",
+    "file": "questions/5860/27987/5860_q_27987_2_1.png"
+   },
+   {
+    "qid": 27041,
+    "paper_ref": "9709/72_Winter_2016_Q2",
+    "file": "questions/5860/27987/5860_a_27987_2_1.png"
+   },
+   {
+    "qid": 27037,
+    "paper_ref": "9709/71_Winter_2016_Q5",
+    "file": "questions/5859/27983/5859_q_27983_5_1.png"
+   },
+   {
+    "qid": 27037,
+    "paper_ref": "9709/71_Winter_2016_Q5",
+    "file": "questions/5859/27983/5859_a_27983_5_1.png"
+   },
+   {
+    "qid": 27037,
+    "paper_ref": "9709/71_Winter_2016_Q5",
+    "file": "questions/5859/27983/5859_a_27983_5_2.png"
+   },
+   {
+    "qid": 27034,
+    "paper_ref": "9709/71_Winter_2016_Q2",
+    "file": "questions/5859/27980/5859_q_27980_2_1.png"
+   },
+   {
+    "qid": 27034,
+    "paper_ref": "9709/71_Winter_2016_Q2",
+    "file": "questions/5859/27980/5859_a_27980_2_1.png"
+   },
+   {
+    "qid": 27020,
+    "paper_ref": "9709/72_Summer_2016_Q2",
+    "file": "questions/3982/27966/3982_q_27966_2_1.png"
+   },
+   {
+    "qid": 27020,
+    "paper_ref": "9709/72_Summer_2016_Q2",
+    "file": "questions/3982/27966/3982_a_27966_2_1.png"
+   },
+   {
+    "qid": 27012,
+    "paper_ref": "9709/71_Summer_2016_Q1",
+    "file": "questions/3980/27958/3980_q_27958_1_1.png"
+   },
+   {
+    "qid": 27012,
+    "paper_ref": "9709/71_Summer_2016_Q1",
+    "file": "questions/3980/27958/3980_a_27958_1_1.png"
+   },
+   {
+    "qid": 27009,
+    "paper_ref": "9709/73_Winter_2015_Q5",
+    "file": "questions/4038/27955/4038_q_27955_5_1.png"
+   },
+   {
+    "qid": 27009,
+    "paper_ref": "9709/73_Winter_2015_Q5",
+    "file": "questions/4038/27955/4038_a_27955_5_1.png"
+   },
+   {
+    "qid": 27007,
+    "paper_ref": "9709/73_Winter_2015_Q3",
+    "file": "questions/4038/27953/4038_q_27953_3_1.png"
+   },
+   {
+    "qid": 27007,
+    "paper_ref": "9709/73_Winter_2015_Q3",
+    "file": "questions/4038/27953/4038_a_27953_3_1.png"
+   },
+   {
+    "qid": 27004,
+    "paper_ref": "9709/72_Winter_2015_Q7",
+    "file": "questions/4036/27950/4036_q_27950_7_1.png"
+   },
+   {
+    "qid": 27004,
+    "paper_ref": "9709/72_Winter_2015_Q7",
+    "file": "questions/4036/27950/4036_a_27950_7_1.png"
+   },
+   {
+    "qid": 26997,
+    "paper_ref": "9709/71_Winter_2015_Q7",
+    "file": "questions/4034/27943/4034_q_27943_7_1.png"
+   },
+   {
+    "qid": 26997,
+    "paper_ref": "9709/71_Winter_2015_Q7",
+    "file": "questions/4034/27943/4034_a_27943_7_1.png"
+   },
+   {
+    "qid": 26986,
+    "paper_ref": "9709/73_Summer_2015_Q3",
+    "file": "questions/4040/27932/4040_q_27932_3_1.png"
+   },
+   {
+    "qid": 26986,
+    "paper_ref": "9709/73_Summer_2015_Q3",
+    "file": "questions/4040/27932/4040_a_27932_3_1.png"
+   },
+   {
+    "qid": 26985,
+    "paper_ref": "9709/73_Summer_2015_Q2",
+    "file": "questions/4040/27931/4040_q_27931_2_1.png"
+   },
+   {
+    "qid": 26985,
+    "paper_ref": "9709/73_Summer_2015_Q2",
+    "file": "questions/4040/27931/4040_a_27931_2_1.png"
+   },
+   {
+    "qid": 26971,
+    "paper_ref": "9709/71_Summer_2015_Q2",
+    "file": "questions/4035/27917/4035_q_27917_2_1.png"
+   },
+   {
+    "qid": 26971,
+    "paper_ref": "9709/71_Summer_2015_Q2",
+    "file": "questions/4035/27917/4035_a_27917_2_1.png"
+   },
+   {
+    "qid": 26968,
+    "paper_ref": "9709/73_Winter_2014_Q5",
+    "file": "questions/3420/27914/3420_q_27914_5_1.png"
+   },
+   {
+    "qid": 26968,
+    "paper_ref": "9709/73_Winter_2014_Q5",
+    "file": "questions/3420/27914/3420_a_27914_5_1.png"
+   },
+   {
+    "qid": 26934,
+    "paper_ref": "9709/73_Summer_2014_Q6",
+    "file": "questions/3403/27880/3403_q_27880_6_1.png"
+   },
+   {
+    "qid": 26934,
+    "paper_ref": "9709/73_Summer_2014_Q6",
+    "file": "questions/3403/27880/3403_a_27880_6_1.png"
+   },
+   {
+    "qid": 26927,
+    "paper_ref": "9709/73_Summer_2014_Q3",
+    "file": "questions/3403/27873/3403_q_27873_3_1.png"
+   },
+   {
+    "qid": 26927,
+    "paper_ref": "9709/73_Summer_2014_Q3",
+    "file": "questions/3403/27873/3403_a_27873_3_1.png"
+   },
+   {
+    "qid": 26912,
+    "paper_ref": "9709/72_Summer_2014_Q5",
+    "file": "questions/3402/27858/3402_q_27858_5_1.png"
+   },
+   {
+    "qid": 26912,
+    "paper_ref": "9709/72_Summer_2014_Q5",
+    "file": "questions/3402/27858/3402_a_27858_5_1.png"
+   },
+   {
+    "qid": 26885,
+    "paper_ref": "9709/71_Summer_2014_Q6",
+    "file": "questions/3401/27831/3401_q_27831_6_1.png"
+   },
+   {
+    "qid": 26885,
+    "paper_ref": "9709/71_Summer_2014_Q6",
+    "file": "questions/3401/27831/3401_a_27831_6_1.png"
+   },
+   {
+    "qid": 26844,
+    "paper_ref": "9709/72_Winter_2013_Q6",
+    "file": "questions/3416/27790/3416_q_27790_6_1.png"
+   },
+   {
+    "qid": 26844,
+    "paper_ref": "9709/72_Winter_2013_Q6",
+    "file": "questions/3416/27790/3416_a_27790_6_1.png"
+   },
+   {
+    "qid": 26817,
+    "paper_ref": "9709/71_Winter_2013_Q6",
+    "file": "questions/3415/27763/3415_q_27763_6_1.png"
+   },
+   {
+    "qid": 26817,
+    "paper_ref": "9709/71_Winter_2013_Q6",
+    "file": "questions/3415/27763/3415_a_27763_6_1.png"
+   },
+   {
+    "qid": 26795,
+    "paper_ref": "9709/73_Summer_2013_Q2",
+    "file": "questions/3399/27741/3399_q_27741_2_1.png"
+   },
+   {
+    "qid": 26795,
+    "paper_ref": "9709/73_Summer_2013_Q2",
+    "file": "questions/3399/27741/3399_a_27741_2_1.png"
+   },
+   {
+    "qid": 26764,
+    "paper_ref": "9709/71_Summer_2013_Q7",
+    "file": "questions/3397/27710/3397_q_27710_7_1.png"
+   },
+   {
+    "qid": 26764,
+    "paper_ref": "9709/71_Summer_2013_Q7",
+    "file": "questions/3397/27710/3397_a_27710_7_1.png"
+   },
+   {
+    "qid": 26745,
+    "paper_ref": "9709/73_Winter_2012_Q3",
+    "file": "questions/3414/27691/3414_q_27691_3_1.png"
+   },
+   {
+    "qid": 26745,
+    "paper_ref": "9709/73_Winter_2012_Q3",
+    "file": "questions/3414/27691/3414_a_27691_3_1.png"
+   },
+   {
+    "qid": 26720,
+    "paper_ref": "9709/72_Winter_2012_Q6",
+    "file": "questions/3413/27666/3413_q_27666_6_1.png"
+   },
+   {
+    "qid": 26720,
+    "paper_ref": "9709/72_Winter_2012_Q6",
+    "file": "questions/3413/27666/3413_a_27666_6_1.png"
+   },
+   {
+    "qid": 26718,
+    "paper_ref": "9709/72_Winter_2012_Q4",
+    "file": "questions/3413/27664/3413_q_27664_4_1.png"
+   },
+   {
+    "qid": 26718,
+    "paper_ref": "9709/72_Winter_2012_Q4",
+    "file": "questions/3413/27664/3413_a_27664_4_1.png"
+   },
+   {
+    "qid": 26693,
+    "paper_ref": "9709/71_Winter_2012_Q6",
+    "file": "questions/3412/27639/3412_q_27639_6_1.png"
+   },
+   {
+    "qid": 26693,
+    "paper_ref": "9709/71_Winter_2012_Q6",
+    "file": "questions/3412/27639/3412_a_27639_6_1.png"
+   },
+   {
+    "qid": 26690,
+    "paper_ref": "9709/71_Winter_2012_Q4",
+    "file": "questions/3412/27636/3412_q_27636_4_1.png"
+   },
+   {
+    "qid": 26690,
+    "paper_ref": "9709/71_Winter_2012_Q4",
+    "file": "questions/3412/27636/3412_a_27636_4_1.png"
+   },
+   {
+    "qid": 26664,
+    "paper_ref": "9709/73_Summer_2012_Q5",
+    "file": "questions/3396/27610/3396_q_27610_5_1.png"
+   },
+   {
+    "qid": 26664,
+    "paper_ref": "9709/73_Summer_2012_Q5",
+    "file": "questions/3396/27610/3396_a_27610_5_1.png"
+   },
+   {
+    "qid": 26630,
+    "paper_ref": "9709/72_Summer_2012_Q3",
+    "file": "questions/3395/27576/3395_q_27576_3_1.png"
+   },
+   {
+    "qid": 26630,
+    "paper_ref": "9709/72_Summer_2012_Q3",
+    "file": "questions/3395/27576/3395_a_27576_3_1.png"
+   },
+   {
+    "qid": 26603,
+    "paper_ref": "9709/71_Summer_2012_Q3",
+    "file": "questions/3394/27549/3394_q_27549_3_1.png"
+   },
+   {
+    "qid": 26603,
+    "paper_ref": "9709/71_Summer_2012_Q3",
+    "file": "questions/3394/27549/3394_a_27549_3_1.png"
+   }
+  ],
+  "Hypothesis Testing Using Normal Distribution": [
+   {
+    "qid": 66473,
+    "paper_ref": "9709/73_Winter_2019_Q7",
+    "file": "questions/21722/68356/21722_q_68356_7_1.png"
+   },
+   {
+    "qid": 66473,
+    "paper_ref": "9709/73_Winter_2019_Q7",
+    "file": "questions/21722/68356/21722_q_68356_7_2.png"
+   },
+   {
+    "qid": 66473,
+    "paper_ref": "9709/73_Winter_2019_Q7",
+    "file": "questions/21722/68356/21722_a_68356_7_1.png"
+   },
+   {
+    "qid": 66469,
+    "paper_ref": "9709/73_Winter_2019_Q3",
+    "file": "questions/21722/68352/21722_q_68352_3_1.png"
+   },
+   {
+    "qid": 66469,
+    "paper_ref": "9709/73_Winter_2019_Q3",
+    "file": "questions/21722/68352/21722_q_68352_3_2.png"
+   },
+   {
+    "qid": 66469,
+    "paper_ref": "9709/73_Winter_2019_Q3",
+    "file": "questions/21722/68352/21722_a_68352_3_1.png"
+   },
+   {
+    "qid": 66463,
+    "paper_ref": "9709/72_Winter_2019_Q3",
+    "file": "questions/21721/68346/21721_q_68346_3_1.png"
+   },
+   {
+    "qid": 66463,
+    "paper_ref": "9709/72_Winter_2019_Q3",
+    "file": "questions/21721/68346/21721_q_68346_3_2.png"
+   },
+   {
+    "qid": 66463,
+    "paper_ref": "9709/72_Winter_2019_Q3",
+    "file": "questions/21721/68346/21721_a_68346_3_1.png"
+   },
+   {
+    "qid": 66462,
+    "paper_ref": "9709/72_Winter_2019_Q2",
+    "file": "questions/21721/68345/21721_q_68345_2_1.png"
+   },
+   {
+    "qid": 66462,
+    "paper_ref": "9709/72_Winter_2019_Q2",
+    "file": "questions/21721/68345/21721_q_68345_2_2.png"
+   },
+   {
+    "qid": 66462,
+    "paper_ref": "9709/72_Winter_2019_Q2",
+    "file": "questions/21721/68345/21721_a_68345_2_1.png"
+   },
+   {
+    "qid": 56603,
+    "paper_ref": "9709/73_Summer_2019_Q5",
+    "file": "questions/20881/58419/20881_q_58419_5_1.png"
+   },
+   {
+    "qid": 56603,
+    "paper_ref": "9709/73_Summer_2019_Q5",
+    "file": "questions/20881/58419/20881_a_58419_5_1.png"
+   },
+   {
+    "qid": 56600,
+    "paper_ref": "9709/73_Summer_2019_Q2",
+    "file": "questions/20881/58416/20881_q_58416_2_1.png"
+   },
+   {
+    "qid": 56600,
+    "paper_ref": "9709/73_Summer_2019_Q2",
+    "file": "questions/20881/58416/20881_a_58416_2_1.png"
+   },
+   {
+    "qid": 56594,
+    "paper_ref": "9709/72_Summer_2019_Q3",
+    "file": "questions/20880/58410/20880_q_58410_3_1.png"
+   },
+   {
+    "qid": 56594,
+    "paper_ref": "9709/72_Summer_2019_Q3",
+    "file": "questions/20880/58410/20880_q_58410_3_2.png"
+   },
+   {
+    "qid": 56594,
+    "paper_ref": "9709/72_Summer_2019_Q3",
+    "file": "questions/20880/58410/20880_a_58410_3_1.png"
+   },
+   {
+    "qid": 56591,
+    "paper_ref": "9709/71_Summer_2019_Q6",
+    "file": "questions/20879/58407/20879_q_58407_6_1.png"
+   },
+   {
+    "qid": 56591,
+    "paper_ref": "9709/71_Summer_2019_Q6",
+    "file": "questions/20879/58407/20879_q_58407_6_2.png"
+   },
+   {
+    "qid": 56591,
+    "paper_ref": "9709/71_Summer_2019_Q6",
+    "file": "questions/20879/58407/20879_a_58407_6_1.png"
+   },
+   {
+    "qid": 56587,
+    "paper_ref": "9709/71_Summer_2019_Q2",
+    "file": "questions/20879/58403/20879_q_58403_2_1.png"
+   },
+   {
+    "qid": 56587,
+    "paper_ref": "9709/71_Summer_2019_Q2",
+    "file": "questions/20879/58403/20879_a_58403_2_1.png"
+   },
+   {
+    "qid": 56587,
+    "paper_ref": "9709/71_Summer_2019_Q2",
+    "file": "questions/20879/58403/20879_a_58403_2_2.png"
+   },
+   {
+    "qid": 54047,
+    "paper_ref": "9709/73_Winter_2018_Q7",
+    "file": "questions/20206/55853/20206_q_55853_7_1.png"
+   },
+   {
+    "qid": 54047,
+    "paper_ref": "9709/73_Winter_2018_Q7",
+    "file": "questions/20206/55853/20206_q_55853_7_2.png"
+   },
+   {
+    "qid": 54047,
+    "paper_ref": "9709/73_Winter_2018_Q7",
+    "file": "questions/20206/55853/20206_a_55853_7_1.png"
+   },
+   {
+    "qid": 54043,
+    "paper_ref": "9709/73_Winter_2018_Q3",
+    "file": "questions/20206/55849/20206_q_55849_3_1.png"
+   },
+   {
+    "qid": 54043,
+    "paper_ref": "9709/73_Winter_2018_Q3",
+    "file": "questions/20206/55849/20206_a_55849_3_1.png"
+   },
+   {
+    "qid": 54041,
+    "paper_ref": "9709/73_Winter_2018_Q1",
+    "file": "questions/20206/55847/20206_q_55847_1_1.png"
+   },
+   {
+    "qid": 54041,
+    "paper_ref": "9709/73_Winter_2018_Q1",
+    "file": "questions/20206/55847/20206_a_55847_1_1.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_q_55845_6_1.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_q_55845_6_2.png"
+   },
+   {
+    "qid": 54039,
+    "paper_ref": "9709/72_Winter_2018_Q6",
+    "file": "questions/20205/55845/20205_a_55845_6_1.png"
+   },
+   {
+    "qid": 54038,
+    "paper_ref": "9709/72_Winter_2018_Q5",
+    "file": "questions/20205/55844/20205_q_55844_5_1.png"
+   },
+   {
+    "qid": 54038,
+    "paper_ref": "9709/72_Winter_2018_Q5",
+    "file": "questions/20205/55844/20205_q_55844_5_2.png"
+   },
+   {
+    "qid": 54038,
+    "paper_ref": "9709/72_Winter_2018_Q5",
+    "file": "questions/20205/55844/20205_a_55844_5_1.png"
+   },
+   {
+    "qid": 54038,
+    "paper_ref": "9709/72_Winter_2018_Q5",
+    "file": "questions/20205/55844/20205_a_55844_5_2.png"
+   },
+   {
+    "qid": 54035,
+    "paper_ref": "9709/72_Winter_2018_Q2",
+    "file": "questions/20205/55841/20205_q_55841_2_1.png"
+   },
+   {
+    "qid": 54035,
+    "paper_ref": "9709/72_Winter_2018_Q2",
+    "file": "questions/20205/55841/20205_a_55841_2_1.png"
+   },
+   {
+    "qid": 54033,
+    "paper_ref": "9709/71_Winter_2018_Q7",
+    "file": "questions/20204/55839/20204_q_55839_7_1.png"
+   },
+   {
+    "qid": 54033,
+    "paper_ref": "9709/71_Winter_2018_Q7",
+    "file": "questions/20204/55839/20204_q_55839_7_2.png"
+   },
+   {
+    "qid": 54033,
+    "paper_ref": "9709/71_Winter_2018_Q7",
+    "file": "questions/20204/55839/20204_a_55839_7_1.png"
+   },
+   {
+    "qid": 54029,
+    "paper_ref": "9709/71_Winter_2018_Q3",
+    "file": "questions/20204/55835/20204_q_55835_3_1.png"
+   },
+   {
+    "qid": 54029,
+    "paper_ref": "9709/71_Winter_2018_Q3",
+    "file": "questions/20204/55835/20204_a_55835_3_1.png"
+   },
+   {
+    "qid": 54027,
+    "paper_ref": "9709/71_Winter_2018_Q1",
+    "file": "questions/20204/55833/20204_q_55833_1_1.png"
+   },
+   {
+    "qid": 54027,
+    "paper_ref": "9709/71_Winter_2018_Q1",
+    "file": "questions/20204/55833/20204_a_55833_1_1.png"
+   },
+   {
+    "qid": 51132,
+    "paper_ref": "9709/73_Summer_2018_Q5",
+    "file": "questions/17588/52900/17588_q_52900_5_1.png"
+   },
+   {
+    "qid": 51132,
+    "paper_ref": "9709/73_Summer_2018_Q5",
+    "file": "questions/17588/52900/17588_q_52900_5_2.png"
+   },
+   {
+    "qid": 51132,
+    "paper_ref": "9709/73_Summer_2018_Q5",
+    "file": "questions/17588/52900/17588_a_52900_5_1.png"
+   },
+   {
+    "qid": 51130,
+    "paper_ref": "9709/73_Summer_2018_Q3",
+    "file": "questions/17588/52898/17588_q_52898_3_1.png"
+   },
+   {
+    "qid": 51130,
+    "paper_ref": "9709/73_Summer_2018_Q3",
+    "file": "questions/17588/52898/17588_a_52898_3_1.png"
+   },
+   {
+    "qid": 51129,
+    "paper_ref": "9709/73_Summer_2018_Q2",
+    "file": "questions/17588/52897/17588_q_52897_2_1.png"
+   },
+   {
+    "qid": 51129,
+    "paper_ref": "9709/73_Summer_2018_Q2",
+    "file": "questions/17588/52897/17588_a_52897_2_1.png"
+   },
+   {
+    "qid": 51129,
+    "paper_ref": "9709/73_Summer_2018_Q2",
+    "file": "questions/17588/52897/17588_a_52897_2_2.png"
+   },
+   {
+    "qid": 51124,
+    "paper_ref": "9709/72_Summer_2018_Q4",
+    "file": "questions/17587/52892/17587_q_52892_4_1.png"
+   },
+   {
+    "qid": 51124,
+    "paper_ref": "9709/72_Summer_2018_Q4",
+    "file": "questions/17587/52892/17587_q_52892_4_2.png"
+   },
+   {
+    "qid": 51124,
+    "paper_ref": "9709/72_Summer_2018_Q4",
+    "file": "questions/17587/52892/17587_a_52892_4_1.png"
+   },
+   {
+    "qid": 51124,
+    "paper_ref": "9709/72_Summer_2018_Q4",
+    "file": "questions/17587/52892/17587_a_52892_4_2.png"
+   },
+   {
+    "qid": 51123,
+    "paper_ref": "9709/72_Summer_2018_Q3",
+    "file": "questions/17587/52891/17587_q_52891_3_1.png"
+   },
+   {
+    "qid": 51123,
+    "paper_ref": "9709/72_Summer_2018_Q3",
+    "file": "questions/17587/52891/17587_a_52891_3_1.png"
+   },
+   {
+    "qid": 51123,
+    "paper_ref": "9709/72_Summer_2018_Q3",
+    "file": "questions/17587/52891/17587_a_52891_3_2.png"
+   },
+   {
+    "qid": 51118,
+    "paper_ref": "9709/71_Summer_2018_Q5",
+    "file": "questions/17586/52886/17586_q_52886_5_1.png"
+   },
+   {
+    "qid": 51118,
+    "paper_ref": "9709/71_Summer_2018_Q5",
+    "file": "questions/17586/52886/17586_q_52886_5_2.png"
+   },
+   {
+    "qid": 51118,
+    "paper_ref": "9709/71_Summer_2018_Q5",
+    "file": "questions/17586/52886/17586_a_52886_5_1.png"
+   },
+   {
+    "qid": 51115,
+    "paper_ref": "9709/71_Summer_2018_Q2",
+    "file": "questions/17586/52883/17586_q_52883_2_1.png"
+   },
+   {
+    "qid": 51115,
+    "paper_ref": "9709/71_Summer_2018_Q2",
+    "file": "questions/17586/52883/17586_a_52883_2_1.png"
+   },
+   {
+    "qid": 51114,
+    "paper_ref": "9709/71_Summer_2018_Q1",
+    "file": "questions/17586/52882/17586_q_52882_1_1.png"
+   },
+   {
+    "qid": 51114,
+    "paper_ref": "9709/71_Summer_2018_Q1",
+    "file": "questions/17586/52882/17586_a_52882_1_1.png"
+   },
+   {
+    "qid": 47648,
+    "paper_ref": "9709/73_Winter_2017_Q8",
+    "file": "questions/14310/49357/14310_q_49357_8_1.png"
+   },
+   {
+    "qid": 47648,
+    "paper_ref": "9709/73_Winter_2017_Q8",
+    "file": "questions/14310/49357/14310_q_49357_8_2.png"
+   },
+   {
+    "qid": 47648,
+    "paper_ref": "9709/73_Winter_2017_Q8",
+    "file": "questions/14310/49357/14310_a_49357_8_1.png"
+   },
+   {
+    "qid": 47648,
+    "paper_ref": "9709/73_Winter_2017_Q8",
+    "file": "questions/14310/49357/14310_a_49357_8_2.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_q_49356_7_1.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_q_49356_7_2.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_a_49356_7_1.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_a_49356_7_2.png"
+   },
+   {
+    "qid": 47644,
+    "paper_ref": "9709/73_Winter_2017_Q4",
+    "file": "questions/14310/49353/14310_q_49353_4_1.png"
+   },
+   {
+    "qid": 47644,
+    "paper_ref": "9709/73_Winter_2017_Q4",
+    "file": "questions/14310/49353/14310_a_49353_4_1.png"
+   },
+   {
+    "qid": 47643,
+    "paper_ref": "9709/73_Winter_2017_Q3",
+    "file": "questions/14310/49352/14310_q_49352_3_1.png"
+   },
+   {
+    "qid": 47643,
+    "paper_ref": "9709/73_Winter_2017_Q3",
+    "file": "questions/14310/49352/14310_a_49352_3_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_q_49349_6_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_q_49349_6_2.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_a_49349_6_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_a_49349_6_2.png"
+   },
+   {
+    "qid": 47637,
+    "paper_ref": "9709/72_Winter_2017_Q3",
+    "file": "questions/14309/49346/14309_q_49346_3_1.png"
+   },
+   {
+    "qid": 47637,
+    "paper_ref": "9709/72_Winter_2017_Q3",
+    "file": "questions/14309/49346/14309_q_49346_3_2.png"
+   },
+   {
+    "qid": 47637,
+    "paper_ref": "9709/72_Winter_2017_Q3",
+    "file": "questions/14309/49346/14309_a_49346_3_1.png"
+   },
+   {
+    "qid": 47637,
+    "paper_ref": "9709/72_Winter_2017_Q3",
+    "file": "questions/14309/49346/14309_a_49346_3_2.png"
+   },
+   {
+    "qid": 47636,
+    "paper_ref": "9709/72_Winter_2017_Q2",
+    "file": "questions/14309/49345/14309_q_49345_2_1.png"
+   },
+   {
+    "qid": 47636,
+    "paper_ref": "9709/72_Winter_2017_Q2",
+    "file": "questions/14309/49345/14309_a_49345_2_1.png"
+   },
+   {
+    "qid": 47636,
+    "paper_ref": "9709/72_Winter_2017_Q2",
+    "file": "questions/14309/49345/14309_a_49345_2_2.png"
+   },
+   {
+    "qid": 47634,
+    "paper_ref": "9709/71_Winter_2017_Q8",
+    "file": "questions/14308/49343/14308_q_49343_8_1.png"
+   },
+   {
+    "qid": 47634,
+    "paper_ref": "9709/71_Winter_2017_Q8",
+    "file": "questions/14308/49343/14308_q_49343_8_2.png"
+   },
+   {
+    "qid": 47634,
+    "paper_ref": "9709/71_Winter_2017_Q8",
+    "file": "questions/14308/49343/14308_a_49343_8_1.png"
+   },
+   {
+    "qid": 47634,
+    "paper_ref": "9709/71_Winter_2017_Q8",
+    "file": "questions/14308/49343/14308_a_49343_8_2.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_q_49342_7_1.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_q_49342_7_2.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_a_49342_7_1.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_a_49342_7_2.png"
+   },
+   {
+    "qid": 47630,
+    "paper_ref": "9709/71_Winter_2017_Q4",
+    "file": "questions/14308/49339/14308_q_49339_4_1.png"
+   },
+   {
+    "qid": 47630,
+    "paper_ref": "9709/71_Winter_2017_Q4",
+    "file": "questions/14308/49339/14308_a_49339_4_1.png"
+   },
+   {
+    "qid": 47629,
+    "paper_ref": "9709/71_Winter_2017_Q3",
+    "file": "questions/14308/49338/14308_q_49338_3_1.png"
+   },
+   {
+    "qid": 47629,
+    "paper_ref": "9709/71_Winter_2017_Q3",
+    "file": "questions/14308/49338/14308_a_49338_3_1.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_q_44305_7_1.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_q_44305_7_2.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_a_44305_7_1.png"
+   },
+   {
+    "qid": 42908,
+    "paper_ref": "9709/73_Summer_2017_Q4",
+    "file": "questions/7719/44302/7719_q_44302_4_1.png"
+   },
+   {
+    "qid": 42908,
+    "paper_ref": "9709/73_Summer_2017_Q4",
+    "file": "questions/7719/44302/7719_a_44302_4_1.png"
+   },
+   {
+    "qid": 42906,
+    "paper_ref": "9709/73_Summer_2017_Q2",
+    "file": "questions/7719/44300/7719_q_44300_2_1.png"
+   },
+   {
+    "qid": 42906,
+    "paper_ref": "9709/73_Summer_2017_Q2",
+    "file": "questions/7719/44300/7719_a_44300_2_1.png"
+   },
+   {
+    "qid": 42900,
+    "paper_ref": "9709/72_Summer_2017_Q3",
+    "file": "questions/7718/44294/7718_q_44294_3_1.png"
+   },
+   {
+    "qid": 42900,
+    "paper_ref": "9709/72_Summer_2017_Q3",
+    "file": "questions/7718/44294/7718_a_44294_3_1.png"
+   },
+   {
+    "qid": 42898,
+    "paper_ref": "9709/72_Summer_2017_Q1",
+    "file": "questions/7718/44292/7718_q_44292_1_1.png"
+   },
+   {
+    "qid": 42898,
+    "paper_ref": "9709/72_Summer_2017_Q1",
+    "file": "questions/7718/44292/7718_a_44292_1_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_q_44291_6_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_q_44291_6_2.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_a_44291_6_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_a_44291_6_2.png"
+   },
+   {
+    "qid": 42894,
+    "paper_ref": "9709/71_Summer_2017_Q3",
+    "file": "questions/7716/44288/7716_q_44288_3_1.png"
+   },
+   {
+    "qid": 42894,
+    "paper_ref": "9709/71_Summer_2017_Q3",
+    "file": "questions/7716/44288/7716_q_44288_3_2.png"
+   },
+   {
+    "qid": 42894,
+    "paper_ref": "9709/71_Summer_2017_Q3",
+    "file": "questions/7716/44288/7716_a_44288_3_1.png"
+   },
+   {
+    "qid": 42893,
+    "paper_ref": "9709/71_Summer_2017_Q2",
+    "file": "questions/7716/44287/7716_q_44287_2_1.png"
+   },
+   {
+    "qid": 42893,
+    "paper_ref": "9709/71_Summer_2017_Q2",
+    "file": "questions/7716/44287/7716_a_44287_2_1.png"
+   },
+   {
+    "qid": 27052,
+    "paper_ref": "9709/73_Winter_2016_Q6",
+    "file": "questions/5861/27998/5861_q_27998_6_1.png"
+   },
+   {
+    "qid": 27052,
+    "paper_ref": "9709/73_Winter_2016_Q6",
+    "file": "questions/5861/27998/5861_a_27998_6_1.png"
+   },
+   {
+    "qid": 27050,
+    "paper_ref": "9709/73_Winter_2016_Q4",
+    "file": "questions/5861/27996/5861_q_27996_4_1.png"
+   },
+   {
+    "qid": 27050,
+    "paper_ref": "9709/73_Winter_2016_Q4",
+    "file": "questions/5861/27996/5861_a_27996_4_1.png"
+   },
+   {
+    "qid": 27046,
+    "paper_ref": "9709/72_Winter_2016_Q7",
+    "file": "questions/5860/27992/5860_q_27992_7_1.png"
+   },
+   {
+    "qid": 27046,
+    "paper_ref": "9709/72_Winter_2016_Q7",
+    "file": "questions/5860/27992/5860_a_27992_7_1.png"
+   },
+   {
+    "qid": 27040,
+    "paper_ref": "9709/72_Winter_2016_Q1",
+    "file": "questions/5860/27986/5860_q_27986_1_1.png"
+   },
+   {
+    "qid": 27040,
+    "paper_ref": "9709/72_Winter_2016_Q1",
+    "file": "questions/5860/27986/5860_a_27986_1_1.png"
+   },
+   {
+    "qid": 27039,
+    "paper_ref": "9709/71_Winter_2016_Q7",
+    "file": "questions/5859/27985/5859_q_27985_7_1.png"
+   },
+   {
+    "qid": 27039,
+    "paper_ref": "9709/71_Winter_2016_Q7",
+    "file": "questions/5859/27985/5859_a_27985_7_1.png"
+   },
+   {
+    "qid": 27033,
+    "paper_ref": "9709/71_Winter_2016_Q1",
+    "file": "questions/5859/27979/5859_q_27979_1_1.png"
+   },
+   {
+    "qid": 27033,
+    "paper_ref": "9709/71_Winter_2016_Q1",
+    "file": "questions/5859/27979/5859_a_27979_1_1.png"
+   },
+   {
+    "qid": 27029,
+    "paper_ref": "9709/73_Summer_2016_Q4",
+    "file": "questions/3983/27975/3983_q_27975_4_1.png"
+   },
+   {
+    "qid": 27029,
+    "paper_ref": "9709/73_Summer_2016_Q4",
+    "file": "questions/3983/27975/3983_a_27975_4_1.png"
+   },
+   {
+    "qid": 27027,
+    "paper_ref": "9709/73_Summer_2016_Q2",
+    "file": "questions/3983/27973/3983_q_27973_2_1.png"
+   },
+   {
+    "qid": 27027,
+    "paper_ref": "9709/73_Summer_2016_Q2",
+    "file": "questions/3983/27973/3983_a_27973_2_1.png"
+   },
+   {
+    "qid": 27026,
+    "paper_ref": "9709/73_Summer_2016_Q1",
+    "file": "questions/3983/27972/3983_q_27972_1_1.png"
+   },
+   {
+    "qid": 27026,
+    "paper_ref": "9709/73_Summer_2016_Q1",
+    "file": "questions/3983/27972/3983_a_27972_1_1.png"
+   },
+   {
+    "qid": 27022,
+    "paper_ref": "9709/72_Summer_2016_Q4",
+    "file": "questions/3982/27968/3982_q_27968_4_1.png"
+   },
+   {
+    "qid": 27022,
+    "paper_ref": "9709/72_Summer_2016_Q4",
+    "file": "questions/3982/27968/3982_a_27968_4_1.png"
+   },
+   {
+    "qid": 27021,
+    "paper_ref": "9709/72_Summer_2016_Q3",
+    "file": "questions/3982/27967/3982_q_27967_3_1.png"
+   },
+   {
+    "qid": 27021,
+    "paper_ref": "9709/72_Summer_2016_Q3",
+    "file": "questions/3982/27967/3982_a_27967_3_1.png"
+   },
+   {
+    "qid": 27019,
+    "paper_ref": "9709/72_Summer_2016_Q1",
+    "file": "questions/3982/27965/3982_q_27965_1_1.png"
+   },
+   {
+    "qid": 27019,
+    "paper_ref": "9709/72_Summer_2016_Q1",
+    "file": "questions/3982/27965/3982_a_27965_1_1.png"
+   },
+   {
+    "qid": 27015,
+    "paper_ref": "9709/71_Summer_2016_Q4",
+    "file": "questions/3980/27961/3980_q_27961_4_1.png"
+   },
+   {
+    "qid": 27015,
+    "paper_ref": "9709/71_Summer_2016_Q4",
+    "file": "questions/3980/27961/3980_a_27961_4_1.png"
+   },
+   {
+    "qid": 27014,
+    "paper_ref": "9709/71_Summer_2016_Q3",
+    "file": "questions/3980/27960/3980_q_27960_3_1.png"
+   },
+   {
+    "qid": 27014,
+    "paper_ref": "9709/71_Summer_2016_Q3",
+    "file": "questions/3980/27960/3980_a_27960_3_1.png"
+   },
+   {
+    "qid": 27013,
+    "paper_ref": "9709/71_Summer_2016_Q2",
+    "file": "questions/3980/27959/3980_q_27959_2_1.png"
+   },
+   {
+    "qid": 27013,
+    "paper_ref": "9709/71_Summer_2016_Q2",
+    "file": "questions/3980/27959/3980_a_27959_2_1.png"
+   },
+   {
+    "qid": 27011,
+    "paper_ref": "9709/73_Winter_2015_Q7",
+    "file": "questions/4038/27957/4038_q_27957_7_1.png"
+   },
+   {
+    "qid": 27011,
+    "paper_ref": "9709/73_Winter_2015_Q7",
+    "file": "questions/4038/27957/4038_a_27957_7_1.png"
+   },
+   {
+    "qid": 27010,
+    "paper_ref": "9709/73_Winter_2015_Q6",
+    "file": "questions/4038/27956/4038_q_27956_6_1.png"
+   },
+   {
+    "qid": 27010,
+    "paper_ref": "9709/73_Winter_2015_Q6",
+    "file": "questions/4038/27956/4038_a_27956_6_1.png"
+   },
+   {
+    "qid": 27010,
+    "paper_ref": "9709/73_Winter_2015_Q6",
+    "file": "questions/4038/27956/4038_a_27956_6_2.png"
+   },
+   {
+    "qid": 27007,
+    "paper_ref": "9709/73_Winter_2015_Q3",
+    "file": "questions/4038/27953/4038_q_27953_3_1.png"
+   },
+   {
+    "qid": 27007,
+    "paper_ref": "9709/73_Winter_2015_Q3",
+    "file": "questions/4038/27953/4038_a_27953_3_1.png"
+   },
+   {
+    "qid": 27005,
+    "paper_ref": "9709/73_Winter_2015_Q1",
+    "file": "questions/4038/27951/4038_q_27951_1_1.png"
+   },
+   {
+    "qid": 27005,
+    "paper_ref": "9709/73_Winter_2015_Q1",
+    "file": "questions/4038/27951/4038_a_27951_1_1.png"
+   },
+   {
+    "qid": 27000,
+    "paper_ref": "9709/72_Winter_2015_Q3",
+    "file": "questions/4036/27946/4036_q_27946_3_1.png"
+   },
+   {
+    "qid": 27000,
+    "paper_ref": "9709/72_Winter_2015_Q3",
+    "file": "questions/4036/27946/4036_a_27946_3_1.png"
+   },
+   {
+    "qid": 26999,
+    "paper_ref": "9709/72_Winter_2015_Q2",
+    "file": "questions/4036/27945/4036_q_27945_2_1.png"
+   },
+   {
+    "qid": 26999,
+    "paper_ref": "9709/72_Winter_2015_Q2",
+    "file": "questions/4036/27945/4036_a_27945_2_1.png"
+   },
+   {
+    "qid": 26993,
+    "paper_ref": "9709/71_Winter_2015_Q3",
+    "file": "questions/4034/27939/4034_q_27939_3_1.png"
+   },
+   {
+    "qid": 26993,
+    "paper_ref": "9709/71_Winter_2015_Q3",
+    "file": "questions/4034/27939/4034_a_27939_3_1.png"
+   },
+   {
+    "qid": 26992,
+    "paper_ref": "9709/71_Winter_2015_Q2",
+    "file": "questions/4034/27938/4034_q_27938_2_1.png"
+   },
+   {
+    "qid": 26992,
+    "paper_ref": "9709/71_Winter_2015_Q2",
+    "file": "questions/4034/27938/4034_a_27938_2_1.png"
+   },
+   {
+    "qid": 26988,
+    "paper_ref": "9709/73_Summer_2015_Q5",
+    "file": "questions/4040/27934/4040_q_27934_5_1.png"
+   },
+   {
+    "qid": 26988,
+    "paper_ref": "9709/73_Summer_2015_Q5",
+    "file": "questions/4040/27934/4040_a_27934_5_1.png"
+   },
+   {
+    "qid": 26987,
+    "paper_ref": "9709/73_Summer_2015_Q4",
+    "file": "questions/4040/27933/4040_q_27933_4_1.png"
+   },
+   {
+    "qid": 26987,
+    "paper_ref": "9709/73_Summer_2015_Q4",
+    "file": "questions/4040/27933/4040_a_27933_4_1.png"
+   },
+   {
+    "qid": 26986,
+    "paper_ref": "9709/73_Summer_2015_Q3",
+    "file": "questions/4040/27932/4040_q_27932_3_1.png"
+   },
+   {
+    "qid": 26986,
+    "paper_ref": "9709/73_Summer_2015_Q3",
+    "file": "questions/4040/27932/4040_a_27932_3_1.png"
+   },
+   {
+    "qid": 26981,
+    "paper_ref": "9709/72_Summer_2015_Q5",
+    "file": "questions/4037/27927/4037_q_27927_5_1.png"
+   },
+   {
+    "qid": 26981,
+    "paper_ref": "9709/72_Summer_2015_Q5",
+    "file": "questions/4037/27927/4037_a_27927_5_1.png"
+   },
+   {
+    "qid": 26980,
+    "paper_ref": "9709/72_Summer_2015_Q4",
+    "file": "questions/4037/27926/4037_q_27926_4_1.png"
+   },
+   {
+    "qid": 26980,
+    "paper_ref": "9709/72_Summer_2015_Q4",
+    "file": "questions/4037/27926/4037_a_27926_4_1.png"
+   },
+   {
+    "qid": 26974,
+    "paper_ref": "9709/71_Summer_2015_Q5",
+    "file": "questions/4035/27920/4035_q_27920_5_1.png"
+   },
+   {
+    "qid": 26974,
+    "paper_ref": "9709/71_Summer_2015_Q5",
+    "file": "questions/4035/27920/4035_a_27920_5_1.png"
+   },
+   {
+    "qid": 26973,
+    "paper_ref": "9709/71_Summer_2015_Q4",
+    "file": "questions/4035/27919/4035_q_27919_4_1.png"
+   },
+   {
+    "qid": 26973,
+    "paper_ref": "9709/71_Summer_2015_Q4",
+    "file": "questions/4035/27919/4035_a_27919_4_1.png"
+   },
+   {
+    "qid": 26971,
+    "paper_ref": "9709/71_Summer_2015_Q2",
+    "file": "questions/4035/27917/4035_q_27917_2_1.png"
+   },
+   {
+    "qid": 26971,
+    "paper_ref": "9709/71_Summer_2015_Q2",
+    "file": "questions/4035/27917/4035_a_27917_2_1.png"
+   },
+   {
+    "qid": 26966,
+    "paper_ref": "9709/73_Winter_2014_Q3",
+    "file": "questions/3420/27912/3420_q_27912_3_1.png"
+   },
+   {
+    "qid": 26966,
+    "paper_ref": "9709/73_Winter_2014_Q3",
+    "file": "questions/3420/27912/3420_a_27912_3_1.png"
+   },
+   {
+    "qid": 26964,
+    "paper_ref": "9709/73_Winter_2014_Q1",
+    "file": "questions/3420/27910/3420_q_27910_1_1.png"
+   },
+   {
+    "qid": 26964,
+    "paper_ref": "9709/73_Winter_2014_Q1",
+    "file": "questions/3420/27910/3420_a_27910_1_1.png"
+   },
+   {
+    "qid": 26963,
+    "paper_ref": "9709/72_Winter_2014_Q6",
+    "file": "questions/3419/27909/3419_q_27909_6_1.png"
+   },
+   {
+    "qid": 26963,
+    "paper_ref": "9709/72_Winter_2014_Q6",
+    "file": "questions/3419/27909/3419_a_27909_6_1.png"
+   },
+   {
+    "qid": 26962,
+    "paper_ref": "9709/72_Winter_2014_Q5",
+    "file": "questions/3419/27908/3419_q_27908_5_1.png"
+   },
+   {
+    "qid": 26962,
+    "paper_ref": "9709/72_Winter_2014_Q5",
+    "file": "questions/3419/27908/3419_a_27908_5_1.png"
+   },
+   {
+    "qid": 26961,
+    "paper_ref": "9709/72_Winter_2014_Q4",
+    "file": "questions/3419/27907/3419_q_27907_4_1.png"
+   },
+   {
+    "qid": 26961,
+    "paper_ref": "9709/72_Winter_2014_Q4",
+    "file": "questions/3419/27907/3419_a_27907_4_1.png"
+   },
+   {
+    "qid": 26961,
+    "paper_ref": "9709/72_Winter_2014_Q4",
+    "file": "questions/3419/27907/3419_a_27907_4_2.png"
+   },
+   {
+    "qid": 26957,
+    "paper_ref": "9709/71_Winter_2014_Q6",
+    "file": "questions/3418/27903/3418_q_27903_6_1.png"
+   },
+   {
+    "qid": 26957,
+    "paper_ref": "9709/71_Winter_2014_Q6",
+    "file": "questions/3418/27903/3418_a_27903_6_1.png"
+   },
+   {
+    "qid": 26956,
+    "paper_ref": "9709/71_Winter_2014_Q5",
+    "file": "questions/3418/27902/3418_q_27902_5_1.png"
+   },
+   {
+    "qid": 26956,
+    "paper_ref": "9709/71_Winter_2014_Q5",
+    "file": "questions/3418/27902/3418_a_27902_5_1.png"
+   },
+   {
+    "qid": 26955,
+    "paper_ref": "9709/71_Winter_2014_Q4",
+    "file": "questions/3418/27901/3418_q_27901_4_1.png"
+   },
+   {
+    "qid": 26955,
+    "paper_ref": "9709/71_Winter_2014_Q4",
+    "file": "questions/3418/27901/3418_a_27901_4_1.png"
+   },
+   {
+    "qid": 26955,
+    "paper_ref": "9709/71_Winter_2014_Q4",
+    "file": "questions/3418/27901/3418_a_27901_4_2.png"
+   },
+   {
+    "qid": 26930,
+    "paper_ref": "9709/73_Summer_2014_Q4",
+    "file": "questions/3403/27876/3403_q_27876_4_1.png"
+   },
+   {
+    "qid": 26930,
+    "paper_ref": "9709/73_Summer_2014_Q4",
+    "file": "questions/3403/27876/3403_a_27876_4_1.png"
+   },
+   {
+    "qid": 26927,
+    "paper_ref": "9709/73_Summer_2014_Q3",
+    "file": "questions/3403/27873/3403_q_27873_3_1.png"
+   },
+   {
+    "qid": 26927,
+    "paper_ref": "9709/73_Summer_2014_Q3",
+    "file": "questions/3403/27873/3403_a_27873_3_1.png"
+   },
+   {
+    "qid": 26914,
+    "paper_ref": "9709/72_Summer_2014_Q7",
+    "file": "questions/3402/27860/3402_q_27860_7_1.png"
+   },
+   {
+    "qid": 26914,
+    "paper_ref": "9709/72_Summer_2014_Q7",
+    "file": "questions/3402/27860/3402_a_27860_7_1.png"
+   },
+   {
+    "qid": 26912,
+    "paper_ref": "9709/72_Summer_2014_Q5",
+    "file": "questions/3402/27858/3402_q_27858_5_1.png"
+   },
+   {
+    "qid": 26912,
+    "paper_ref": "9709/72_Summer_2014_Q5",
+    "file": "questions/3402/27858/3402_a_27858_5_1.png"
+   },
+   {
+    "qid": 26910,
+    "paper_ref": "9709/72_Summer_2014_Q3",
+    "file": "questions/3402/27856/3402_q_27856_3_1.png"
+   },
+   {
+    "qid": 26910,
+    "paper_ref": "9709/72_Summer_2014_Q3",
+    "file": "questions/3402/27856/3402_a_27856_3_1.png"
+   },
+   {
+    "qid": 26908,
+    "paper_ref": "9709/72_Summer_2014_Q1",
+    "file": "questions/3402/27854/3402_q_27854_1_1.png"
+   },
+   {
+    "qid": 26908,
+    "paper_ref": "9709/72_Summer_2014_Q1",
+    "file": "questions/3402/27854/3402_a_27854_1_1.png"
+   },
+   {
+    "qid": 26884,
+    "paper_ref": "9709/71_Summer_2014_Q5",
+    "file": "questions/3401/27830/3401_q_27830_5_1.png"
+   },
+   {
+    "qid": 26884,
+    "paper_ref": "9709/71_Summer_2014_Q5",
+    "file": "questions/3401/27830/3401_a_27830_5_1.png"
+   },
+   {
+    "qid": 26882,
+    "paper_ref": "9709/71_Summer_2014_Q3",
+    "file": "questions/3401/27828/3401_q_27828_3_1.png"
+   },
+   {
+    "qid": 26882,
+    "paper_ref": "9709/71_Summer_2014_Q3",
+    "file": "questions/3401/27828/3401_a_27828_3_1.png"
+   },
+   {
+    "qid": 26881,
+    "paper_ref": "9709/71_Summer_2014_Q2",
+    "file": "questions/3401/27827/3401_q_27827_2_1.png"
+   },
+   {
+    "qid": 26881,
+    "paper_ref": "9709/71_Summer_2014_Q2",
+    "file": "questions/3401/27827/3401_a_27827_2_1.png"
+   },
+   {
+    "qid": 26860,
+    "paper_ref": "9709/73_Winter_2013_Q5",
+    "file": "questions/3417/27806/3417_q_27806_5_1.png"
+   },
+   {
+    "qid": 26860,
+    "paper_ref": "9709/73_Winter_2013_Q5",
+    "file": "questions/3417/27806/3417_a_27806_5_1.png"
+   },
+   {
+    "qid": 26855,
+    "paper_ref": "9709/73_Winter_2013_Q2",
+    "file": "questions/3417/27801/3417_q_27801_2_1.png"
+   },
+   {
+    "qid": 26855,
+    "paper_ref": "9709/73_Winter_2013_Q2",
+    "file": "questions/3417/27801/3417_a_27801_2_1.png"
+   },
+   {
+    "qid": 26854,
+    "paper_ref": "9709/73_Winter_2013_Q1",
+    "file": "questions/3417/27800/3417_q_27800_1_1.png"
+   },
+   {
+    "qid": 26854,
+    "paper_ref": "9709/73_Winter_2013_Q1",
+    "file": "questions/3417/27800/3417_a_27800_1_1.png"
+   },
+   {
+    "qid": 26833,
+    "paper_ref": "9709/72_Winter_2013_Q3",
+    "file": "questions/3416/27779/3416_q_27779_3_1.png"
+   },
+   {
+    "qid": 26833,
+    "paper_ref": "9709/72_Winter_2013_Q3",
+    "file": "questions/3416/27779/3416_a_27779_3_1.png"
+   },
+   {
+    "qid": 26831,
+    "paper_ref": "9709/72_Winter_2013_Q2",
+    "file": "questions/3416/27777/3416_q_27777_2_1.png"
+   },
+   {
+    "qid": 26831,
+    "paper_ref": "9709/72_Winter_2013_Q2",
+    "file": "questions/3416/27777/3416_a_27777_2_1.png"
+   },
+   {
+    "qid": 26814,
+    "paper_ref": "9709/71_Winter_2013_Q3",
+    "file": "questions/3415/27760/3415_q_27760_3_1.png"
+   },
+   {
+    "qid": 26814,
+    "paper_ref": "9709/71_Winter_2013_Q3",
+    "file": "questions/3415/27760/3415_a_27760_3_1.png"
+   },
+   {
+    "qid": 26813,
+    "paper_ref": "9709/71_Winter_2013_Q2",
+    "file": "questions/3415/27759/3415_q_27759_2_1.png"
+   },
+   {
+    "qid": 26813,
+    "paper_ref": "9709/71_Winter_2013_Q2",
+    "file": "questions/3415/27759/3415_a_27759_2_1.png"
+   },
+   {
+    "qid": 26803,
+    "paper_ref": "9709/73_Summer_2013_Q7",
+    "file": "questions/3399/27749/3399_q_27749_7_1.png"
+   },
+   {
+    "qid": 26803,
+    "paper_ref": "9709/73_Summer_2013_Q7",
+    "file": "questions/3399/27749/3399_a_27749_7_1.png"
+   },
+   {
+    "qid": 26796,
+    "paper_ref": "9709/73_Summer_2013_Q3",
+    "file": "questions/3399/27742/3399_q_27742_3_1.png"
+   },
+   {
+    "qid": 26796,
+    "paper_ref": "9709/73_Summer_2013_Q3",
+    "file": "questions/3399/27742/3399_a_27742_3_1.png"
+   },
+   {
+    "qid": 26788,
+    "paper_ref": "9709/72_Summer_2013_Q6",
+    "file": "questions/3398/27734/3398_q_27734_6_1.png"
+   },
+   {
+    "qid": 26788,
+    "paper_ref": "9709/72_Summer_2013_Q6",
+    "file": "questions/3398/27734/3398_a_27734_6_1.png"
+   },
+   {
+    "qid": 26785,
+    "paper_ref": "9709/72_Summer_2013_Q4",
+    "file": "questions/3398/27731/3398_q_27731_4_1.png"
+   },
+   {
+    "qid": 26785,
+    "paper_ref": "9709/72_Summer_2013_Q4",
+    "file": "questions/3398/27731/3398_a_27731_4_1.png"
+   },
+   {
+    "qid": 26783,
+    "paper_ref": "9709/72_Summer_2013_Q3",
+    "file": "questions/3398/27729/3398_q_27729_3_1.png"
+   },
+   {
+    "qid": 26783,
+    "paper_ref": "9709/72_Summer_2013_Q3",
+    "file": "questions/3398/27729/3398_a_27729_3_1.png"
+   },
+   {
+    "qid": 26764,
+    "paper_ref": "9709/71_Summer_2013_Q7",
+    "file": "questions/3397/27710/3397_q_27710_7_1.png"
+   },
+   {
+    "qid": 26764,
+    "paper_ref": "9709/71_Summer_2013_Q7",
+    "file": "questions/3397/27710/3397_a_27710_7_1.png"
+   },
+   {
+    "qid": 26761,
+    "paper_ref": "9709/71_Summer_2013_Q4",
+    "file": "questions/3397/27707/3397_q_27707_4_1.png"
+   },
+   {
+    "qid": 26761,
+    "paper_ref": "9709/71_Summer_2013_Q4",
+    "file": "questions/3397/27707/3397_a_27707_4_1.png"
+   },
+   {
+    "qid": 26761,
+    "paper_ref": "9709/71_Summer_2013_Q4",
+    "file": "questions/3397/27707/3397_a_27707_4_2.png"
+   },
+   {
+    "qid": 26756,
+    "paper_ref": "9709/71_Summer_2013_Q2",
+    "file": "questions/3397/27702/3397_q_27702_2_1.png"
+   },
+   {
+    "qid": 26756,
+    "paper_ref": "9709/71_Summer_2013_Q2",
+    "file": "questions/3397/27702/3397_a_27702_2_1.png"
+   },
+   {
+    "qid": 26747,
+    "paper_ref": "9709/73_Winter_2012_Q5",
+    "file": "questions/3414/27693/3414_q_27693_5_1.png"
+   },
+   {
+    "qid": 26747,
+    "paper_ref": "9709/73_Winter_2012_Q5",
+    "file": "questions/3414/27693/3414_a_27693_5_1.png"
+   },
+   {
+    "qid": 26745,
+    "paper_ref": "9709/73_Winter_2012_Q3",
+    "file": "questions/3414/27691/3414_q_27691_3_1.png"
+   },
+   {
+    "qid": 26745,
+    "paper_ref": "9709/73_Winter_2012_Q3",
+    "file": "questions/3414/27691/3414_a_27691_3_1.png"
+   },
+   {
+    "qid": 26740,
+    "paper_ref": "9709/73_Winter_2012_Q2",
+    "file": "questions/3414/27686/3414_q_27686_2_1.png"
+   },
+   {
+    "qid": 26740,
+    "paper_ref": "9709/73_Winter_2012_Q2",
+    "file": "questions/3414/27686/3414_a_27686_2_1.png"
+   },
+   {
+    "qid": 26720,
+    "paper_ref": "9709/72_Winter_2012_Q6",
+    "file": "questions/3413/27666/3413_q_27666_6_1.png"
+   },
+   {
+    "qid": 26720,
+    "paper_ref": "9709/72_Winter_2012_Q6",
+    "file": "questions/3413/27666/3413_a_27666_6_1.png"
+   },
+   {
+    "qid": 26715,
+    "paper_ref": "9709/72_Winter_2012_Q2",
+    "file": "questions/3413/27661/3413_q_27661_2_1.png"
+   },
+   {
+    "qid": 26715,
+    "paper_ref": "9709/72_Winter_2012_Q2",
+    "file": "questions/3413/27661/3413_a_27661_2_1.png"
+   },
+   {
+    "qid": 26693,
+    "paper_ref": "9709/71_Winter_2012_Q6",
+    "file": "questions/3412/27639/3412_q_27639_6_1.png"
+   },
+   {
+    "qid": 26693,
+    "paper_ref": "9709/71_Winter_2012_Q6",
+    "file": "questions/3412/27639/3412_a_27639_6_1.png"
+   },
+   {
+    "qid": 26686,
+    "paper_ref": "9709/71_Winter_2012_Q2",
+    "file": "questions/3412/27632/3412_q_27632_2_1.png"
+   },
+   {
+    "qid": 26686,
+    "paper_ref": "9709/71_Winter_2012_Q2",
+    "file": "questions/3412/27632/3412_a_27632_2_1.png"
+   },
+   {
+    "qid": 26668,
+    "paper_ref": "9709/73_Summer_2012_Q6",
+    "file": "questions/3396/27614/3396_q_27614_6_1.png"
+   },
+   {
+    "qid": 26668,
+    "paper_ref": "9709/73_Summer_2012_Q6",
+    "file": "questions/3396/27614/3396_a_27614_6_1.png"
+   },
+   {
+    "qid": 26657,
+    "paper_ref": "9709/73_Summer_2012_Q3",
+    "file": "questions/3396/27603/3396_q_27603_3_1.png"
+   },
+   {
+    "qid": 26657,
+    "paper_ref": "9709/73_Summer_2012_Q3",
+    "file": "questions/3396/27603/3396_a_27603_3_1.png"
+   },
+   {
+    "qid": 26654,
+    "paper_ref": "9709/73_Summer_2012_Q1",
+    "file": "questions/3396/27600/3396_q_27600_1_1.png"
+   },
+   {
+    "qid": 26654,
+    "paper_ref": "9709/73_Summer_2012_Q1",
+    "file": "questions/3396/27600/3396_a_27600_1_1.png"
+   },
+   {
+    "qid": 26637,
+    "paper_ref": "9709/72_Summer_2012_Q7",
+    "file": "questions/3395/27583/3395_q_27583_7_1.png"
+   },
+   {
+    "qid": 26637,
+    "paper_ref": "9709/72_Summer_2012_Q7",
+    "file": "questions/3395/27583/3395_a_27583_7_1.png"
+   },
+   {
+    "qid": 26637,
+    "paper_ref": "9709/72_Summer_2012_Q7",
+    "file": "questions/3395/27583/3395_a_27583_7_2.png"
+   },
+   {
+    "qid": 26630,
+    "paper_ref": "9709/72_Summer_2012_Q3",
+    "file": "questions/3395/27576/3395_q_27576_3_1.png"
+   },
+   {
+    "qid": 26630,
+    "paper_ref": "9709/72_Summer_2012_Q3",
+    "file": "questions/3395/27576/3395_a_27576_3_1.png"
+   },
+   {
+    "qid": 26629,
+    "paper_ref": "9709/72_Summer_2012_Q2",
+    "file": "questions/3395/27575/3395_q_27575_2_1.png"
+   },
+   {
+    "qid": 26629,
+    "paper_ref": "9709/72_Summer_2012_Q2",
+    "file": "questions/3395/27575/3395_a_27575_2_1.png"
+   },
+   {
+    "qid": 26606,
+    "paper_ref": "9709/71_Summer_2012_Q6",
+    "file": "questions/3394/27552/3394_q_27552_6_1.png"
+   },
+   {
+    "qid": 26606,
+    "paper_ref": "9709/71_Summer_2012_Q6",
+    "file": "questions/3394/27552/3394_a_27552_6_1.png"
+   },
+   {
+    "qid": 26603,
+    "paper_ref": "9709/71_Summer_2012_Q3",
+    "file": "questions/3394/27549/3394_q_27549_3_1.png"
+   },
+   {
+    "qid": 26603,
+    "paper_ref": "9709/71_Summer_2012_Q3",
+    "file": "questions/3394/27549/3394_a_27549_3_1.png"
+   },
+   {
+    "qid": 26601,
+    "paper_ref": "9709/71_Summer_2012_Q1",
+    "file": "questions/3394/27547/3394_q_27547_1_1.png"
+   },
+   {
+    "qid": 26601,
+    "paper_ref": "9709/71_Summer_2012_Q1",
+    "file": "questions/3394/27547/3394_a_27547_1_1.png"
+   }
+  ],
+  "Linear Combination Of Random Variables": [
+   {
+    "qid": 66467,
+    "paper_ref": "9709/73_Winter_2019_Q1",
+    "file": "questions/21722/68350/21722_q_68350_1_1.png"
+   },
+   {
+    "qid": 66467,
+    "paper_ref": "9709/73_Winter_2019_Q1",
+    "file": "questions/21722/68350/21722_a_68350_1_1.png"
+   },
+   {
+    "qid": 66465,
+    "paper_ref": "9709/72_Winter_2019_Q5",
+    "file": "questions/21721/68348/21721_q_68348_5_1.png"
+   },
+   {
+    "qid": 66465,
+    "paper_ref": "9709/72_Winter_2019_Q5",
+    "file": "questions/21721/68348/21721_q_68348_5_2.png"
+   },
+   {
+    "qid": 66465,
+    "paper_ref": "9709/72_Winter_2019_Q5",
+    "file": "questions/21721/68348/21721_a_68348_5_1.png"
+   },
+   {
+    "qid": 56602,
+    "paper_ref": "9709/73_Summer_2019_Q4",
+    "file": "questions/20881/58418/20881_q_58418_4_1.png"
+   },
+   {
+    "qid": 56602,
+    "paper_ref": "9709/73_Summer_2019_Q4",
+    "file": "questions/20881/58418/20881_a_58418_4_1.png"
+   },
+   {
+    "qid": 56595,
+    "paper_ref": "9709/72_Summer_2019_Q4",
+    "file": "questions/20880/58411/20880_q_58411_4_1.png"
+   },
+   {
+    "qid": 56595,
+    "paper_ref": "9709/72_Summer_2019_Q4",
+    "file": "questions/20880/58411/20880_a_58411_4_1.png"
+   },
+   {
+    "qid": 54045,
+    "paper_ref": "9709/73_Winter_2018_Q5",
+    "file": "questions/20206/55851/20206_q_55851_5_1.png"
+   },
+   {
+    "qid": 54045,
+    "paper_ref": "9709/73_Winter_2018_Q5",
+    "file": "questions/20206/55851/20206_q_55851_5_2.png"
+   },
+   {
+    "qid": 54045,
+    "paper_ref": "9709/73_Winter_2018_Q5",
+    "file": "questions/20206/55851/20206_a_55851_5_1.png"
+   },
+   {
+    "qid": 54036,
+    "paper_ref": "9709/72_Winter_2018_Q3",
+    "file": "questions/20205/55842/20205_q_55842_3_1.png"
+   },
+   {
+    "qid": 54036,
+    "paper_ref": "9709/72_Winter_2018_Q3",
+    "file": "questions/20205/55842/20205_a_55842_3_1.png"
+   },
+   {
+    "qid": 54031,
+    "paper_ref": "9709/71_Winter_2018_Q5",
+    "file": "questions/20204/55837/20204_q_55837_5_1.png"
+   },
+   {
+    "qid": 54031,
+    "paper_ref": "9709/71_Winter_2018_Q5",
+    "file": "questions/20204/55837/20204_q_55837_5_2.png"
+   },
+   {
+    "qid": 54031,
+    "paper_ref": "9709/71_Winter_2018_Q5",
+    "file": "questions/20204/55837/20204_a_55837_5_1.png"
+   },
+   {
+    "qid": 51133,
+    "paper_ref": "9709/73_Summer_2018_Q6",
+    "file": "questions/17588/52901/17588_q_52901_6_1.png"
+   },
+   {
+    "qid": 51133,
+    "paper_ref": "9709/73_Summer_2018_Q6",
+    "file": "questions/17588/52901/17588_q_52901_6_2.png"
+   },
+   {
+    "qid": 51133,
+    "paper_ref": "9709/73_Summer_2018_Q6",
+    "file": "questions/17588/52901/17588_a_52901_6_1.png"
+   },
+   {
+    "qid": 51122,
+    "paper_ref": "9709/72_Summer_2018_Q2",
+    "file": "questions/17587/52890/17587_q_52890_2_1.png"
+   },
+   {
+    "qid": 51122,
+    "paper_ref": "9709/72_Summer_2018_Q2",
+    "file": "questions/17587/52890/17587_a_52890_2_1.png"
+   },
+   {
+    "qid": 51117,
+    "paper_ref": "9709/71_Summer_2018_Q4",
+    "file": "questions/17586/52885/17586_q_52885_4_1.png"
+   },
+   {
+    "qid": 51117,
+    "paper_ref": "9709/71_Summer_2018_Q4",
+    "file": "questions/17586/52885/17586_a_52885_4_1.png"
+   },
+   {
+    "qid": 51117,
+    "paper_ref": "9709/71_Summer_2018_Q4",
+    "file": "questions/17586/52885/17586_a_52885_4_2.png"
+   },
+   {
+    "qid": 47646,
+    "paper_ref": "9709/73_Winter_2017_Q6",
+    "file": "questions/14310/49355/14310_q_49355_6_1.png"
+   },
+   {
+    "qid": 47646,
+    "paper_ref": "9709/73_Winter_2017_Q6",
+    "file": "questions/14310/49355/14310_q_49355_6_2.png"
+   },
+   {
+    "qid": 47646,
+    "paper_ref": "9709/73_Winter_2017_Q6",
+    "file": "questions/14310/49355/14310_a_49355_6_1.png"
+   },
+   {
+    "qid": 47639,
+    "paper_ref": "9709/72_Winter_2017_Q5",
+    "file": "questions/14309/49348/14309_q_49348_5_1.png"
+   },
+   {
+    "qid": 47639,
+    "paper_ref": "9709/72_Winter_2017_Q5",
+    "file": "questions/14309/49348/14309_q_49348_5_2.png"
+   },
+   {
+    "qid": 47639,
+    "paper_ref": "9709/72_Winter_2017_Q5",
+    "file": "questions/14309/49348/14309_a_49348_5_1.png"
+   },
+   {
+    "qid": 47639,
+    "paper_ref": "9709/72_Winter_2017_Q5",
+    "file": "questions/14309/49348/14309_a_49348_5_2.png"
+   },
+   {
+    "qid": 47632,
+    "paper_ref": "9709/71_Winter_2017_Q6",
+    "file": "questions/14308/49341/14308_q_49341_6_1.png"
+   },
+   {
+    "qid": 47632,
+    "paper_ref": "9709/71_Winter_2017_Q6",
+    "file": "questions/14308/49341/14308_q_49341_6_2.png"
+   },
+   {
+    "qid": 47632,
+    "paper_ref": "9709/71_Winter_2017_Q6",
+    "file": "questions/14308/49341/14308_a_49341_6_1.png"
+   },
+   {
+    "qid": 42907,
+    "paper_ref": "9709/73_Summer_2017_Q3",
+    "file": "questions/7719/44301/7719_q_44301_3_1.png"
+   },
+   {
+    "qid": 42907,
+    "paper_ref": "9709/73_Summer_2017_Q3",
+    "file": "questions/7719/44301/7719_a_44301_3_1.png"
+   },
+   {
+    "qid": 42904,
+    "paper_ref": "9709/72_Summer_2017_Q7",
+    "file": "questions/7718/44298/7718_q_44298_7_1.png"
+   },
+   {
+    "qid": 42904,
+    "paper_ref": "9709/72_Summer_2017_Q7",
+    "file": "questions/7718/44298/7718_q_44298_7_2.png"
+   },
+   {
+    "qid": 42904,
+    "paper_ref": "9709/72_Summer_2017_Q7",
+    "file": "questions/7718/44298/7718_a_44298_7_1.png"
+   },
+   {
+    "qid": 42896,
+    "paper_ref": "9709/71_Summer_2017_Q5",
+    "file": "questions/7716/44290/7716_q_44290_5_1.png"
+   },
+   {
+    "qid": 42896,
+    "paper_ref": "9709/71_Summer_2017_Q5",
+    "file": "questions/7716/44290/7716_q_44290_5_2.png"
+   },
+   {
+    "qid": 42896,
+    "paper_ref": "9709/71_Summer_2017_Q5",
+    "file": "questions/7716/44290/7716_a_44290_5_1.png"
+   },
+   {
+    "qid": 42896,
+    "paper_ref": "9709/71_Summer_2017_Q5",
+    "file": "questions/7716/44290/7716_a_44290_5_2.png"
+   },
+   {
+    "qid": 27049,
+    "paper_ref": "9709/73_Winter_2016_Q3",
+    "file": "questions/5861/27995/5861_q_27995_3_1.png"
+   },
+   {
+    "qid": 27049,
+    "paper_ref": "9709/73_Winter_2016_Q3",
+    "file": "questions/5861/27995/5861_a_27995_3_1.png"
+   },
+   {
+    "qid": 27043,
+    "paper_ref": "9709/72_Winter_2016_Q4",
+    "file": "questions/5860/27989/5860_q_27989_4_1.png"
+   },
+   {
+    "qid": 27043,
+    "paper_ref": "9709/72_Winter_2016_Q4",
+    "file": "questions/5860/27989/5860_a_27989_4_1.png"
+   },
+   {
+    "qid": 27036,
+    "paper_ref": "9709/71_Winter_2016_Q4",
+    "file": "questions/5859/27982/5859_q_27982_4_1.png"
+   },
+   {
+    "qid": 27036,
+    "paper_ref": "9709/71_Winter_2016_Q4",
+    "file": "questions/5859/27982/5859_a_27982_4_1.png"
+   },
+   {
+    "qid": 27032,
+    "paper_ref": "9709/73_Summer_2016_Q7",
+    "file": "questions/3983/27978/3983_q_27978_7_1.png"
+   },
+   {
+    "qid": 27032,
+    "paper_ref": "9709/73_Summer_2016_Q7",
+    "file": "questions/3983/27978/3983_a_27978_7_1.png"
+   },
+   {
+    "qid": 27023,
+    "paper_ref": "9709/72_Summer_2016_Q5",
+    "file": "questions/3982/27969/3982_q_27969_5_1.png"
+   },
+   {
+    "qid": 27023,
+    "paper_ref": "9709/72_Summer_2016_Q5",
+    "file": "questions/3982/27969/3982_a_27969_5_1.png"
+   },
+   {
+    "qid": 27016,
+    "paper_ref": "9709/71_Summer_2016_Q5",
+    "file": "questions/3980/27962/3980_q_27962_5_1.png"
+   },
+   {
+    "qid": 27016,
+    "paper_ref": "9709/71_Summer_2016_Q5",
+    "file": "questions/3980/27962/3980_a_27962_5_1.png"
+   },
+   {
+    "qid": 27011,
+    "paper_ref": "9709/73_Winter_2015_Q7",
+    "file": "questions/4038/27957/4038_q_27957_7_1.png"
+   },
+   {
+    "qid": 27011,
+    "paper_ref": "9709/73_Winter_2015_Q7",
+    "file": "questions/4038/27957/4038_a_27957_7_1.png"
+   },
+   {
+    "qid": 27003,
+    "paper_ref": "9709/72_Winter_2015_Q6",
+    "file": "questions/4036/27949/4036_q_27949_6_1.png"
+   },
+   {
+    "qid": 27003,
+    "paper_ref": "9709/72_Winter_2015_Q6",
+    "file": "questions/4036/27949/4036_a_27949_6_1.png"
+   },
+   {
+    "qid": 26996,
+    "paper_ref": "9709/71_Winter_2015_Q6",
+    "file": "questions/4034/27942/4034_q_27942_6_1.png"
+   },
+   {
+    "qid": 26996,
+    "paper_ref": "9709/71_Winter_2015_Q6",
+    "file": "questions/4034/27942/4034_a_27942_6_1.png"
+   },
+   {
+    "qid": 26987,
+    "paper_ref": "9709/73_Summer_2015_Q4",
+    "file": "questions/4040/27933/4040_q_27933_4_1.png"
+   },
+   {
+    "qid": 26987,
+    "paper_ref": "9709/73_Summer_2015_Q4",
+    "file": "questions/4040/27933/4040_a_27933_4_1.png"
+   },
+   {
+    "qid": 26977,
+    "paper_ref": "9709/72_Summer_2015_Q1",
+    "file": "questions/4037/27923/4037_q_27923_1_1.png"
+   },
+   {
+    "qid": 26977,
+    "paper_ref": "9709/72_Summer_2015_Q1",
+    "file": "questions/4037/27923/4037_a_27923_1_1.png"
+   },
+   {
+    "qid": 26976,
+    "paper_ref": "9709/71_Summer_2015_Q7",
+    "file": "questions/4035/27922/4035_q_27922_7_1.png"
+   },
+   {
+    "qid": 26976,
+    "paper_ref": "9709/71_Summer_2015_Q7",
+    "file": "questions/4035/27922/4035_a_27922_7_1.png"
+   },
+   {
+    "qid": 26972,
+    "paper_ref": "9709/71_Summer_2015_Q3",
+    "file": "questions/4035/27918/4035_q_27918_3_1.png"
+   },
+   {
+    "qid": 26972,
+    "paper_ref": "9709/71_Summer_2015_Q3",
+    "file": "questions/4035/27918/4035_a_27918_3_1.png"
+   },
+   {
+    "qid": 26967,
+    "paper_ref": "9709/73_Winter_2014_Q4",
+    "file": "questions/3420/27913/3420_q_27913_4_1.png"
+   },
+   {
+    "qid": 26967,
+    "paper_ref": "9709/73_Winter_2014_Q4",
+    "file": "questions/3420/27913/3420_a_27913_4_1.png"
+   },
+   {
+    "qid": 26958,
+    "paper_ref": "9709/72_Winter_2014_Q1",
+    "file": "questions/3419/27904/3419_q_27904_1_1.png"
+   },
+   {
+    "qid": 26958,
+    "paper_ref": "9709/72_Winter_2014_Q1",
+    "file": "questions/3419/27904/3419_a_27904_1_1.png"
+   },
+   {
+    "qid": 26952,
+    "paper_ref": "9709/71_Winter_2014_Q1",
+    "file": "questions/3418/27898/3418_q_27898_1_1.png"
+   },
+   {
+    "qid": 26952,
+    "paper_ref": "9709/71_Winter_2014_Q1",
+    "file": "questions/3418/27898/3418_a_27898_1_1.png"
+   },
+   {
+    "qid": 26940,
+    "paper_ref": "9709/73_Summer_2014_Q8",
+    "file": "questions/3403/27886/3403_q_27886_8_1.png"
+   },
+   {
+    "qid": 26940,
+    "paper_ref": "9709/73_Summer_2014_Q8",
+    "file": "questions/3403/27886/3403_a_27886_8_1.png"
+   },
+   {
+    "qid": 26909,
+    "paper_ref": "9709/72_Summer_2014_Q2",
+    "file": "questions/3402/27855/3402_q_27855_2_1.png"
+   },
+   {
+    "qid": 26909,
+    "paper_ref": "9709/72_Summer_2014_Q2",
+    "file": "questions/3402/27855/3402_a_27855_2_1.png"
+   },
+   {
+    "qid": 26880,
+    "paper_ref": "9709/71_Summer_2014_Q1",
+    "file": "questions/3401/27826/3401_q_27826_1_1.png"
+   },
+   {
+    "qid": 26880,
+    "paper_ref": "9709/71_Summer_2014_Q1",
+    "file": "questions/3401/27826/3401_a_27826_1_1.png"
+   },
+   {
+    "qid": 26862,
+    "paper_ref": "9709/73_Winter_2013_Q6",
+    "file": "questions/3417/27808/3417_q_27808_6_1.png"
+   },
+   {
+    "qid": 26862,
+    "paper_ref": "9709/73_Winter_2013_Q6",
+    "file": "questions/3417/27808/3417_a_27808_6_1.png"
+   },
+   {
+    "qid": 26845,
+    "paper_ref": "9709/72_Winter_2013_Q7",
+    "file": "questions/3416/27791/3416_q_27791_7_1.png"
+   },
+   {
+    "qid": 26845,
+    "paper_ref": "9709/72_Winter_2013_Q7",
+    "file": "questions/3416/27791/3416_a_27791_7_1.png"
+   },
+   {
+    "qid": 26818,
+    "paper_ref": "9709/71_Winter_2013_Q7",
+    "file": "questions/3415/27764/3415_q_27764_7_1.png"
+   },
+   {
+    "qid": 26818,
+    "paper_ref": "9709/71_Winter_2013_Q7",
+    "file": "questions/3415/27764/3415_a_27764_7_1.png"
+   },
+   {
+    "qid": 26793,
+    "paper_ref": "9709/73_Summer_2013_Q1",
+    "file": "questions/3399/27739/3399_q_27739_1_1.png"
+   },
+   {
+    "qid": 26793,
+    "paper_ref": "9709/73_Summer_2013_Q1",
+    "file": "questions/3399/27739/3399_a_27739_1_1.png"
+   },
+   {
+    "qid": 26786,
+    "paper_ref": "9709/72_Summer_2013_Q5",
+    "file": "questions/3398/27732/3398_q_27732_5_1.png"
+   },
+   {
+    "qid": 26786,
+    "paper_ref": "9709/72_Summer_2013_Q5",
+    "file": "questions/3398/27732/3398_a_27732_5_1.png"
+   },
+   {
+    "qid": 26759,
+    "paper_ref": "9709/71_Summer_2013_Q3",
+    "file": "questions/3397/27705/3397_q_27705_3_1.png"
+   },
+   {
+    "qid": 26759,
+    "paper_ref": "9709/71_Summer_2013_Q3",
+    "file": "questions/3397/27705/3397_a_27705_3_1.png"
+   },
+   {
+    "qid": 26746,
+    "paper_ref": "9709/73_Winter_2012_Q4",
+    "file": "questions/3414/27692/3414_q_27692_4_1.png"
+   },
+   {
+    "qid": 26746,
+    "paper_ref": "9709/73_Winter_2012_Q4",
+    "file": "questions/3414/27692/3414_a_27692_4_1.png"
+   },
+   {
+    "qid": 26737,
+    "paper_ref": "9709/73_Winter_2012_Q1",
+    "file": "questions/3414/27683/3414_q_27683_1_1.png"
+   },
+   {
+    "qid": 26737,
+    "paper_ref": "9709/73_Winter_2012_Q1",
+    "file": "questions/3414/27683/3414_a_27683_1_1.png"
+   },
+   {
+    "qid": 26717,
+    "paper_ref": "9709/72_Winter_2012_Q3",
+    "file": "questions/3413/27663/3413_q_27663_3_1.png"
+   },
+   {
+    "qid": 26717,
+    "paper_ref": "9709/72_Winter_2012_Q3",
+    "file": "questions/3413/27663/3413_a_27663_3_1.png"
+   },
+   {
+    "qid": 26689,
+    "paper_ref": "9709/71_Winter_2012_Q3",
+    "file": "questions/3412/27635/3412_q_27635_3_1.png"
+   },
+   {
+    "qid": 26689,
+    "paper_ref": "9709/71_Winter_2012_Q3",
+    "file": "questions/3412/27635/3412_a_27635_3_1.png"
+   },
+   {
+    "qid": 26655,
+    "paper_ref": "9709/73_Summer_2012_Q2",
+    "file": "questions/3396/27601/3396_q_27601_2_1.png"
+   },
+   {
+    "qid": 26655,
+    "paper_ref": "9709/73_Summer_2012_Q2",
+    "file": "questions/3396/27601/3396_a_27601_2_1.png"
+   },
+   {
+    "qid": 26633,
+    "paper_ref": "9709/72_Summer_2012_Q5",
+    "file": "questions/3395/27579/3395_q_27579_5_1.png"
+   },
+   {
+    "qid": 26633,
+    "paper_ref": "9709/72_Summer_2012_Q5",
+    "file": "questions/3395/27579/3395_a_27579_5_1.png"
+   },
+   {
+    "qid": 26633,
+    "paper_ref": "9709/72_Summer_2012_Q5",
+    "file": "questions/3395/27579/3395_a_27579_5_2.png"
+   },
+   {
+    "qid": 26602,
+    "paper_ref": "9709/71_Summer_2012_Q2",
+    "file": "questions/3394/27548/3394_q_27548_2_1.png"
+   },
+   {
+    "qid": 26602,
+    "paper_ref": "9709/71_Summer_2012_Q2",
+    "file": "questions/3394/27548/3394_a_27548_2_1.png"
+   }
+  ],
+  "Poisson Distribution": [
+   {
+    "qid": 66471,
+    "paper_ref": "9709/73_Winter_2019_Q5",
+    "file": "questions/21722/68354/21722_q_68354_5_1.png"
+   },
+   {
+    "qid": 66471,
+    "paper_ref": "9709/73_Winter_2019_Q5",
+    "file": "questions/21722/68354/21722_q_68354_5_2.png"
+   },
+   {
+    "qid": 66471,
+    "paper_ref": "9709/73_Winter_2019_Q5",
+    "file": "questions/21722/68354/21722_a_68354_5_1.png"
+   },
+   {
+    "qid": 66471,
+    "paper_ref": "9709/73_Winter_2019_Q5",
+    "file": "questions/21722/68354/21722_a_68354_5_2.png"
+   },
+   {
+    "qid": 66468,
+    "paper_ref": "9709/73_Winter_2019_Q2",
+    "file": "questions/21722/68351/21722_q_68351_2_1.png"
+   },
+   {
+    "qid": 66468,
+    "paper_ref": "9709/73_Winter_2019_Q2",
+    "file": "questions/21722/68351/21722_a_68351_2_1.png"
+   },
+   {
+    "qid": 66466,
+    "paper_ref": "9709/72_Winter_2019_Q6",
+    "file": "questions/21721/68349/21721_q_68349_6_1.png"
+   },
+   {
+    "qid": 66466,
+    "paper_ref": "9709/72_Winter_2019_Q6",
+    "file": "questions/21721/68349/21721_q_68349_6_2.png"
+   },
+   {
+    "qid": 66466,
+    "paper_ref": "9709/72_Winter_2019_Q6",
+    "file": "questions/21721/68349/21721_a_68349_6_1.png"
+   },
+   {
+    "qid": 66461,
+    "paper_ref": "9709/72_Winter_2019_Q1",
+    "file": "questions/21721/68344/21721_q_68344_1_1.png"
+   },
+   {
+    "qid": 66461,
+    "paper_ref": "9709/72_Winter_2019_Q1",
+    "file": "questions/21721/68344/21721_a_68344_1_1.png"
+   },
+   {
+    "qid": 56605,
+    "paper_ref": "9709/73_Summer_2019_Q7",
+    "file": "questions/20881/58421/20881_q_58421_7_1.png"
+   },
+   {
+    "qid": 56605,
+    "paper_ref": "9709/73_Summer_2019_Q7",
+    "file": "questions/20881/58421/20881_q_58421_7_2.png"
+   },
+   {
+    "qid": 56605,
+    "paper_ref": "9709/73_Summer_2019_Q7",
+    "file": "questions/20881/58421/20881_a_58421_7_1.png"
+   },
+   {
+    "qid": 56605,
+    "paper_ref": "9709/73_Summer_2019_Q7",
+    "file": "questions/20881/58421/20881_a_58421_7_2.png"
+   },
+   {
+    "qid": 56592,
+    "paper_ref": "9709/72_Summer_2019_Q1",
+    "file": "questions/20880/58408/20880_q_58408_1_1.png"
+   },
+   {
+    "qid": 56592,
+    "paper_ref": "9709/72_Summer_2019_Q1",
+    "file": "questions/20880/58408/20880_a_58408_1_1.png"
+   },
+   {
+    "qid": 56590,
+    "paper_ref": "9709/71_Summer_2019_Q5",
+    "file": "questions/20879/58406/20879_q_58406_5_1.png"
+   },
+   {
+    "qid": 56590,
+    "paper_ref": "9709/71_Summer_2019_Q5",
+    "file": "questions/20879/58406/20879_q_58406_5_2.png"
+   },
+   {
+    "qid": 56590,
+    "paper_ref": "9709/71_Summer_2019_Q5",
+    "file": "questions/20879/58406/20879_a_58406_5_1.png"
+   },
+   {
+    "qid": 56586,
+    "paper_ref": "9709/71_Summer_2019_Q1",
+    "file": "questions/20879/58402/20879_q_58402_1_1.png"
+   },
+   {
+    "qid": 56586,
+    "paper_ref": "9709/71_Summer_2019_Q1",
+    "file": "questions/20879/58402/20879_a_58402_1_1.png"
+   },
+   {
+    "qid": 54044,
+    "paper_ref": "9709/73_Winter_2018_Q4",
+    "file": "questions/20206/55850/20206_q_55850_4_1.png"
+   },
+   {
+    "qid": 54044,
+    "paper_ref": "9709/73_Winter_2018_Q4",
+    "file": "questions/20206/55850/20206_q_55850_4_2.png"
+   },
+   {
+    "qid": 54044,
+    "paper_ref": "9709/73_Winter_2018_Q4",
+    "file": "questions/20206/55850/20206_a_55850_4_1.png"
+   },
+   {
+    "qid": 54040,
+    "paper_ref": "9709/72_Winter_2018_Q7",
+    "file": "questions/20205/55846/20205_q_55846_7_1.png"
+   },
+   {
+    "qid": 54040,
+    "paper_ref": "9709/72_Winter_2018_Q7",
+    "file": "questions/20205/55846/20205_q_55846_7_2.png"
+   },
+   {
+    "qid": 54040,
+    "paper_ref": "9709/72_Winter_2018_Q7",
+    "file": "questions/20205/55846/20205_a_55846_7_1.png"
+   },
+   {
+    "qid": 54040,
+    "paper_ref": "9709/72_Winter_2018_Q7",
+    "file": "questions/20205/55846/20205_a_55846_7_2.png"
+   },
+   {
+    "qid": 54034,
+    "paper_ref": "9709/72_Winter_2018_Q1",
+    "file": "questions/20205/55840/20205_q_55840_1_1.png"
+   },
+   {
+    "qid": 54034,
+    "paper_ref": "9709/72_Winter_2018_Q1",
+    "file": "questions/20205/55840/20205_a_55840_1_1.png"
+   },
+   {
+    "qid": 54030,
+    "paper_ref": "9709/71_Winter_2018_Q4",
+    "file": "questions/20204/55836/20204_q_55836_4_1.png"
+   },
+   {
+    "qid": 54030,
+    "paper_ref": "9709/71_Winter_2018_Q4",
+    "file": "questions/20204/55836/20204_q_55836_4_2.png"
+   },
+   {
+    "qid": 54030,
+    "paper_ref": "9709/71_Winter_2018_Q4",
+    "file": "questions/20204/55836/20204_a_55836_4_1.png"
+   },
+   {
+    "qid": 51131,
+    "paper_ref": "9709/73_Summer_2018_Q4",
+    "file": "questions/17588/52899/17588_q_52899_4_1.png"
+   },
+   {
+    "qid": 51131,
+    "paper_ref": "9709/73_Summer_2018_Q4",
+    "file": "questions/17588/52899/17588_a_52899_4_1.png"
+   },
+   {
+    "qid": 51128,
+    "paper_ref": "9709/73_Summer_2018_Q1",
+    "file": "questions/17588/52896/17588_q_52896_1_1.png"
+   },
+   {
+    "qid": 51128,
+    "paper_ref": "9709/73_Summer_2018_Q1",
+    "file": "questions/17588/52896/17588_a_52896_1_1.png"
+   },
+   {
+    "qid": 51126,
+    "paper_ref": "9709/72_Summer_2018_Q6",
+    "file": "questions/17587/52894/17587_q_52894_6_1.png"
+   },
+   {
+    "qid": 51126,
+    "paper_ref": "9709/72_Summer_2018_Q6",
+    "file": "questions/17587/52894/17587_q_52894_6_2.png"
+   },
+   {
+    "qid": 51126,
+    "paper_ref": "9709/72_Summer_2018_Q6",
+    "file": "questions/17587/52894/17587_a_52894_6_1.png"
+   },
+   {
+    "qid": 51126,
+    "paper_ref": "9709/72_Summer_2018_Q6",
+    "file": "questions/17587/52894/17587_a_52894_6_2.png"
+   },
+   {
+    "qid": 51121,
+    "paper_ref": "9709/72_Summer_2018_Q1",
+    "file": "questions/17587/52889/17587_q_52889_1_1.png"
+   },
+   {
+    "qid": 51121,
+    "paper_ref": "9709/72_Summer_2018_Q1",
+    "file": "questions/17587/52889/17587_a_52889_1_1.png"
+   },
+   {
+    "qid": 51120,
+    "paper_ref": "9709/71_Summer_2018_Q7",
+    "file": "questions/17586/52888/17586_q_52888_7_1.png"
+   },
+   {
+    "qid": 51120,
+    "paper_ref": "9709/71_Summer_2018_Q7",
+    "file": "questions/17586/52888/17586_q_52888_7_2.png"
+   },
+   {
+    "qid": 51120,
+    "paper_ref": "9709/71_Summer_2018_Q7",
+    "file": "questions/17586/52888/17586_a_52888_7_1.png"
+   },
+   {
+    "qid": 51116,
+    "paper_ref": "9709/71_Summer_2018_Q3",
+    "file": "questions/17586/52884/17586_q_52884_3_1.png"
+   },
+   {
+    "qid": 51116,
+    "paper_ref": "9709/71_Summer_2018_Q3",
+    "file": "questions/17586/52884/17586_a_52884_3_1.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_q_49356_7_1.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_q_49356_7_2.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_a_49356_7_1.png"
+   },
+   {
+    "qid": 47647,
+    "paper_ref": "9709/73_Winter_2017_Q7",
+    "file": "questions/14310/49356/14310_a_49356_7_2.png"
+   },
+   {
+    "qid": 47642,
+    "paper_ref": "9709/73_Winter_2017_Q2",
+    "file": "questions/14310/49351/14310_q_49351_2_1.png"
+   },
+   {
+    "qid": 47642,
+    "paper_ref": "9709/73_Winter_2017_Q2",
+    "file": "questions/14310/49351/14310_a_49351_2_1.png"
+   },
+   {
+    "qid": 47641,
+    "paper_ref": "9709/73_Winter_2017_Q1",
+    "file": "questions/14310/49350/14310_q_49350_1_1.png"
+   },
+   {
+    "qid": 47641,
+    "paper_ref": "9709/73_Winter_2017_Q1",
+    "file": "questions/14310/49350/14310_a_49350_1_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_q_49349_6_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_q_49349_6_2.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_a_49349_6_1.png"
+   },
+   {
+    "qid": 47640,
+    "paper_ref": "9709/72_Winter_2017_Q6",
+    "file": "questions/14309/49349/14309_a_49349_6_2.png"
+   },
+   {
+    "qid": 47635,
+    "paper_ref": "9709/72_Winter_2017_Q1",
+    "file": "questions/14309/49344/14309_q_49344_1_1.png"
+   },
+   {
+    "qid": 47635,
+    "paper_ref": "9709/72_Winter_2017_Q1",
+    "file": "questions/14309/49344/14309_a_49344_1_1.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_q_49342_7_1.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_q_49342_7_2.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_a_49342_7_1.png"
+   },
+   {
+    "qid": 47633,
+    "paper_ref": "9709/71_Winter_2017_Q7",
+    "file": "questions/14308/49342/14308_a_49342_7_2.png"
+   },
+   {
+    "qid": 47628,
+    "paper_ref": "9709/71_Winter_2017_Q2",
+    "file": "questions/14308/49337/14308_q_49337_2_1.png"
+   },
+   {
+    "qid": 47628,
+    "paper_ref": "9709/71_Winter_2017_Q2",
+    "file": "questions/14308/49337/14308_a_49337_2_1.png"
+   },
+   {
+    "qid": 47627,
+    "paper_ref": "9709/71_Winter_2017_Q1",
+    "file": "questions/14308/49336/14308_q_49336_1_1.png"
+   },
+   {
+    "qid": 47627,
+    "paper_ref": "9709/71_Winter_2017_Q1",
+    "file": "questions/14308/49336/14308_a_49336_1_1.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_q_44305_7_1.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_q_44305_7_2.png"
+   },
+   {
+    "qid": 42911,
+    "paper_ref": "9709/73_Summer_2017_Q7",
+    "file": "questions/7719/44305/7719_a_44305_7_1.png"
+   },
+   {
+    "qid": 42909,
+    "paper_ref": "9709/73_Summer_2017_Q5",
+    "file": "questions/7719/44303/7719_q_44303_5_1.png"
+   },
+   {
+    "qid": 42909,
+    "paper_ref": "9709/73_Summer_2017_Q5",
+    "file": "questions/7719/44303/7719_q_44303_5_2.png"
+   },
+   {
+    "qid": 42909,
+    "paper_ref": "9709/73_Summer_2017_Q5",
+    "file": "questions/7719/44303/7719_a_44303_5_1.png"
+   },
+   {
+    "qid": 42903,
+    "paper_ref": "9709/72_Summer_2017_Q6",
+    "file": "questions/7718/44297/7718_q_44297_6_1.png"
+   },
+   {
+    "qid": 42903,
+    "paper_ref": "9709/72_Summer_2017_Q6",
+    "file": "questions/7718/44297/7718_q_44297_6_2.png"
+   },
+   {
+    "qid": 42903,
+    "paper_ref": "9709/72_Summer_2017_Q6",
+    "file": "questions/7718/44297/7718_a_44297_6_1.png"
+   },
+   {
+    "qid": 42899,
+    "paper_ref": "9709/72_Summer_2017_Q2",
+    "file": "questions/7718/44293/7718_q_44293_2_1.png"
+   },
+   {
+    "qid": 42899,
+    "paper_ref": "9709/72_Summer_2017_Q2",
+    "file": "questions/7718/44293/7718_a_44293_2_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_q_44291_6_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_q_44291_6_2.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_a_44291_6_1.png"
+   },
+   {
+    "qid": 42897,
+    "paper_ref": "9709/71_Summer_2017_Q6",
+    "file": "questions/7716/44291/7716_a_44291_6_2.png"
+   },
+   {
+    "qid": 42892,
+    "paper_ref": "9709/71_Summer_2017_Q1",
+    "file": "questions/7716/44286/7716_q_44286_1_1.png"
+   },
+   {
+    "qid": 42892,
+    "paper_ref": "9709/71_Summer_2017_Q1",
+    "file": "questions/7716/44286/7716_a_44286_1_1.png"
+   },
+   {
+    "qid": 27053,
+    "paper_ref": "9709/73_Winter_2016_Q7",
+    "file": "questions/5861/27999/5861_q_27999_7_1.png"
+   },
+   {
+    "qid": 27053,
+    "paper_ref": "9709/73_Winter_2016_Q7",
+    "file": "questions/5861/27999/5861_a_27999_7_1.png"
+   },
+   {
+    "qid": 27053,
+    "paper_ref": "9709/73_Winter_2016_Q7",
+    "file": "questions/5861/27999/5861_a_27999_7_2.png"
+   },
+   {
+    "qid": 27047,
+    "paper_ref": "9709/73_Winter_2016_Q1",
+    "file": "questions/5861/27993/5861_q_27993_1_1.png"
+   },
+   {
+    "qid": 27047,
+    "paper_ref": "9709/73_Winter_2016_Q1",
+    "file": "questions/5861/27993/5861_a_27993_1_1.png"
+   },
+   {
+    "qid": 27042,
+    "paper_ref": "9709/72_Winter_2016_Q3",
+    "file": "questions/5860/27988/5860_q_27988_3_1.png"
+   },
+   {
+    "qid": 27042,
+    "paper_ref": "9709/72_Winter_2016_Q3",
+    "file": "questions/5860/27988/5860_a_27988_3_1.png"
+   },
+   {
+    "qid": 27035,
+    "paper_ref": "9709/71_Winter_2016_Q3",
+    "file": "questions/5859/27981/5859_q_27981_3_1.png"
+   },
+   {
+    "qid": 27035,
+    "paper_ref": "9709/71_Winter_2016_Q3",
+    "file": "questions/5859/27981/5859_a_27981_3_1.png"
+   },
+   {
+    "qid": 27031,
+    "paper_ref": "9709/73_Summer_2016_Q6",
+    "file": "questions/3983/27977/3983_q_27977_6_1.png"
+   },
+   {
+    "qid": 27031,
+    "paper_ref": "9709/73_Summer_2016_Q6",
+    "file": "questions/3983/27977/3983_a_27977_6_1.png"
+   },
+   {
+    "qid": 27029,
+    "paper_ref": "9709/73_Summer_2016_Q4",
+    "file": "questions/3983/27975/3983_q_27975_4_1.png"
+   },
+   {
+    "qid": 27029,
+    "paper_ref": "9709/73_Summer_2016_Q4",
+    "file": "questions/3983/27975/3983_a_27975_4_1.png"
+   },
+   {
+    "qid": 27028,
+    "paper_ref": "9709/73_Summer_2016_Q3",
+    "file": "questions/3983/27974/3983_q_27974_3_1.png"
+   },
+   {
+    "qid": 27028,
+    "paper_ref": "9709/73_Summer_2016_Q3",
+    "file": "questions/3983/27974/3983_a_27974_3_1.png"
+   },
+   {
+    "qid": 27024,
+    "paper_ref": "9709/72_Summer_2016_Q6",
+    "file": "questions/3982/27970/3982_q_27970_6_1.png"
+   },
+   {
+    "qid": 27024,
+    "paper_ref": "9709/72_Summer_2016_Q6",
+    "file": "questions/3982/27970/3982_a_27970_6_1.png"
+   },
+   {
+    "qid": 27022,
+    "paper_ref": "9709/72_Summer_2016_Q4",
+    "file": "questions/3982/27968/3982_q_27968_4_1.png"
+   },
+   {
+    "qid": 27022,
+    "paper_ref": "9709/72_Summer_2016_Q4",
+    "file": "questions/3982/27968/3982_a_27968_4_1.png"
+   },
+   {
+    "qid": 27018,
+    "paper_ref": "9709/71_Summer_2016_Q7",
+    "file": "questions/3980/27964/3980_q_27964_7_1.png"
+   },
+   {
+    "qid": 27018,
+    "paper_ref": "9709/71_Summer_2016_Q7",
+    "file": "questions/3980/27964/3980_a_27964_7_1.png"
+   },
+   {
+    "qid": 27009,
+    "paper_ref": "9709/73_Winter_2015_Q5",
+    "file": "questions/4038/27955/4038_q_27955_5_1.png"
+   },
+   {
+    "qid": 27009,
+    "paper_ref": "9709/73_Winter_2015_Q5",
+    "file": "questions/4038/27955/4038_a_27955_5_1.png"
+   },
+   {
+    "qid": 27006,
+    "paper_ref": "9709/73_Winter_2015_Q2",
+    "file": "questions/4038/27952/4038_q_27952_2_1.png"
+   },
+   {
+    "qid": 27006,
+    "paper_ref": "9709/73_Winter_2015_Q2",
+    "file": "questions/4038/27952/4038_a_27952_2_1.png"
+   },
+   {
+    "qid": 27002,
+    "paper_ref": "9709/72_Winter_2015_Q5",
+    "file": "questions/4036/27948/4036_q_27948_5_1.png"
+   },
+   {
+    "qid": 27002,
+    "paper_ref": "9709/72_Winter_2015_Q5",
+    "file": "questions/4036/27948/4036_a_27948_5_1.png"
+   },
+   {
+    "qid": 26998,
+    "paper_ref": "9709/72_Winter_2015_Q1",
+    "file": "questions/4036/27944/4036_q_27944_1_1.png"
+   },
+   {
+    "qid": 26998,
+    "paper_ref": "9709/72_Winter_2015_Q1",
+    "file": "questions/4036/27944/4036_a_27944_1_1.png"
+   },
+   {
+    "qid": 26995,
+    "paper_ref": "9709/71_Winter_2015_Q5",
+    "file": "questions/4034/27941/4034_q_27941_5_1.png"
+   },
+   {
+    "qid": 26995,
+    "paper_ref": "9709/71_Winter_2015_Q5",
+    "file": "questions/4034/27941/4034_a_27941_5_1.png"
+   },
+   {
+    "qid": 26991,
+    "paper_ref": "9709/71_Winter_2015_Q1",
+    "file": "questions/4034/27937/4034_q_27937_1_1.png"
+   },
+   {
+    "qid": 26991,
+    "paper_ref": "9709/71_Winter_2015_Q1",
+    "file": "questions/4034/27937/4034_a_27937_1_1.png"
+   },
+   {
+    "qid": 26989,
+    "paper_ref": "9709/73_Summer_2015_Q6",
+    "file": "questions/4040/27935/4040_q_27935_6_1.png"
+   },
+   {
+    "qid": 26989,
+    "paper_ref": "9709/73_Summer_2015_Q6",
+    "file": "questions/4040/27935/4040_a_27935_6_1.png"
+   },
+   {
+    "qid": 26983,
+    "paper_ref": "9709/72_Summer_2015_Q7",
+    "file": "questions/4037/27929/4037_q_27929_7_1.png"
+   },
+   {
+    "qid": 26983,
+    "paper_ref": "9709/72_Summer_2015_Q7",
+    "file": "questions/4037/27929/4037_a_27929_7_1.png"
+   },
+   {
+    "qid": 26979,
+    "paper_ref": "9709/72_Summer_2015_Q3",
+    "file": "questions/4037/27925/4037_q_27925_3_1.png"
+   },
+   {
+    "qid": 26979,
+    "paper_ref": "9709/72_Summer_2015_Q3",
+    "file": "questions/4037/27925/4037_a_27925_3_1.png"
+   },
+   {
+    "qid": 26978,
+    "paper_ref": "9709/72_Summer_2015_Q2",
+    "file": "questions/4037/27924/4037_q_27924_2_1.png"
+   },
+   {
+    "qid": 26978,
+    "paper_ref": "9709/72_Summer_2015_Q2",
+    "file": "questions/4037/27924/4037_a_27924_2_1.png"
+   },
+   {
+    "qid": 26976,
+    "paper_ref": "9709/71_Summer_2015_Q7",
+    "file": "questions/4035/27922/4035_q_27922_7_1.png"
+   },
+   {
+    "qid": 26976,
+    "paper_ref": "9709/71_Summer_2015_Q7",
+    "file": "questions/4035/27922/4035_a_27922_7_1.png"
+   },
+   {
+    "qid": 26975,
+    "paper_ref": "9709/71_Summer_2015_Q6",
+    "file": "questions/4035/27921/4035_q_27921_6_1.png"
+   },
+   {
+    "qid": 26975,
+    "paper_ref": "9709/71_Summer_2015_Q6",
+    "file": "questions/4035/27921/4035_a_27921_6_1.png"
+   },
+   {
+    "qid": 26969,
+    "paper_ref": "9709/73_Winter_2014_Q6",
+    "file": "questions/3420/27915/3420_q_27915_6_1.png"
+   },
+   {
+    "qid": 26969,
+    "paper_ref": "9709/73_Winter_2014_Q6",
+    "file": "questions/3420/27915/3420_a_27915_6_1.png"
+   },
+   {
+    "qid": 26963,
+    "paper_ref": "9709/72_Winter_2014_Q6",
+    "file": "questions/3419/27909/3419_q_27909_6_1.png"
+   },
+   {
+    "qid": 26963,
+    "paper_ref": "9709/72_Winter_2014_Q6",
+    "file": "questions/3419/27909/3419_a_27909_6_1.png"
+   },
+   {
+    "qid": 26959,
+    "paper_ref": "9709/72_Winter_2014_Q2",
+    "file": "questions/3419/27905/3419_q_27905_2_1.png"
+   },
+   {
+    "qid": 26959,
+    "paper_ref": "9709/72_Winter_2014_Q2",
+    "file": "questions/3419/27905/3419_a_27905_2_1.png"
+   },
+   {
+    "qid": 26957,
+    "paper_ref": "9709/71_Winter_2014_Q6",
+    "file": "questions/3418/27903/3418_q_27903_6_1.png"
+   },
+   {
+    "qid": 26957,
+    "paper_ref": "9709/71_Winter_2014_Q6",
+    "file": "questions/3418/27903/3418_a_27903_6_1.png"
+   },
+   {
+    "qid": 26953,
+    "paper_ref": "9709/71_Winter_2014_Q2",
+    "file": "questions/3418/27899/3418_q_27899_2_1.png"
+   },
+   {
+    "qid": 26953,
+    "paper_ref": "9709/71_Winter_2014_Q2",
+    "file": "questions/3418/27899/3418_a_27899_2_1.png"
+   },
+   {
+    "qid": 26937,
+    "paper_ref": "9709/73_Summer_2014_Q7",
+    "file": "questions/3403/27883/3403_q_27883_7_1.png"
+   },
+   {
+    "qid": 26937,
+    "paper_ref": "9709/73_Summer_2014_Q7",
+    "file": "questions/3403/27883/3403_a_27883_7_1.png"
+   },
+   {
+    "qid": 26923,
+    "paper_ref": "9709/73_Summer_2014_Q1",
+    "file": "questions/3403/27869/3403_q_27869_1_1.png"
+   },
+   {
+    "qid": 26923,
+    "paper_ref": "9709/73_Summer_2014_Q1",
+    "file": "questions/3403/27869/3403_a_27869_1_1.png"
+   },
+   {
+    "qid": 26911,
+    "paper_ref": "9709/72_Summer_2014_Q4",
+    "file": "questions/3402/27857/3402_q_27857_4_1.png"
+   },
+   {
+    "qid": 26911,
+    "paper_ref": "9709/72_Summer_2014_Q4",
+    "file": "questions/3402/27857/3402_a_27857_4_1.png"
+   },
+   {
+    "qid": 26910,
+    "paper_ref": "9709/72_Summer_2014_Q3",
+    "file": "questions/3402/27856/3402_q_27856_3_1.png"
+   },
+   {
+    "qid": 26910,
+    "paper_ref": "9709/72_Summer_2014_Q3",
+    "file": "questions/3402/27856/3402_a_27856_3_1.png"
+   },
+   {
+    "qid": 26887,
+    "paper_ref": "9709/71_Summer_2014_Q8",
+    "file": "questions/3401/27833/3401_q_27833_8_1.png"
+   },
+   {
+    "qid": 26887,
+    "paper_ref": "9709/71_Summer_2014_Q8",
+    "file": "questions/3401/27833/3401_a_27833_8_1.png"
+   },
+   {
+    "qid": 26883,
+    "paper_ref": "9709/71_Summer_2014_Q4",
+    "file": "questions/3401/27829/3401_q_27829_4_1.png"
+   },
+   {
+    "qid": 26883,
+    "paper_ref": "9709/71_Summer_2014_Q4",
+    "file": "questions/3401/27829/3401_a_27829_4_1.png"
+   },
+   {
+    "qid": 26857,
+    "paper_ref": "9709/73_Winter_2013_Q4",
+    "file": "questions/3417/27803/3417_q_27803_4_1.png"
+   },
+   {
+    "qid": 26857,
+    "paper_ref": "9709/73_Winter_2013_Q4",
+    "file": "questions/3417/27803/3417_a_27803_4_1.png"
+   },
+   {
+    "qid": 26836,
+    "paper_ref": "9709/72_Winter_2013_Q4",
+    "file": "questions/3416/27782/3416_q_27782_4_1.png"
+   },
+   {
+    "qid": 26836,
+    "paper_ref": "9709/72_Winter_2013_Q4",
+    "file": "questions/3416/27782/3416_a_27782_4_1.png"
+   },
+   {
+    "qid": 26829,
+    "paper_ref": "9709/72_Winter_2013_Q1",
+    "file": "questions/3416/27775/3416_q_27775_1_1.png"
+   },
+   {
+    "qid": 26829,
+    "paper_ref": "9709/72_Winter_2013_Q1",
+    "file": "questions/3416/27775/3416_a_27775_1_1.png"
+   },
+   {
+    "qid": 26815,
+    "paper_ref": "9709/71_Winter_2013_Q4",
+    "file": "questions/3415/27761/3415_q_27761_4_1.png"
+   },
+   {
+    "qid": 26815,
+    "paper_ref": "9709/71_Winter_2013_Q4",
+    "file": "questions/3415/27761/3415_a_27761_4_1.png"
+   },
+   {
+    "qid": 26812,
+    "paper_ref": "9709/71_Winter_2013_Q1",
+    "file": "questions/3415/27758/3415_q_27758_1_1.png"
+   },
+   {
+    "qid": 26812,
+    "paper_ref": "9709/71_Winter_2013_Q1",
+    "file": "questions/3415/27758/3415_a_27758_1_1.png"
+   },
+   {
+    "qid": 26800,
+    "paper_ref": "9709/73_Summer_2013_Q6",
+    "file": "questions/3399/27746/3399_q_27746_6_1.png"
+   },
+   {
+    "qid": 26800,
+    "paper_ref": "9709/73_Summer_2013_Q6",
+    "file": "questions/3399/27746/3399_a_27746_6_1.png"
+   },
+   {
+    "qid": 26798,
+    "paper_ref": "9709/73_Summer_2013_Q4",
+    "file": "questions/3399/27744/3399_q_27744_4_1.png"
+   },
+   {
+    "qid": 26798,
+    "paper_ref": "9709/73_Summer_2013_Q4",
+    "file": "questions/3399/27744/3399_a_27744_4_1.png"
+   },
+   {
+    "qid": 26788,
+    "paper_ref": "9709/72_Summer_2013_Q6",
+    "file": "questions/3398/27734/3398_q_27734_6_1.png"
+   },
+   {
+    "qid": 26788,
+    "paper_ref": "9709/72_Summer_2013_Q6",
+    "file": "questions/3398/27734/3398_a_27734_6_1.png"
+   },
+   {
+    "qid": 26777,
+    "paper_ref": "9709/72_Summer_2013_Q1",
+    "file": "questions/3398/27723/3398_q_27723_1_1.png"
+   },
+   {
+    "qid": 26777,
+    "paper_ref": "9709/72_Summer_2013_Q1",
+    "file": "questions/3398/27723/3398_a_27723_1_1.png"
+   },
+   {
+    "qid": 26762,
+    "paper_ref": "9709/71_Summer_2013_Q5",
+    "file": "questions/3397/27708/3397_q_27708_5_1.png"
+   },
+   {
+    "qid": 26762,
+    "paper_ref": "9709/71_Summer_2013_Q5",
+    "file": "questions/3397/27708/3397_a_27708_5_1.png"
+   },
+   {
+    "qid": 26749,
+    "paper_ref": "9709/73_Winter_2012_Q7",
+    "file": "questions/3414/27695/3414_q_27695_7_1.png"
+   },
+   {
+    "qid": 26749,
+    "paper_ref": "9709/73_Winter_2012_Q7",
+    "file": "questions/3414/27695/3414_a_27695_7_1.png"
+   },
+   {
+    "qid": 26721,
+    "paper_ref": "9709/72_Winter_2012_Q7",
+    "file": "questions/3413/27667/3413_q_27667_7_1.png"
+   },
+   {
+    "qid": 26721,
+    "paper_ref": "9709/72_Winter_2012_Q7",
+    "file": "questions/3413/27667/3413_a_27667_7_1.png"
+   },
+   {
+    "qid": 26721,
+    "paper_ref": "9709/72_Winter_2012_Q7",
+    "file": "questions/3413/27667/3413_a_27667_7_2.png"
+   },
+   {
+    "qid": 26694,
+    "paper_ref": "9709/71_Winter_2012_Q7",
+    "file": "questions/3412/27640/3412_q_27640_7_1.png"
+   },
+   {
+    "qid": 26694,
+    "paper_ref": "9709/71_Winter_2012_Q7",
+    "file": "questions/3412/27640/3412_a_27640_7_1.png"
+   },
+   {
+    "qid": 26694,
+    "paper_ref": "9709/71_Winter_2012_Q7",
+    "file": "questions/3412/27640/3412_a_27640_7_2.png"
+   },
+   {
+    "qid": 26660,
+    "paper_ref": "9709/73_Summer_2012_Q4",
+    "file": "questions/3396/27606/3396_q_27606_4_1.png"
+   },
+   {
+    "qid": 26660,
+    "paper_ref": "9709/73_Summer_2012_Q4",
+    "file": "questions/3396/27606/3396_a_27606_4_1.png"
+   },
+   {
+    "qid": 26631,
+    "paper_ref": "9709/72_Summer_2012_Q4",
+    "file": "questions/3395/27577/3395_q_27577_4_1.png"
+   },
+   {
+    "qid": 26631,
+    "paper_ref": "9709/72_Summer_2012_Q4",
+    "file": "questions/3395/27577/3395_a_27577_4_1.png"
+   },
+   {
+    "qid": 26628,
+    "paper_ref": "9709/72_Summer_2012_Q1",
+    "file": "questions/3395/27574/3395_q_27574_1_1.png"
+   },
+   {
+    "qid": 26628,
+    "paper_ref": "9709/72_Summer_2012_Q1",
+    "file": "questions/3395/27574/3395_a_27574_1_1.png"
+   },
+   {
+    "qid": 26607,
+    "paper_ref": "9709/71_Summer_2012_Q7",
+    "file": "questions/3394/27553/3394_q_27553_7_1.png"
+   },
+   {
+    "qid": 26607,
+    "paper_ref": "9709/71_Summer_2012_Q7",
+    "file": "questions/3394/27553/3394_a_27553_7_1.png"
+   },
+   {
+    "qid": 26605,
+    "paper_ref": "9709/71_Summer_2012_Q5",
+    "file": "questions/3394/27551/3394_q_27551_5_1.png"
+   },
+   {
+    "qid": 26605,
+    "paper_ref": "9709/71_Summer_2012_Q5",
+    "file": "questions/3394/27551/3394_a_27551_5_1.png"
+   }
+  ],
+  "Sampling": [
+   {
+    "qid": 56601,
+    "paper_ref": "9709/73_Summer_2019_Q3",
+    "file": "questions/20881/58417/20881_q_58417_3_1.png"
+   },
+   {
+    "qid": 56601,
+    "paper_ref": "9709/73_Summer_2019_Q3",
+    "file": "questions/20881/58417/20881_a_58417_3_1.png"
+   },
+   {
+    "qid": 56601,
+    "paper_ref": "9709/73_Summer_2019_Q3",
+    "file": "questions/20881/58417/20881_a_58417_3_2.png"
+   },
+   {
+    "qid": 56593,
+    "paper_ref": "9709/72_Summer_2019_Q2",
+    "file": "questions/20880/58409/20880_q_58409_2_1.png"
+   },
+   {
+    "qid": 56593,
+    "paper_ref": "9709/72_Summer_2019_Q2",
+    "file": "questions/20880/58409/20880_a_58409_2_1.png"
+   },
+   {
+    "qid": 42905,
+    "paper_ref": "9709/73_Summer_2017_Q1",
+    "file": "questions/7719/44299/7719_q_44299_1_1.png"
+   },
+   {
+    "qid": 42905,
+    "paper_ref": "9709/73_Summer_2017_Q1",
+    "file": "questions/7719/44299/7719_a_44299_1_1.png"
+   },
+   {
+    "qid": 27048,
+    "paper_ref": "9709/73_Winter_2016_Q2",
+    "file": "questions/5861/27994/5861_q_27994_2_1.png"
+   },
+   {
+    "qid": 27048,
+    "paper_ref": "9709/73_Winter_2016_Q2",
+    "file": "questions/5861/27994/5861_a_27994_2_1.png"
+   },
+   {
+    "qid": 26984,
+    "paper_ref": "9709/73_Summer_2015_Q1",
+    "file": "questions/4040/27930/4040_q_27930_1_1.png"
+   },
+   {
+    "qid": 26984,
+    "paper_ref": "9709/73_Summer_2015_Q1",
+    "file": "questions/4040/27930/4040_a_27930_1_1.png"
+   },
+   {
+    "qid": 26914,
+    "paper_ref": "9709/72_Summer_2014_Q7",
+    "file": "questions/3402/27860/3402_q_27860_7_1.png"
+   },
+   {
+    "qid": 26914,
+    "paper_ref": "9709/72_Summer_2014_Q7",
+    "file": "questions/3402/27860/3402_a_27860_7_1.png"
+   },
+   {
+    "qid": 26754,
+    "paper_ref": "9709/71_Summer_2013_Q1",
+    "file": "questions/3397/27700/3397_q_27700_1_1.png"
+   },
+   {
+    "qid": 26754,
+    "paper_ref": "9709/71_Summer_2013_Q1",
+    "file": "questions/3397/27700/3397_a_27700_1_1.png"
+   }
+  ]
+ }
+}
