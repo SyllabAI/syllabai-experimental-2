@@ -25,7 +25,7 @@ harvest** whose source-of-record lives in the sister repo
 
 ## Image-phase progress
 
-**19 subjects imaged here — 36,467 PNGs, ~2.4 GB** (all with
+**21 subjects imaged here — 43,208 PNGs, ~3.1 GB** (all with
 `files_on_disk == index_entries`, 0 unexplained failures):
 
 | Cat | Subject | Key | Images | MB | Session |
@@ -33,6 +33,8 @@ harvest** whose source-of-record lives in the sister repo
 | 7 | IB Physics | 7:92 | 7,539 | 414 | 2026-10-22 a |
 | 5 | A-Level Chemistry 9701 | 5:49 | 7,552 | 337 | 2026-10-22 a |
 | 7 | IB Biology | 7:74 | 6,254 | 750 | 2026-10-22 a |
+| 6 | IAL Biology WBI01 | 6:61 | 4,427 | 398 | 2026-10-22 c |
+| 6 | IAL Physics WPH01 | 6:70 | 2,314 | 286 | 2026-10-22 c |
 | 6 | IAL Chemistry WCH01 | 6:63 | 5,419 | 372 | 2026-10-22 b |
 | 6 | IAL Maths Core WMA01/WMA02 | 6:65 | 1,820 | 87 | 2026-10-22 b |
 | 6 | IAL Mechanics WME01 | 6:68 | 1,233 | 35 | 2026-10-22 b |
@@ -51,21 +53,14 @@ harvest** whose source-of-record lives in the sister repo
 | 21 | IGCSE 9-1 Further Pure 4PM1 | 21:634 | 92 | 3 | 2026-10-22 b |
 
 Session *a* = biggest-first catch-up (IB + CIE A-Level); session *b* =
-**Edexcel-focused sweep** — after it, **21 of 23 Edexcel subjects are
-fully imaged** (5 in the sister repo: 4MA0, 4MB0, 4CH0, 4PH0, 4CH1).
+Edexcel sweep; session *c* = disk-unblocked finish. **EDEXCEL BOARD IS
+DONE: 23/23 subjects fully imaged** — 18 here (cats 4, 6, 21 below) +
+5 in the sister repo (4MA0, 4MB0, 4CH0, 4PH0, 4CH1, see its MANIFEST).
 
-**Edexcel still todo (next session, ~370 MB):** 6:61 WBI01 Biology
-(4,427 urls), 6:70 WPH01 Physics (2,314 urls). Run them FIRST — before
-any other category — to finish the board:
-
-```bash
-bash exam-mate/scripts/edexcel_batch.sh \
-  topical/6_A-LEVEL/61_Biology_WBI01_ topical/6_A-LEVEL/70_Physics_WPH01_
-```
-
-(Then commit+push per subject, stop at ~1.2 GB free.) After Edexcel,
-resume the normal queue with `scripts/exam_mate_images_all.py` ( Sociology
-0495 3:30 next-biggest), same chunked-foreground discipline.
+**Next up (general queue, biggest-first):** resume
+`scripts/exam_mate_images_all.py` chunked-foreground — Sociology 0495
+(3:30, 2,765 urls) is next-biggest, then the remaining ~92 subjects
+(~55k urls). Disk headroom after Edexcel closeout: ~3.3 GB free.
 
 ## Question data (NOT stored here)
 
