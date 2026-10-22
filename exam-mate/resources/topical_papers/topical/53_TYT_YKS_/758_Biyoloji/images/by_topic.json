@@ -1,0 +1,86 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Canlıların Ortak Özellikleri  (common Characteristics Of Living Organisms)": [
+   {
+    "qid": 214701,
+    "paper_ref": "Biyoloji/_Summer_2018_Q15",
+    "file": "media/questions/569459/YKS-TYT-2018--Biyoloji-(15-20)-Q15.png"
+   }
+  ],
+  "Canlıların Sınıflandırılması (sistematik)  (classification Of Living Organisms (systematics))": [
+   {
+    "qid": 220829,
+    "paper_ref": "Biyoloji/_Summer_2019_Q17",
+    "file": "media/questions/569693/YKS-TYT-2019-Biyoloji-(15-20)-Q17.png"
+   },
+   {
+    "qid": 214703,
+    "paper_ref": "Biyoloji/_Summer_2018_Q17",
+    "file": "media/questions/569461/YKS-TYT-2018--Biyoloji-(15-20)-Q17.png"
+   }
+  ],
+  "Canlıların Temel Bileşenleri  (basic Components Of Living Organisms)": [
+   {
+    "qid": 220827,
+    "paper_ref": "Biyoloji/_Summer_2019_Q15",
+    "file": "media/questions/569691/YKS-TYT-2019-Biyoloji-(15-20)-Q15.png"
+   }
+  ],
+  "Ekoloji (Çevre Bilimi)  (ecology)": [
+   {
+    "qid": 220832,
+    "paper_ref": "Biyoloji/_Summer_2019_Q20",
+    "file": "media/questions/569696/YKS-TYT-2019-Biyoloji-(15-20)-Q20.png"
+   },
+   {
+    "qid": 214706,
+    "paper_ref": "Biyoloji/_Summer_2018_Q20",
+    "file": "media/questions/569464/YKS-TYT-2018--Biyoloji-(15-20)-Q20.png"
+   }
+  ],
+  "Hücre Bölünmeleri  (cell Division)": [
+   {
+    "qid": 220830,
+    "paper_ref": "Biyoloji/_Summer_2019_Q18",
+    "file": "media/questions/569694/YKS-TYT-2019-Biyoloji-(15-20)-Q18.png"
+   },
+   {
+    "qid": 214704,
+    "paper_ref": "Biyoloji/_Summer_2018_Q18",
+    "file": "media/questions/569462/YKS-TYT-2018--Biyoloji-(15-20)-Q18.png"
+   }
+  ],
+  "Hücre Ve Yapısı  (cell And Its Structure)": [
+   {
+    "qid": 220828,
+    "paper_ref": "Biyoloji/_Summer_2019_Q16",
+    "file": "media/questions/569692/YKS-TYT-2019-Biyoloji-(15-20)-Q16.png"
+   }
+  ],
+  "Hücre Zarından Madde Geçişleri  (transport Across The Cell Membrane)": [
+   {
+    "qid": 214702,
+    "paper_ref": "Biyoloji/_Summer_2018_Q16",
+    "file": "media/questions/569460/YKS-TYT-2018--Biyoloji-(15-20)-Q16.png"
+   }
+  ],
+  "Kalıtım (genetik)  (inheritance (genetics))": [
+   {
+    "qid": 220831,
+    "paper_ref": "Biyoloji/_Summer_2019_Q19",
+    "file": "media/questions/569695/YKS-TYT-2019-Biyoloji-(15-20)-Q19.png"
+   },
+   {
+    "qid": 214705,
+    "paper_ref": "Biyoloji/_Summer_2018_Q19",
+    "file": "media/questions/569463/YKS-TYT-2018--Biyoloji-(15-20)-Q19.png"
+   }
+  ]
+ }
+}

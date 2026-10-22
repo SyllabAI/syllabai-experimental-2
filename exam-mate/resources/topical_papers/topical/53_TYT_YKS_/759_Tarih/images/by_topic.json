@@ -1,0 +1,66 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:28Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "İlk Türk Devletleri": [
+   {
+    "qid": 220834,
+    "paper_ref": "Tarih/_Summer_2019_Q2",
+    "file": "media/questions/569698/YKS-TYT-2019----Tarih-(1-5)-Q2.png"
+   },
+   {
+    "qid": 220833,
+    "paper_ref": "Tarih/_Summer_2019_Q1",
+    "file": "media/questions/569697/YKS-TYT-2019----Tarih-(1-5)-Q1.png"
+   },
+   {
+    "qid": 214782,
+    "paper_ref": "Tarih/_Summer_2018_Q2",
+    "file": "media/questions/569569/YKS-TYT-2018---Tarih-(1-5)-Q2.png"
+   },
+   {
+    "qid": 214781,
+    "paper_ref": "Tarih/_Summer_2018_Q1",
+    "file": "media/questions/569568/YKS-TYT-2018---Tarih-(1-5)-Q1.png"
+   }
+  ],
+  "Kurtuluş Savaşı Ve Atatürk Dönemi": [
+   {
+    "qid": 220837,
+    "paper_ref": "Tarih/_Summer_2019_Q5",
+    "file": "media/questions/569701/YKS-TYT-2019----Tarih-(1-5)-Q5.png"
+   },
+   {
+    "qid": 220836,
+    "paper_ref": "Tarih/_Summer_2019_Q4",
+    "file": "media/questions/569700/YKS-TYT-2019----Tarih-(1-5)-Q4.png"
+   },
+   {
+    "qid": 214785,
+    "paper_ref": "Tarih/_Summer_2018_Q5",
+    "file": "media/questions/569572/YKS-TYT-2018---Tarih-(1-5)-Q5.png"
+   },
+   {
+    "qid": 214784,
+    "paper_ref": "Tarih/_Summer_2018_Q4",
+    "file": "media/questions/569571/YKS-TYT-2018---Tarih-(1-5)-Q4.png"
+   }
+  ],
+  "Osmanlı Devleti": [
+   {
+    "qid": 220835,
+    "paper_ref": "Tarih/_Summer_2019_Q3",
+    "file": "media/questions/569699/YKS-TYT-2019----Tarih-(1-5)-Q3.png"
+   },
+   {
+    "qid": 214783,
+    "paper_ref": "Tarih/_Summer_2018_Q3",
+    "file": "media/questions/569570/YKS-TYT-2018---Tarih-(1-5)-Q3.png"
+   }
+  ]
+ }
+}

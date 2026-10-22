@@ -1,0 +1,961 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:28Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Bağlaç": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Cümlede Anlam": [
+   {
+    "qid": 220739,
+    "paper_ref": "Türkçe/_Summer_2019_Q6",
+    "file": "media/questions/569598/YKS-TYT-2019---turkçe-Q6.png"
+   },
+   {
+    "qid": 220738,
+    "paper_ref": "Türkçe/_Summer_2019_Q5",
+    "file": "media/questions/569597/YKS-TYT-2019---turkçe-Q5.png"
+   },
+   {
+    "qid": 220737,
+    "paper_ref": "Türkçe/_Summer_2019_Q4",
+    "file": "media/questions/569596/YKS-TYT-2019---turkçe-Q4.png"
+   },
+   {
+    "qid": 220733,
+    "paper_ref": "Türkçe/_Summer_2018_Q40",
+    "file": "media/questions/569506/YKS-TYT-2018---Turkçe-Q40.png"
+   },
+   {
+    "qid": 214794,
+    "paper_ref": "Türkçe/_Summer_2018_Q10",
+    "file": "media/questions/569474/YKS-TYT-2018---Turkçe-Q10.png"
+   },
+   {
+    "qid": 214791,
+    "paper_ref": "Türkçe/_Summer_2018_Q6",
+    "file": "media/questions/555046/YKS-TYT-2018---Turkçe-Q6.png"
+   },
+   {
+    "qid": 214790,
+    "paper_ref": "Türkçe/_Summer_2018_Q5",
+    "file": "media/questions/569469/YKS-TYT-2018---Turkçe-Q5.png"
+   },
+   {
+    "qid": 214789,
+    "paper_ref": "Türkçe/_Summer_2018_Q4",
+    "file": "media/questions/569468/YKS-TYT-2018---Turkçe-Q4.png"
+   },
+   {
+    "qid": 214788,
+    "paper_ref": "Türkçe/_Summer_2018_Q3",
+    "file": "media/questions/569467/YKS-TYT-2018---Turkçe-Q3.png"
+   }
+  ],
+  "Dil Bilgisi (fiil": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Edat": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Isim": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Noktalama Işaretleri": [
+   {
+    "qid": 220751,
+    "paper_ref": "Türkçe/_Summer_2019_Q18",
+    "file": "media/questions/569611/YKS-TYT-2019---turkçe-Q18.png"
+   },
+   {
+    "qid": 220750,
+    "paper_ref": "Türkçe/_Summer_2019_Q17",
+    "file": "media/questions/569610/YKS-TYT-2019---turkçe-Q17.png"
+   },
+   {
+    "qid": 220712,
+    "paper_ref": "Türkçe/_Summer_2018_Q19",
+    "file": "media/questions/569484/YKS-TYT-2018---Turkçe-Q19.png"
+   },
+   {
+    "qid": 220711,
+    "paper_ref": "Türkçe/_Summer_2018_Q18",
+    "file": "media/questions/569483/YKS-TYT-2018---Turkçe-Q18.png"
+   }
+  ],
+  "Paragraf (anlam Ve Anlatım)": [
+   {
+    "qid": 220773,
+    "paper_ref": "Türkçe/_Summer_2019_Q40",
+    "file": "media/questions/569634/YKS-TYT-2019---turkçe-Q40.png"
+   },
+   {
+    "qid": 220771,
+    "paper_ref": "Türkçe/_Summer_2019_Q38",
+    "file": "media/questions/569632/YKS-TYT-2019---turkçe-Q38.png"
+   },
+   {
+    "qid": 220770,
+    "paper_ref": "Türkçe/_Summer_2019_Q37",
+    "file": "media/questions/569630/YKS-TYT-2019---turkçe-Q37.png"
+   },
+   {
+    "qid": 220769,
+    "paper_ref": "Türkçe/_Summer_2019_Q36",
+    "file": "media/questions/569631/YKS-TYT-2019---turkçe-Q36.png"
+   },
+   {
+    "qid": 220768,
+    "paper_ref": "Türkçe/_Summer_2019_Q35",
+    "file": "media/questions/569628/YKS-TYT-2019---turkçe-Q35.png"
+   },
+   {
+    "qid": 220767,
+    "paper_ref": "Türkçe/_Summer_2019_Q34",
+    "file": "media/questions/569627/YKS-TYT-2019---turkçe-Q34.png"
+   },
+   {
+    "qid": 220766,
+    "paper_ref": "Türkçe/_Summer_2019_Q33",
+    "file": "media/questions/569626/YKS-TYT-2019---turkçe-Q33.png"
+   },
+   {
+    "qid": 220765,
+    "paper_ref": "Türkçe/_Summer_2019_Q32",
+    "file": "media/questions/569625/YKS-TYT-2019---turkçe-Q32.png"
+   },
+   {
+    "qid": 220764,
+    "paper_ref": "Türkçe/_Summer_2019_Q31",
+    "file": "media/questions/569624/YKS-TYT-2019---turkçe-Q31.png"
+   },
+   {
+    "qid": 220763,
+    "paper_ref": "Türkçe/_Summer_2019_Q30",
+    "file": "media/questions/569623/YKS-TYT-2019---turkçe-Q30.png"
+   },
+   {
+    "qid": 220762,
+    "paper_ref": "Türkçe/_Summer_2019_Q29",
+    "file": "media/questions/569622/YKS-TYT-2019---turkçe-Q29.png"
+   },
+   {
+    "qid": 220761,
+    "paper_ref": "Türkçe/_Summer_2019_Q28",
+    "file": "media/questions/569621/YKS-TYT-2019---turkçe-Q28.png"
+   },
+   {
+    "qid": 220760,
+    "paper_ref": "Türkçe/_Summer_2019_Q27",
+    "file": "media/questions/569620/YKS-TYT-2019---turkçe-Q27.png"
+   },
+   {
+    "qid": 220759,
+    "paper_ref": "Türkçe/_Summer_2019_Q26",
+    "file": "media/questions/569619/YKS-TYT-2019---turkçe-Q26.png"
+   },
+   {
+    "qid": 220758,
+    "paper_ref": "Türkçe/_Summer_2019_Q25",
+    "file": "media/questions/569618/YKS-TYT-2019---turkçe-Q25.png"
+   },
+   {
+    "qid": 220757,
+    "paper_ref": "Türkçe/_Summer_2019_Q24",
+    "file": "media/questions/569617/YKS-TYT-2019---turkçe-Q24.png"
+   },
+   {
+    "qid": 220756,
+    "paper_ref": "Türkçe/_Summer_2019_Q23",
+    "file": "media/questions/569616/YKS-TYT-2019---turkçe-Q23.png"
+   },
+   {
+    "qid": 220755,
+    "paper_ref": "Türkçe/_Summer_2019_Q22",
+    "file": "media/questions/569615/YKS-TYT-2019---turkçe-Q22.png"
+   },
+   {
+    "qid": 220754,
+    "paper_ref": "Türkçe/_Summer_2019_Q21",
+    "file": "media/questions/569614/YKS-TYT-2019---turkçe-Q21.png"
+   },
+   {
+    "qid": 220753,
+    "paper_ref": "Türkçe/_Summer_2019_Q20",
+    "file": "media/questions/569613/YKS-TYT-2019---turkçe-Q20.png"
+   },
+   {
+    "qid": 220752,
+    "paper_ref": "Türkçe/_Summer_2019_Q19",
+    "file": "media/questions/569612/YKS-TYT-2019---turkçe-Q19.png"
+   },
+   {
+    "qid": 220732,
+    "paper_ref": "Türkçe/_Summer_2018_Q39",
+    "file": "media/questions/569505/YKS-TYT-2018---Turkçe-Q39.png"
+   },
+   {
+    "qid": 220731,
+    "paper_ref": "Türkçe/_Summer_2018_Q38",
+    "file": "media/questions/569504/YKS-TYT-2018---Turkçe-Q38.png"
+   },
+   {
+    "qid": 220730,
+    "paper_ref": "Türkçe/_Summer_2018_Q37",
+    "file": "media/questions/569503/YKS-TYT-2018---Turkçe-Q37.png"
+   },
+   {
+    "qid": 220729,
+    "paper_ref": "Türkçe/_Summer_2018_Q36",
+    "file": "media/questions/569502/YKS-TYT-2018---Turkçe-Q36.png"
+   },
+   {
+    "qid": 220728,
+    "paper_ref": "Türkçe/_Summer_2018_Q35",
+    "file": "media/questions/569501/YKS-TYT-2018---Turkçe-Q35.png"
+   },
+   {
+    "qid": 220727,
+    "paper_ref": "Türkçe/_Summer_2018_Q34",
+    "file": "media/questions/569500/YKS-TYT-2018---Turkçe-Q34.png"
+   },
+   {
+    "qid": 220726,
+    "paper_ref": "Türkçe/_Summer_2018_Q33",
+    "file": "media/questions/569499/YKS-TYT-2018---Turkçe-Q33.png"
+   },
+   {
+    "qid": 220725,
+    "paper_ref": "Türkçe/_Summer_2018_Q32",
+    "file": "media/questions/569498/YKS-TYT-2018---Turkçe-Q32.png"
+   },
+   {
+    "qid": 220724,
+    "paper_ref": "Türkçe/_Summer_2018_Q31",
+    "file": "media/questions/569497/YKS-TYT-2018---Turkçe-Q31.png"
+   },
+   {
+    "qid": 220723,
+    "paper_ref": "Türkçe/_Summer_2018_Q30",
+    "file": "media/questions/569496/YKS-TYT-2018---Turkçe-Q30.png"
+   },
+   {
+    "qid": 220722,
+    "paper_ref": "Türkçe/_Summer_2018_Q29",
+    "file": "media/questions/569495/YKS-TYT-2018---Turkçe-Q29.png"
+   },
+   {
+    "qid": 220721,
+    "paper_ref": "Türkçe/_Summer_2018_Q28",
+    "file": "media/questions/569513/YKS-TYT-2018---Turkçe-Q28.png"
+   },
+   {
+    "qid": 220720,
+    "paper_ref": "Türkçe/_Summer_2018_Q27",
+    "file": "media/questions/569493/YKS-TYT-2018---Turkçe-Q27.png"
+   },
+   {
+    "qid": 220719,
+    "paper_ref": "Türkçe/_Summer_2018_Q26",
+    "file": "media/questions/569492/YKS-TYT-2018---Turkçe-Q26.png"
+   },
+   {
+    "qid": 220718,
+    "paper_ref": "Türkçe/_Summer_2018_Q25",
+    "file": "media/questions/569512/YKS-TYT-2018---Turkçe-Q25.png"
+   },
+   {
+    "qid": 220717,
+    "paper_ref": "Türkçe/_Summer_2018_Q24",
+    "file": "media/questions/569511/YKS-TYT-2018---Turkçe-Q24.png"
+   },
+   {
+    "qid": 220716,
+    "paper_ref": "Türkçe/_Summer_2018_Q23",
+    "file": "media/questions/569488/YKS-TYT-2018---Turkçe-Q23.png"
+   },
+   {
+    "qid": 220715,
+    "paper_ref": "Türkçe/_Summer_2018_Q22",
+    "file": "media/questions/569510/YKS-TYT-2018---Turkçe-Q22.png"
+   },
+   {
+    "qid": 220714,
+    "paper_ref": "Türkçe/_Summer_2018_Q21",
+    "file": "media/questions/569486/YKS-TYT-2018---Turkçe-Q21.png"
+   },
+   {
+    "qid": 220713,
+    "paper_ref": "Türkçe/_Summer_2018_Q20",
+    "file": "media/questions/569485/YKS-TYT-2018---Turkçe-Q20.png"
+   },
+   {
+    "qid": 220707,
+    "paper_ref": "Türkçe/_Summer_2018_Q14",
+    "file": "media/questions/569478/YKS-TYT-2018---Turkçe-Q14.png"
+   }
+  ],
+  "Sözcükte Anlam": [
+   {
+    "qid": 220772,
+    "paper_ref": "Türkçe/_Summer_2019_Q39",
+    "file": "media/questions/569633/YKS-TYT-2019---turkçe-Q39.png"
+   },
+   {
+    "qid": 220736,
+    "paper_ref": "Türkçe/_Summer_2019_Q3",
+    "file": "media/questions/569595/YKS-TYT-2019---turkçe-Q3.png"
+   },
+   {
+    "qid": 220735,
+    "paper_ref": "Türkçe/_Summer_2019_Q2",
+    "file": "media/questions/569594/YKS-TYT-2019---turkçe-Q2.png"
+   },
+   {
+    "qid": 220734,
+    "paper_ref": "Türkçe/_Summer_2019_Q1",
+    "file": "media/questions/569593/YKS-TYT-2019---turkçe-Q1.png"
+   },
+   {
+    "qid": 214787,
+    "paper_ref": "Türkçe/_Summer_2018_Q2",
+    "file": "media/questions/569466/YKS-TYT-2018---Turkçe-Q2.png"
+   },
+   {
+    "qid": 214786,
+    "paper_ref": "Türkçe/_Summer_2018_Q1",
+    "file": "media/questions/569465/YKS-TYT-2018---Turkçe-Q1.png"
+   }
+  ],
+  "Sıfat": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Yazım Kuralları": [
+   {
+    "qid": 220749,
+    "paper_ref": "Türkçe/_Summer_2019_Q16",
+    "file": "media/questions/569609/YKS-TYT-2019---turkçe-Q16.png"
+   },
+   {
+    "qid": 220748,
+    "paper_ref": "Türkçe/_Summer_2019_Q15",
+    "file": "media/questions/569608/YKS-TYT-2019---turkçe-Q15.png"
+   },
+   {
+    "qid": 220710,
+    "paper_ref": "Türkçe/_Summer_2018_Q17",
+    "file": "media/questions/569482/YKS-TYT-2018---Turkçe-Q17.png"
+   },
+   {
+    "qid": 220708,
+    "paper_ref": "Türkçe/_Summer_2018_Q15",
+    "file": "media/questions/569479/YKS-TYT-2018---Turkçe-Q15.png"
+   }
+  ],
+  "Zamir": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "Zarf": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ],
+  "ünlem Vb.)": [
+   {
+    "qid": 220747,
+    "paper_ref": "Türkçe/_Summer_2019_Q14",
+    "file": "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   },
+   {
+    "qid": 220746,
+    "paper_ref": "Türkçe/_Summer_2019_Q13",
+    "file": "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   },
+   {
+    "qid": 220745,
+    "paper_ref": "Türkçe/_Summer_2019_Q12",
+    "file": "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   },
+   {
+    "qid": 220744,
+    "paper_ref": "Türkçe/_Summer_2019_Q11",
+    "file": "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   },
+   {
+    "qid": 220743,
+    "paper_ref": "Türkçe/_Summer_2019_Q10",
+    "file": "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   },
+   {
+    "qid": 220742,
+    "paper_ref": "Türkçe/_Summer_2019_Q9",
+    "file": "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   },
+   {
+    "qid": 220741,
+    "paper_ref": "Türkçe/_Summer_2019_Q8",
+    "file": "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   },
+   {
+    "qid": 220740,
+    "paper_ref": "Türkçe/_Summer_2019_Q7",
+    "file": "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   },
+   {
+    "qid": 220709,
+    "paper_ref": "Türkçe/_Summer_2018_Q16",
+    "file": "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   },
+   {
+    "qid": 220706,
+    "paper_ref": "Türkçe/_Summer_2018_Q13",
+    "file": "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   },
+   {
+    "qid": 220705,
+    "paper_ref": "Türkçe/_Summer_2018_Q12",
+    "file": "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   },
+   {
+    "qid": 220704,
+    "paper_ref": "Türkçe/_Summer_2018_Q11",
+    "file": "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   },
+   {
+    "qid": 214795,
+    "paper_ref": "Türkçe/_Summer_2018_Q9",
+    "file": "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   },
+   {
+    "qid": 214793,
+    "paper_ref": "Türkçe/_Summer_2018_Q8",
+    "file": "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   },
+   {
+    "qid": 214792,
+    "paper_ref": "Türkçe/_Summer_2018_Q7",
+    "file": "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:14Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Biyoloji/_Summer_2019_Q20": {
+   "qid": 220832,
+   "page": 1,
+   "topics": "Ekoloji (Çevre Bilimi)  (ecology)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569696/YKS-TYT-2019-Biyoloji-(15-20)-Q20.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q19": {
+   "qid": 220831,
+   "page": 1,
+   "topics": "Kalıtım (genetik)  (inheritance (genetics))",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569695/YKS-TYT-2019-Biyoloji-(15-20)-Q19.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q18": {
+   "qid": 220830,
+   "page": 1,
+   "topics": "Hücre Bölünmeleri  (cell Division)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569694/YKS-TYT-2019-Biyoloji-(15-20)-Q18.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q17": {
+   "qid": 220829,
+   "page": 1,
+   "topics": "Canlıların Sınıflandırılması (sistematik)  (classification Of Living Organisms (systematics))",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569693/YKS-TYT-2019-Biyoloji-(15-20)-Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q16": {
+   "qid": 220828,
+   "page": 1,
+   "topics": "Hücre Ve Yapısı  (cell And Its Structure)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569692/YKS-TYT-2019-Biyoloji-(15-20)-Q16.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2019_Q15": {
+   "qid": 220827,
+   "page": 1,
+   "topics": "Canlıların Temel Bileşenleri  (basic Components Of Living Organisms)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569691/YKS-TYT-2019-Biyoloji-(15-20)-Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q20": {
+   "qid": 214706,
+   "page": 1,
+   "topics": "Ekoloji (Çevre Bilimi)  (ecology)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569464/YKS-TYT-2018--Biyoloji-(15-20)-Q20.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q19": {
+   "qid": 214705,
+   "page": 1,
+   "topics": "Kalıtım (genetik)  (inheritance (genetics))",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569463/YKS-TYT-2018--Biyoloji-(15-20)-Q19.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q18": {
+   "qid": 214704,
+   "page": 1,
+   "topics": "Hücre Bölünmeleri  (cell Division)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569462/YKS-TYT-2018--Biyoloji-(15-20)-Q18.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q17": {
+   "qid": 214703,
+   "page": 1,
+   "topics": "Canlıların Sınıflandırılması (sistematik)  (classification Of Living Organisms (systematics))",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569461/YKS-TYT-2018--Biyoloji-(15-20)-Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q16": {
+   "qid": 214702,
+   "page": 1,
+   "topics": "Hücre Zarından Madde Geçişleri  (transport Across The Cell Membrane)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569460/YKS-TYT-2018--Biyoloji-(15-20)-Q16.png"
+   ],
+   "answer_images": []
+  },
+  "Biyoloji/_Summer_2018_Q15": {
+   "qid": 214701,
+   "page": 1,
+   "topics": "Canlıların Ortak Özellikleri  (common Characteristics Of Living Organisms)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569459/YKS-TYT-2018--Biyoloji-(15-20)-Q15.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

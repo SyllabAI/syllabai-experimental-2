@@ -1,0 +1,1308 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:42Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Alan": [
+   {
+    "qid": 220812,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/569676/YKS-TYT-2019--Matematık-Q39.png"
+   },
+   {
+    "qid": 220811,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/569675/YKS-TYT-2019--Matematık-Q38.png"
+   },
+   {
+    "qid": 220810,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/569674/YKS-TYT-2019--Matematık-Q37.png"
+   },
+   {
+    "qid": 220809,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/569673/YKS-TYT-2019--Matematık-Q36.png"
+   },
+   {
+    "qid": 220807,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/569671/YKS-TYT-2019--Matematık-Q34.png"
+   },
+   {
+    "qid": 220806,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/569670/YKS-TYT-2019--Matematık-Q33.png"
+   },
+   {
+    "qid": 220805,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/569669/YKS-TYT-2019--Matematık-Q32.png"
+   },
+   {
+    "qid": 220804,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/569668/YKS-TYT-2019--Matematık-Q31.png"
+   },
+   {
+    "qid": 214780,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/569553/YKS-TYT-2018---Matematık-Q40.png"
+   },
+   {
+    "qid": 214779,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/569552/YKS-TYT-2018---Matematık-Q39.png"
+   },
+   {
+    "qid": 214778,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/569551/YKS-TYT-2018---Matematık-Q38.png"
+   },
+   {
+    "qid": 214777,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/569550/YKS-TYT-2018---Matematık-Q37.png"
+   },
+   {
+    "qid": 214776,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/569549/YKS-TYT-2018---Matematık-Q36.png"
+   },
+   {
+    "qid": 214775,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/569548/YKS-TYT-2018---Matematık-Q35.png"
+   },
+   {
+    "qid": 214774,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/569547/YKS-TYT-2018---Matematık-Q34.png"
+   },
+   {
+    "qid": 214773,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/569546/YKS-TYT-2018---Matematık-Q33.png"
+   },
+   {
+    "qid": 214772,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/569545/YKS-TYT-2018---Matematık-Q32.png"
+   },
+   {
+    "qid": 214771,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/569544/YKS-TYT-2018---Matematık-Q31.png"
+   },
+   {
+    "qid": 214770,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/569543/YKS-TYT-2018---Matematık-Q30.png"
+   },
+   {
+    "qid": 214751,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/569524/YKS-TYT-2018---Matematık-Q11.png"
+   }
+  ],
+  "Bölme Ve Bölünebilme": [
+   {
+    "qid": 220786,
+    "paper_ref": "Matematik/_Summer_2019_Q13",
+    "file": "media/questions/569650/YKS-TYT-2019--Matematık-Q13.png"
+   },
+   {
+    "qid": 220784,
+    "paper_ref": "Matematik/_Summer_2019_Q11",
+    "file": "media/questions/569648/YKS-TYT-2019--Matematık-Q11.png"
+   },
+   {
+    "qid": 214752,
+    "paper_ref": "Matematik/_Summer_2018_Q12",
+    "file": "media/questions/569525/YKS-TYT-2018---Matematık-Q12.png"
+   }
+  ],
+  "Daire": [
+   {
+    "qid": 220812,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/569676/YKS-TYT-2019--Matematık-Q39.png"
+   },
+   {
+    "qid": 220811,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/569675/YKS-TYT-2019--Matematık-Q38.png"
+   },
+   {
+    "qid": 220810,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/569674/YKS-TYT-2019--Matematık-Q37.png"
+   },
+   {
+    "qid": 220809,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/569673/YKS-TYT-2019--Matematık-Q36.png"
+   },
+   {
+    "qid": 220807,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/569671/YKS-TYT-2019--Matematık-Q34.png"
+   },
+   {
+    "qid": 220806,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/569670/YKS-TYT-2019--Matematık-Q33.png"
+   },
+   {
+    "qid": 220805,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/569669/YKS-TYT-2019--Matematık-Q32.png"
+   },
+   {
+    "qid": 220804,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/569668/YKS-TYT-2019--Matematık-Q31.png"
+   },
+   {
+    "qid": 214780,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/569553/YKS-TYT-2018---Matematık-Q40.png"
+   },
+   {
+    "qid": 214779,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/569552/YKS-TYT-2018---Matematık-Q39.png"
+   },
+   {
+    "qid": 214778,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/569551/YKS-TYT-2018---Matematık-Q38.png"
+   },
+   {
+    "qid": 214777,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/569550/YKS-TYT-2018---Matematık-Q37.png"
+   },
+   {
+    "qid": 214776,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/569549/YKS-TYT-2018---Matematık-Q36.png"
+   },
+   {
+    "qid": 214775,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/569548/YKS-TYT-2018---Matematık-Q35.png"
+   },
+   {
+    "qid": 214774,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/569547/YKS-TYT-2018---Matematık-Q34.png"
+   },
+   {
+    "qid": 214773,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/569546/YKS-TYT-2018---Matematık-Q33.png"
+   },
+   {
+    "qid": 214772,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/569545/YKS-TYT-2018---Matematık-Q32.png"
+   },
+   {
+    "qid": 214771,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/569544/YKS-TYT-2018---Matematık-Q31.png"
+   },
+   {
+    "qid": 214770,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/569543/YKS-TYT-2018---Matematık-Q30.png"
+   },
+   {
+    "qid": 214751,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/569524/YKS-TYT-2018---Matematık-Q11.png"
+   }
+  ],
+  "Denklem çözme": [
+   {
+    "qid": 220787,
+    "paper_ref": "Matematik/_Summer_2019_Q14",
+    "file": "media/questions/569651/YKS-TYT-2019--Matematık-Q14.png"
+   },
+   {
+    "qid": 220782,
+    "paper_ref": "Matematik/_Summer_2019_Q9",
+    "file": "media/questions/569645/YKS-TYT-2019--Matematık-Q9.png"
+   },
+   {
+    "qid": 220781,
+    "paper_ref": "Matematik/_Summer_2019_Q8",
+    "file": "media/questions/569644/YKS-TYT-2019--Matematık-Q8.png"
+   },
+   {
+    "qid": 214755,
+    "paper_ref": "Matematik/_Summer_2018_Q15",
+    "file": "media/questions/569528/YKS-TYT-2018---Matematık-Q15.png"
+   },
+   {
+    "qid": 214750,
+    "paper_ref": "Matematik/_Summer_2018_Q10",
+    "file": "media/questions/569523/YKS-TYT-2018---Matematık-Q10.png"
+   },
+   {
+    "qid": 214748,
+    "paper_ref": "Matematik/_Summer_2018_Q8",
+    "file": "media/questions/569521/YKS-TYT-2018---Matematık-Q8.png"
+   }
+  ],
+  "Dörtgen": [
+   {
+    "qid": 220812,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/569676/YKS-TYT-2019--Matematık-Q39.png"
+   },
+   {
+    "qid": 220811,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/569675/YKS-TYT-2019--Matematık-Q38.png"
+   },
+   {
+    "qid": 220810,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/569674/YKS-TYT-2019--Matematık-Q37.png"
+   },
+   {
+    "qid": 220809,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/569673/YKS-TYT-2019--Matematık-Q36.png"
+   },
+   {
+    "qid": 220807,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/569671/YKS-TYT-2019--Matematık-Q34.png"
+   },
+   {
+    "qid": 220806,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/569670/YKS-TYT-2019--Matematık-Q33.png"
+   },
+   {
+    "qid": 220805,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/569669/YKS-TYT-2019--Matematık-Q32.png"
+   },
+   {
+    "qid": 220804,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/569668/YKS-TYT-2019--Matematık-Q31.png"
+   },
+   {
+    "qid": 214780,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/569553/YKS-TYT-2018---Matematık-Q40.png"
+   },
+   {
+    "qid": 214779,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/569552/YKS-TYT-2018---Matematık-Q39.png"
+   },
+   {
+    "qid": 214778,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/569551/YKS-TYT-2018---Matematık-Q38.png"
+   },
+   {
+    "qid": 214777,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/569550/YKS-TYT-2018---Matematık-Q37.png"
+   },
+   {
+    "qid": 214776,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/569549/YKS-TYT-2018---Matematık-Q36.png"
+   },
+   {
+    "qid": 214775,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/569548/YKS-TYT-2018---Matematık-Q35.png"
+   },
+   {
+    "qid": 214774,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/569547/YKS-TYT-2018---Matematık-Q34.png"
+   },
+   {
+    "qid": 214773,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/569546/YKS-TYT-2018---Matematık-Q33.png"
+   },
+   {
+    "qid": 214772,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/569545/YKS-TYT-2018---Matematık-Q32.png"
+   },
+   {
+    "qid": 214771,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/569544/YKS-TYT-2018---Matematık-Q31.png"
+   },
+   {
+    "qid": 214770,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/569543/YKS-TYT-2018---Matematık-Q30.png"
+   },
+   {
+    "qid": 214751,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/569524/YKS-TYT-2018---Matematık-Q11.png"
+   }
+  ],
+  "Grafik Ve Tablo Yorumlama": [
+   {
+    "qid": 220795,
+    "paper_ref": "Matematik/_Summer_2019_Q22",
+    "file": "media/questions/569659/YKS-TYT-2019--Matematık-Q22.png"
+   },
+   {
+    "qid": 220789,
+    "paper_ref": "Matematik/_Summer_2019_Q16",
+    "file": "media/questions/569653/YKS-TYT-2019--Matematık-Q16.png"
+   },
+   {
+    "qid": 220788,
+    "paper_ref": "Matematik/_Summer_2019_Q15",
+    "file": "media/questions/569652/YKS-TYT-2019--Matematık-Q15.png"
+   },
+   {
+    "qid": 214761,
+    "paper_ref": "Matematik/_Summer_2018_Q21",
+    "file": "media/questions/569534/YKS-TYT-2018---Matematık-Q21.png"
+   },
+   {
+    "qid": 214757,
+    "paper_ref": "Matematik/_Summer_2018_Q17",
+    "file": "media/questions/569530/YKS-TYT-2018---Matematık-Q17.png"
+   },
+   {
+    "qid": 214754,
+    "paper_ref": "Matematik/_Summer_2018_Q14",
+    "file": "media/questions/569527/YKS-TYT-2018---Matematık-Q14.png"
+   }
+  ],
+  "Hareket Vb.)": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "Iş": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "Karışım": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "Kar–zarar": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "Oran – Orantı": [
+   {
+    "qid": 220783,
+    "paper_ref": "Matematik/_Summer_2019_Q10",
+    "file": "media/questions/569647/YKS-TYT-2019--Matematık-Q10.png"
+   },
+   {
+    "qid": 214762,
+    "paper_ref": "Matematik/_Summer_2018_Q22",
+    "file": "media/questions/569535/YKS-TYT-2018---Matematık-Q22.png"
+   }
+  ],
+  "Problemler (yaş": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "Rasyonel Sayılar": [
+   {
+    "qid": 220774,
+    "paper_ref": "Matematik/_Summer_2019_Q1",
+    "file": "media/questions/569635/YKS-TYT-2019--Matematık-Q1.png"
+   },
+   {
+    "qid": 214746,
+    "paper_ref": "Matematik/_Summer_2018_Q6",
+    "file": "media/questions/569519/YKS-TYT-2018---Matematık-Q6.png"
+   },
+   {
+    "qid": 214741,
+    "paper_ref": "Matematik/_Summer_2018_Q1",
+    "file": "media/questions/569514/YKS-TYT-2018---Matematık-Q1.png"
+   }
+  ],
+  "Sayılar Ve Işlemler": [
+   {
+    "qid": 220808,
+    "paper_ref": "Matematik/_Summer_2019_Q35",
+    "file": "media/questions/569672/YKS-TYT-2019--Matematık-Q35.png"
+   },
+   {
+    "qid": 220803,
+    "paper_ref": "Matematik/_Summer_2019_Q30",
+    "file": "media/questions/569667/YKS-TYT-2019--Matematık-Q30.png"
+   },
+   {
+    "qid": 220802,
+    "paper_ref": "Matematik/_Summer_2019_Q29",
+    "file": "media/questions/569666/YKS-TYT-2019--Matematık-Q29.png"
+   },
+   {
+    "qid": 220797,
+    "paper_ref": "Matematik/_Summer_2019_Q24",
+    "file": "media/questions/569661/YKS-TYT-2019--Matematık-Q24.png"
+   },
+   {
+    "qid": 220785,
+    "paper_ref": "Matematik/_Summer_2019_Q12",
+    "file": "media/questions/569649/YKS-TYT-2019--Matematık-Q12.png"
+   },
+   {
+    "qid": 220780,
+    "paper_ref": "Matematik/_Summer_2019_Q7",
+    "file": "media/questions/569643/YKS-TYT-2019--Matematık-Q7.png"
+   },
+   {
+    "qid": 220779,
+    "paper_ref": "Matematik/_Summer_2019_Q6",
+    "file": "media/questions/569640/YKS-TYT-2019--Matematık-Q6.png"
+   },
+   {
+    "qid": 220778,
+    "paper_ref": "Matematik/_Summer_2019_Q5",
+    "file": "media/questions/569639/YKS-TYT-2019--Matematık-Q5.png"
+   },
+   {
+    "qid": 220777,
+    "paper_ref": "Matematik/_Summer_2019_Q4",
+    "file": "media/questions/569638/YKS-TYT-2019--Matematık-Q4.png"
+   },
+   {
+    "qid": 214767,
+    "paper_ref": "Matematik/_Summer_2018_Q27",
+    "file": "media/questions/569540/YKS-TYT-2018---Matematık-Q27.png"
+   },
+   {
+    "qid": 214749,
+    "paper_ref": "Matematik/_Summer_2018_Q9",
+    "file": "media/questions/569522/YKS-TYT-2018---Matematık-Q9.png"
+   },
+   {
+    "qid": 214747,
+    "paper_ref": "Matematik/_Summer_2018_Q7",
+    "file": "media/questions/569520/YKS-TYT-2018---Matematık-Q7.png"
+   },
+   {
+    "qid": 214744,
+    "paper_ref": "Matematik/_Summer_2018_Q4",
+    "file": "media/questions/569517/YKS-TYT-2018---Matematık-Q4.png"
+   }
+  ],
+  "Temel Geometri: üçgen": [
+   {
+    "qid": 220812,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/569676/YKS-TYT-2019--Matematık-Q39.png"
+   },
+   {
+    "qid": 220811,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/569675/YKS-TYT-2019--Matematık-Q38.png"
+   },
+   {
+    "qid": 220810,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/569674/YKS-TYT-2019--Matematık-Q37.png"
+   },
+   {
+    "qid": 220809,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/569673/YKS-TYT-2019--Matematık-Q36.png"
+   },
+   {
+    "qid": 220807,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/569671/YKS-TYT-2019--Matematık-Q34.png"
+   },
+   {
+    "qid": 220806,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/569670/YKS-TYT-2019--Matematık-Q33.png"
+   },
+   {
+    "qid": 220805,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/569669/YKS-TYT-2019--Matematık-Q32.png"
+   },
+   {
+    "qid": 220804,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/569668/YKS-TYT-2019--Matematık-Q31.png"
+   },
+   {
+    "qid": 214780,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/569553/YKS-TYT-2018---Matematık-Q40.png"
+   },
+   {
+    "qid": 214779,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/569552/YKS-TYT-2018---Matematık-Q39.png"
+   },
+   {
+    "qid": 214778,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/569551/YKS-TYT-2018---Matematık-Q38.png"
+   },
+   {
+    "qid": 214777,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/569550/YKS-TYT-2018---Matematık-Q37.png"
+   },
+   {
+    "qid": 214776,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/569549/YKS-TYT-2018---Matematık-Q36.png"
+   },
+   {
+    "qid": 214775,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/569548/YKS-TYT-2018---Matematık-Q35.png"
+   },
+   {
+    "qid": 214774,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/569547/YKS-TYT-2018---Matematık-Q34.png"
+   },
+   {
+    "qid": 214773,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/569546/YKS-TYT-2018---Matematık-Q33.png"
+   },
+   {
+    "qid": 214772,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/569545/YKS-TYT-2018---Matematık-Q32.png"
+   },
+   {
+    "qid": 214771,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/569544/YKS-TYT-2018---Matematık-Q31.png"
+   },
+   {
+    "qid": 214770,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/569543/YKS-TYT-2018---Matematık-Q30.png"
+   },
+   {
+    "qid": 214751,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/569524/YKS-TYT-2018---Matematık-Q11.png"
+   }
+  ],
+  "Veri Analizi": [
+   {
+    "qid": 220795,
+    "paper_ref": "Matematik/_Summer_2019_Q22",
+    "file": "media/questions/569659/YKS-TYT-2019--Matematık-Q22.png"
+   },
+   {
+    "qid": 220789,
+    "paper_ref": "Matematik/_Summer_2019_Q16",
+    "file": "media/questions/569653/YKS-TYT-2019--Matematık-Q16.png"
+   },
+   {
+    "qid": 220788,
+    "paper_ref": "Matematik/_Summer_2019_Q15",
+    "file": "media/questions/569652/YKS-TYT-2019--Matematık-Q15.png"
+   },
+   {
+    "qid": 214761,
+    "paper_ref": "Matematik/_Summer_2018_Q21",
+    "file": "media/questions/569534/YKS-TYT-2018---Matematık-Q21.png"
+   },
+   {
+    "qid": 214757,
+    "paper_ref": "Matematik/_Summer_2018_Q17",
+    "file": "media/questions/569530/YKS-TYT-2018---Matematık-Q17.png"
+   },
+   {
+    "qid": 214754,
+    "paper_ref": "Matematik/_Summer_2018_Q14",
+    "file": "media/questions/569527/YKS-TYT-2018---Matematık-Q14.png"
+   }
+  ],
+  "Yüzde": [
+   {
+    "qid": 220801,
+    "paper_ref": "Matematik/_Summer_2019_Q28",
+    "file": "media/questions/569665/YKS-TYT-2019--Matematık-Q28.png"
+   },
+   {
+    "qid": 220800,
+    "paper_ref": "Matematik/_Summer_2019_Q27",
+    "file": "media/questions/569664/YKS-TYT-2019--Matematık-Q27.png"
+   },
+   {
+    "qid": 220799,
+    "paper_ref": "Matematik/_Summer_2019_Q26",
+    "file": "media/questions/569663/YKS-TYT-2019--Matematık-Q26.png"
+   },
+   {
+    "qid": 220798,
+    "paper_ref": "Matematik/_Summer_2019_Q25",
+    "file": "media/questions/569662/YKS-TYT-2019--Matematık-Q25.png"
+   },
+   {
+    "qid": 220796,
+    "paper_ref": "Matematik/_Summer_2019_Q23",
+    "file": "media/questions/569660/YKS-TYT-2019--Matematık-Q23.png"
+   },
+   {
+    "qid": 220794,
+    "paper_ref": "Matematik/_Summer_2019_Q21",
+    "file": "media/questions/569658/YKS-TYT-2019--Matematık-Q21.png"
+   },
+   {
+    "qid": 220793,
+    "paper_ref": "Matematik/_Summer_2019_Q20",
+    "file": "media/questions/569657/YKS-TYT-2019--Matematık-Q20.png"
+   },
+   {
+    "qid": 220792,
+    "paper_ref": "Matematik/_Summer_2019_Q19",
+    "file": "media/questions/569656/YKS-TYT-2019--Matematık-Q19.png"
+   },
+   {
+    "qid": 220791,
+    "paper_ref": "Matematik/_Summer_2019_Q18",
+    "file": "media/questions/569655/YKS-TYT-2019--Matematık-Q18.png"
+   },
+   {
+    "qid": 220790,
+    "paper_ref": "Matematik/_Summer_2019_Q17",
+    "file": "media/questions/569654/YKS-TYT-2019--Matematık-Q17.png"
+   },
+   {
+    "qid": 214766,
+    "paper_ref": "Matematik/_Summer_2018_Q26",
+    "file": "media/questions/569539/YKS-TYT-2018---Matematık-Q26.png"
+   },
+   {
+    "qid": 214765,
+    "paper_ref": "Matematik/_Summer_2018_Q25",
+    "file": "media/questions/569538/YKS-TYT-2018---Matematık-Q25.png"
+   },
+   {
+    "qid": 214764,
+    "paper_ref": "Matematik/_Summer_2018_Q24",
+    "file": "media/questions/569537/YKS-TYT-2018---Matematık-Q24.png"
+   },
+   {
+    "qid": 214763,
+    "paper_ref": "Matematik/_Summer_2018_Q23",
+    "file": "media/questions/569536/YKS-TYT-2018---Matematık-Q23.png"
+   },
+   {
+    "qid": 214760,
+    "paper_ref": "Matematik/_Summer_2018_Q20",
+    "file": "media/questions/569533/YKS-TYT-2018---Matematık-Q20.png"
+   },
+   {
+    "qid": 214759,
+    "paper_ref": "Matematik/_Summer_2018_Q19",
+    "file": "media/questions/569532/YKS-TYT-2018---Matematık-Q19.png"
+   },
+   {
+    "qid": 214758,
+    "paper_ref": "Matematik/_Summer_2018_Q18",
+    "file": "media/questions/569531/YKS-TYT-2018---Matematık-Q18.png"
+   },
+   {
+    "qid": 214756,
+    "paper_ref": "Matematik/_Summer_2018_Q16",
+    "file": "media/questions/569529/YKS-TYT-2018---Matematık-Q16.png"
+   }
+  ],
+  "çevre": [
+   {
+    "qid": 220812,
+    "paper_ref": "Matematik/_Summer_2019_Q39",
+    "file": "media/questions/569676/YKS-TYT-2019--Matematık-Q39.png"
+   },
+   {
+    "qid": 220811,
+    "paper_ref": "Matematik/_Summer_2019_Q38",
+    "file": "media/questions/569675/YKS-TYT-2019--Matematık-Q38.png"
+   },
+   {
+    "qid": 220810,
+    "paper_ref": "Matematik/_Summer_2019_Q37",
+    "file": "media/questions/569674/YKS-TYT-2019--Matematık-Q37.png"
+   },
+   {
+    "qid": 220809,
+    "paper_ref": "Matematik/_Summer_2019_Q36",
+    "file": "media/questions/569673/YKS-TYT-2019--Matematık-Q36.png"
+   },
+   {
+    "qid": 220807,
+    "paper_ref": "Matematik/_Summer_2019_Q34",
+    "file": "media/questions/569671/YKS-TYT-2019--Matematık-Q34.png"
+   },
+   {
+    "qid": 220806,
+    "paper_ref": "Matematik/_Summer_2019_Q33",
+    "file": "media/questions/569670/YKS-TYT-2019--Matematık-Q33.png"
+   },
+   {
+    "qid": 220805,
+    "paper_ref": "Matematik/_Summer_2019_Q32",
+    "file": "media/questions/569669/YKS-TYT-2019--Matematık-Q32.png"
+   },
+   {
+    "qid": 220804,
+    "paper_ref": "Matematik/_Summer_2019_Q31",
+    "file": "media/questions/569668/YKS-TYT-2019--Matematık-Q31.png"
+   },
+   {
+    "qid": 214780,
+    "paper_ref": "Matematik/_Summer_2018_Q40",
+    "file": "media/questions/569553/YKS-TYT-2018---Matematık-Q40.png"
+   },
+   {
+    "qid": 214779,
+    "paper_ref": "Matematik/_Summer_2018_Q39",
+    "file": "media/questions/569552/YKS-TYT-2018---Matematık-Q39.png"
+   },
+   {
+    "qid": 214778,
+    "paper_ref": "Matematik/_Summer_2018_Q38",
+    "file": "media/questions/569551/YKS-TYT-2018---Matematık-Q38.png"
+   },
+   {
+    "qid": 214777,
+    "paper_ref": "Matematik/_Summer_2018_Q37",
+    "file": "media/questions/569550/YKS-TYT-2018---Matematık-Q37.png"
+   },
+   {
+    "qid": 214776,
+    "paper_ref": "Matematik/_Summer_2018_Q36",
+    "file": "media/questions/569549/YKS-TYT-2018---Matematık-Q36.png"
+   },
+   {
+    "qid": 214775,
+    "paper_ref": "Matematik/_Summer_2018_Q35",
+    "file": "media/questions/569548/YKS-TYT-2018---Matematık-Q35.png"
+   },
+   {
+    "qid": 214774,
+    "paper_ref": "Matematik/_Summer_2018_Q34",
+    "file": "media/questions/569547/YKS-TYT-2018---Matematık-Q34.png"
+   },
+   {
+    "qid": 214773,
+    "paper_ref": "Matematik/_Summer_2018_Q33",
+    "file": "media/questions/569546/YKS-TYT-2018---Matematık-Q33.png"
+   },
+   {
+    "qid": 214772,
+    "paper_ref": "Matematik/_Summer_2018_Q32",
+    "file": "media/questions/569545/YKS-TYT-2018---Matematık-Q32.png"
+   },
+   {
+    "qid": 214771,
+    "paper_ref": "Matematik/_Summer_2018_Q31",
+    "file": "media/questions/569544/YKS-TYT-2018---Matematık-Q31.png"
+   },
+   {
+    "qid": 214770,
+    "paper_ref": "Matematik/_Summer_2018_Q30",
+    "file": "media/questions/569543/YKS-TYT-2018---Matematık-Q30.png"
+   },
+   {
+    "qid": 214751,
+    "paper_ref": "Matematik/_Summer_2018_Q11",
+    "file": "media/questions/569524/YKS-TYT-2018---Matematık-Q11.png"
+   }
+  ],
+  "Üslü Ve Köklü Sayılar": [
+   {
+    "qid": 220776,
+    "paper_ref": "Matematik/_Summer_2019_Q3",
+    "file": "media/questions/569637/YKS-TYT-2019--Matematık-Q3.png"
+   },
+   {
+    "qid": 220775,
+    "paper_ref": "Matematik/_Summer_2019_Q2",
+    "file": "media/questions/569636/YKS-TYT-2019--Matematık-Q2.png"
+   },
+   {
+    "qid": 214745,
+    "paper_ref": "Matematik/_Summer_2018_Q5",
+    "file": "media/questions/569518/YKS-TYT-2018---Matematık-Q5.png"
+   },
+   {
+    "qid": 214743,
+    "paper_ref": "Matematik/_Summer_2018_Q3",
+    "file": "media/questions/569516/YKS-TYT-2018---Matematık-Q3.png"
+   },
+   {
+    "qid": 214742,
+    "paper_ref": "Matematik/_Summer_2018_Q2",
+    "file": "media/questions/569515/YKS-TYT-2018---Matematık-Q2.png"
+   }
+  ]
+ }
+}

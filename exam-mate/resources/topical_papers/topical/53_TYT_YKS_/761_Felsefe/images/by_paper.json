@@ -1,0 +1,230 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:47Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Felsefe/_Summer_2019_Q25": {
+   "qid": 220852,
+   "page": 1,
+   "topics": "Varlık Felsefesi",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569717/Felsefe-Combine-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q24": {
+   "qid": 220851,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569716/Felsefe-Combine-Q24.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q23": {
+   "qid": 220850,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569715/Felsefe-Combine-Q23.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q22": {
+   "qid": 220849,
+   "page": 1,
+   "topics": "Varlık Felsefesi",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569714/Felsefe-Combine-Q22.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q21": {
+   "qid": 220848,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569713/Felsefe-Combine-Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q15": {
+   "qid": 220847,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569712/Felsefe-Combine-Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q14": {
+   "qid": 220846,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569710/Felsefe-Combine-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q13": {
+   "qid": 220845,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569709/Felsefe-Combine-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q12": {
+   "qid": 220844,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569708/Felsefe-Combine-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2019_Q11": {
+   "qid": 220843,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569707/Felsefe-Combine-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q25": {
+   "qid": 214726,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569587/Felsefe-Combine-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q24": {
+   "qid": 214725,
+   "page": 1,
+   "topics": "Varlık Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569586/Felsefe-Combine-Q24.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q23": {
+   "qid": 214724,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569585/Felsefe-Combine-Q23.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q22": {
+   "qid": 214723,
+   "page": 1,
+   "topics": "Varlık Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569584/Felsefe-Combine-Q22.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q21": {
+   "qid": 214722,
+   "page": 1,
+   "topics": "Akıl Yürütme Ve Mantık",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569583/Felsefe-Combine-Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q15": {
+   "qid": 214721,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569582/Felsefe-Combine-Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q14": {
+   "qid": 214720,
+   "page": 1,
+   "topics": "Ahlak Ve Sanat Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569581/Felsefe-Combine-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q13": {
+   "qid": 214719,
+   "page": 1,
+   "topics": "Varlık Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569580/Felsefe-Combine-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q12": {
+   "qid": 214718,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569579/Felsefe-Combine-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Felsefe/_Summer_2018_Q11": {
+   "qid": 214717,
+   "page": 1,
+   "topics": "Bilgi Felsefesi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569578/Felsefe-Combine-Q11.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:58Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Fizik/_Summer_2019_Q7": {
+   "qid": 220819,
+   "page": 1,
+   "topics": "Optik (optics)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569683/YKS-TYT-2019--Fizik-(1-7)-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q6": {
+   "qid": 220818,
+   "page": 1,
+   "topics": "Optik (optics)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569682/YKS-TYT-2019--Fizik-(1-7)-Q6.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q5": {
+   "qid": 220817,
+   "page": 1,
+   "topics": "Elektrik (electricity)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569681/YKS-TYT-2019--Fizik-(1-7)-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q4": {
+   "qid": 220816,
+   "page": 1,
+   "topics": "Isı Ve Sıcaklık (heat And Temperature)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569680/YKS-TYT-2019--Fizik-(1-7)-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q3": {
+   "qid": 220815,
+   "page": 1,
+   "topics": "İş, Enerji Ve Güç (work, Energy And Power)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569679/YKS-TYT-2019--Fizik-(1-7)-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q2": {
+   "qid": 220814,
+   "page": 1,
+   "topics": "Hareket Ve Kuvvet (motion And Force)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569678/YKS-TYT-2019--Fizik-(1-7)-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2019_Q1": {
+   "qid": 220813,
+   "page": 1,
+   "topics": "Madde Ve Özellikleri (matter And Properties)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569677/YKS-TYT-2019--Fizik-(1-7)-Q1.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q7": {
+   "qid": 214733,
+   "page": 1,
+   "topics": "Optik (optics)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569560/YKS-TYT-2018--Fizik-(1-7)-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q6": {
+   "qid": 214732,
+   "page": 1,
+   "topics": "Optik (optics)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569559/YKS-TYT-2018--Fizik-(1-7)-Q6.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q5": {
+   "qid": 214731,
+   "page": 1,
+   "topics": "Elektrik (electricity)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569558/YKS-TYT-2018--Fizik-(1-7)-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q4": {
+   "qid": 214730,
+   "page": 1,
+   "topics": "Isı Ve Sıcaklık (heat And Temperature)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569557/YKS-TYT-2018--Fizik-(1-7)-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q3": {
+   "qid": 214729,
+   "page": 1,
+   "topics": "Basınç Ve Kaldırma Kuvveti (pressure And Buoyancy)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569556/YKS-TYT-2018--Fizik-(1-7)-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q2": {
+   "qid": 214728,
+   "page": 1,
+   "topics": "Hareket Ve Kuvvet (motion And Force)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569555/YKS-TYT-2018--Fizik-(1-7)-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Fizik/_Summer_2018_Q1": {
+   "qid": 214727,
+   "page": 1,
+   "topics": "Fizik Bilimine Giriş (introduction To Physics)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569554/YKS-TYT-2018--Fizik-(1-7)-Q1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

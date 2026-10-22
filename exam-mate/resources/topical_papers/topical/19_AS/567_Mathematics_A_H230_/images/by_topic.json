@@ -1,0 +1,584 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:31:13Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Algebra And Functions": [
+   {
+    "qid": 114838,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q3",
+    "file": "questions/30758/117156/30758_q_117156_3_1.png"
+   },
+   {
+    "qid": 114838,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q3",
+    "file": "questions/30758/117156/30758_a_117156_3_1.png"
+   },
+   {
+    "qid": 114836,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q1",
+    "file": "questions/30758/117154/30758_q_117154_1_1.png"
+   },
+   {
+    "qid": 114836,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q1",
+    "file": "questions/30758/117154/30758_a_117154_1_1.png"
+   },
+   {
+    "qid": 114818,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q3",
+    "file": "questions/30757/117136/30757_q_117136_3_1.png"
+   },
+   {
+    "qid": 114818,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q3",
+    "file": "questions/30757/117136/30757_a_117136_3_1.png"
+   },
+   {
+    "qid": 114777,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q4",
+    "file": "questions/30753/117095/30753_q_117095_4_1.png"
+   },
+   {
+    "qid": 114777,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q4",
+    "file": "questions/30753/117095/30753_a_117095_4_1.png"
+   },
+   {
+    "qid": 114731,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q2",
+    "file": "questions/30752/117049/30752_q_117049_2_1.png"
+   },
+   {
+    "qid": 114731,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q2",
+    "file": "questions/30752/117049/30752_a_117049_2_1.png"
+   },
+   {
+    "qid": 114730,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q1",
+    "file": "questions/30752/117048/30752_q_117048_1_1.png"
+   },
+   {
+    "qid": 114730,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q1",
+    "file": "questions/30752/117048/30752_a_117048_1_1.png"
+   }
+  ],
+  "Coordinate Geometry In The X-y Plane": [
+   {
+    "qid": 114817,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q2",
+    "file": "questions/30757/117135/30757_q_117135_2_1.png"
+   },
+   {
+    "qid": 114817,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q2",
+    "file": "questions/30757/117135/30757_a_117135_2_1.png"
+   },
+   {
+    "qid": 114775,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q2",
+    "file": "questions/30753/117093/30753_q_117093_2_1.png"
+   },
+   {
+    "qid": 114775,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q2",
+    "file": "questions/30753/117093/30753_a_117093_2_1.png"
+   },
+   {
+    "qid": 114735,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q6",
+    "file": "questions/30752/117053/30752_q_117053_6_1.png"
+   },
+   {
+    "qid": 114735,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q6",
+    "file": "questions/30752/117053/30752_a_117053_6_1.png"
+   }
+  ],
+  "Data Presentation And Interpretation": [
+   {
+    "qid": 114824,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q9",
+    "file": "questions/30757/117142/30757_q_117142_9_1.png"
+   },
+   {
+    "qid": 114824,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q9",
+    "file": "questions/30757/117142/30757_a_117142_9_1.png"
+   },
+   {
+    "qid": 114824,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q9",
+    "file": "questions/30757/117142/30757_a_117142_9_2.png"
+   },
+   {
+    "qid": 114823,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q8",
+    "file": "questions/30757/117141/30757_q_117141_8_1.png"
+   },
+   {
+    "qid": 114823,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q8",
+    "file": "questions/30757/117141/30757_a_117141_8_1.png"
+   },
+   {
+    "qid": 114742,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q13",
+    "file": "questions/30752/117060/30752_q_117060_13_1.png"
+   },
+   {
+    "qid": 114742,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q13",
+    "file": "questions/30752/117060/30752_a_117060_13_1.png"
+   },
+   {
+    "qid": 114742,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q13",
+    "file": "questions/30752/117060/30752_a_117060_13_2.png"
+   }
+  ],
+  "Differentiation": [
+   {
+    "qid": 114837,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q2",
+    "file": "questions/30758/117155/30758_q_117155_2_1.png"
+   },
+   {
+    "qid": 114837,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q2",
+    "file": "questions/30758/117155/30758_a_117155_2_1.png"
+   },
+   {
+    "qid": 114819,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q4",
+    "file": "questions/30757/117137/30757_q_117137_4_1.png"
+   },
+   {
+    "qid": 114819,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q4",
+    "file": "questions/30757/117137/30757_a_117137_4_1.png"
+   },
+   {
+    "qid": 114816,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q1",
+    "file": "questions/30757/117134/30757_q_117134_1_1.png"
+   },
+   {
+    "qid": 114816,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q1",
+    "file": "questions/30757/117134/30757_a_117134_1_1.png"
+   },
+   {
+    "qid": 114778,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q5",
+    "file": "questions/30753/117096/30753_q_117096_5_1.png"
+   },
+   {
+    "qid": 114778,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q5",
+    "file": "questions/30753/117096/30753_a_117096_5_1.png"
+   },
+   {
+    "qid": 114737,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q8",
+    "file": "questions/30752/117055/30752_q_117055_8_1.png"
+   },
+   {
+    "qid": 114737,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q8",
+    "file": "questions/30752/117055/30752_a_117055_8_1.png"
+   },
+   {
+    "qid": 114733,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q4",
+    "file": "questions/30752/117051/30752_q_117051_4_1.png"
+   },
+   {
+    "qid": 114733,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q4",
+    "file": "questions/30752/117051/30752_a_117051_4_1.png"
+   }
+  ],
+  "Exponentials And Logarithms": [
+   {
+    "qid": 114843,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q8",
+    "file": "questions/30758/117161/30758_q_117161_8_1.png"
+   },
+   {
+    "qid": 114843,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q8",
+    "file": "questions/30758/117161/30758_a_117161_8_1.png"
+   },
+   {
+    "qid": 114843,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q8",
+    "file": "questions/30758/117161/30758_a_117161_8_2.png"
+   },
+   {
+    "qid": 114822,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q7",
+    "file": "questions/30757/117140/30757_q_117140_7_1.png"
+   },
+   {
+    "qid": 114822,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q7",
+    "file": "questions/30757/117140/30757_a_117140_7_1.png"
+   },
+   {
+    "qid": 114822,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q7",
+    "file": "questions/30757/117140/30757_a_117140_7_2.png"
+   },
+   {
+    "qid": 114779,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q6",
+    "file": "questions/30753/117097/30753_q_117097_6_1.png"
+   },
+   {
+    "qid": 114779,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q6",
+    "file": "questions/30753/117097/30753_a_117097_6_1.png"
+   }
+  ],
+  "Forces And Newton’s Laws": [
+   {
+    "qid": 114846,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q11",
+    "file": "questions/30758/117164/30758_q_117164_11_1.png"
+   },
+   {
+    "qid": 114846,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q11",
+    "file": "questions/30758/117164/30758_a_117164_11_1.png"
+   },
+   {
+    "qid": 114846,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q11",
+    "file": "questions/30758/117164/30758_a_117164_11_2.png"
+   },
+   {
+    "qid": 114844,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q9",
+    "file": "questions/30758/117162/30758_q_117162_9_1.png"
+   },
+   {
+    "qid": 114844,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q9",
+    "file": "questions/30758/117162/30758_a_117162_9_1.png"
+   },
+   {
+    "qid": 114783,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q10",
+    "file": "questions/30753/117101/30753_q_117101_10_1.png"
+   },
+   {
+    "qid": 114783,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q10",
+    "file": "questions/30753/117101/30753_a_117101_10_1.png"
+   }
+  ],
+  "Integration": [
+   {
+    "qid": 114842,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q7",
+    "file": "questions/30758/117160/30758_q_117160_7_1.png"
+   },
+   {
+    "qid": 114842,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q7",
+    "file": "questions/30758/117160/30758_a_117160_7_1.png"
+   },
+   {
+    "qid": 114842,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q7",
+    "file": "questions/30758/117160/30758_a_117160_7_2.png"
+   },
+   {
+    "qid": 114816,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q1",
+    "file": "questions/30757/117134/30757_q_117134_1_1.png"
+   },
+   {
+    "qid": 114816,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q1",
+    "file": "questions/30757/117134/30757_a_117134_1_1.png"
+   },
+   {
+    "qid": 114781,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q8",
+    "file": "questions/30753/117099/30753_q_117099_8_1.png"
+   },
+   {
+    "qid": 114781,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q8",
+    "file": "questions/30753/117099/30753_a_117099_8_1.png"
+   }
+  ],
+  "Kinematics": [
+   {
+    "qid": 114845,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q10",
+    "file": "questions/30758/117163/30758_q_117163_10_1.png"
+   },
+   {
+    "qid": 114845,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q10",
+    "file": "questions/30758/117163/30758_a_117163_10_1.png"
+   },
+   {
+    "qid": 114784,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q11",
+    "file": "questions/30753/117102/30753_q_117102_11_1.png"
+   },
+   {
+    "qid": 114784,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q11",
+    "file": "questions/30753/117102/30753_a_117102_11_1.png"
+   },
+   {
+    "qid": 114784,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q11",
+    "file": "questions/30753/117102/30753_a_117102_11_2.png"
+   },
+   {
+    "qid": 114784,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q11",
+    "file": "questions/30753/117102/30753_a_117102_11_3.png"
+   }
+  ],
+  "Probability": [
+   {
+    "qid": 114827,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q12",
+    "file": "questions/30757/117145/30757_q_117145_12_1.png"
+   },
+   {
+    "qid": 114827,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q12",
+    "file": "questions/30757/117145/30757_a_117145_12_1.png"
+   },
+   {
+    "qid": 114739,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q10",
+    "file": "questions/30752/117057/30752_q_117057_10_1.png"
+   },
+   {
+    "qid": 114739,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q10",
+    "file": "questions/30752/117057/30752_a_117057_10_1.png"
+   }
+  ],
+  "Proof": [
+   {
+    "qid": 114820,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q5",
+    "file": "questions/30757/117138/30757_q_117138_5_1.png"
+   },
+   {
+    "qid": 114820,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q5",
+    "file": "questions/30757/117138/30757_a_117138_5_1.png"
+   },
+   {
+    "qid": 114776,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q3",
+    "file": "questions/30753/117094/30753_q_117094_3_1.png"
+   },
+   {
+    "qid": 114776,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q3",
+    "file": "questions/30753/117094/30753_a_117094_3_1.png"
+   },
+   {
+    "qid": 114734,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q5",
+    "file": "questions/30752/117052/30752_q_117052_5_1.png"
+   },
+   {
+    "qid": 114734,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q5",
+    "file": "questions/30752/117052/30752_a_117052_5_1.png"
+   }
+  ],
+  "Quantities And Units In Mechanics": [
+   {
+    "qid": 114782,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q9",
+    "file": "questions/30753/117100/30753_q_117100_9_1.png"
+   },
+   {
+    "qid": 114782,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q9",
+    "file": "questions/30753/117100/30753_a_117100_9_1.png"
+   }
+  ],
+  "Sequences And Series": [
+   {
+    "qid": 114839,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q4",
+    "file": "questions/30758/117157/30758_q_117157_4_1.png"
+   },
+   {
+    "qid": 114839,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q4",
+    "file": "questions/30758/117157/30758_a_117157_4_1.png"
+   }
+  ],
+  "Statistical Distributions": [
+   {
+    "qid": 114826,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q11",
+    "file": "questions/30757/117144/30757_q_117144_11_1.png"
+   },
+   {
+    "qid": 114826,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q11",
+    "file": "questions/30757/117144/30757_a_117144_11_1.png"
+   },
+   {
+    "qid": 114826,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q11",
+    "file": "questions/30757/117144/30757_a_117144_11_2.png"
+   },
+   {
+    "qid": 114740,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q11",
+    "file": "questions/30752/117058/30752_q_117058_11_1.png"
+   },
+   {
+    "qid": 114740,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q11",
+    "file": "questions/30752/117058/30752_a_117058_11_1.png"
+   }
+  ],
+  "Statistical Hypothesis Testing": [
+   {
+    "qid": 114741,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q12",
+    "file": "questions/30752/117059/30752_q_117059_12_1.png"
+   },
+   {
+    "qid": 114741,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q12",
+    "file": "questions/30752/117059/30752_a_117059_12_1.png"
+   }
+  ],
+  "Statistical Sampling": [
+   {
+    "qid": 114825,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q10",
+    "file": "questions/30757/117143/30757_q_117143_10_1.png"
+   },
+   {
+    "qid": 114825,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q10",
+    "file": "questions/30757/117143/30757_a_117143_10_1.png"
+   },
+   {
+    "qid": 114738,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q9",
+    "file": "questions/30752/117056/30752_q_117056_9_1.png"
+   },
+   {
+    "qid": 114738,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q9",
+    "file": "questions/30752/117056/30752_a_117056_9_1.png"
+   }
+  ],
+  "Trigonometry": [
+   {
+    "qid": 114841,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q6",
+    "file": "questions/30758/117159/30758_q_117159_6_1.png"
+   },
+   {
+    "qid": 114841,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q6",
+    "file": "questions/30758/117159/30758_a_117159_6_1.png"
+   },
+   {
+    "qid": 114841,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q6",
+    "file": "questions/30758/117159/30758_a_117159_6_2.png"
+   },
+   {
+    "qid": 114821,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q6",
+    "file": "questions/30757/117139/30757_q_117139_6_1.png"
+   },
+   {
+    "qid": 114821,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q6",
+    "file": "questions/30757/117139/30757_a_117139_6_1.png"
+   },
+   {
+    "qid": 114821,
+    "paper_ref": "Mathematics_A/1_Summer_2019_Q6",
+    "file": "questions/30757/117139/30757_a_117139_6_2.png"
+   },
+   {
+    "qid": 114780,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q7",
+    "file": "questions/30753/117098/30753_q_117098_7_1.png"
+   },
+   {
+    "qid": 114780,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q7",
+    "file": "questions/30753/117098/30753_a_117098_7_1.png"
+   },
+   {
+    "qid": 114774,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q1",
+    "file": "questions/30753/117092/30753_q_117092_1_1.png"
+   },
+   {
+    "qid": 114774,
+    "paper_ref": "Mathematics_A/2_Summer_2018_Q1",
+    "file": "questions/30753/117092/30753_a_117092_1_1.png"
+   },
+   {
+    "qid": 114732,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q3",
+    "file": "questions/30752/117050/30752_q_117050_3_1.png"
+   },
+   {
+    "qid": 114732,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q3",
+    "file": "questions/30752/117050/30752_a_117050_3_1.png"
+   }
+  ],
+  "Vectors": [
+   {
+    "qid": 114840,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q5",
+    "file": "questions/30758/117158/30758_q_117158_5_1.png"
+   },
+   {
+    "qid": 114840,
+    "paper_ref": "Mathematics_A/2_Summer_2019_Q5",
+    "file": "questions/30758/117158/30758_a_117158_5_1.png"
+   },
+   {
+    "qid": 114736,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q7",
+    "file": "questions/30752/117054/30752_q_117054_7_1.png"
+   },
+   {
+    "qid": 114736,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q7",
+    "file": "questions/30752/117054/30752_a_117054_7_1.png"
+   },
+   {
+    "qid": 114736,
+    "paper_ref": "Mathematics_A/1_Summer_2018_Q7",
+    "file": "questions/30752/117054/30752_a_117054_7_2.png"
+   }
+  ]
+ }
+}

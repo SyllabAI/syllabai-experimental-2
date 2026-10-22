@@ -1,0 +1,890 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:46:28Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Türkçe/_Summer_2019_Q40": {
+   "qid": 220773,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569634/YKS-TYT-2019---turkçe-Q40.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q39": {
+   "qid": 220772,
+   "page": 1,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569633/YKS-TYT-2019---turkçe-Q39.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q38": {
+   "qid": 220771,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569632/YKS-TYT-2019---turkçe-Q38.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q37": {
+   "qid": 220770,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569630/YKS-TYT-2019---turkçe-Q37.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q36": {
+   "qid": 220769,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569631/YKS-TYT-2019---turkçe-Q36.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q35": {
+   "qid": 220768,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569628/YKS-TYT-2019---turkçe-Q35.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q34": {
+   "qid": 220767,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569627/YKS-TYT-2019---turkçe-Q34.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q33": {
+   "qid": 220766,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569626/YKS-TYT-2019---turkçe-Q33.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q32": {
+   "qid": 220765,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569625/YKS-TYT-2019---turkçe-Q32.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q31": {
+   "qid": 220764,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569624/YKS-TYT-2019---turkçe-Q31.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q30": {
+   "qid": 220763,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569623/YKS-TYT-2019---turkçe-Q30.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q29": {
+   "qid": 220762,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569622/YKS-TYT-2019---turkçe-Q29.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q28": {
+   "qid": 220761,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569621/YKS-TYT-2019---turkçe-Q28.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q27": {
+   "qid": 220760,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569620/YKS-TYT-2019---turkçe-Q27.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q26": {
+   "qid": 220759,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569619/YKS-TYT-2019---turkçe-Q26.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q25": {
+   "qid": 220758,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569618/YKS-TYT-2019---turkçe-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q24": {
+   "qid": 220757,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569617/YKS-TYT-2019---turkçe-Q24.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q23": {
+   "qid": 220756,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569616/YKS-TYT-2019---turkçe-Q23.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q22": {
+   "qid": 220755,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569615/YKS-TYT-2019---turkçe-Q22.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q21": {
+   "qid": 220754,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569614/YKS-TYT-2019---turkçe-Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q20": {
+   "qid": 220753,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569613/YKS-TYT-2019---turkçe-Q20.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q19": {
+   "qid": 220752,
+   "page": 1,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569612/YKS-TYT-2019---turkçe-Q19.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q18": {
+   "qid": 220751,
+   "page": 1,
+   "topics": "Noktalama Işaretleri",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569611/YKS-TYT-2019---turkçe-Q18.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q17": {
+   "qid": 220750,
+   "page": 1,
+   "topics": "Noktalama Işaretleri",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569610/YKS-TYT-2019---turkçe-Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q16": {
+   "qid": 220749,
+   "page": 1,
+   "topics": "Yazım Kuralları",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569609/YKS-TYT-2019---turkçe-Q16.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q15": {
+   "qid": 220748,
+   "page": 2,
+   "topics": "Yazım Kuralları",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569608/YKS-TYT-2019---turkçe-Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q14": {
+   "qid": 220747,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569607/YKS-TYT-2019---turkçe-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q13": {
+   "qid": 220746,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569606/YKS-TYT-2019---turkçe-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q12": {
+   "qid": 220745,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569605/YKS-TYT-2019---turkçe-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q11": {
+   "qid": 220744,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569604/YKS-TYT-2019---turkçe-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q10": {
+   "qid": 220743,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569603/YKS-TYT-2019---turkçe-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q9": {
+   "qid": 220742,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569602/YKS-TYT-2019---turkçe-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q8": {
+   "qid": 220741,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569601/YKS-TYT-2019---turkçe-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q7": {
+   "qid": 220740,
+   "page": 2,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569600/YKS-TYT-2019---turkçe-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q6": {
+   "qid": 220739,
+   "page": 2,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569598/YKS-TYT-2019---turkçe-Q6.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q5": {
+   "qid": 220738,
+   "page": 2,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569597/YKS-TYT-2019---turkçe-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q4": {
+   "qid": 220737,
+   "page": 2,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569596/YKS-TYT-2019---turkçe-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q3": {
+   "qid": 220736,
+   "page": 2,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569595/YKS-TYT-2019---turkçe-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q2": {
+   "qid": 220735,
+   "page": 2,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569594/YKS-TYT-2019---turkçe-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2019_Q1": {
+   "qid": 220734,
+   "page": 2,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569593/YKS-TYT-2019---turkçe-Q1.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q40": {
+   "qid": 220733,
+   "page": 2,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569506/YKS-TYT-2018---Turkçe-Q40.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q39": {
+   "qid": 220732,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569505/YKS-TYT-2018---Turkçe-Q39.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q38": {
+   "qid": 220731,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569504/YKS-TYT-2018---Turkçe-Q38.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q37": {
+   "qid": 220730,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569503/YKS-TYT-2018---Turkçe-Q37.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q36": {
+   "qid": 220729,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569502/YKS-TYT-2018---Turkçe-Q36.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q35": {
+   "qid": 220728,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569501/YKS-TYT-2018---Turkçe-Q35.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q34": {
+   "qid": 220727,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569500/YKS-TYT-2018---Turkçe-Q34.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q33": {
+   "qid": 220726,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569499/YKS-TYT-2018---Turkçe-Q33.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q32": {
+   "qid": 220725,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569498/YKS-TYT-2018---Turkçe-Q32.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q31": {
+   "qid": 220724,
+   "page": 2,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569497/YKS-TYT-2018---Turkçe-Q31.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q30": {
+   "qid": 220723,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569496/YKS-TYT-2018---Turkçe-Q30.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q29": {
+   "qid": 220722,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569495/YKS-TYT-2018---Turkçe-Q29.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q28": {
+   "qid": 220721,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569513/YKS-TYT-2018---Turkçe-Q28.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q27": {
+   "qid": 220720,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569493/YKS-TYT-2018---Turkçe-Q27.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q26": {
+   "qid": 220719,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569492/YKS-TYT-2018---Turkçe-Q26.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q25": {
+   "qid": 220718,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569512/YKS-TYT-2018---Turkçe-Q25.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q24": {
+   "qid": 220717,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569511/YKS-TYT-2018---Turkçe-Q24.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q23": {
+   "qid": 220716,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569488/YKS-TYT-2018---Turkçe-Q23.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q22": {
+   "qid": 220715,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569510/YKS-TYT-2018---Turkçe-Q22.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q21": {
+   "qid": 220714,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569486/YKS-TYT-2018---Turkçe-Q21.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q20": {
+   "qid": 220713,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569485/YKS-TYT-2018---Turkçe-Q20.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q19": {
+   "qid": 220712,
+   "page": 3,
+   "topics": "Noktalama Işaretleri",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569484/YKS-TYT-2018---Turkçe-Q19.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q18": {
+   "qid": 220711,
+   "page": 3,
+   "topics": "Noktalama Işaretleri",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569483/YKS-TYT-2018---Turkçe-Q18.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q17": {
+   "qid": 220710,
+   "page": 3,
+   "topics": "Yazım Kuralları",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569482/YKS-TYT-2018---Turkçe-Q17.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q16": {
+   "qid": 220709,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569481/YKS-TYT-2018---Turkçe-Q16.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q15": {
+   "qid": 220708,
+   "page": 3,
+   "topics": "Yazım Kuralları",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569479/YKS-TYT-2018---Turkçe-Q15.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q14": {
+   "qid": 220707,
+   "page": 3,
+   "topics": "Paragraf (anlam Ve Anlatım)",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569478/YKS-TYT-2018---Turkçe-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q13": {
+   "qid": 220706,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569509/YKS-TYT-2018---Turkçe-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q12": {
+   "qid": 220705,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569476/YKS-TYT-2018---Turkçe-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q11": {
+   "qid": 220704,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569508/YKS-TYT-2018---Turkçe-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q10": {
+   "qid": 214794,
+   "page": 3,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569474/YKS-TYT-2018---Turkçe-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q9": {
+   "qid": 214795,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569473/YKS-TYT-2018---Turkçe-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q8": {
+   "qid": 214793,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569472/YKS-TYT-2018---Turkçe-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q7": {
+   "qid": 214792,
+   "page": 3,
+   "topics": "Dil Bilgisi (fiil, Isim, Sıfat, Zamir, Zarf, Edat, Bağlaç, ünlem Vb.)",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569507/YKS-TYT-2018---Turkçe-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q6": {
+   "qid": 214791,
+   "page": 3,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/555046/YKS-TYT-2018---Turkçe-Q6.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q5": {
+   "qid": 214790,
+   "page": 4,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569469/YKS-TYT-2018---Turkçe-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q4": {
+   "qid": 214789,
+   "page": 4,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569468/YKS-TYT-2018---Turkçe-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q3": {
+   "qid": 214788,
+   "page": 4,
+   "topics": "Cümlede Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569467/YKS-TYT-2018---Turkçe-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q2": {
+   "qid": 214787,
+   "page": 4,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569466/YKS-TYT-2018---Turkçe-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Türkçe/_Summer_2018_Q1": {
+   "qid": 214786,
+   "page": 4,
+   "topics": "Sözcükte Anlam",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569465/YKS-TYT-2018---Turkçe-Q1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

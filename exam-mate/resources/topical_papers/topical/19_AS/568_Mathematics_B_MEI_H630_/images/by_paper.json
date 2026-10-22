@@ -1,0 +1,860 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:31:30Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Mathematics_B/1_Summer_2019_Q1": {
+   "qid": 114893,
+   "page": 1,
+   "topics": "Functions",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30761/117211/30761_q_117211_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117211/30761_a_117211_1_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q2": {
+   "qid": 114894,
+   "page": 1,
+   "topics": "Trigonometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30761/117212/30761_q_117212_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117212/30761_a_117212_2_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q3": {
+   "qid": 114895,
+   "page": 1,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30761/117213/30761_q_117213_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117213/30761_a_117213_3_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q4": {
+   "qid": 114896,
+   "page": 1,
+   "topics": "Trigonometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30761/117214/30761_q_117214_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117214/30761_a_117214_4_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q5": {
+   "qid": 114897,
+   "page": 1,
+   "topics": "Models And Quantities",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30761/117215/30761_q_117215_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117215/30761_a_117215_5_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q6": {
+   "qid": 114898,
+   "page": 1,
+   "topics": "Forces",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30761/117216/30761_q_117216_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117216/30761_a_117216_6_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q7": {
+   "qid": 114899,
+   "page": 1,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30761/117217/30761_q_117217_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117217/30761_a_117217_7_1.png",
+    "questions/30761/117217/30761_a_117217_7_2.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q8": {
+   "qid": 114901,
+   "page": 1,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30761/117219/30761_q_117219_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117219/30761_a_117219_8_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q9": {
+   "qid": 114903,
+   "page": 1,
+   "topics": "Kinematics In 1 Dimension",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/30761/117221/30761_q_117221_9_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117221/30761_a_117221_9_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q10": {
+   "qid": 114904,
+   "page": 1,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/30761/117222/30761_q_117222_10_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117222/30761_a_117222_10_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2019_Q11": {
+   "qid": 114906,
+   "page": 1,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2019",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/30761/117224/30761_q_117224_11_1.png"
+   ],
+   "answer_images": [
+    "questions/30761/117224/30761_a_117224_11_1.png",
+    "questions/30761/117224/30761_a_117224_11_2.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q1": {
+   "qid": 114910,
+   "page": 1,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30762/117228/30762_q_117228_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117228/30762_a_117228_1_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q2": {
+   "qid": 114911,
+   "page": 1,
+   "topics": "Trigonometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30762/117229/30762_q_117229_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117229/30762_a_117229_2_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q3": {
+   "qid": 114912,
+   "page": 1,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30762/117230/30762_q_117230_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117230/30762_a_117230_3_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q4": {
+   "qid": 114913,
+   "page": 1,
+   "topics": "Coordinate Geometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30762/117231/30762_q_117231_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117231/30762_a_117231_4_1.png",
+    "questions/30762/117231/30762_a_117231_4_2.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q5": {
+   "qid": 114914,
+   "page": 1,
+   "topics": "Probability",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30762/117232/30762_q_117232_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117232/30762_a_117232_5_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q6": {
+   "qid": 114915,
+   "page": 1,
+   "topics": "Data Presentation And Interpretation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30762/117233/30762_q_117233_6_1.png",
+    "questions/30762/117233/30762_q_117233_6_2.png"
+   ],
+   "answer_images": [
+    "questions/30762/117233/30762_a_117233_6_1.png",
+    "questions/30762/117233/30762_a_117233_6_2.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q7": {
+   "qid": 114916,
+   "page": 1,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30762/117234/30762_q_117234_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117234/30762_a_117234_7_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q8": {
+   "qid": 114917,
+   "page": 1,
+   "topics": "Statistical Hypothesis Testing",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30762/117235/30762_q_117235_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117235/30762_a_117235_8_1.png",
+    "questions/30762/117235/30762_a_117235_8_2.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q9": {
+   "qid": 114918,
+   "page": 1,
+   "topics": "Graphs",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/30762/117236/30762_q_117236_9_1.png",
+    "questions/30762/117236/30762_q_117236_9_2.png"
+   ],
+   "answer_images": [
+    "questions/30762/117236/30762_a_117236_9_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2019_Q10": {
+   "qid": 114919,
+   "page": 1,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2019",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/30762/117237/30762_q_117237_10_1.png"
+   ],
+   "answer_images": [
+    "questions/30762/117237/30762_a_117237_10_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q1": {
+   "qid": 114870,
+   "page": 2,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30759/117188/30759_q_117188_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117188/30759_a_117188_1_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q2": {
+   "qid": 114871,
+   "page": 2,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30759/117189/30759_q_117189_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117189/30759_a_117189_2_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q3": {
+   "qid": 114872,
+   "page": 2,
+   "topics": "Forces",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30759/117190/30759_q_117190_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117190/30759_a_117190_3_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q4": {
+   "qid": 114873,
+   "page": 2,
+   "topics": "Kinematics In 1 Dimension",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30759/117191/30759_q_117191_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117191/30759_a_117191_4_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q5": {
+   "qid": 114874,
+   "page": 2,
+   "topics": "Trigonometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30759/117192/30759_q_117192_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117192/30759_a_117192_5_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q6": {
+   "qid": 114875,
+   "page": 2,
+   "topics": "Algebra",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30759/117193/30759_q_117193_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117193/30759_a_117193_6_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q7": {
+   "qid": 114876,
+   "page": 2,
+   "topics": "Kinematics In 1 Dimension",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30759/117194/30759_q_117194_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117194/30759_a_117194_7_1.png",
+    "questions/30759/117194/30759_a_117194_7_2.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q8": {
+   "qid": 114877,
+   "page": 2,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30759/117195/30759_q_117195_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117195/30759_a_117195_8_1.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q9": {
+   "qid": 114878,
+   "page": 2,
+   "topics": "Graphs",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/30759/117196/30759_q_117196_9_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117196/30759_a_117196_9_1.png",
+    "questions/30759/117196/30759_a_117196_9_2.png",
+    "questions/30759/117196/30759_a_117196_9_3.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q10": {
+   "qid": 114879,
+   "page": 2,
+   "topics": "Kinematics In 1 Dimension",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/30759/117197/30759_q_117197_10_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117197/30759_a_117197_10_1.png",
+    "questions/30759/117197/30759_a_117197_10_2.png"
+   ]
+  },
+  "Mathematics_B/1_Summer_2018_Q11": {
+   "qid": 114880,
+   "page": 2,
+   "topics": "Graphs",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "1",
+    "season": "Summer",
+    "year": "2018",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/30759/117198/30759_q_117198_11_1.png"
+   ],
+   "answer_images": [
+    "questions/30759/117198/30759_a_117198_11_1.png",
+    "questions/30759/117198/30759_a_117198_11_2.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q1": {
+   "qid": 114881,
+   "page": 2,
+   "topics": "Exponentials And Logarithms",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/30760/117199/30760_q_117199_1_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117199/30760_a_117199_1_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q2": {
+   "qid": 114882,
+   "page": 2,
+   "topics": "Data Presentation And Interpretation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/30760/117200/30760_q_117200_2_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117200/30760_a_117200_2_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q3": {
+   "qid": 114883,
+   "page": 2,
+   "topics": "Proof",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/30760/117201/30760_q_117201_3_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117201/30760_a_117201_3_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q4": {
+   "qid": 114884,
+   "page": 2,
+   "topics": "Probability",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/30760/117202/30760_q_117202_4_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117202/30760_a_117202_4_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q5": {
+   "qid": 114885,
+   "page": 2,
+   "topics": "Functions",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/30760/117203/30760_q_117203_5_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117203/30760_a_117203_5_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q6": {
+   "qid": 114886,
+   "page": 2,
+   "topics": "Calculus",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/30760/117204/30760_q_117204_6_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117204/30760_a_117204_6_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q7": {
+   "qid": 114887,
+   "page": 2,
+   "topics": "Sampling",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/30760/117205/30760_q_117205_7_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117205/30760_a_117205_7_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q8": {
+   "qid": 114888,
+   "page": 2,
+   "topics": "Coordinate Geometry",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/30760/117206/30760_q_117206_8_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117206/30760_a_117206_8_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q9": {
+   "qid": 114889,
+   "page": 1,
+   "topics": "Statistical Hypothesis Testing",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/30760/117207/30760_q_117207_9_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117207/30760_a_117207_9_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q10": {
+   "qid": 114890,
+   "page": 1,
+   "topics": "Vectors",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/30760/117208/30760_q_117208_10_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117208/30760_a_117208_10_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q11": {
+   "qid": 114891,
+   "page": 1,
+   "topics": "Data Presentation And Interpretation",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/30760/117209/30760_q_117209_11_1.png",
+    "questions/30760/117209/30760_q_117209_11_2.png"
+   ],
+   "answer_images": [
+    "questions/30760/117209/30760_a_117209_11_1.png"
+   ]
+  },
+  "Mathematics_B/2_Summer_2018_Q12": {
+   "qid": 114892,
+   "page": 1,
+   "topics": "Graphs",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "Mathematics_B",
+    "paper": "2",
+    "season": "Summer",
+    "year": "2018",
+    "question": "12"
+   },
+   "question_images": [
+    "questions/30760/117210/30760_q_117210_12_1.png"
+   ],
+   "answer_images": [
+    "questions/30760/117210/30760_a_117210_12_1.png",
+    "questions/30760/117210/30760_a_117210_12_2.png"
+   ]
+  }
+ }
+}

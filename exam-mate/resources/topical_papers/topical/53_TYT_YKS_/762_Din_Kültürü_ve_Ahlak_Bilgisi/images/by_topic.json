@@ -1,0 +1,88 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:18Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Ahlak": [
+   {
+    "qid": 220857,
+    "paper_ref": "Din/_Summer_2019_Q20",
+    "file": "media/questions/569723/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q20.png"
+   },
+   {
+    "qid": 220855,
+    "paper_ref": "Din/_Summer_2019_Q18",
+    "file": "media/questions/569721/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q18.png"
+   },
+   {
+    "qid": 214716,
+    "paper_ref": "Din/_Summer_2018_Q20",
+    "file": "media/questions/569592/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q20.png"
+   },
+   {
+    "qid": 214713,
+    "paper_ref": "Din/_Summer_2018_Q17",
+    "file": "media/questions/569589/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q17.png"
+   }
+  ],
+  "Din Ve Kültür Ilişkisi": [
+   {
+    "qid": 220856,
+    "paper_ref": "Din/_Summer_2019_Q19",
+    "file": "media/questions/569722/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q19.png"
+   },
+   {
+    "qid": 214715,
+    "paper_ref": "Din/_Summer_2018_Q19",
+    "file": "media/questions/569591/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q19.png"
+   }
+  ],
+  "İslam’da Ibadet": [
+   {
+    "qid": 220857,
+    "paper_ref": "Din/_Summer_2019_Q20",
+    "file": "media/questions/569723/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q20.png"
+   },
+   {
+    "qid": 220855,
+    "paper_ref": "Din/_Summer_2019_Q18",
+    "file": "media/questions/569721/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q18.png"
+   },
+   {
+    "qid": 214716,
+    "paper_ref": "Din/_Summer_2018_Q20",
+    "file": "media/questions/569592/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q20.png"
+   },
+   {
+    "qid": 214713,
+    "paper_ref": "Din/_Summer_2018_Q17",
+    "file": "media/questions/569589/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q17.png"
+   }
+  ],
+  "Temel Dini Kavramlar": [
+   {
+    "qid": 220854,
+    "paper_ref": "Din/_Summer_2019_Q17",
+    "file": "media/questions/569720/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q17.png"
+   },
+   {
+    "qid": 220853,
+    "paper_ref": "Din/_Summer_2019_Q16",
+    "file": "media/questions/569718/YKS-TYT-2019--Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q16.png"
+   },
+   {
+    "qid": 214714,
+    "paper_ref": "Din/_Summer_2018_Q18",
+    "file": "media/questions/569590/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q18.png"
+   },
+   {
+    "qid": 214712,
+    "paper_ref": "Din/_Summer_2018_Q16",
+    "file": "media/questions/569588/YKS-TYT-2018---Din-Kültürü-ve-Ahlak-Bilgisi-(16-20)-Q16.png"
+   }
+  ]
+ }
+}

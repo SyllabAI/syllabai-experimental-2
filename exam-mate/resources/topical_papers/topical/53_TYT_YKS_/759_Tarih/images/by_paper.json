@@ -1,0 +1,120 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:28Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Tarih/_Summer_2019_Q5": {
+   "qid": 220837,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569701/YKS-TYT-2019----Tarih-(1-5)-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2019_Q4": {
+   "qid": 220836,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569700/YKS-TYT-2019----Tarih-(1-5)-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2019_Q3": {
+   "qid": 220835,
+   "page": 1,
+   "topics": "Osmanlı Devleti",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569699/YKS-TYT-2019----Tarih-(1-5)-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2019_Q2": {
+   "qid": 220834,
+   "page": 1,
+   "topics": "İlk Türk Devletleri",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569698/YKS-TYT-2019----Tarih-(1-5)-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2019_Q1": {
+   "qid": 220833,
+   "page": 1,
+   "topics": "İlk Türk Devletleri",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569697/YKS-TYT-2019----Tarih-(1-5)-Q1.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2018_Q5": {
+   "qid": 214785,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569572/YKS-TYT-2018---Tarih-(1-5)-Q5.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2018_Q4": {
+   "qid": 214784,
+   "page": 1,
+   "topics": "Kurtuluş Savaşı Ve Atatürk Dönemi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569571/YKS-TYT-2018---Tarih-(1-5)-Q4.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2018_Q3": {
+   "qid": 214783,
+   "page": 1,
+   "topics": "Osmanlı Devleti",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569570/YKS-TYT-2018---Tarih-(1-5)-Q3.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2018_Q2": {
+   "qid": 214782,
+   "page": 1,
+   "topics": "İlk Türk Devletleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569569/YKS-TYT-2018---Tarih-(1-5)-Q2.png"
+   ],
+   "answer_images": []
+  },
+  "Tarih/_Summer_2018_Q1": {
+   "qid": 214781,
+   "page": 1,
+   "topics": "İlk Türk Devletleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569568/YKS-TYT-2018---Tarih-(1-5)-Q1.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

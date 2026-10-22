@@ -1,0 +1,118 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:47Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Ahlak Ve Sanat Felsefesi": [
+   {
+    "qid": 220851,
+    "paper_ref": "Felsefe/_Summer_2019_Q24",
+    "file": "media/questions/569716/Felsefe-Combine-Q24.png"
+   },
+   {
+    "qid": 220850,
+    "paper_ref": "Felsefe/_Summer_2019_Q23",
+    "file": "media/questions/569715/Felsefe-Combine-Q23.png"
+   },
+   {
+    "qid": 220846,
+    "paper_ref": "Felsefe/_Summer_2019_Q14",
+    "file": "media/questions/569710/Felsefe-Combine-Q14.png"
+   },
+   {
+    "qid": 220845,
+    "paper_ref": "Felsefe/_Summer_2019_Q13",
+    "file": "media/questions/569709/Felsefe-Combine-Q13.png"
+   },
+   {
+    "qid": 214726,
+    "paper_ref": "Felsefe/_Summer_2018_Q25",
+    "file": "media/questions/569587/Felsefe-Combine-Q25.png"
+   },
+   {
+    "qid": 214724,
+    "paper_ref": "Felsefe/_Summer_2018_Q23",
+    "file": "media/questions/569585/Felsefe-Combine-Q23.png"
+   },
+   {
+    "qid": 214720,
+    "paper_ref": "Felsefe/_Summer_2018_Q14",
+    "file": "media/questions/569581/Felsefe-Combine-Q14.png"
+   }
+  ],
+  "Akıl Yürütme Ve Mantık": [
+   {
+    "qid": 214722,
+    "paper_ref": "Felsefe/_Summer_2018_Q21",
+    "file": "media/questions/569583/Felsefe-Combine-Q21.png"
+   }
+  ],
+  "Bilgi Felsefesi": [
+   {
+    "qid": 220848,
+    "paper_ref": "Felsefe/_Summer_2019_Q21",
+    "file": "media/questions/569713/Felsefe-Combine-Q21.png"
+   },
+   {
+    "qid": 220847,
+    "paper_ref": "Felsefe/_Summer_2019_Q15",
+    "file": "media/questions/569712/Felsefe-Combine-Q15.png"
+   },
+   {
+    "qid": 220844,
+    "paper_ref": "Felsefe/_Summer_2019_Q12",
+    "file": "media/questions/569708/Felsefe-Combine-Q12.png"
+   },
+   {
+    "qid": 220843,
+    "paper_ref": "Felsefe/_Summer_2019_Q11",
+    "file": "media/questions/569707/Felsefe-Combine-Q11.png"
+   },
+   {
+    "qid": 214721,
+    "paper_ref": "Felsefe/_Summer_2018_Q15",
+    "file": "media/questions/569582/Felsefe-Combine-Q15.png"
+   },
+   {
+    "qid": 214718,
+    "paper_ref": "Felsefe/_Summer_2018_Q12",
+    "file": "media/questions/569579/Felsefe-Combine-Q12.png"
+   },
+   {
+    "qid": 214717,
+    "paper_ref": "Felsefe/_Summer_2018_Q11",
+    "file": "media/questions/569578/Felsefe-Combine-Q11.png"
+   }
+  ],
+  "Varlık Felsefesi": [
+   {
+    "qid": 220852,
+    "paper_ref": "Felsefe/_Summer_2019_Q25",
+    "file": "media/questions/569717/Felsefe-Combine-Q25.png"
+   },
+   {
+    "qid": 220849,
+    "paper_ref": "Felsefe/_Summer_2019_Q22",
+    "file": "media/questions/569714/Felsefe-Combine-Q22.png"
+   },
+   {
+    "qid": 214725,
+    "paper_ref": "Felsefe/_Summer_2018_Q24",
+    "file": "media/questions/569586/Felsefe-Combine-Q24.png"
+   },
+   {
+    "qid": 214723,
+    "paper_ref": "Felsefe/_Summer_2018_Q22",
+    "file": "media/questions/569584/Felsefe-Combine-Q22.png"
+   },
+   {
+    "qid": 214719,
+    "paper_ref": "Felsefe/_Summer_2018_Q13",
+    "file": "media/questions/569580/Felsefe-Combine-Q13.png"
+   }
+  ]
+ }
+}

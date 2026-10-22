@@ -1,0 +1,120 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:48:22Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Coğrafya/_Summer_2019_Q10": {
+   "qid": 220842,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569706/YKS-TYT-2019---Coğrafya-(6-10)-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2019_Q9": {
+   "qid": 220841,
+   "page": 1,
+   "topics": "Nüfus Ve Yerleşme",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569705/YKS-TYT-2019---Coğrafya-(6-10)-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2019_Q8": {
+   "qid": 220840,
+   "page": 1,
+   "topics": "Nüfus Ve Yerleşme",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569704/YKS-TYT-2019---Coğrafya-(6-10)-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2019_Q7": {
+   "qid": 220839,
+   "page": 1,
+   "topics": "İklim Ve Bitki örtüsü",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569703/YKS-TYT-2019---Coğrafya-(6-10)-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2019_Q6": {
+   "qid": 220838,
+   "page": 1,
+   "topics": "Nüfus Ve Yerleşme",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569702/YKS-TYT-2019---Coğrafya-(6-10)-Q6.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2018_Q10": {
+   "qid": 214711,
+   "page": 1,
+   "topics": "İklim Ve Bitki örtüsü",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569577/YKS-TYT-2018--Coğrafya-(6-10)-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2018_Q9": {
+   "qid": 214710,
+   "page": 1,
+   "topics": "Harita Bilgisi",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569576/YKS-TYT-2018--Coğrafya-(6-10)-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2018_Q8": {
+   "qid": 214709,
+   "page": 1,
+   "topics": "Nüfus Ve Yerleşme",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569575/YKS-TYT-2018--Coğrafya-(6-10)-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2018_Q7": {
+   "qid": 214708,
+   "page": 1,
+   "topics": "İklim Ve Bitki örtüsü",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569574/YKS-TYT-2018--Coğrafya-(6-10)-Q7.png"
+   ],
+   "answer_images": []
+  },
+  "Coğrafya/_Summer_2018_Q6": {
+   "qid": 214707,
+   "page": 1,
+   "topics": "İklim Ve Bitki örtüsü",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569573/YKS-TYT-2018--Coğrafya-(6-10)-Q6.png"
+   ],
+   "answer_images": []
+  }
+ }
+}

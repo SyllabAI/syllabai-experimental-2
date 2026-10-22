@@ -1,0 +1,110 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:58Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Basınç Ve Kaldırma Kuvveti (pressure And Buoyancy)": [
+   {
+    "qid": 214729,
+    "paper_ref": "Fizik/_Summer_2018_Q3",
+    "file": "media/questions/569556/YKS-TYT-2018--Fizik-(1-7)-Q3.png"
+   }
+  ],
+  "Elektrik (electricity)": [
+   {
+    "qid": 220817,
+    "paper_ref": "Fizik/_Summer_2019_Q5",
+    "file": "media/questions/569681/YKS-TYT-2019--Fizik-(1-7)-Q5.png"
+   },
+   {
+    "qid": 214731,
+    "paper_ref": "Fizik/_Summer_2018_Q5",
+    "file": "media/questions/569558/YKS-TYT-2018--Fizik-(1-7)-Q5.png"
+   }
+  ],
+  "Energy And Power)": [
+   {
+    "qid": 220815,
+    "paper_ref": "Fizik/_Summer_2019_Q3",
+    "file": "media/questions/569679/YKS-TYT-2019--Fizik-(1-7)-Q3.png"
+   }
+  ],
+  "Enerji Ve Güç (work": [
+   {
+    "qid": 220815,
+    "paper_ref": "Fizik/_Summer_2019_Q3",
+    "file": "media/questions/569679/YKS-TYT-2019--Fizik-(1-7)-Q3.png"
+   }
+  ],
+  "Fizik Bilimine Giriş (introduction To Physics)": [
+   {
+    "qid": 214727,
+    "paper_ref": "Fizik/_Summer_2018_Q1",
+    "file": "media/questions/569554/YKS-TYT-2018--Fizik-(1-7)-Q1.png"
+   }
+  ],
+  "Hareket Ve Kuvvet (motion And Force)": [
+   {
+    "qid": 220814,
+    "paper_ref": "Fizik/_Summer_2019_Q2",
+    "file": "media/questions/569678/YKS-TYT-2019--Fizik-(1-7)-Q2.png"
+   },
+   {
+    "qid": 214728,
+    "paper_ref": "Fizik/_Summer_2018_Q2",
+    "file": "media/questions/569555/YKS-TYT-2018--Fizik-(1-7)-Q2.png"
+   }
+  ],
+  "Isı Ve Sıcaklık (heat And Temperature)": [
+   {
+    "qid": 220816,
+    "paper_ref": "Fizik/_Summer_2019_Q4",
+    "file": "media/questions/569680/YKS-TYT-2019--Fizik-(1-7)-Q4.png"
+   },
+   {
+    "qid": 214730,
+    "paper_ref": "Fizik/_Summer_2018_Q4",
+    "file": "media/questions/569557/YKS-TYT-2018--Fizik-(1-7)-Q4.png"
+   }
+  ],
+  "İş": [
+   {
+    "qid": 220815,
+    "paper_ref": "Fizik/_Summer_2019_Q3",
+    "file": "media/questions/569679/YKS-TYT-2019--Fizik-(1-7)-Q3.png"
+   }
+  ],
+  "Madde Ve Özellikleri (matter And Properties)": [
+   {
+    "qid": 220813,
+    "paper_ref": "Fizik/_Summer_2019_Q1",
+    "file": "media/questions/569677/YKS-TYT-2019--Fizik-(1-7)-Q1.png"
+   }
+  ],
+  "Optik (optics)": [
+   {
+    "qid": 220819,
+    "paper_ref": "Fizik/_Summer_2019_Q7",
+    "file": "media/questions/569683/YKS-TYT-2019--Fizik-(1-7)-Q7.png"
+   },
+   {
+    "qid": 220818,
+    "paper_ref": "Fizik/_Summer_2019_Q6",
+    "file": "media/questions/569682/YKS-TYT-2019--Fizik-(1-7)-Q6.png"
+   },
+   {
+    "qid": 214733,
+    "paper_ref": "Fizik/_Summer_2018_Q7",
+    "file": "media/questions/569560/YKS-TYT-2018--Fizik-(1-7)-Q7.png"
+   },
+   {
+    "qid": 214732,
+    "paper_ref": "Fizik/_Summer_2018_Q6",
+    "file": "media/questions/569559/YKS-TYT-2018--Fizik-(1-7)-Q6.png"
+   }
+  ]
+ }
+}

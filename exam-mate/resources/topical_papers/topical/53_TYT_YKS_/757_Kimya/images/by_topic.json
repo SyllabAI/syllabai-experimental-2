@@ -1,0 +1,85 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:52Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_topic",
+ "topics": {
+  "Asit – Baz – Tuzlar": [
+   {
+    "qid": 220824,
+    "paper_ref": "Kimya/_Summer_2019_Q12",
+    "file": "media/questions/569688/YKS-TYT-2019---Kimya-(8-14)-Q12.png"
+   }
+  ],
+  "Günlük Yaşamda Kimya": [
+   {
+    "qid": 220826,
+    "paper_ref": "Kimya/_Summer_2019_Q14",
+    "file": "media/questions/569690/YKS-TYT-2019---Kimya-(8-14)-Q14.png"
+   },
+   {
+    "qid": 214738,
+    "paper_ref": "Kimya/_Summer_2018_Q12",
+    "file": "media/questions/569565/YKS-TYT-2018---Kimya-(8-14)-Q12.png"
+   }
+  ],
+  "Karışımlar": [
+   {
+    "qid": 220825,
+    "paper_ref": "Kimya/_Summer_2019_Q13",
+    "file": "media/questions/569689/YKS-TYT-2019---Kimya-(8-14)-Q13.png"
+   },
+   {
+    "qid": 214739,
+    "paper_ref": "Kimya/_Summer_2018_Q13",
+    "file": "media/questions/569566/YKS-TYT-2018---Kimya-(8-14)-Q13.png"
+   }
+  ],
+  "Kimyasal Değişimler": [
+   {
+    "qid": 214734,
+    "paper_ref": "Kimya/_Summer_2018_Q8",
+    "file": "media/questions/569561/YKS-TYT-2018---Kimya-(8-14)-Q8.png"
+   }
+  ],
+  "Maddenin Yapısı Ve özellikleri": [
+   {
+    "qid": 220822,
+    "paper_ref": "Kimya/_Summer_2019_Q10",
+    "file": "media/questions/569686/YKS-TYT-2019---Kimya-(8-14)-Q10.png"
+   },
+   {
+    "qid": 220821,
+    "paper_ref": "Kimya/_Summer_2019_Q9",
+    "file": "media/questions/569685/YKS-TYT-2019---Kimya-(8-14)-Q9.png"
+   },
+   {
+    "qid": 220820,
+    "paper_ref": "Kimya/_Summer_2019_Q8",
+    "file": "media/questions/569684/YKS-TYT-2019---Kimya-(8-14)-Q8.png"
+   },
+   {
+    "qid": 214740,
+    "paper_ref": "Kimya/_Summer_2018_Q14",
+    "file": "media/questions/569567/YKS-TYT-2018---Kimya-(8-14)-Q14.png"
+   },
+   {
+    "qid": 214737,
+    "paper_ref": "Kimya/_Summer_2018_Q11",
+    "file": "media/questions/569564/YKS-TYT-2018---Kimya-(8-14)-Q11.png"
+   },
+   {
+    "qid": 214736,
+    "paper_ref": "Kimya/_Summer_2018_Q10",
+    "file": "media/questions/569563/YKS-TYT-2018---Kimya-(8-14)-Q10.png"
+   },
+   {
+    "qid": 214735,
+    "paper_ref": "Kimya/_Summer_2018_Q9",
+    "file": "media/questions/569562/YKS-TYT-2018---Kimya-(8-14)-Q9.png"
+   }
+  ]
+ }
+}

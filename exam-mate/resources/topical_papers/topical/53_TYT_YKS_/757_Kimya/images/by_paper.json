@@ -1,0 +1,164 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com TOPICAL PAST PAPERS (see images/MANIFEST.md for the subject this folder belongs to)",
+ "generated_at": "2026-10-22T17:47:52Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "Kimya/_Summer_2019_Q14": {
+   "qid": 220826,
+   "page": 1,
+   "topics": "Günlük Yaşamda Kimya",
+   "mcq_answer": "A",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569690/YKS-TYT-2019---Kimya-(8-14)-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q13": {
+   "qid": 220825,
+   "page": 1,
+   "topics": "Karışımlar",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569689/YKS-TYT-2019---Kimya-(8-14)-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q12": {
+   "qid": 220824,
+   "page": 1,
+   "topics": "Asit – Baz – Tuzlar",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569688/YKS-TYT-2019---Kimya-(8-14)-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q11": {
+   "qid": 220823,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "B",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569687/YKS-TYT-2019---Kimya-(8-14)-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q10": {
+   "qid": 220822,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": "D",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569686/YKS-TYT-2019---Kimya-(8-14)-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q9": {
+   "qid": 220821,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": "E",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569685/YKS-TYT-2019---Kimya-(8-14)-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2019_Q8": {
+   "qid": 220820,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": "C",
+   "parsed": null,
+   "question_images": [
+    "media/questions/569684/YKS-TYT-2019---Kimya-(8-14)-Q8.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q14": {
+   "qid": 214740,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569567/YKS-TYT-2018---Kimya-(8-14)-Q14.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q13": {
+   "qid": 214739,
+   "page": 1,
+   "topics": "Karışımlar",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569566/YKS-TYT-2018---Kimya-(8-14)-Q13.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q12": {
+   "qid": 214738,
+   "page": 1,
+   "topics": "Günlük Yaşamda Kimya",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569565/YKS-TYT-2018---Kimya-(8-14)-Q12.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q11": {
+   "qid": 214737,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569564/YKS-TYT-2018---Kimya-(8-14)-Q11.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q10": {
+   "qid": 214736,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569563/YKS-TYT-2018---Kimya-(8-14)-Q10.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q9": {
+   "qid": 214735,
+   "page": 1,
+   "topics": "Maddenin Yapısı Ve özellikleri",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569562/YKS-TYT-2018---Kimya-(8-14)-Q9.png"
+   ],
+   "answer_images": []
+  },
+  "Kimya/_Summer_2018_Q8": {
+   "qid": 214734,
+   "page": 1,
+   "topics": "Kimyasal Değişimler",
+   "mcq_answer": null,
+   "parsed": null,
+   "question_images": [
+    "media/questions/569561/YKS-TYT-2018---Kimya-(8-14)-Q8.png"
+   ],
+   "answer_images": []
+  }
+ }
+}
