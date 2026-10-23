@@ -1,0 +1,468 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com NON-TOPICAL PAST PAPER QUESTIONS bank (/untopicalpastpapers)",
+ "generated_at": "2026-10-23T23:27:24Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "9013/12_Winter_2020_Q1": {
+   "qid": 100316,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/28245/102509/28245_q_102509_1_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102509/28245_a_102509_1_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q2": {
+   "qid": 100317,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/28245/102510/28245_q_102510_2_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102510/28245_a_102510_2_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q3": {
+   "qid": 100318,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/28245/102511/28245_q_102511_3_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102511/28245_a_102511_3_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q4": {
+   "qid": 100319,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/28245/102512/28245_q_102512_4_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102512/28245_a_102512_4_1.png",
+    "questions/28245/102512/28245_a_102512_4_2.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q5": {
+   "qid": 100320,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/28245/102513/28245_q_102513_5_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102513/28245_a_102513_5_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q6": {
+   "qid": 100322,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/28245/102515/28245_q_102515_6_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102515/28245_a_102515_6_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q7": {
+   "qid": 100324,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/28245/102517/28245_q_102517_7_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102517/28245_a_102517_7_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q8": {
+   "qid": 100327,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/28245/102520/28245_q_102520_8_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102520/28245_a_102520_8_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q9": {
+   "qid": 100328,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/28245/102521/28245_q_102521_9_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102521/28245_a_102521_9_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q10": {
+   "qid": 100329,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/28245/102522/28245_q_102522_10_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102522/28245_a_102522_10_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q11": {
+   "qid": 100331,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/28245/102524/28245_q_102524_11_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102524/28245_a_102524_11_1.png"
+   ]
+  },
+  "9013/12_Winter_2020_Q12": {
+   "qid": 100333,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "12",
+    "season": "Winter",
+    "year": "2020",
+    "question": "12"
+   },
+   "question_images": [
+    "questions/28245/102526/28245_q_102526_12_1.png"
+   ],
+   "answer_images": [
+    "questions/28245/102526/28245_a_102526_12_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q1": {
+   "qid": 100648,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "1"
+   },
+   "question_images": [
+    "questions/28246/102841/28246_q_102841_1_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102841/28246_a_102841_1_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q2": {
+   "qid": 100649,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "2"
+   },
+   "question_images": [
+    "questions/28246/102842/28246_q_102842_2_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102842/28246_a_102842_2_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q3": {
+   "qid": 100650,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "3"
+   },
+   "question_images": [
+    "questions/28246/102843/28246_q_102843_3_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102843/28246_a_102843_3_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q4": {
+   "qid": 100651,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "4"
+   },
+   "question_images": [
+    "questions/28246/102844/28246_q_102844_4_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102844/28246_a_102844_4_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q5": {
+   "qid": 100652,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "5"
+   },
+   "question_images": [
+    "questions/28246/102845/28246_q_102845_5_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102845/28246_a_102845_5_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q6": {
+   "qid": 100653,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "6"
+   },
+   "question_images": [
+    "questions/28246/102846/28246_q_102846_6_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102846/28246_a_102846_6_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q7": {
+   "qid": 100654,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "7"
+   },
+   "question_images": [
+    "questions/28246/102847/28246_q_102847_7_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102847/28246_a_102847_7_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q8": {
+   "qid": 100655,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "8"
+   },
+   "question_images": [
+    "questions/28246/102848/28246_q_102848_8_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102848/28246_a_102848_8_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q9": {
+   "qid": 100656,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "9"
+   },
+   "question_images": [
+    "questions/28246/102849/28246_q_102849_9_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102849/28246_a_102849_9_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q10": {
+   "qid": 100657,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "10"
+   },
+   "question_images": [
+    "questions/28246/102850/28246_q_102850_10_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102850/28246_a_102850_10_1.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q11": {
+   "qid": 100658,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "11"
+   },
+   "question_images": [
+    "questions/28246/102851/28246_q_102851_11_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102851/28246_a_102851_11_1.png",
+    "questions/28246/102851/28246_a_102851_11_2.png"
+   ]
+  },
+  "9013/22_Winter_2020_Q12": {
+   "qid": 100659,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "9013",
+    "paper": "22",
+    "season": "Winter",
+    "year": "2020",
+    "question": "12"
+   },
+   "question_images": [
+    "questions/28246/102852/28246_q_102852_12_1.png"
+   ],
+   "answer_images": [
+    "questions/28246/102852/28246_a_102852_12_1.png"
+   ]
+  }
+ }
+}

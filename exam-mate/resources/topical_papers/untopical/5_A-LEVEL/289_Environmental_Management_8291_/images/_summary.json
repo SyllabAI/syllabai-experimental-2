@@ -1,0 +1,18 @@
+{
+ "generated_at": "2026-10-23T23:27:24Z",
+ "index_entries": 1453,
+ "question_images": 804,
+ "answer_images": 649,
+ "failed": 0,
+ "files_on_disk": 1453,
+ "total_bytes": 134021274,
+ "distinct_papers": 302,
+ "years_covered": [
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025"
+ ]
+}
