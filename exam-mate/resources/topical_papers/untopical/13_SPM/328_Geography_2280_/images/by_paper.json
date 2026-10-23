@@ -1,0 +1,1894 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com NON-TOPICAL PAST PAPER QUESTIONS bank (/untopicalpastpapers)",
+ "generated_at": "2026-10-23T23:27:24Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "2280/1_None_2022_Q1": {
+   "qid": 168210,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/444944/SPM-Geografi-2021-&-2022_Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/444945/SPM-Geografi-2021-&-2022_MS1.png"
+   ]
+  },
+  "2280/1_None_2022_Q2": {
+   "qid": 168211,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/444946/SPM-Geografi-2021-&-2022_Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/444947/SPM-Geografi-2021-&-2022_MS2.png"
+   ]
+  },
+  "2280/1_None_2022_Q3": {
+   "qid": 168212,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/444948/SPM-Geografi-2021-&-2022_Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/444949/SPM-Geografi-2021-&-2022_MS3.png"
+   ]
+  },
+  "2280/1_None_2022_Q4": {
+   "qid": 168213,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/444950/SPM-Geografi-2021-&-2022_Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/444951/SPM-Geografi-2021-&-2022_MS4.png"
+   ]
+  },
+  "2280/1_None_2022_Q5": {
+   "qid": 168214,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/444952/SPM-Geografi-2021-&-2022_Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/444953/SPM-Geografi-2021-&-2022_MS5.png"
+   ]
+  },
+  "2280/1_None_2022_Q6": {
+   "qid": 168215,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/444954/SPM-Geografi-2021-&-2022_Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/444955/SPM-Geografi-2021-&-2022_MS6.png"
+   ]
+  },
+  "2280/1_None_2022_Q7": {
+   "qid": 168216,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/444956/SPM-Geografi-2021-&-2022_Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/444957/SPM-Geografi-2021-&-2022_MS7.png"
+   ]
+  },
+  "2280/1_None_2022_Q8": {
+   "qid": 168217,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/444958/SPM-Geografi-2021-&-2022_Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/444959/SPM-Geografi-2021-&-2022_MS8.png"
+   ]
+  },
+  "2280/1_None_2022_Q9": {
+   "qid": 168218,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/444960/SPM-Geografi-2021-&-2022_Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/444961/SPM-Geografi-2021-&-2022_MS9.png"
+   ]
+  },
+  "2280/1_None_2022_Q10": {
+   "qid": 168219,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "10"
+   },
+   "question_images": [
+    "media/questions/444965/SPM-Geografi-2021-&-2022_Q10.png"
+   ],
+   "answer_images": [
+    "media/questions/444966/SPM-Geografi-2021-&-2022_MS10.png"
+   ]
+  },
+  "2280/1_None_2022_Q11": {
+   "qid": 168220,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "11"
+   },
+   "question_images": [
+    "media/questions/444967/SPM-Geografi-2021-&-2022_Q11.png"
+   ],
+   "answer_images": [
+    "media/questions/444968/SPM-Geografi-2021-&-2022_MS11.png"
+   ]
+  },
+  "2280/1_None_2022_Q12": {
+   "qid": 168221,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "12"
+   },
+   "question_images": [
+    "media/questions/444969/SPM-Geografi-2021-&-2022_Q12.png"
+   ],
+   "answer_images": [
+    "media/questions/444970/SPM-Geografi-2021-&-2022_MS12.png"
+   ]
+  },
+  "2280/1_None_2022_Q13": {
+   "qid": 168222,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "13"
+   },
+   "question_images": [
+    "media/questions/444971/SPM-Geografi-2021-&-2022_Q13.png"
+   ],
+   "answer_images": [
+    "media/questions/444972/SPM-Geografi-2021-&-2022_MS13.png"
+   ]
+  },
+  "2280/1_None_2022_Q14": {
+   "qid": 168223,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "14"
+   },
+   "question_images": [
+    "media/questions/444973/SPM-Geografi-2021-&-2022_Q14.png"
+   ],
+   "answer_images": [
+    "media/questions/444974/SPM-Geografi-2021-&-2022_MS14.png"
+   ]
+  },
+  "2280/1_None_2022_Q15": {
+   "qid": 168224,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "15"
+   },
+   "question_images": [
+    "media/questions/444975/SPM-Geografi-2021-&-2022_Q15.png"
+   ],
+   "answer_images": [
+    "media/questions/444976/SPM-Geografi-2021-&-2022_MS15.png"
+   ]
+  },
+  "2280/1_None_2022_Q16": {
+   "qid": 168225,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "16"
+   },
+   "question_images": [
+    "media/questions/444977/SPM-Geografi-2021-&-2022_Q16.png"
+   ],
+   "answer_images": [
+    "media/questions/444978/SPM-Geografi-2021-&-2022_MS16.png"
+   ]
+  },
+  "2280/1_None_2022_Q17": {
+   "qid": 168226,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "17"
+   },
+   "question_images": [
+    "media/questions/444979/SPM-Geografi-2021-&-2022_Q17.png"
+   ],
+   "answer_images": [
+    "media/questions/444980/SPM-Geografi-2021-&-2022_MS17.png"
+   ]
+  },
+  "2280/1_None_2022_Q18": {
+   "qid": 168227,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "18"
+   },
+   "question_images": [
+    "media/questions/444985/SPM-Geografi-2021-&-2022_Q18.png"
+   ],
+   "answer_images": [
+    "media/questions/444986/SPM-Geografi-2021-&-2022_MS18.png"
+   ]
+  },
+  "2280/1_None_2022_Q19": {
+   "qid": 168228,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "19"
+   },
+   "question_images": [
+    "media/questions/444988/SPM-Geografi-2021-&-2022_Q19.png"
+   ],
+   "answer_images": [
+    "media/questions/444989/SPM-Geografi-2021-&-2022_MS19.png"
+   ]
+  },
+  "2280/1_None_2022_Q20": {
+   "qid": 168229,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "20"
+   },
+   "question_images": [
+    "media/questions/444994/SPM-Geografi-2021-&-2022_Q20.png"
+   ],
+   "answer_images": [
+    "media/questions/444995/SPM-Geografi-2021-&-2022_MS20.png"
+   ]
+  },
+  "2280/1_None_2022_Q21": {
+   "qid": 168230,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "21"
+   },
+   "question_images": [
+    "media/questions/444999/SPM-Geografi-2021-&-2022_Q21.png"
+   ],
+   "answer_images": [
+    "media/questions/445000/SPM-Geografi-2021-&-2022_MS21.png"
+   ]
+  },
+  "2280/1_None_2022_Q22": {
+   "qid": 168231,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "22"
+   },
+   "question_images": [
+    "media/questions/445004/SPM-Geografi-2021-&-2022_Q22.png"
+   ],
+   "answer_images": [
+    "media/questions/445005/SPM-Geografi-2021-&-2022_MS22.png"
+   ]
+  },
+  "2280/1_None_2022_Q23": {
+   "qid": 168232,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "23"
+   },
+   "question_images": [
+    "media/questions/445007/SPM-Geografi-2021-&-2022_Q23.png"
+   ],
+   "answer_images": [
+    "media/questions/445008/SPM-Geografi-2021-&-2022_MS23.png"
+   ]
+  },
+  "2280/1_None_2022_Q24": {
+   "qid": 168233,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "24"
+   },
+   "question_images": [
+    "media/questions/445013/SPM-Geografi-2021-&-2022_Q24.png"
+   ],
+   "answer_images": [
+    "media/questions/445014/SPM-Geografi-2021-&-2022_MS24.png"
+   ]
+  },
+  "2280/1_None_2022_Q25": {
+   "qid": 168234,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "25"
+   },
+   "question_images": [
+    "media/questions/445017/SPM-Geografi-2021-&-2022_Q25.png"
+   ],
+   "answer_images": [
+    "media/questions/445018/SPM-Geografi-2021-&-2022_MS25.png"
+   ]
+  },
+  "2280/1_None_2022_Q26": {
+   "qid": 168235,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "26"
+   },
+   "question_images": [
+    "media/questions/445019/SPM-Geografi-2021-&-2022_Q26.png"
+   ],
+   "answer_images": [
+    "media/questions/445020/SPM-Geografi-2021-&-2022_MS26.png"
+   ]
+  },
+  "2280/1_None_2022_Q27": {
+   "qid": 168236,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "27"
+   },
+   "question_images": [
+    "media/questions/445021/SPM-Geografi-2021-&-2022_Q27.png"
+   ],
+   "answer_images": [
+    "media/questions/445022/SPM-Geografi-2021-&-2022_MS27.png"
+   ]
+  },
+  "2280/1_None_2022_Q28": {
+   "qid": 168238,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "28"
+   },
+   "question_images": [
+    "media/questions/445024/SPM-Geografi-2021-&-2022_Q28.png"
+   ],
+   "answer_images": [
+    "media/questions/445025/SPM-Geografi-2021-&-2022_MS28.png"
+   ]
+  },
+  "2280/1_None_2022_Q29": {
+   "qid": 168240,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "29"
+   },
+   "question_images": [
+    "media/questions/445027/SPM-Geografi-2021-&-2022_Q29.png"
+   ],
+   "answer_images": [
+    "media/questions/445028/SPM-Geografi-2021-&-2022_MS29.png"
+   ]
+  },
+  "2280/1_None_2022_Q30": {
+   "qid": 168242,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "30"
+   },
+   "question_images": [
+    "media/questions/445030/SPM-Geografi-2021-&-2022_Q30.png"
+   ],
+   "answer_images": [
+    "media/questions/445031/SPM-Geografi-2021-&-2022_MS30.png"
+   ]
+  },
+  "2280/1_None_2022_Q31": {
+   "qid": 168243,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "31"
+   },
+   "question_images": [
+    "media/questions/445032/SPM-Geografi-2021-&-2022_Q31.png"
+   ],
+   "answer_images": [
+    "media/questions/445033/SPM-Geografi-2021-&-2022_MS31.png"
+   ]
+  },
+  "2280/1_None_2022_Q32": {
+   "qid": 168244,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "32"
+   },
+   "question_images": [
+    "media/questions/445034/SPM-Geografi-2021-&-2022_Q32.png"
+   ],
+   "answer_images": [
+    "media/questions/445035/SPM-Geografi-2021-&-2022_MS32.png"
+   ]
+  },
+  "2280/1_None_2022_Q33": {
+   "qid": 168249,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "33"
+   },
+   "question_images": [
+    "media/questions/445040/SPM-Geografi-2021-&-2022_Q33.png"
+   ],
+   "answer_images": [
+    "media/questions/445041/SPM-Geografi-2021-&-2022_MS33.png"
+   ]
+  },
+  "2280/1_None_2022_Q34": {
+   "qid": 168250,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "34"
+   },
+   "question_images": [
+    "media/questions/445042/SPM-Geografi-2021-&-2022_Q34.png"
+   ],
+   "answer_images": [
+    "media/questions/445043/SPM-Geografi-2021-&-2022_MS34.png"
+   ]
+  },
+  "2280/1_None_2022_Q35": {
+   "qid": 168254,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "35"
+   },
+   "question_images": [
+    "media/questions/445047/SPM-Geografi-2021-&-2022_Q35.png"
+   ],
+   "answer_images": [
+    "media/questions/445048/SPM-Geografi-2021-&-2022_MS35.png"
+   ]
+  },
+  "2280/1_None_2022_Q36": {
+   "qid": 168255,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "36"
+   },
+   "question_images": [
+    "media/questions/445049/SPM-Geografi-2021-&-2022_Q36.png"
+   ],
+   "answer_images": [
+    "media/questions/445050/SPM-Geografi-2021-&-2022_MS36.png"
+   ]
+  },
+  "2280/1_None_2022_Q37": {
+   "qid": 168257,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "37"
+   },
+   "question_images": [
+    "media/questions/445053/SPM-Geografi-2021-&-2022_Q37.png"
+   ],
+   "answer_images": [
+    "media/questions/445054/SPM-Geografi-2021-&-2022_MS37.png"
+   ]
+  },
+  "2280/1_None_2022_Q38": {
+   "qid": 168258,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "38"
+   },
+   "question_images": [
+    "media/questions/445055/SPM-Geografi-2021-&-2022_Q38.png"
+   ],
+   "answer_images": [
+    "media/questions/445056/SPM-Geografi-2021-&-2022_MS38.png"
+   ]
+  },
+  "2280/1_None_2022_Q39": {
+   "qid": 168260,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "39"
+   },
+   "question_images": [
+    "media/questions/445059/SPM-Geografi-2021-&-2022_Q39.png"
+   ],
+   "answer_images": [
+    "media/questions/445060/SPM-Geografi-2021-&-2022_MS39.png"
+   ]
+  },
+  "2280/1_None_2022_Q40": {
+   "qid": 168262,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "40"
+   },
+   "question_images": [
+    "media/questions/445062/SPM-Geografi-2021-&-2022_Q40.png"
+   ],
+   "answer_images": [
+    "media/questions/445063/SPM-Geografi-2021-&-2022_MS40.png"
+   ]
+  },
+  "2280/2_None_2022_Q1": {
+   "qid": 168266,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/445069/SPM-Geografi-2021-&-2022_Q1-1.png",
+    "media/questions/445070/SPM-Geografi-2021-&-2022_Q1-2.png"
+   ],
+   "answer_images": [
+    "media/questions/445071/SPM-Geografi-2021-&-2022_MS1-1.png",
+    "media/questions/445072/SPM-Geografi-2021-&-2022_MS1-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q2": {
+   "qid": 168268,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/445081/SPM-Geografi-2021-&-2022_Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/445082/SPM-Geografi-2021-&-2022_MS2.png"
+   ]
+  },
+  "2280/2_None_2022_Q3": {
+   "qid": 168269,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/445083/SPM-Geografi-2021-&-2022_Q3-1.png",
+    "media/questions/445084/SPM-Geografi-2021-&-2022_Q3-2.png"
+   ],
+   "answer_images": [
+    "media/questions/445085/SPM-Geografi-2021-&-2022_MS3-1.png",
+    "media/questions/445086/SPM-Geografi-2021-&-2022_MS3-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q4": {
+   "qid": 168270,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/445087/SPM-Geografi-2021-&-2022_Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/445088/SPM-Geografi-2021-&-2022_MS4-1.png",
+    "media/questions/445089/SPM-Geografi-2021-&-2022_MS4-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q5": {
+   "qid": 168271,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/445102/SPM-Geografi-2021-&-2022_Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/445103/SPM-Geografi-2021-&-2022_MS5-1.png",
+    "media/questions/445104/SPM-Geografi-2021-&-2022_MS5-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q6": {
+   "qid": 168272,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/445106/SPM-Geografi-2021-&-2022_Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/445107/SPM-Geografi-2021-&-2022_MS6.png"
+   ]
+  },
+  "2280/2_None_2022_Q7": {
+   "qid": 168273,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/445108/SPM-Geografi-2021-&-2022_Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/445109/SPM-Geografi-2021-&-2022_MS7-1.png",
+    "media/questions/445110/SPM-Geografi-2021-&-2022_MS7-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q8": {
+   "qid": 168274,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/445111/SPM-Geografi-2021-&-2022_Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/445112/SPM-Geografi-2021-&-2022_MS8-1.png",
+    "media/questions/445113/SPM-Geografi-2021-&-2022_MS8-2.png"
+   ]
+  },
+  "2280/2_None_2022_Q9": {
+   "qid": 168275,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/445114/SPM-Geografi-2021-&-2022_Q9-1.png",
+    "media/questions/445115/SPM-Geografi-2021-&-2022_Q9-2.png"
+   ],
+   "answer_images": [
+    "media/questions/445116/SPM-Geografi-2021-&-2022_MS9-1.png",
+    "media/questions/445117/SPM-Geografi-2021-&-2022_MS9-2.png"
+   ]
+  },
+  "2280/1_None_2021_Q1": {
+   "qid": 168161,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/444834/SPM-Geografi-2021-&-2022_Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/444835/GEOGRAFI_Jwp_MS1.png"
+   ]
+  },
+  "2280/1_None_2021_Q2": {
+   "qid": 168162,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/444836/SPM-Geografi-2021-&-2022_Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/444837/GEOGRAFI_Jwp_MS2.png"
+   ]
+  },
+  "2280/1_None_2021_Q3": {
+   "qid": 168163,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/444838/SPM-Geografi-2021-&-2022_Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/444839/GEOGRAFI_Jwp_MS3.png"
+   ]
+  },
+  "2280/1_None_2021_Q4": {
+   "qid": 168164,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/444840/SPM-Geografi-2021-&-2022_Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/444841/GEOGRAFI_Jwp_MS4.png"
+   ]
+  },
+  "2280/1_None_2021_Q5": {
+   "qid": 168165,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/444842/SPM-Geografi-2021-&-2022_Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/444843/GEOGRAFI_Jwp_MS5.png"
+   ]
+  },
+  "2280/1_None_2021_Q6": {
+   "qid": 168166,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/444844/SPM-Geografi-2021-&-2022_Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/444845/GEOGRAFI_Jwp_MS6.png"
+   ]
+  },
+  "2280/1_None_2021_Q7": {
+   "qid": 168167,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/444846/SPM-Geografi-2021-&-2022_Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/444847/GEOGRAFI_Jwp_MS7.png"
+   ]
+  },
+  "2280/1_None_2021_Q8": {
+   "qid": 168168,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/444848/SPM-Geografi-2021-&-2022_Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/444849/GEOGRAFI_Jwp_MS8.png"
+   ]
+  },
+  "2280/1_None_2021_Q9": {
+   "qid": 168169,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/444850/SPM-Geografi-2021-&-2022_Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/444851/GEOGRAFI_Jwp_MS9.png"
+   ]
+  },
+  "2280/1_None_2021_Q10": {
+   "qid": 168170,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "10"
+   },
+   "question_images": [
+    "media/questions/444852/SPM-Geografi-2021-&-2022_Q10.png"
+   ],
+   "answer_images": [
+    "media/questions/444853/GEOGRAFI_Jwp_MS10.png"
+   ]
+  },
+  "2280/1_None_2021_Q11": {
+   "qid": 168171,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "11"
+   },
+   "question_images": [
+    "media/questions/444854/SPM-Geografi-2021-&-2022_Q11.png"
+   ],
+   "answer_images": [
+    "media/questions/444855/GEOGRAFI_Jwp_MS11.png"
+   ]
+  },
+  "2280/1_None_2021_Q12": {
+   "qid": 168172,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "12"
+   },
+   "question_images": [
+    "media/questions/444856/SPM-Geografi-2021-&-2022_Q12.png"
+   ],
+   "answer_images": [
+    "media/questions/444857/GEOGRAFI_Jwp_MS12.png"
+   ]
+  },
+  "2280/1_None_2021_Q13": {
+   "qid": 168173,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "13"
+   },
+   "question_images": [
+    "media/questions/444858/SPM-Geografi-2021-&-2022_Q13.png"
+   ],
+   "answer_images": [
+    "media/questions/444859/GEOGRAFI_Jwp_MS13.png"
+   ]
+  },
+  "2280/1_None_2021_Q14": {
+   "qid": 168174,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "14"
+   },
+   "question_images": [
+    "media/questions/444860/SPM-Geografi-2021-&-2022_Q14.png"
+   ],
+   "answer_images": [
+    "media/questions/444861/GEOGRAFI_Jwp_MS14.png"
+   ]
+  },
+  "2280/1_None_2021_Q15": {
+   "qid": 168175,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "15"
+   },
+   "question_images": [
+    "media/questions/444862/SPM-Geografi-2021-&-2022_Q15.png"
+   ],
+   "answer_images": [
+    "media/questions/444863/GEOGRAFI_Jwp_MS15.png"
+   ]
+  },
+  "2280/1_None_2021_Q16": {
+   "qid": 168176,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "16"
+   },
+   "question_images": [
+    "media/questions/444864/SPM-Geografi-2021-&-2022_Q16.png"
+   ],
+   "answer_images": [
+    "media/questions/444865/GEOGRAFI_Jwp_MS16.png"
+   ]
+  },
+  "2280/1_None_2021_Q17": {
+   "qid": 168177,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "17"
+   },
+   "question_images": [
+    "media/questions/444866/SPM-Geografi-2021-&-2022_Q17.png"
+   ],
+   "answer_images": [
+    "media/questions/444867/GEOGRAFI_Jwp_MS17.png"
+   ]
+  },
+  "2280/1_None_2021_Q18": {
+   "qid": 168178,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "18"
+   },
+   "question_images": [
+    "media/questions/444868/SPM-Geografi-2021-&-2022_Q18.png"
+   ],
+   "answer_images": [
+    "media/questions/444869/GEOGRAFI_Jwp_MS18.png"
+   ]
+  },
+  "2280/1_None_2021_Q19": {
+   "qid": 168179,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "19"
+   },
+   "question_images": [
+    "media/questions/444870/SPM-Geografi-2021-&-2022_Q19.png"
+   ],
+   "answer_images": [
+    "media/questions/444871/GEOGRAFI_Jwp_MS19.png"
+   ]
+  },
+  "2280/1_None_2021_Q20": {
+   "qid": 168180,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "20"
+   },
+   "question_images": [
+    "media/questions/444872/SPM-Geografi-2021-&-2022_Q20.png"
+   ],
+   "answer_images": [
+    "media/questions/444873/GEOGRAFI_Jwp_MS20.png"
+   ]
+  },
+  "2280/1_None_2021_Q21": {
+   "qid": 168181,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "21"
+   },
+   "question_images": [
+    "media/questions/444874/SPM-Geografi-2021-&-2022_Q21.png"
+   ],
+   "answer_images": [
+    "media/questions/444875/GEOGRAFI_Jwp_MS21.png"
+   ]
+  },
+  "2280/1_None_2021_Q22": {
+   "qid": 168182,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "22"
+   },
+   "question_images": [
+    "media/questions/444876/SPM-Geografi-2021-&-2022_Q22.png"
+   ],
+   "answer_images": [
+    "media/questions/444877/GEOGRAFI_Jwp_MS22.png"
+   ]
+  },
+  "2280/1_None_2021_Q23": {
+   "qid": 168183,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "23"
+   },
+   "question_images": [
+    "media/questions/444878/SPM-Geografi-2021-&-2022_Q23.png"
+   ],
+   "answer_images": [
+    "media/questions/444879/GEOGRAFI_Jwp_MS23.png"
+   ]
+  },
+  "2280/1_None_2021_Q24": {
+   "qid": 168184,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "24"
+   },
+   "question_images": [
+    "media/questions/444880/SPM-Geografi-2021-&-2022_Q24.png"
+   ],
+   "answer_images": [
+    "media/questions/444881/GEOGRAFI_Jwp_MS24.png"
+   ]
+  },
+  "2280/1_None_2021_Q25": {
+   "qid": 168185,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "25"
+   },
+   "question_images": [
+    "media/questions/444882/SPM-Geografi-2021-&-2022_Q25.png"
+   ],
+   "answer_images": [
+    "media/questions/444883/GEOGRAFI_Jwp_MS25.png"
+   ]
+  },
+  "2280/1_None_2021_Q26": {
+   "qid": 168186,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "26"
+   },
+   "question_images": [
+    "media/questions/444884/SPM-Geografi-2021-&-2022_Q26.png"
+   ],
+   "answer_images": [
+    "media/questions/444885/GEOGRAFI_Jwp_MS26.png"
+   ]
+  },
+  "2280/1_None_2021_Q27": {
+   "qid": 168187,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "27"
+   },
+   "question_images": [
+    "media/questions/444886/SPM-Geografi-2021-&-2022_Q27.png"
+   ],
+   "answer_images": [
+    "media/questions/444887/GEOGRAFI_Jwp_MS27.png"
+   ]
+  },
+  "2280/1_None_2021_Q28": {
+   "qid": 168188,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "28"
+   },
+   "question_images": [
+    "media/questions/444888/SPM-Geografi-2021-&-2022_Q28.png"
+   ],
+   "answer_images": [
+    "media/questions/444889/GEOGRAFI_Jwp_MS28.png"
+   ]
+  },
+  "2280/1_None_2021_Q29": {
+   "qid": 168189,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "29"
+   },
+   "question_images": [
+    "media/questions/444890/SPM-Geografi-2021-&-2022_Q29.png"
+   ],
+   "answer_images": [
+    "media/questions/444891/GEOGRAFI_Jwp_MS29.png"
+   ]
+  },
+  "2280/1_None_2021_Q30": {
+   "qid": 168190,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "30"
+   },
+   "question_images": [
+    "media/questions/444892/SPM-Geografi-2021-&-2022_Q30.png"
+   ],
+   "answer_images": [
+    "media/questions/444893/GEOGRAFI_Jwp_MS30.png"
+   ]
+  },
+  "2280/1_None_2021_Q31": {
+   "qid": 168191,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "31"
+   },
+   "question_images": [
+    "media/questions/444894/SPM-Geografi-2021-&-2022_Q31.png"
+   ],
+   "answer_images": [
+    "media/questions/444895/GEOGRAFI_Jwp_MS31.png"
+   ]
+  },
+  "2280/1_None_2021_Q32": {
+   "qid": 168192,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "32"
+   },
+   "question_images": [
+    "media/questions/444896/SPM-Geografi-2021-&-2022_Q32.png"
+   ],
+   "answer_images": [
+    "media/questions/444897/GEOGRAFI_Jwp_MS32.png"
+   ]
+  },
+  "2280/1_None_2021_Q33": {
+   "qid": 168193,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "33"
+   },
+   "question_images": [
+    "media/questions/444898/SPM-Geografi-2021-&-2022_Q33.png"
+   ],
+   "answer_images": [
+    "media/questions/444899/GEOGRAFI_Jwp_MS33.png"
+   ]
+  },
+  "2280/1_None_2021_Q34": {
+   "qid": 168194,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "34"
+   },
+   "question_images": [
+    "media/questions/444900/SPM-Geografi-2021-&-2022_Q34.png"
+   ],
+   "answer_images": [
+    "media/questions/444901/GEOGRAFI_Jwp_MS34.png"
+   ]
+  },
+  "2280/1_None_2021_Q35": {
+   "qid": 168195,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "35"
+   },
+   "question_images": [
+    "media/questions/444902/SPM-Geografi-2021-&-2022_Q35.png"
+   ],
+   "answer_images": [
+    "media/questions/444903/GEOGRAFI_Jwp_MS35.png"
+   ]
+  },
+  "2280/1_None_2021_Q36": {
+   "qid": 168196,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "36"
+   },
+   "question_images": [
+    "media/questions/444904/SPM-Geografi-2021-&-2022_Q36.png"
+   ],
+   "answer_images": [
+    "media/questions/444905/GEOGRAFI_Jwp_MS36.png"
+   ]
+  },
+  "2280/1_None_2021_Q37": {
+   "qid": 168197,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "37"
+   },
+   "question_images": [
+    "media/questions/444906/SPM-Geografi-2021-&-2022_Q37.png"
+   ],
+   "answer_images": [
+    "media/questions/444907/GEOGRAFI_Jwp_MS37.png"
+   ]
+  },
+  "2280/1_None_2021_Q38": {
+   "qid": 168198,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "38"
+   },
+   "question_images": [
+    "media/questions/444908/SPM-Geografi-2021-&-2022_Q38.png"
+   ],
+   "answer_images": [
+    "media/questions/444909/GEOGRAFI_Jwp_MS38.png"
+   ]
+  },
+  "2280/1_None_2021_Q39": {
+   "qid": 168199,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "39"
+   },
+   "question_images": [
+    "media/questions/444910/SPM-Geografi-2021-&-2022_Q39.png"
+   ],
+   "answer_images": [
+    "media/questions/444911/GEOGRAFI_Jwp_MS39.png"
+   ]
+  },
+  "2280/1_None_2021_Q40": {
+   "qid": 168200,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "40"
+   },
+   "question_images": [
+    "media/questions/444912/SPM-Geografi-2021-&-2022_Q40.png"
+   ],
+   "answer_images": [
+    "media/questions/444913/GEOGRAFI_Jwp_MS40.png"
+   ]
+  },
+  "2280/2_None_2021_Q1": {
+   "qid": 168201,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/444914/SPM-Geografi-2021-&-2022_Q1-1.png",
+    "media/questions/444915/SPM-Geografi-2021-&-2022_Q1-2.png"
+   ],
+   "answer_images": [
+    "media/questions/444916/SPM-Geografi-2021-&-2022_MS1-1.png",
+    "media/questions/444917/SPM-Geografi-2021-&-2022_MS1-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q2": {
+   "qid": 168202,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/444918/SPM-Geografi-2021-&-2022_Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/444919/SPM-Geografi-2021-&-2022_MS2-1.png",
+    "media/questions/444920/SPM-Geografi-2021-&-2022_MS2-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q3": {
+   "qid": 168203,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/444921/SPM-Geografi-2021-&-2022_Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/444922/SPM-Geografi-2021-&-2022_MS3-1.png",
+    "media/questions/444923/SPM-Geografi-2021-&-2022_MS3-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q4": {
+   "qid": 168204,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/444924/SPM-Geografi-2021-&-2022_Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/444925/SPM-Geografi-2021-&-2022_MS4-1.png",
+    "media/questions/444926/SPM-Geografi-2021-&-2022_MS4-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q5": {
+   "qid": 168205,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/444927/SPM-Geografi-2021-&-2022_Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/444928/SPM-Geografi-2021-&-2022_MS5.png"
+   ]
+  },
+  "2280/2_None_2021_Q6": {
+   "qid": 168206,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/444929/SPM-Geografi-2021-&-2022_Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/444930/SPM-Geografi-2021-&-2022_MS6-1.png",
+    "media/questions/444931/SPM-Geografi-2021-&-2022_MS6-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q7": {
+   "qid": 168207,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/444932/SPM-Geografi-2021-&-2022_Q7-1.png",
+    "media/questions/444933/SPM-Geografi-2021-&-2022_Q7-2.png"
+   ],
+   "answer_images": [
+    "media/questions/444934/SPM-Geografi-2021-&-2022_MS7-1.png",
+    "media/questions/444935/SPM-Geografi-2021-&-2022_MS7-2.png",
+    "media/questions/444936/SPM-Geografi-2021-&-2022_MS7-3.png"
+   ]
+  },
+  "2280/2_None_2021_Q8": {
+   "qid": 168208,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/444937/SPM-Geografi-2021-&-2022_Q8-1.png",
+    "media/questions/444938/SPM-Geografi-2021-&-2022_Q8-2.png"
+   ],
+   "answer_images": [
+    "media/questions/444939/SPM-Geografi-2021-&-2022_MS8-1.png",
+    "media/questions/444940/SPM-Geografi-2021-&-2022_MS8-2.png"
+   ]
+  },
+  "2280/2_None_2021_Q9": {
+   "qid": 168209,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "2280",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/444941/SPM-Geografi-2021-&-2022_Q9-1.png",
+    "media/questions/444942/SPM-Geografi-2021-&-2022_Q9-2.png"
+   ],
+   "answer_images": [
+    "media/questions/444943/SPM-Geografi-2021-&-2022_MS9.png"
+   ]
+  }
+ }
+}

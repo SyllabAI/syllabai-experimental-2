@@ -1,0 +1,214 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com NON-TOPICAL PAST PAPER QUESTIONS bank (/untopicalpastpapers)",
+ "generated_at": "2026-10-23T23:27:24Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "1223/1_None_2022_Q1": {
+   "qid": 168753,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446238/SPM-Pendidikan-Islam-2021---2022-Q1-1.png",
+    "media/questions/446239/SPM-Pendidikan-Islam-2021---2022-Q1-2.png",
+    "media/questions/446240/SPM-Pendidikan-Islam-2021---2022-Q1-3.png"
+   ],
+   "answer_images": [
+    "media/questions/446247/SPM-Pendidikan-Islam-2021---2022-MS1-1.png",
+    "media/questions/446248/SPM-Pendidikan-Islam-2021---2022-MS1-2.png"
+   ]
+  },
+  "1223/1_None_2022_Q2": {
+   "qid": 168754,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446241/SPM-Pendidikan-Islam-2021---2022-Q2-1.png",
+    "media/questions/446242/SPM-Pendidikan-Islam-2021---2022-Q2-2.png"
+   ],
+   "answer_images": [
+    "media/questions/446249/SPM-Pendidikan-Islam-2021---2022-MS2-1.png",
+    "media/questions/446250/SPM-Pendidikan-Islam-2021---2022-MS2-2.png"
+   ]
+  },
+  "1223/1_None_2022_Q3": {
+   "qid": 168755,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446243/SPM-Pendidikan-Islam-2021---2022-Q3-1.png",
+    "media/questions/446244/SPM-Pendidikan-Islam-2021---2022-Q3-2.png"
+   ],
+   "answer_images": [
+    "media/questions/446251/SPM-Pendidikan-Islam-2021---2022-MS3-1.png",
+    "media/questions/446252/SPM-Pendidikan-Islam-2021---2022-MS3-2.png"
+   ]
+  },
+  "1223/1_None_2022_Q4": {
+   "qid": 168756,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446245/SPM-Pendidikan-Islam-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446253/SPM-Pendidikan-Islam-2021---2022-MS4-1.png",
+    "media/questions/446254/SPM-Pendidikan-Islam-2021---2022-MS4-2.png"
+   ]
+  },
+  "1223/1_None_2022_Q5": {
+   "qid": 168757,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446246/SPM-Pendidikan-Islam-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446255/SPM-Pendidikan-Islam-2021---2022-MS5.png"
+   ]
+  },
+  "1223/1_None_2021_Q1": {
+   "qid": 168748,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446221/SPM-Pendidikan-Islam-2021---2022-Q1-1.png",
+    "media/questions/446222/SPM-Pendidikan-Islam-2021---2022-Q1-2.png"
+   ],
+   "answer_images": [
+    "media/questions/446228/SPM-Pendidikan-Islam-2021---2022-MS1-1.png",
+    "media/questions/446229/SPM-Pendidikan-Islam-2021---2022-MS1-2.png"
+   ]
+  },
+  "1223/1_None_2021_Q2": {
+   "qid": 168749,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446223/SPM-Pendidikan-Islam-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446230/SPM-Pendidikan-Islam-2021---2022-MS2-1.png",
+    "media/questions/446231/SPM-Pendidikan-Islam-2021---2022-MS2-2.png"
+   ]
+  },
+  "1223/1_None_2021_Q3": {
+   "qid": 168750,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446224/SPM-Pendidikan-Islam-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446232/SPM-Pendidikan-Islam-2021---2022-MS3.png"
+   ]
+  },
+  "1223/1_None_2021_Q4": {
+   "qid": 168751,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446225/SPM-Pendidikan-Islam-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446233/SPM-Pendidikan-Islam-2021---2022-MS4-1.png",
+    "media/questions/446234/SPM-Pendidikan-Islam-2021---2022-MS4-2.png"
+   ]
+  },
+  "1223/1_None_2021_Q5": {
+   "qid": 168752,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1223",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446226/SPM-Pendidikan-Islam-2021---2022-Q5-1.png",
+    "media/questions/446227/SPM-Pendidikan-Islam-2021---2022-Q5-2.png"
+   ],
+   "answer_images": [
+    "media/questions/446235/SPM-Pendidikan-Islam-2021---2022-MS5-1.png",
+    "media/questions/446236/SPM-Pendidikan-Islam-2021---2022-MS5-2.png"
+   ]
+  }
+ }
+}

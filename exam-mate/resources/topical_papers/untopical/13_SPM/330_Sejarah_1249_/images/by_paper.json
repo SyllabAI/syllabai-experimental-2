@@ -1,0 +1,2828 @@
+{
+ "_note": "Derived view of INDEX.jsonl — provenance lives there.",
+ "source": "exam-mate.com NON-TOPICAL PAST PAPER QUESTIONS bank (/untopicalpastpapers)",
+ "generated_at": "2026-10-23T23:27:24Z",
+ "images_dir": "images/",
+ "url_reconstruction": "https://www.exam-mate.com/<file>",
+ "_kind": "by_paper",
+ "papers": {
+  "1249/1_None_2022_Q1": {
+   "qid": 168900,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446558/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446598/SPM-Sejarah-2021---2022-MS1.png"
+   ]
+  },
+  "1249/1_None_2022_Q2": {
+   "qid": 168901,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446559/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446599/SPM-Sejarah-2021---2022-MS2.png"
+   ]
+  },
+  "1249/1_None_2022_Q3": {
+   "qid": 168902,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446560/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446600/SPM-Sejarah-2021---2022-MS3.png"
+   ]
+  },
+  "1249/1_None_2022_Q4": {
+   "qid": 168903,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446561/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446601/SPM-Sejarah-2021---2022-MS4.png"
+   ]
+  },
+  "1249/1_None_2022_Q5": {
+   "qid": 168904,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446562/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446602/SPM-Sejarah-2021---2022-MS5.png"
+   ]
+  },
+  "1249/1_None_2022_Q6": {
+   "qid": 168905,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446563/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446603/SPM-Sejarah-2021---2022-MS6.png"
+   ]
+  },
+  "1249/1_None_2022_Q7": {
+   "qid": 168906,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446564/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446604/SPM-Sejarah-2021---2022-MS7.png"
+   ]
+  },
+  "1249/1_None_2022_Q8": {
+   "qid": 168907,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446565/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446605/SPM-Sejarah-2021---2022-MS8.png"
+   ]
+  },
+  "1249/1_None_2022_Q9": {
+   "qid": 168908,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446566/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446606/SPM-Sejarah-2021---2022-MS9.png"
+   ]
+  },
+  "1249/1_None_2022_Q10": {
+   "qid": 168909,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "10"
+   },
+   "question_images": [
+    "media/questions/446567/SPM-Sejarah-2021---2022-Q10.png"
+   ],
+   "answer_images": [
+    "media/questions/446607/SPM-Sejarah-2021---2022-MS10.png"
+   ]
+  },
+  "1249/1_None_2022_Q11": {
+   "qid": 168910,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "11"
+   },
+   "question_images": [
+    "media/questions/446568/SPM-Sejarah-2021---2022-Q11.png"
+   ],
+   "answer_images": [
+    "media/questions/446608/SPM-Sejarah-2021---2022-MS11.png"
+   ]
+  },
+  "1249/1_None_2022_Q12": {
+   "qid": 168911,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "12"
+   },
+   "question_images": [
+    "media/questions/446569/SPM-Sejarah-2021---2022-Q12.png"
+   ],
+   "answer_images": [
+    "media/questions/446609/SPM-Sejarah-2021---2022-MS12.png"
+   ]
+  },
+  "1249/1_None_2022_Q13": {
+   "qid": 168912,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "13"
+   },
+   "question_images": [
+    "media/questions/446570/SPM-Sejarah-2021---2022-Q13.png"
+   ],
+   "answer_images": [
+    "media/questions/446610/SPM-Sejarah-2021---2022-MS13.png"
+   ]
+  },
+  "1249/1_None_2022_Q14": {
+   "qid": 168913,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "14"
+   },
+   "question_images": [
+    "media/questions/446571/SPM-Sejarah-2021---2022-Q14.png"
+   ],
+   "answer_images": [
+    "media/questions/446611/SPM-Sejarah-2021---2022-MS14.png"
+   ]
+  },
+  "1249/1_None_2022_Q15": {
+   "qid": 168914,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "15"
+   },
+   "question_images": [
+    "media/questions/446572/SPM-Sejarah-2021---2022-Q15.png"
+   ],
+   "answer_images": [
+    "media/questions/446612/SPM-Sejarah-2021---2022-MS15.png"
+   ]
+  },
+  "1249/1_None_2022_Q16": {
+   "qid": 168915,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "16"
+   },
+   "question_images": [
+    "media/questions/446573/SPM-Sejarah-2021---2022-Q16.png"
+   ],
+   "answer_images": [
+    "media/questions/446613/SPM-Sejarah-2021---2022-MS16.png"
+   ]
+  },
+  "1249/1_None_2022_Q17": {
+   "qid": 168916,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "17"
+   },
+   "question_images": [
+    "media/questions/446574/SPM-Sejarah-2021---2022-Q17.png"
+   ],
+   "answer_images": [
+    "media/questions/446614/SPM-Sejarah-2021---2022-MS17.png"
+   ]
+  },
+  "1249/1_None_2022_Q18": {
+   "qid": 168917,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "18"
+   },
+   "question_images": [
+    "media/questions/446575/SPM-Sejarah-2021---2022-Q18.png"
+   ],
+   "answer_images": [
+    "media/questions/446615/SPM-Sejarah-2021---2022-MS18.png"
+   ]
+  },
+  "1249/1_None_2022_Q19": {
+   "qid": 168918,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "19"
+   },
+   "question_images": [
+    "media/questions/446576/SPM-Sejarah-2021---2022-Q19.png"
+   ],
+   "answer_images": [
+    "media/questions/446616/SPM-Sejarah-2021---2022-MS19.png"
+   ]
+  },
+  "1249/1_None_2022_Q20": {
+   "qid": 168919,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "20"
+   },
+   "question_images": [
+    "media/questions/446577/SPM-Sejarah-2021---2022-Q20.png"
+   ],
+   "answer_images": [
+    "media/questions/446617/SPM-Sejarah-2021---2022-MS20.png"
+   ]
+  },
+  "1249/1_None_2022_Q21": {
+   "qid": 168920,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "21"
+   },
+   "question_images": [
+    "media/questions/446578/SPM-Sejarah-2021---2022-Q21.png"
+   ],
+   "answer_images": [
+    "media/questions/446618/SPM-Sejarah-2021---2022-MS21.png"
+   ]
+  },
+  "1249/1_None_2022_Q22": {
+   "qid": 168921,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "22"
+   },
+   "question_images": [
+    "media/questions/446579/SPM-Sejarah-2021---2022-Q22.png"
+   ],
+   "answer_images": [
+    "media/questions/446619/SPM-Sejarah-2021---2022-MS22.png"
+   ]
+  },
+  "1249/1_None_2022_Q23": {
+   "qid": 168922,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "23"
+   },
+   "question_images": [
+    "media/questions/446580/SPM-Sejarah-2021---2022-Q23.png"
+   ],
+   "answer_images": [
+    "media/questions/446620/SPM-Sejarah-2021---2022-MS23.png"
+   ]
+  },
+  "1249/1_None_2022_Q24": {
+   "qid": 168923,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "24"
+   },
+   "question_images": [
+    "media/questions/446581/SPM-Sejarah-2021---2022-Q24.png"
+   ],
+   "answer_images": [
+    "media/questions/446621/SPM-Sejarah-2021---2022-MS24.png"
+   ]
+  },
+  "1249/1_None_2022_Q25": {
+   "qid": 168924,
+   "page": 4,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "25"
+   },
+   "question_images": [
+    "media/questions/446582/SPM-Sejarah-2021---2022-Q25.png"
+   ],
+   "answer_images": [
+    "media/questions/446622/SPM-Sejarah-2021---2022-MS25.png"
+   ]
+  },
+  "1249/1_None_2022_Q26": {
+   "qid": 168925,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "26"
+   },
+   "question_images": [
+    "media/questions/446583/SPM-Sejarah-2021---2022-Q26.png"
+   ],
+   "answer_images": [
+    "media/questions/446623/SPM-Sejarah-2021---2022-MS26.png"
+   ]
+  },
+  "1249/1_None_2022_Q27": {
+   "qid": 168926,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "27"
+   },
+   "question_images": [
+    "media/questions/446584/SPM-Sejarah-2021---2022-Q27.png"
+   ],
+   "answer_images": [
+    "media/questions/446624/SPM-Sejarah-2021---2022-MS27.png"
+   ]
+  },
+  "1249/1_None_2022_Q28": {
+   "qid": 168927,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "28"
+   },
+   "question_images": [
+    "media/questions/446585/SPM-Sejarah-2021---2022-Q28.png"
+   ],
+   "answer_images": [
+    "media/questions/446625/SPM-Sejarah-2021---2022-MS28.png"
+   ]
+  },
+  "1249/1_None_2022_Q29": {
+   "qid": 168928,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "29"
+   },
+   "question_images": [
+    "media/questions/446586/SPM-Sejarah-2021---2022-Q29.png"
+   ],
+   "answer_images": [
+    "media/questions/446626/SPM-Sejarah-2021---2022-MS29.png"
+   ]
+  },
+  "1249/1_None_2022_Q30": {
+   "qid": 168929,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "30"
+   },
+   "question_images": [
+    "media/questions/446587/SPM-Sejarah-2021---2022-Q30.png"
+   ],
+   "answer_images": [
+    "media/questions/446627/SPM-Sejarah-2021---2022-MS30.png"
+   ]
+  },
+  "1249/1_None_2022_Q31": {
+   "qid": 168930,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "31"
+   },
+   "question_images": [
+    "media/questions/446588/SPM-Sejarah-2021---2022-Q31.png"
+   ],
+   "answer_images": [
+    "media/questions/446628/SPM-Sejarah-2021---2022-MS31.png"
+   ]
+  },
+  "1249/1_None_2022_Q32": {
+   "qid": 168931,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "32"
+   },
+   "question_images": [
+    "media/questions/446589/SPM-Sejarah-2021---2022-Q32.png"
+   ],
+   "answer_images": [
+    "media/questions/446629/SPM-Sejarah-2021---2022-MS32.png"
+   ]
+  },
+  "1249/1_None_2022_Q33": {
+   "qid": 168932,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "33"
+   },
+   "question_images": [
+    "media/questions/446590/SPM-Sejarah-2021---2022-Q33.png"
+   ],
+   "answer_images": [
+    "media/questions/446630/SPM-Sejarah-2021---2022-MS33.png"
+   ]
+  },
+  "1249/1_None_2022_Q34": {
+   "qid": 168933,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "34"
+   },
+   "question_images": [
+    "media/questions/446591/SPM-Sejarah-2021---2022-Q34.png"
+   ],
+   "answer_images": [
+    "media/questions/446631/SPM-Sejarah-2021---2022-MS34.png"
+   ]
+  },
+  "1249/1_None_2022_Q35": {
+   "qid": 168934,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "35"
+   },
+   "question_images": [
+    "media/questions/446592/SPM-Sejarah-2021---2022-Q35.png"
+   ],
+   "answer_images": [
+    "media/questions/446632/SPM-Sejarah-2021---2022-MS35.png"
+   ]
+  },
+  "1249/1_None_2022_Q36": {
+   "qid": 168935,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "36"
+   },
+   "question_images": [
+    "media/questions/446593/SPM-Sejarah-2021---2022-Q36.png"
+   ],
+   "answer_images": [
+    "media/questions/446633/SPM-Sejarah-2021---2022-MS36.png"
+   ]
+  },
+  "1249/1_None_2022_Q37": {
+   "qid": 168936,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "37"
+   },
+   "question_images": [
+    "media/questions/446594/SPM-Sejarah-2021---2022-Q37.png"
+   ],
+   "answer_images": [
+    "media/questions/446634/SPM-Sejarah-2021---2022-MS37.png"
+   ]
+  },
+  "1249/1_None_2022_Q38": {
+   "qid": 168937,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "38"
+   },
+   "question_images": [
+    "media/questions/446595/SPM-Sejarah-2021---2022-Q38.png"
+   ],
+   "answer_images": [
+    "media/questions/446635/SPM-Sejarah-2021---2022-MS38.png"
+   ]
+  },
+  "1249/1_None_2022_Q39": {
+   "qid": 168938,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "39"
+   },
+   "question_images": [
+    "media/questions/446596/SPM-Sejarah-2021---2022-Q39.png"
+   ],
+   "answer_images": [
+    "media/questions/446636/SPM-Sejarah-2021---2022-MS39.png"
+   ]
+  },
+  "1249/1_None_2022_Q40": {
+   "qid": 168939,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2022",
+    "question": "40"
+   },
+   "question_images": [
+    "media/questions/446597/SPM-Sejarah-2021---2022-Q40.png"
+   ],
+   "answer_images": [
+    "media/questions/446637/SPM-Sejarah-2021---2022-MS40.png"
+   ]
+  },
+  "1249/2_None_2022_Q1": {
+   "qid": 168940,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446638/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446647/SPM-Sejarah-2021---2022-MS1.png"
+   ]
+  },
+  "1249/2_None_2022_Q2": {
+   "qid": 168941,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446639/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446648/SPM-Sejarah-2021---2022-MS2.png"
+   ]
+  },
+  "1249/2_None_2022_Q3": {
+   "qid": 168942,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446640/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446649/SPM-Sejarah-2021---2022-MS3.png"
+   ]
+  },
+  "1249/2_None_2022_Q4": {
+   "qid": 168943,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446641/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446650/SPM-Sejarah-2021---2022-MS4.png"
+   ]
+  },
+  "1249/2_None_2022_Q5": {
+   "qid": 168944,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446642/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446651/SPM-Sejarah-2021---2022-MS5-1.png",
+    "media/questions/446652/SPM-Sejarah-2021---2022-MS5-2.png",
+    "media/questions/446653/SPM-Sejarah-2021---2022-MS5-3.png"
+   ]
+  },
+  "1249/2_None_2022_Q6": {
+   "qid": 168945,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446643/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446654/SPM-Sejarah-2021---2022-MS6-1.png",
+    "media/questions/446655/SPM-Sejarah-2021---2022-MS6-2.png"
+   ]
+  },
+  "1249/2_None_2022_Q7": {
+   "qid": 168946,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446644/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446656/SPM-Sejarah-2021---2022-MS7-1.png",
+    "media/questions/446657/SPM-Sejarah-2021---2022-MS7-2.png",
+    "media/questions/446658/SPM-Sejarah-2021---2022-MS7-3.png"
+   ]
+  },
+  "1249/2_None_2022_Q8": {
+   "qid": 168947,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446645/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446659/SPM-Sejarah-2021---2022-MS8-1.png",
+    "media/questions/446660/SPM-Sejarah-2021---2022-MS8-2.png"
+   ]
+  },
+  "1249/2_None_2022_Q9": {
+   "qid": 168948,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446646/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446661/SPM-Sejarah-2021---2022-MS9-1.png",
+    "media/questions/446662/SPM-Sejarah-2021---2022-MS9-2.png"
+   ]
+  },
+  "1249/1september_None_2022_Q1": {
+   "qid": 168843,
+   "page": 3,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446434/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446490/SPM-Sejarah-2021---2022-MS1.png"
+   ]
+  },
+  "1249/1september_None_2022_Q2": {
+   "qid": 168844,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446435/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446491/SPM-Sejarah-2021---2022-MS2.png"
+   ]
+  },
+  "1249/1september_None_2022_Q3": {
+   "qid": 168845,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446436/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446492/SPM-Sejarah-2021---2022-MS3.png"
+   ]
+  },
+  "1249/1september_None_2022_Q4": {
+   "qid": 168846,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446437/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446493/SPM-Sejarah-2021---2022-MS4.png"
+   ]
+  },
+  "1249/1september_None_2022_Q5": {
+   "qid": 168847,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446438/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446494/SPM-Sejarah-2021---2022-MS5.png"
+   ]
+  },
+  "1249/1september_None_2022_Q6": {
+   "qid": 168848,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446439/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446495/SPM-Sejarah-2021---2022-MS6.png"
+   ]
+  },
+  "1249/1september_None_2022_Q7": {
+   "qid": 168849,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446440/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446496/SPM-Sejarah-2021---2022-MS7.png"
+   ]
+  },
+  "1249/1september_None_2022_Q8": {
+   "qid": 168850,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446441/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446497/SPM-Sejarah-2021---2022-MS8.png"
+   ]
+  },
+  "1249/1september_None_2022_Q9": {
+   "qid": 168851,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446442/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446498/SPM-Sejarah-2021---2022-MS9.png"
+   ]
+  },
+  "1249/1september_None_2022_Q10": {
+   "qid": 168852,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "10"
+   },
+   "question_images": [
+    "media/questions/446443/SPM-Sejarah-2021---2022-Q10.png"
+   ],
+   "answer_images": [
+    "media/questions/446499/SPM-Sejarah-2021---2022-MS10.png"
+   ]
+  },
+  "1249/1september_None_2022_Q11": {
+   "qid": 168853,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "11"
+   },
+   "question_images": [
+    "media/questions/446444/SPM-Sejarah-2021---2022-Q11.png"
+   ],
+   "answer_images": [
+    "media/questions/446500/SPM-Sejarah-2021---2022-MS11.png"
+   ]
+  },
+  "1249/1september_None_2022_Q12": {
+   "qid": 168854,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "12"
+   },
+   "question_images": [
+    "media/questions/446445/SPM-Sejarah-2021---2022-Q12.png"
+   ],
+   "answer_images": [
+    "media/questions/446501/SPM-Sejarah-2021---2022-MS12.png"
+   ]
+  },
+  "1249/1september_None_2022_Q13": {
+   "qid": 168855,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "13"
+   },
+   "question_images": [
+    "media/questions/446446/SPM-Sejarah-2021---2022-Q13.png"
+   ],
+   "answer_images": [
+    "media/questions/446502/SPM-Sejarah-2021---2022-MS13.png"
+   ]
+  },
+  "1249/1september_None_2022_Q14": {
+   "qid": 168856,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "14"
+   },
+   "question_images": [
+    "media/questions/446447/SPM-Sejarah-2021---2022-Q14.png"
+   ],
+   "answer_images": [
+    "media/questions/446503/SPM-Sejarah-2021---2022-MS14.png"
+   ]
+  },
+  "1249/1september_None_2022_Q15": {
+   "qid": 168857,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "15"
+   },
+   "question_images": [
+    "media/questions/446448/SPM-Sejarah-2021---2022-Q15.png"
+   ],
+   "answer_images": [
+    "media/questions/446504/SPM-Sejarah-2021---2022-MS15.png"
+   ]
+  },
+  "1249/1september_None_2022_Q16": {
+   "qid": 168858,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "16"
+   },
+   "question_images": [
+    "media/questions/446449/SPM-Sejarah-2021---2022-Q16.png"
+   ],
+   "answer_images": [
+    "media/questions/446505/SPM-Sejarah-2021---2022-MS16.png"
+   ]
+  },
+  "1249/1september_None_2022_Q17": {
+   "qid": 168859,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "17"
+   },
+   "question_images": [
+    "media/questions/446450/SPM-Sejarah-2021---2022-Q17.png"
+   ],
+   "answer_images": [
+    "media/questions/446506/SPM-Sejarah-2021---2022-MS17.png"
+   ]
+  },
+  "1249/1september_None_2022_Q18": {
+   "qid": 168860,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "18"
+   },
+   "question_images": [
+    "media/questions/446451/SPM-Sejarah-2021---2022-Q18.png"
+   ],
+   "answer_images": [
+    "media/questions/446507/SPM-Sejarah-2021---2022-MS18.png"
+   ]
+  },
+  "1249/1september_None_2022_Q19": {
+   "qid": 168861,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "19"
+   },
+   "question_images": [
+    "media/questions/446452/SPM-Sejarah-2021---2022-Q19.png"
+   ],
+   "answer_images": [
+    "media/questions/446508/SPM-Sejarah-2021---2022-MS19.png"
+   ]
+  },
+  "1249/1september_None_2022_Q20": {
+   "qid": 168862,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "20"
+   },
+   "question_images": [
+    "media/questions/446453/SPM-Sejarah-2021---2022-Q20.png"
+   ],
+   "answer_images": [
+    "media/questions/446509/SPM-Sejarah-2021---2022-MS20.png"
+   ]
+  },
+  "1249/1september_None_2022_Q21": {
+   "qid": 168863,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "21"
+   },
+   "question_images": [
+    "media/questions/446454/SPM-Sejarah-2021---2022-Q21.png"
+   ],
+   "answer_images": [
+    "media/questions/446510/SPM-Sejarah-2021---2022-MS21.png"
+   ]
+  },
+  "1249/1september_None_2022_Q22": {
+   "qid": 168864,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "22"
+   },
+   "question_images": [
+    "media/questions/446455/SPM-Sejarah-2021---2022-Q22.png"
+   ],
+   "answer_images": [
+    "media/questions/446511/SPM-Sejarah-2021---2022-MS22.png"
+   ]
+  },
+  "1249/1september_None_2022_Q23": {
+   "qid": 168865,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "23"
+   },
+   "question_images": [
+    "media/questions/446456/SPM-Sejarah-2021---2022-Q23.png"
+   ],
+   "answer_images": [
+    "media/questions/446512/SPM-Sejarah-2021---2022-MS23.png"
+   ]
+  },
+  "1249/1september_None_2022_Q24": {
+   "qid": 168866,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "24"
+   },
+   "question_images": [
+    "media/questions/446457/SPM-Sejarah-2021---2022-Q24.png"
+   ],
+   "answer_images": [
+    "media/questions/446513/SPM-Sejarah-2021---2022-MS24.png"
+   ]
+  },
+  "1249/1september_None_2022_Q25": {
+   "qid": 168867,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "25"
+   },
+   "question_images": [
+    "media/questions/446458/SPM-Sejarah-2021---2022-Q25.png"
+   ],
+   "answer_images": [
+    "media/questions/446514/SPM-Sejarah-2021---2022-MS25.png"
+   ]
+  },
+  "1249/1september_None_2022_Q26": {
+   "qid": 168868,
+   "page": 2,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "26"
+   },
+   "question_images": [
+    "media/questions/446459/SPM-Sejarah-2021---2022-Q26.png"
+   ],
+   "answer_images": [
+    "media/questions/446515/SPM-Sejarah-2021---2022-MS26.png"
+   ]
+  },
+  "1249/1september_None_2022_Q27": {
+   "qid": 168869,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "27"
+   },
+   "question_images": [
+    "media/questions/446460/SPM-Sejarah-2021---2022-Q27.png"
+   ],
+   "answer_images": [
+    "media/questions/446516/SPM-Sejarah-2021---2022-MS27.png"
+   ]
+  },
+  "1249/1september_None_2022_Q28": {
+   "qid": 168870,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "28"
+   },
+   "question_images": [
+    "media/questions/446461/SPM-Sejarah-2021---2022-Q28.png"
+   ],
+   "answer_images": [
+    "media/questions/446517/SPM-Sejarah-2021---2022-MS28.png"
+   ]
+  },
+  "1249/1september_None_2022_Q29": {
+   "qid": 168872,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "29"
+   },
+   "question_images": [
+    "media/questions/446465/SPM-Sejarah-2021---2022-Q29.png"
+   ],
+   "answer_images": [
+    "media/questions/446518/SPM-Sejarah-2021---2022-MS29.png"
+   ]
+  },
+  "1249/1september_None_2022_Q30": {
+   "qid": 168873,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "30"
+   },
+   "question_images": [
+    "media/questions/446466/SPM-Sejarah-2021---2022-Q30.png"
+   ],
+   "answer_images": [
+    "media/questions/446519/SPM-Sejarah-2021---2022-MS30.png"
+   ]
+  },
+  "1249/1september_None_2022_Q31": {
+   "qid": 168875,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "31"
+   },
+   "question_images": [
+    "media/questions/446470/SPM-Sejarah-2021---2022-Q31.png"
+   ],
+   "answer_images": [
+    "media/questions/446520/SPM-Sejarah-2021---2022-MS31.png"
+   ]
+  },
+  "1249/1september_None_2022_Q32": {
+   "qid": 168877,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "32"
+   },
+   "question_images": [
+    "media/questions/446474/SPM-Sejarah-2021---2022-Q32.png"
+   ],
+   "answer_images": [
+    "media/questions/446521/SPM-Sejarah-2021---2022-MS32.png"
+   ]
+  },
+  "1249/1september_None_2022_Q33": {
+   "qid": 168879,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "33"
+   },
+   "question_images": [
+    "media/questions/446477/SPM-Sejarah-2021---2022-Q33.png"
+   ],
+   "answer_images": [
+    "media/questions/446522/SPM-Sejarah-2021---2022-MS33.png"
+   ]
+  },
+  "1249/1september_None_2022_Q34": {
+   "qid": 168880,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "34"
+   },
+   "question_images": [
+    "media/questions/446478/SPM-Sejarah-2021---2022-Q34.png"
+   ],
+   "answer_images": [
+    "media/questions/446523/SPM-Sejarah-2021---2022-MS34.png"
+   ]
+  },
+  "1249/1september_None_2022_Q35": {
+   "qid": 168883,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "35"
+   },
+   "question_images": [
+    "media/questions/446484/SPM-Sejarah-2021---2022-Q35.png"
+   ],
+   "answer_images": [
+    "media/questions/446524/SPM-Sejarah-2021---2022-MS35.png"
+   ]
+  },
+  "1249/1september_None_2022_Q36": {
+   "qid": 168884,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "36"
+   },
+   "question_images": [
+    "media/questions/446485/SPM-Sejarah-2021---2022-Q36.png"
+   ],
+   "answer_images": [
+    "media/questions/446525/SPM-Sejarah-2021---2022-MS36.png"
+   ]
+  },
+  "1249/1september_None_2022_Q37": {
+   "qid": 168885,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "37"
+   },
+   "question_images": [
+    "media/questions/446486/SPM-Sejarah-2021---2022-Q37.png"
+   ],
+   "answer_images": [
+    "media/questions/446526/SPM-Sejarah-2021---2022-MS37.png"
+   ]
+  },
+  "1249/1september_None_2022_Q38": {
+   "qid": 168886,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "38"
+   },
+   "question_images": [
+    "media/questions/446487/SPM-Sejarah-2021---2022-Q38.png"
+   ],
+   "answer_images": [
+    "media/questions/446527/SPM-Sejarah-2021---2022-MS38.png"
+   ]
+  },
+  "1249/1september_None_2022_Q39": {
+   "qid": 168887,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "39"
+   },
+   "question_images": [
+    "media/questions/446488/SPM-Sejarah-2021---2022-Q39.png"
+   ],
+   "answer_images": [
+    "media/questions/446528/SPM-Sejarah-2021---2022-MS39.png"
+   ]
+  },
+  "1249/1september_None_2022_Q40": {
+   "qid": 168888,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1september",
+    "season": "None",
+    "year": "2022",
+    "question": "40"
+   },
+   "question_images": [
+    "media/questions/446489/SPM-Sejarah-2021---2022-Q40.png"
+   ],
+   "answer_images": [
+    "media/questions/446529/SPM-Sejarah-2021---2022-MS40.png"
+   ]
+  },
+  "1249/2september_None_2022_Q1": {
+   "qid": 168889,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446530/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446539/SPM-Sejarah-2021---2022-MS1-1.png",
+    "media/questions/446540/SPM-Sejarah-2021---2022-MS1-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q2": {
+   "qid": 168890,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446531/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446541/SPM-Sejarah-2021---2022-MS2-1.png",
+    "media/questions/446542/SPM-Sejarah-2021---2022-MS2-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q3": {
+   "qid": 168893,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446532/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446543/SPM-Sejarah-2021---2022-MS3-1.png",
+    "media/questions/446544/SPM-Sejarah-2021---2022-MS3-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q4": {
+   "qid": 168894,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446533/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446545/SPM-Sejarah-2021---2022-MS4-1.png",
+    "media/questions/446546/SPM-Sejarah-2021---2022-MS4-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q5": {
+   "qid": 168895,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446534/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446547/SPM-Sejarah-2021---2022-MS5-1.png",
+    "media/questions/446548/SPM-Sejarah-2021---2022-MS5-2.png",
+    "media/questions/446549/SPM-Sejarah-2021---2022-MS5-3.png"
+   ]
+  },
+  "1249/2september_None_2022_Q6": {
+   "qid": 168896,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446535/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446550/SPM-Sejarah-2021---2022-MS6-1.png",
+    "media/questions/446551/SPM-Sejarah-2021---2022-MS6-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q7": {
+   "qid": 168897,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446536/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446552/SPM-Sejarah-2021---2022-MS7-1.png",
+    "media/questions/446553/SPM-Sejarah-2021---2022-MS7-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q8": {
+   "qid": 168898,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446537/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446554/SPM-Sejarah-2021---2022-MS8-1.png",
+    "media/questions/446555/SPM-Sejarah-2021---2022-MS8-2.png"
+   ]
+  },
+  "1249/2september_None_2022_Q9": {
+   "qid": 168899,
+   "page": 1,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2september",
+    "season": "None",
+    "year": "2022",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446538/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446556/SPM-Sejarah-2021---2022-MS9-1.png",
+    "media/questions/446557/SPM-Sejarah-2021---2022-MS9-2.png"
+   ]
+  },
+  "1249/1_None_2021_Q1": {
+   "qid": 168768,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446276/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446336/SPM-Sejarah-2021---2022-MS1.png"
+   ]
+  },
+  "1249/1_None_2021_Q2": {
+   "qid": 168769,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446277/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446337/SPM-Sejarah-2021---2022-MS2.png"
+   ]
+  },
+  "1249/1_None_2021_Q3": {
+   "qid": 168772,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446282/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446338/SPM-Sejarah-2021---2022-MS3.png"
+   ]
+  },
+  "1249/1_None_2021_Q4": {
+   "qid": 168774,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446285/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446339/SPM-Sejarah-2021---2022-MS4.png"
+   ]
+  },
+  "1249/1_None_2021_Q5": {
+   "qid": 168777,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446290/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446340/SPM-Sejarah-2021---2022-MS5.png"
+   ]
+  },
+  "1249/1_None_2021_Q6": {
+   "qid": 168779,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446293/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446341/SPM-Sejarah-2021---2022-MS6.png"
+   ]
+  },
+  "1249/1_None_2021_Q7": {
+   "qid": 168780,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446294/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446342/SPM-Sejarah-2021---2022-MS7.png"
+   ]
+  },
+  "1249/1_None_2021_Q8": {
+   "qid": 168781,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446295/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446361/SPM-Sejarah-2021---2022-MS8.png"
+   ]
+  },
+  "1249/1_None_2021_Q9": {
+   "qid": 168782,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446296/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446362/SPM-Sejarah-2021---2022-MS9.png"
+   ]
+  },
+  "1249/1_None_2021_Q10": {
+   "qid": 168783,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "10"
+   },
+   "question_images": [
+    "media/questions/446297/SPM-Sejarah-2021---2022-Q10.png"
+   ],
+   "answer_images": [
+    "media/questions/446363/SPM-Sejarah-2021---2022-MS10.png"
+   ]
+  },
+  "1249/1_None_2021_Q11": {
+   "qid": 168784,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "11"
+   },
+   "question_images": [
+    "media/questions/446298/SPM-Sejarah-2021---2022-Q11.png"
+   ],
+   "answer_images": [
+    "media/questions/446364/SPM-Sejarah-2021---2022-MS11.png"
+   ]
+  },
+  "1249/1_None_2021_Q12": {
+   "qid": 168785,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "12"
+   },
+   "question_images": [
+    "media/questions/446299/SPM-Sejarah-2021---2022-Q12.png"
+   ],
+   "answer_images": [
+    "media/questions/446365/SPM-Sejarah-2021---2022-MS12.png"
+   ]
+  },
+  "1249/1_None_2021_Q13": {
+   "qid": 168786,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "13"
+   },
+   "question_images": [
+    "media/questions/446300/SPM-Sejarah-2021---2022-Q13.png"
+   ],
+   "answer_images": [
+    "media/questions/446366/SPM-Sejarah-2021---2022-MS13.png"
+   ]
+  },
+  "1249/1_None_2021_Q14": {
+   "qid": 168787,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "14"
+   },
+   "question_images": [
+    "media/questions/446301/SPM-Sejarah-2021---2022-Q14.png"
+   ],
+   "answer_images": [
+    "media/questions/446367/SPM-Sejarah-2021---2022-MS14.png"
+   ]
+  },
+  "1249/1_None_2021_Q15": {
+   "qid": 168788,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "15"
+   },
+   "question_images": [
+    "media/questions/446302/SPM-Sejarah-2021---2022-Q15.png"
+   ],
+   "answer_images": [
+    "media/questions/446368/SPM-Sejarah-2021---2022-MS15.png"
+   ]
+  },
+  "1249/1_None_2021_Q16": {
+   "qid": 168789,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "16"
+   },
+   "question_images": [
+    "media/questions/446303/SPM-Sejarah-2021---2022-Q16.png"
+   ],
+   "answer_images": [
+    "media/questions/446369/SPM-Sejarah-2021---2022-MS16.png"
+   ]
+  },
+  "1249/1_None_2021_Q17": {
+   "qid": 168790,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "17"
+   },
+   "question_images": [
+    "media/questions/446304/SPM-Sejarah-2021---2022-Q17.png"
+   ],
+   "answer_images": [
+    "media/questions/446370/SPM-Sejarah-2021---2022-MS17.png"
+   ]
+  },
+  "1249/1_None_2021_Q18": {
+   "qid": 168791,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "18"
+   },
+   "question_images": [
+    "media/questions/446305/SPM-Sejarah-2021---2022-Q18.png"
+   ],
+   "answer_images": [
+    "media/questions/446371/SPM-Sejarah-2021---2022-MS18.png"
+   ]
+  },
+  "1249/1_None_2021_Q19": {
+   "qid": 168793,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "19"
+   },
+   "question_images": [
+    "media/questions/446308/SPM-Sejarah-2021---2022-Q19.png"
+   ],
+   "answer_images": [
+    "media/questions/446386/SPM-Sejarah-2021---2022-MS19.png"
+   ]
+  },
+  "1249/1_None_2021_Q20": {
+   "qid": 168794,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "20"
+   },
+   "question_images": [
+    "media/questions/446309/SPM-Sejarah-2021---2022-Q20.png"
+   ],
+   "answer_images": [
+    "media/questions/446387/SPM-Sejarah-2021---2022-MS20.png"
+   ]
+  },
+  "1249/1_None_2021_Q21": {
+   "qid": 168795,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "21"
+   },
+   "question_images": [
+    "media/questions/446310/SPM-Sejarah-2021---2022-Q21.png"
+   ],
+   "answer_images": [
+    "media/questions/446388/SPM-Sejarah-2021---2022-MS21.png"
+   ]
+  },
+  "1249/1_None_2021_Q22": {
+   "qid": 168796,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "22"
+   },
+   "question_images": [
+    "media/questions/446311/SPM-Sejarah-2021---2022-Q22.png"
+   ],
+   "answer_images": [
+    "media/questions/446389/SPM-Sejarah-2021---2022-MS22.png"
+   ]
+  },
+  "1249/1_None_2021_Q23": {
+   "qid": 168797,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "23"
+   },
+   "question_images": [
+    "media/questions/446312/SPM-Sejarah-2021---2022-Q23.png"
+   ],
+   "answer_images": [
+    "media/questions/446390/SPM-Sejarah-2021---2022-MS23.png"
+   ]
+  },
+  "1249/1_None_2021_Q24": {
+   "qid": 168798,
+   "page": 6,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "24"
+   },
+   "question_images": [
+    "media/questions/446313/SPM-Sejarah-2021---2022-Q24.png"
+   ],
+   "answer_images": [
+    "media/questions/446391/SPM-Sejarah-2021---2022-MS24.png"
+   ]
+  },
+  "1249/1_None_2021_Q25": {
+   "qid": 168802,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "25"
+   },
+   "question_images": [
+    "media/questions/446320/SPM-Sejarah-2021---2022-Q25.png"
+   ],
+   "answer_images": [
+    "media/questions/446392/SPM-Sejarah-2021---2022-MS25.png"
+   ]
+  },
+  "1249/1_None_2021_Q26": {
+   "qid": 168803,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "26"
+   },
+   "question_images": [
+    "media/questions/446321/SPM-Sejarah-2021---2022-Q26.png"
+   ],
+   "answer_images": [
+    "media/questions/446393/SPM-Sejarah-2021---2022-MS26.png"
+   ]
+  },
+  "1249/1_None_2021_Q27": {
+   "qid": 168804,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "27"
+   },
+   "question_images": [
+    "media/questions/446322/SPM-Sejarah-2021---2022-Q27.png"
+   ],
+   "answer_images": [
+    "media/questions/446394/SPM-Sejarah-2021---2022-MS27.png"
+   ]
+  },
+  "1249/1_None_2021_Q28": {
+   "qid": 168805,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "28"
+   },
+   "question_images": [
+    "media/questions/446323/SPM-Sejarah-2021---2022-Q28.png"
+   ],
+   "answer_images": [
+    "media/questions/446395/SPM-Sejarah-2021---2022-MS28.png"
+   ]
+  },
+  "1249/1_None_2021_Q29": {
+   "qid": 168806,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "29"
+   },
+   "question_images": [
+    "media/questions/446324/SPM-Sejarah-2021---2022-Q29.png"
+   ],
+   "answer_images": [
+    "media/questions/446396/SPM-Sejarah-2021---2022-MS29.png"
+   ]
+  },
+  "1249/1_None_2021_Q30": {
+   "qid": 168807,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "30"
+   },
+   "question_images": [
+    "media/questions/446325/SPM-Sejarah-2021---2022-Q30.png"
+   ],
+   "answer_images": [
+    "media/questions/446397/SPM-Sejarah-2021---2022-MS30.png"
+   ]
+  },
+  "1249/1_None_2021_Q31": {
+   "qid": 168808,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "31"
+   },
+   "question_images": [
+    "media/questions/446326/SPM-Sejarah-2021---2022-Q31.png"
+   ],
+   "answer_images": [
+    "media/questions/446398/SPM-Sejarah-2021---2022-MS31.png"
+   ]
+  },
+  "1249/1_None_2021_Q32": {
+   "qid": 168809,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "32"
+   },
+   "question_images": [
+    "media/questions/446327/SPM-Sejarah-2021---2022-Q32.png"
+   ],
+   "answer_images": [
+    "media/questions/446399/SPM-Sejarah-2021---2022-MS32.png"
+   ]
+  },
+  "1249/1_None_2021_Q33": {
+   "qid": 168810,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "33"
+   },
+   "question_images": [
+    "media/questions/446328/SPM-Sejarah-2021---2022-Q33.png"
+   ],
+   "answer_images": [
+    "media/questions/446400/SPM-Sejarah-2021---2022-MS33.png"
+   ]
+  },
+  "1249/1_None_2021_Q34": {
+   "qid": 168811,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "34"
+   },
+   "question_images": [
+    "media/questions/446329/SPM-Sejarah-2021---2022-Q34.png"
+   ],
+   "answer_images": [
+    "media/questions/446401/SPM-Sejarah-2021---2022-MS34.png"
+   ]
+  },
+  "1249/1_None_2021_Q35": {
+   "qid": 168812,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "35"
+   },
+   "question_images": [
+    "media/questions/446330/SPM-Sejarah-2021---2022-Q35.png"
+   ],
+   "answer_images": [
+    "media/questions/446402/SPM-Sejarah-2021---2022-MS35.png"
+   ]
+  },
+  "1249/1_None_2021_Q36": {
+   "qid": 168813,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "36"
+   },
+   "question_images": [
+    "media/questions/446331/SPM-Sejarah-2021---2022-Q36.png"
+   ],
+   "answer_images": [
+    "media/questions/446403/SPM-Sejarah-2021---2022-MS36.png"
+   ]
+  },
+  "1249/1_None_2021_Q37": {
+   "qid": 168814,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "37"
+   },
+   "question_images": [
+    "media/questions/446332/SPM-Sejarah-2021---2022-Q37.png"
+   ],
+   "answer_images": [
+    "media/questions/446404/SPM-Sejarah-2021---2022-MS37.png"
+   ]
+  },
+  "1249/1_None_2021_Q38": {
+   "qid": 168815,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "38"
+   },
+   "question_images": [
+    "media/questions/446333/SPM-Sejarah-2021---2022-Q38.png"
+   ],
+   "answer_images": [
+    "media/questions/446405/SPM-Sejarah-2021---2022-MS38.png"
+   ]
+  },
+  "1249/1_None_2021_Q39": {
+   "qid": 168816,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "39"
+   },
+   "question_images": [
+    "media/questions/446334/SPM-Sejarah-2021---2022-Q39.png"
+   ],
+   "answer_images": [
+    "media/questions/446406/SPM-Sejarah-2021---2022-MS39.png"
+   ]
+  },
+  "1249/1_None_2021_Q40": {
+   "qid": 168817,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "1",
+    "season": "None",
+    "year": "2021",
+    "question": "40"
+   },
+   "question_images": [
+    "media/questions/446335/SPM-Sejarah-2021---2022-Q40.png"
+   ],
+   "answer_images": [
+    "media/questions/446407/SPM-Sejarah-2021---2022-MS40.png"
+   ]
+  },
+  "1249/2_None_2021_Q1": {
+   "qid": 168834,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "1"
+   },
+   "question_images": [
+    "media/questions/446408/SPM-Sejarah-2021---2022-Q1.png"
+   ],
+   "answer_images": [
+    "media/questions/446417/SPM-Sejarah-2021---2022-MS1.png"
+   ]
+  },
+  "1249/2_None_2021_Q2": {
+   "qid": 168835,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "2"
+   },
+   "question_images": [
+    "media/questions/446409/SPM-Sejarah-2021---2022-Q2.png"
+   ],
+   "answer_images": [
+    "media/questions/446418/SPM-Sejarah-2021---2022-MS2.png"
+   ]
+  },
+  "1249/2_None_2021_Q3": {
+   "qid": 168836,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "3"
+   },
+   "question_images": [
+    "media/questions/446410/SPM-Sejarah-2021---2022-Q3.png"
+   ],
+   "answer_images": [
+    "media/questions/446419/SPM-Sejarah-2021---2022-MS3-1.png",
+    "media/questions/446420/SPM-Sejarah-2021---2022-MS3-2.png"
+   ]
+  },
+  "1249/2_None_2021_Q4": {
+   "qid": 168837,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "4"
+   },
+   "question_images": [
+    "media/questions/446411/SPM-Sejarah-2021---2022-Q4.png"
+   ],
+   "answer_images": [
+    "media/questions/446421/SPM-Sejarah-2021---2022-MS4-1.png",
+    "media/questions/446422/SPM-Sejarah-2021---2022-MS4-2.png"
+   ]
+  },
+  "1249/2_None_2021_Q5": {
+   "qid": 168838,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "5"
+   },
+   "question_images": [
+    "media/questions/446412/SPM-Sejarah-2021---2022-Q5.png"
+   ],
+   "answer_images": [
+    "media/questions/446423/SPM-Sejarah-2021---2022-MS5-1.png",
+    "media/questions/446424/SPM-Sejarah-2021---2022-MS5-2.png"
+   ]
+  },
+  "1249/2_None_2021_Q6": {
+   "qid": 168839,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "6"
+   },
+   "question_images": [
+    "media/questions/446413/SPM-Sejarah-2021---2022-Q6.png"
+   ],
+   "answer_images": [
+    "media/questions/446425/SPM-Sejarah-2021---2022-MS6-1.png",
+    "media/questions/446426/SPM-Sejarah-2021---2022-MS6-2.png"
+   ]
+  },
+  "1249/2_None_2021_Q7": {
+   "qid": 168840,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "7"
+   },
+   "question_images": [
+    "media/questions/446414/SPM-Sejarah-2021---2022-Q7.png"
+   ],
+   "answer_images": [
+    "media/questions/446427/SPM-Sejarah-2021---2022-MS7-1.png",
+    "media/questions/446428/SPM-Sejarah-2021---2022-MS7-2.png"
+   ]
+  },
+  "1249/2_None_2021_Q8": {
+   "qid": 168841,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "8"
+   },
+   "question_images": [
+    "media/questions/446415/SPM-Sejarah-2021---2022-Q8.png"
+   ],
+   "answer_images": [
+    "media/questions/446429/SPM-Sejarah-2021---2022-MS8-1.png",
+    "media/questions/446430/SPM-Sejarah-2021---2022-MS8-2.png",
+    "media/questions/446431/SPM-Sejarah-2021---2022-MS8-3.png"
+   ]
+  },
+  "1249/2_None_2021_Q9": {
+   "qid": 168842,
+   "page": 5,
+   "topics": "",
+   "mcq_answer": "A",
+   "parsed": {
+    "syllabus": "1249",
+    "paper": "2",
+    "season": "None",
+    "year": "2021",
+    "question": "9"
+   },
+   "question_images": [
+    "media/questions/446416/SPM-Sejarah-2021---2022-Q9.png"
+   ],
+   "answer_images": [
+    "media/questions/446432/SPM-Sejarah-2021---2022-MS9-1.png",
+    "media/questions/446433/SPM-Sejarah-2021---2022-MS9-2.png"
+   ]
+  }
+ }
+}
